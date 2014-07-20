@@ -11,17 +11,13 @@ class TEDTalksCSVToJSON
   def run
     data = Hash.new
     CSV.foreach("../src/audio-list.csv") do |line|
-      p line
-      # id = line[1]
-      # data[id] = {
-      #   :id => id,
-      #   :url => line[2],
-      #   :speaker => line[3],
-      #   :name => line[4],
-      #   :summary => line[5],
-      #   :event => line[6],
-      #   :duration => line[7]
-      # }
+      id = line[0]
+      data[id] = {
+        :id => id,
+        :speaker => line[1],
+        :name => line[2],
+        :url => line[3]
+      }
     end
     puts JSON.pretty_generate(data)
     
