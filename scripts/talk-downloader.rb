@@ -89,7 +89,7 @@ class TalkDownloader
       end
 
       # To avoid hitting the Query Per Second quota, we'll sleep a bit
-      sleep(1)
+      sleep(2)
     end
 
   end
