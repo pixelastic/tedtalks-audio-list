@@ -1,0 +1,19 @@
+{
+  "id": 783,
+  "name": "Gary Flake: Is Pivot a turning point for web exploration?",
+  "speakers": [
+    "Gary Flake"
+  ],
+  "description": "Gary Flake demos Pivot, a new way to browse and arrange massive amounts of images and data online. Built on breakthrough Seadragon technology, it enables spectacular zooms in and out of web databases, and  the discovery of patterns and links invisible in standard web browsing.",
+  "slug": "gary_flake_is_pivot_a_turning_point_for_web_exploration",
+  "date": "2010-02-02T00:00:00+00:00",
+  "event": "TED2010",
+  "url": null,
+  "tags": [
+    "data",
+    "demo",
+    "interface design",
+    "technology",
+    "web"
+  ]
+}

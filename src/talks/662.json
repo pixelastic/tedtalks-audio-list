@@ -1,0 +1,21 @@
+{
+  "id": 662,
+  "name": "Paul Debevec: Animating a photo-real digital face",
+  "speakers": [
+    "Paul Debevec"
+  ],
+  "description": "Computer graphics trailblazer Paul Debevec explains the scene-stealing technology behind Digital Emily, a digitally constructed human face so realistic it stands up to multiple takes.",
+  "slug": "paul_debevec_animates_a_photo_real_digital_face",
+  "date": "2009-03-23T00:00:00+00:00",
+  "event": "TEDxUSC",
+  "url": "http://download.ted.com/talks/PaulDebevec_2009X.mp3?apikey=4be802cf69ff655f353d0e541e087ef680ae68e2",
+  "tags": [
+    "TEDx",
+    "art",
+    "computers",
+    "design",
+    "film",
+    "technology",
+    "visualizations"
+  ]
+}

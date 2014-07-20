@@ -1,0 +1,21 @@
+{
+  "id": 242,
+  "name": "Stephen Hawking: Questioning the universe",
+  "speakers": [
+    "Stephen Hawking"
+  ],
+  "description": "In keeping with the theme of TED2008, professor Stephen Hawking asks some Big Questions about our universe -- How did the universe begin? How did life begin? Are we alone? -- and discusses how we might go about answering them.",
+  "slug": "stephen_hawking_asks_big_questions_about_the_universe",
+  "date": "2008-02-27T00:00:00+00:00",
+  "event": "TED2008",
+  "url": "http://download.ted.com/talks/StephenHawking_2008.mp3?apikey=4be802cf69ff655f353d0e541e087ef680ae68e2",
+  "tags": [
+    "String theory",
+    "evolution",
+    "math",
+    "physics",
+    "science",
+    "time",
+    "universe"
+  ]
+}

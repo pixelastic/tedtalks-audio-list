@@ -1,0 +1,19 @@
+{
+  "id": 937,
+  "name": "David McCandless: The beauty of data visualization",
+  "speakers": [
+    "David McCandless"
+  ],
+  "description": "David McCandless turns complex data sets (like worldwide military spending, media buzz, Facebook status updates) into beautiful, simple diagrams that tease out unseen patterns and connections. Good design, he suggests, is the best way to navigate information glut -- and it may just change the way we see the world.",
+  "slug": "david_mccandless_the_beauty_of_data_visualization",
+  "date": "2010-07-09T10:05:00+00:00",
+  "event": "TEDGlobal 2010",
+  "url": null,
+  "tags": [
+    "complexity",
+    "computers",
+    "data",
+    "design",
+    "visualizations"
+  ]
+}

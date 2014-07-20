@@ -1,0 +1,24 @@
+{
+  "id": 92,
+  "name": "Hans Rosling: The best stats you've ever seen",
+  "speakers": [
+    "Hans Rosling"
+  ],
+  "description": "You've never seen data presented like this. With the drama and urgency of a sportscaster, statistics guru Hans Rosling debunks myths about the so-called \"developing world.\"",
+  "slug": "hans_rosling_shows_the_best_stats_you_ve_ever_seen",
+  "date": "2006-02-22T00:00:00+00:00",
+  "event": "TED2006",
+  "url": null,
+  "tags": [
+    "Africa",
+    "Asia",
+    "Google",
+    "demo",
+    "development",
+    "economics",
+    "global issues",
+    "health",
+    "statistics",
+    "visualizations"
+  ]
+}

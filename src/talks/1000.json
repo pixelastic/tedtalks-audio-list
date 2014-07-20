@@ -1,0 +1,18 @@
+{
+  "id": 1000,
+  "name": "Gero Miesenboeck: Re-engineering the brain",
+  "speakers": [
+    "Gero Miesenboeck"
+  ],
+  "description": "In the quest to map the brain, many scientists have attempted the incredibly daunting task of recording the activity of each neuron. Gero Miesenboeck works backward -- manipulating specific neurons to figure out exactly what they do, through a series of stunning experiments that reengineer the way fruit flies percieve light.",
+  "slug": "gero_miesenboeck",
+  "date": "2010-07-16T00:00:00+00:00",
+  "event": "TEDGlobal 2010",
+  "url": null,
+  "tags": [
+    "biology",
+    "brain",
+    "neurology",
+    "science"
+  ]
+}

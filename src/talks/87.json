@@ -1,0 +1,24 @@
+{
+  "id": 87,
+  "name": "Ze Frank: Nerdcore comedy",
+  "speakers": [
+    "Ze Frank"
+  ],
+  "description": "Performer and web toymaker Ze Frank delivers a hilarious nerdcore standup routine, then tells us what he's seriously passionate about: helping people create and interact using simple, addictive web tools.",
+  "slug": "ze_frank_s_nerdcore_comedy",
+  "date": "2004-02-24T00:00:00+00:00",
+  "event": "TED2004",
+  "url": "http://download.ted.com/talks/ZeFrank_2004.mp3?apikey=4be802cf69ff655f353d0e541e087ef680ae68e2",
+  "tags": [
+    "arts",
+    "collaboration",
+    "comedy",
+    "community",
+    "culture",
+    "dance",
+    "demo",
+    "entertainment",
+    "software",
+    "web"
+  ]
+}

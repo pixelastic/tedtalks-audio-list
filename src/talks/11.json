@@ -1,0 +1,22 @@
+{
+  "id": 11,
+  "name": "Jane Goodall: What separates us from chimpanzees?",
+  "speakers": [
+    "Jane Goodall"
+  ],
+  "description": "Jane Goodall hasn't found the missing link, but she's come closer than nearly anyone else. The primatologist says the only real difference between humans and chimps is our sophisticated language. She urges us to start using it to change the world.",
+  "slug": "jane_goodall_on_what_separates_us_from_the_apes",
+  "date": "2002-03-01T00:00:00+00:00",
+  "event": "TED2002",
+  "url": "http://download.ted.com/talks/JaneGoodall_2002.mp3?apikey=4be802cf69ff655f353d0e541e087ef680ae68e2",
+  "tags": [
+    "Africa",
+    "animals",
+    "culture",
+    "environment",
+    "global issues",
+    "nature",
+    "primates",
+    "science"
+  ]
+}

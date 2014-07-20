@@ -51,9 +51,10 @@ class TalkDownloader
   end
 
   def get_podcast_url(talk)
-    internal_media = talk['media']['internal']
-    return nil unless internal_media['audio-podcast']
-    return internal_media['audio-podcast']['uri']
+    return nil unless talk['media']
+    return nil unless talk['media']['audio-podcast']
+    return nil unless talk['media']['audio-podcast']['uri']
+    return talk['media']['audio-podcast']['uri']
   end
 
   def get_date(talk)

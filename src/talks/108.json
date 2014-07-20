@@ -1,0 +1,21 @@
+{
+  "id": 108,
+  "name": "Rives: A mockingbird remix of TED2006",
+  "speakers": [
+    "Rives"
+  ],
+  "description": "Rives recaps the most memorable moments of TED2006 in the free-spirited rhyming verse of a fantastical mockingbird lullaby.",
+  "slug": "rives_remixes_ted2006",
+  "date": "2006-02-02T00:00:00+00:00",
+  "event": "TED2006",
+  "url": "http://download.ted.com/talks/Rives_Mockingbird_2006.mp3?apikey=4be802cf69ff655f353d0e541e087ef680ae68e2",
+  "tags": [
+    "arts",
+    "entertainment",
+    "memory",
+    "performance",
+    "poetry",
+    "spoken word",
+    "storytelling"
+  ]
+}

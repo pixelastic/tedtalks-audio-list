@@ -1,0 +1,20 @@
+{
+  "id": 484,
+  "name": "Tim Berners-Lee: The next web",
+  "speakers": [
+    "Tim Berners-Lee"
+  ],
+  "description": "20 years ago, Tim Berners-Lee invented the World Wide Web. For his next project, he's building a web for open, linked data that could do for numbers what the Web did for words, pictures, video: unlock our data and reframe the way we use it together.",
+  "slug": "tim_berners_lee_on_the_next_web",
+  "date": "2009-02-05T00:00:00+00:00",
+  "event": "TED2009",
+  "url": "http://download.ted.com/talks/TimBernersLee_2009.mp3?apikey=4be802cf69ff655f353d0e541e087ef680ae68e2",
+  "tags": [
+    "business",
+    "communication",
+    "design",
+    "invention",
+    "technology",
+    "web"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 404,
+  "name": "George Smoot: The design of the universe",
+  "speakers": [
+    "George Smoot"
+  ],
+  "description": "At Serious Play 2008, astrophysicist George Smoot shows stunning new images from deep-space surveys, and prods us to ponder how the cosmos -- with its giant webs of dark matter and mysterious gaping voids -- got built this way.",
+  "slug": "george_smoot_on_the_design_of_the_universe",
+  "date": "2008-05-08T00:00:00+00:00",
+  "event": "Serious Play 2008",
+  "url": null,
+  "tags": [
+    "astronomy",
+    "culture",
+    "dark matter",
+    "design",
+    "physics",
+    "science",
+    "space",
+    "technology",
+    "time"
+  ]
+}
