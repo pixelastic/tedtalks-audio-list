@@ -1,0 +1,23 @@
+{
+  "id": 1227,
+  "name": "Jean-Baptiste Michel + Erez Lieberman Aiden: What we learned from 5 million books",
+  "speakers": [
+    "Jean-Baptiste Michel",
+    "Erez Lieberman Aiden"
+  ],
+  "description": "Have you played with Google Labs' Ngram Viewer? It's an addicting tool that lets you search for words and ideas in a database of 5 million books from across centuries. Erez Lieberman Aiden and Jean-Baptiste Michel show us how it works, and a few of the surprising things we can learn from 500 billion words. \r\n<em>(Filmed at <a href=http://www.ted.com/tedx/events/1345>TEDxBoston</a>.)</em>",
+  "slug": "what_we_learned_from_5_million_books",
+  "date": "2011-07-24T00:00:00+00:00",
+  "event": "TEDxBoston 2011",
+  "url": null,
+  "tags": [
+    "Google",
+    "TEDx",
+    "data",
+    "design",
+    "library",
+    "technology",
+    "visualizations",
+    "writing"
+  ]
+}

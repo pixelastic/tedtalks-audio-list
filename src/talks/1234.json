@@ -1,0 +1,20 @@
+{
+  "id": 1234,
+  "name": "Ben Goldacre: Battling bad science",
+  "speakers": [
+    "Ben Goldacre"
+  ],
+  "description": "Every day there are news reports of new health advice, but how can you know if they're right? Doctor and epidemiologist Ben Goldacre shows us, at high speed, the ways evidence can be distorted, from the blindingly obvious nutrition claims to the very subtle tricks of the pharmaceutical industry.",
+  "slug": "ben_goldacre_battling_bad_science",
+  "date": "2011-07-13T00:00:00+00:00",
+  "event": "TEDGlobal 2011",
+  "url": null,
+  "tags": [
+    "data",
+    "health care",
+    "illness",
+    "illusion",
+    "medicine",
+    "science"
+  ]
+}

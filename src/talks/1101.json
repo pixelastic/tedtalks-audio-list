@@ -1,0 +1,18 @@
+{
+  "id": 1101,
+  "name": "Hans Rosling: The magic washing machine",
+  "speakers": [
+    "Hans Rosling"
+  ],
+  "description": "What was the greatest invention of the industrial revolution? Hans Rosling makes the case for the washing machine. With newly designed graphics from Gapminder, Rosling shows us the magic that pops up when economic growth and electricity turn a boring wash day into an intellectual day of reading.",
+  "slug": "hans_rosling_and_the_magic_washing_machine",
+  "date": "2010-12-04T00:00:00+00:00",
+  "event": "TEDWomen 2010",
+  "url": null,
+  "tags": [
+    "culture",
+    "data",
+    "economics",
+    "women"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 1902,
+  "name": "Frederic Kaplan: How to build an information time machine",
+  "speakers": [
+    "Frederic Kaplan"
+  ],
+  "description": "Imagine if you could surf Facebook ... from the Middle Ages. Well, it may not be as far off as it sounds. In a fun and interesting talk, researcher and engineer Frederic Kaplan shows off the Venice Time Machine, a project to digitize 80 kilometers of books to create a historical and geographical simulation of Venice across 1000 years. <em>(Filmed at TEDxCaFoscariU.)</em>",
+  "slug": "frederic_kaplan_how_i_built_an_information_time_machine",
+  "date": "2013-06-19T00:00:00+00:00",
+  "event": "TEDxCaFoscariU",
+  "url": null,
+  "tags": [
+    "TEDx",
+    "book",
+    "computers",
+    "history",
+    "library",
+    "map",
+    "technology"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1058,
+  "name": "Heather Knight: Silicon-based comedy",
+  "speakers": [
+    "Heather Knight"
+  ],
+  "description": "In this first-of-its-kind demo, Heather Knight introduces Data, a robotic stand-up comedian that does much more than rattle off one-liners -- it gathers audience feedback (using software co-developed with Scott Satkin and Varun Ramakrishna at CMU) and tunes its act as the crowd responds. Is this thing on?",
+  "slug": "heather_knight_silicon_based_comedy",
+  "date": "2010-12-08T00:00:00+00:00",
+  "event": "TEDWomen 2010",
+  "url": null,
+  "tags": [
+    "AI",
+    "comedy",
+    "entertainment",
+    "robots",
+    "science",
+    "technology"
+  ]
+}

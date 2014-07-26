@@ -1,0 +1,20 @@
+{
+  "id": 1823,
+  "name": "Eric Berlow and Sean Gourley: Mapping ideas worth spreading",
+  "speakers": [
+    "Eric Berlow",
+    "Sean Gourley"
+  ],
+  "description": "What do 24,000 ideas look like? Ecologist Eric Berlow and physicist Sean Gourley apply algorithms to the entire archive of TEDx Talks, taking us on a stimulating visual tour to show how ideas connect globally.",
+  "slug": "eric_berlow_and_sean_gourley_mapping_ideas_worth_spreading",
+  "date": "2013-02-28T00:00:00+00:00",
+  "event": "TED2013",
+  "url": null,
+  "tags": [
+    "TED Fellows",
+    "algorithm",
+    "complexity",
+    "data",
+    "technology"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 1057,
+  "name": "Anders Ynnerman: Visualizing the medical data explosion",
+  "speakers": [
+    "Anders Ynnerman"
+  ],
+  "description": "Today medical scans produce thousands of images and terabytes of data for a single patient in mere seconds, but how do doctors parse this information and determine what's useful? In this talk, scientific visualization expert Anders Ynnerman shows us sophisticated new tools -- like virtual autopsies -- for analyzing this myriad data, and a glimpse at some sci-fi-sounding medical technologies in development. This talk contains some graphic medical imagery.\r\n<em>(Filmed at <a href=http://www.ted.com/tedx/events/493>TEDxGöteborg</a>.)</em>",
+  "slug": "anders_ynnerman_visualizing_the_medical_data_explosion",
+  "date": "2010-11-20T00:00:00+00:00",
+  "event": "TEDxGöteborg 2010",
+  "url": null,
+  "tags": [
+    "TEDx",
+    "data",
+    "health",
+    "medicine",
+    "science",
+    "technology",
+    "visualizations"
+  ]
+}

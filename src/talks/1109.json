@@ -1,0 +1,19 @@
+{
+  "id": 1109,
+  "name": "Sebastian Thrun: Google's driverless car",
+  "speakers": [
+    "Sebastian Thrun"
+  ],
+  "description": "Sebastian Thrun helped build Google's amazing driverless car, powered by a very personal quest to save lives and reduce traffic accidents. Jawdropping video shows the DARPA Challenge-winning car motoring through busy city traffic with no one behind the wheel, and dramatic test drive footage from TED2011 demonstrates how fast the thing can really go.",
+  "slug": "sebastian_thrun_google_s_driverless_car",
+  "date": "2011-03-02T00:00:00+00:00",
+  "event": "TED2011",
+  "url": null,
+  "tags": [
+    "business",
+    "robots",
+    "science",
+    "technology",
+    "transportation"
+  ]
+}

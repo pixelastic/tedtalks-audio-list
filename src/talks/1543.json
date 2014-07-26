@@ -1,0 +1,19 @@
+{
+  "id": 1543,
+  "name": "Hannah Fry: Is life really that complex?",
+  "speakers": [
+    "Hannah Fry"
+  ],
+  "description": "Can an algorithm forecast the site of the next riot? In this accessible talk, mathematician Hannah Fry shows how complex social behavior can be analyzed and perhaps predicted through analogies to natural phenomena, like the patterns of a leopard's spots or the distribution of predators and prey in the wild.",
+  "slug": "hannah_fry_is_life_really_that_complex",
+  "date": "2012-06-03T00:00:00+00:00",
+  "event": "TEDxUCL",
+  "url": null,
+  "tags": [
+    "TEDx",
+    "complexity",
+    "crime",
+    "math",
+    "science"
+  ]
+}

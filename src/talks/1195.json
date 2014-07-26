@@ -1,0 +1,20 @@
+{
+  "id": 1195,
+  "name": "Markus Fischer: A robot that flies like a bird",
+  "speakers": [
+    "Markus Fischer"
+  ],
+  "description": "Plenty of robots can fly -- but none can fly like a real bird. That is, until Markus Fischer and his team at Festo built SmartBird, a large, lightweight robot, modeled on a seagull, that flies by flapping its wings. A soaring demo fresh from TEDGlobal 2011.",
+  "slug": "a_robot_that_flies_like_a_bird",
+  "date": "2011-07-15T00:00:00+00:00",
+  "event": "TEDGlobal 2011",
+  "url": null,
+  "tags": [
+    "animals",
+    "biomechanics",
+    "biomimicry",
+    "design",
+    "robots",
+    "technology"
+  ]
+}

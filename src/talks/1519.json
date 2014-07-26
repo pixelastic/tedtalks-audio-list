@@ -1,0 +1,20 @@
+{
+  "id": 1519,
+  "name": "Michael Hansmeyer: Building unimaginable shapes",
+  "speakers": [
+    "Michael Hansmeyer"
+  ],
+  "description": "Inspired by cell division, Michael Hansmeyer writes algorithms that design outrageously fascinating shapes and forms with millions of facets. No person could draft them by hand, but they're buildable -- and they could revolutionize the way we think of architectural form.",
+  "slug": "michael_hansmeyer_building_unimaginable_shapes",
+  "date": "2012-06-27T00:00:00+00:00",
+  "event": "TEDGlobal 2012",
+  "url": null,
+  "tags": [
+    "algorithm",
+    "architecture",
+    "arts",
+    "design",
+    "math",
+    "software"
+  ]
+}
