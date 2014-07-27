@@ -63,6 +63,9 @@ class TalkDownloader
 
   def run
     (@id_from..@id_to).each do |id|
+      # To avoid hitting the Query Per Second quota, we'll sleep a bit
+      sleep(2)
+
       puts "Downloading ##{id}"
       output_file = "../src/talks/#{id}.json"
 
@@ -89,8 +92,6 @@ class TalkDownloader
         file.write(JSON.pretty_generate(output_talk))
       end
 
-      # To avoid hitting the Query Per Second quota, we'll sleep a bit
-      sleep(2)
     end
 
   end
