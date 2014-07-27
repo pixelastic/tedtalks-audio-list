@@ -1,25 +1,39 @@
 # What is it ?
 
-This is the list of all available audio TEDTalks. It is intended for
-tech-oriented people who would like to use it in their own scripts (eg.
-`wget`).
+This repository holds the list of all currently available audio TEDTalks. It
+does not contain the `mp3` files, but provides `json` files with all the
+necessary metadata.
 
-## Why ?
-
-Because I like to listen to TEDTalks and needed a way to easily download them
-on put them on my media player. I wrote a bunch of scripts to that end, and
-decided to share it.
+I build this list myself while developing a simple script to automatically
+download the audio podcasts. And I thought it would be nice to share this
+information so others won't have to scrap the API, parse CSV files, read RSS
+feeds like I had to do to get a full list.
 
 ## Usage
 
-Feel free to use any of the files of this repo in your own scripts.
+Feel free to browse the `./src/talks` folder. You'll find metadata about any
+available talk in `json` format.
 
-## How is it built ?
+There is also a `./download-all.sh` script that contains `wget` instructions
+for downloading every single audio TEDTalk. Feel free to copy and edit it
+before running it to specify only the talks you're interested in.
 
-It started with manual parsing of CSV and XML files, and later used the TED
-API. It now is a mix of API and RSS parsing.
+## Update
+
+I'll try to keep this repository as much up to date as possible. But you can
+manually update it by running the `$ ./scripts/update` command. This will parse
+the RSS feed and download any new talk available on the feed and not yet
+downloaded.
+
+You can alternatively use  `$ ./scripts/talk-downloader 1234` script to
+download metadata about talk #1234. You can also use `$
+./scripts/talk-downloader 1000 1200` to download all metadatas for talks from
+ #1000 to #1200.
+
 
 ## Sources
+
+Here are the various sources I had to use while building the tool.
 
 - [TED API](http://developer.ted.com/)
 - [List of all audio

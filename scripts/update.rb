@@ -1,3 +1,4 @@
+#!/usr/bin/env ruby
 # encoding : utf-8
 require 'open-uri'
 require 'nokogiri'
@@ -50,7 +51,7 @@ class TalkUpdater
 
     talks.each do |talk_id|
       puts "Downloading ##{talk_id}"
-      %x[ruby ./talk-downloader.rb #{talk_id}]
+      %x[./talk-downloader #{talk_id}]
     end
     
   end
