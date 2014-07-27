@@ -1,0 +1,21 @@
+#!/usr/bin/env ruby
+# encoding : utf-8
+require 'json'
+
+# We'll update the ./download-all.sh script by adding wget information for
+# downloading the talks
+class UpdateWgetScript
+
+  def run
+    Dir['../src/talks/204*.json'].sort.each do |file|
+      data = JSON.parse(File.open(file).read)
+      puts JSON.pretty_generate(data)
+    end
+
+  end
+
+
+
+end
+UpdateWgetScript.new().run()
+

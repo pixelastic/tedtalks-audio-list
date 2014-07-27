@@ -53,9 +53,10 @@ class TalkDownloader
 
   def get_podcast_url(talk)
     return nil unless talk['media']
-    return nil unless talk['media']['audio-podcast']
-    return nil unless talk['media']['audio-podcast']['uri']
-    return talk['media']['audio-podcast']['uri']
+    return nil unless talk['media']['internal']
+    return nil unless talk['media']['internal']['audio-podcast']
+    return nil unless talk['media']['internal']['audio-podcast']['uri']
+    return talk['media']['internal']['audio-podcast']['uri']
   end
 
   def get_date(talk)
@@ -87,6 +88,7 @@ class TalkDownloader
         :url => get_podcast_url(talk),
         :tags => get_tags(talk)
       }
+      puts JSON.pretty_generate(output_talk)
 
       # Writing it to file
       File.open(output_file, "w") do |file|
