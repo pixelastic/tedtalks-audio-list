@@ -65,8 +65,6 @@ class TalkDownloader
 
   def run
     (@id_from..@id_to).each do |id|
-      # To avoid hitting the Query Per Second quota, we'll sleep a bit
-      sleep(2)
 
       puts "Downloading ##{id}"
       output_file = "../src/talks/#{id}.json"
@@ -74,6 +72,14 @@ class TalkDownloader
       talk = get_talk(id)
       unless talk
         puts "Talk ##{id} not found"
+        sleep(2)
+        next
+      end
+
+      audio_url = get_podcast_url(talk)
+      unless audio_url
+        puts "Talk ##{id} has no audio podcast"
+        sleep(1)
         next
       end
 
@@ -85,15 +91,17 @@ class TalkDownloader
         :slug => talk['slug'],
         :date => get_date(talk),
         :event => talk['event']['name'],
-        :url => get_podcast_url(talk),
+        :url => audio_url,
         :tags => get_tags(talk)
       }
-      puts JSON.pretty_generate(output_talk)
+      # puts JSON.pretty_generate(output_talk)
 
       # Writing it to file
       File.open(output_file, "w") do |file|
         file.write(JSON.pretty_generate(output_talk))
       end
+
+      sleep(2);
 
     end
 
