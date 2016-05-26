@@ -1,0 +1,40 @@
+#!/usr/bin/env ruby
+require 'rubygems'
+require 'nokogiri'
+require 'json'
+require 'open-uri'
+
+# Dowload and save the list of all talks urls
+class DownloadTedUrlList
+  def initialize
+    @list_url = 'https://www.ted.com/talks/quick-list'
+  end
+
+  def all_talks_urls
+    page = 1
+    urls = []
+
+    loop do
+      puts "Getting links from page #{page}"
+      current_list_url = "#{@list_url}?page=#{page}"
+      html = open(current_list_url).read
+      dom = Nokogiri::HTML(html)
+      links = dom.css('.quick-list__row .title a')
+      break if links.empty?
+      links.each do |link|
+        urls << link.attr('href')
+      end
+      page += 1
+    end
+
+    urls.sort
+  end
+
+  def run
+    urls = all_talks_urls
+    puts "Saving #{urls.size} urls"
+    json = JSON.pretty_generate(urls)
+    File.write('./data/urls.json', json)
+  end
+end
+DownloadTedUrlList.new.run
