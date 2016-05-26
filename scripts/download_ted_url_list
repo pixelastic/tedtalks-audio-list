@@ -22,7 +22,7 @@ class DownloadTedUrlList
       links = dom.css('.quick-list__row .title a')
       break if links.empty?
       links.each do |link|
-        urls << link.attr('href')
+        urls << 'https://www.ted.com' + link.attr('href')
       end
       page += 1
     end

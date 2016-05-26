@@ -12,6 +12,10 @@ from here.
 
 I'll also add a search UI on top of it.
 
+## TODO
+
+Get the TEDxTalks as well: http://tedxtalks.ted.com/sitemap.xml
+
 ## References
 
 For reference, here is the list of sources I used in the previous version

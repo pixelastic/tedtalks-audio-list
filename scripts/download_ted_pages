@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+require 'rubygems'
+require 'json'
+require_relative '../lib/helper_download'
+
+urls = JSON.parse(File.open('./data/urls.json').read)
+HelperDownload.download(urls)
