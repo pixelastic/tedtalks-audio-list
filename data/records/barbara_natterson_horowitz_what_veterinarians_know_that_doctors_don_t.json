@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/BarbaraNattersonHorowitz_2014P.mp3",
+  "author": "Barbara Natterson-Horowitz",
+  "dateFilmed": 1410825600,
+  "datePublished": 1417708809,
+  "description": "What do you call a veterinarian who can only take care of one species? A physician. In a fascinating talk, Barbara Natterson-Horowitz shares how a species-spanning approach to health can improve medical care of the human animal -- particularly when it comes to mental health.",
+  "duration": 897,
+  "event": "TEDMED 2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/5277594afb524a380f632ef3ea79ad9cbba2974d_2880x1620.jpg",
+  "keywords": [
+    "animals",
+    "biology",
+    "evolution",
+    "medicine",
+    "mental health"
+  ],
+  "mainLanguage": null,
+  "objectID": 2145,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Courageous": 223,
+    "Informative": 655,
+    "Fascinating": 494,
+    "Beautiful": 133,
+    "Inspiring": 513,
+    "Ingenious": 117,
+    "Unconvincing": 28,
+    "Persuasive": 215,
+    "Longwinded": 91,
+    "OK": 109,
+    "Funny": 24,
+    "Obnoxious": 10,
+    "Confusing": 16,
+    "Jaw-dropping": 30
+  },
+  "slug": "barbara_natterson_horowitz_what_veterinarians_know_that_doctors_don_t",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/5277594afb524a380f632ef3ea79ad9cbba2974d_2880x1620.jpg?quality=89&w=600",
+  "title": "What veterinarians know that physicians don't",
+  "url": "https://www.ted.com/talks/barbara_natterson_horowitz_what_veterinarians_know_that_doctors_don_t",
+  "video": {
+    "low": "http://download.ted.com/talks/BarbaraNattersonHorowitz_2014P-light.mp4",
+    "medium": "http://download.ted.com/talks/BarbaraNattersonHorowitz_2014P.mp4",
+    "high": "http://download.ted.com/talks/BarbaraNattersonHorowitz_2014P-480p.mp4"
+  },
+  "viewCount": 1376245,
+  "year": "2014"
+}

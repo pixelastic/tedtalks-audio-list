@@ -1,0 +1,56 @@
+{
+  "audio": "http://download.ted.com/talks/KarenThompsonWalker_2012G.mp3",
+  "author": "Karen Thompson Walker",
+  "dateFilmed": 1340841600,
+  "datePublished": 1357143205,
+  "description": "Imagine you're a shipwrecked sailor adrift in the enormous Pacific. You can choose one of three directions and save yourself and your shipmates -- but each choice comes with a fearful consequence too. How do you choose? In telling the story of the whaleship Essex, novelist Karen Thompson Walker shows how fear propels imagination, as it forces us to imagine the possible futures and how to cope with them. ",
+  "duration": 690,
+  "event": "TEDGlobal 2012",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2136b667d317722918dab6cd4d81f828d6fd89ed_1600x1200.jpg",
+  "keywords": [
+    "creativity",
+    "death",
+    "entertainment",
+    "fear",
+    "storytelling"
+  ],
+  "mainLanguage": null,
+  "objectID": 1637,
+  "otherLanguages": {
+    "el": "Greek",
+    "it": "Italian",
+    "ja": "Japanese",
+    "kk": "Kazakh",
+    "lv": "Latvian",
+    "pl": "Polish",
+    "sr": "Serbian",
+    "vi": "Vietnamese"
+  },
+  "ratings": {
+    "Ingenious": 99,
+    "Informative": 262,
+    "Inspiring": 480,
+    "Confusing": 26,
+    "Persuasive": 211,
+    "Fascinating": 281,
+    "Longwinded": 93,
+    "Unconvincing": 98,
+    "OK": 196,
+    "Courageous": 65,
+    "Beautiful": 96,
+    "Obnoxious": 17,
+    "Jaw-dropping": 24,
+    "Funny": 4
+  },
+  "slug": "karen_thompson_walker_what_fear_can_teach_us",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2136b667d317722918dab6cd4d81f828d6fd89ed_1600x1200.jpg?quality=89&w=600",
+  "title": "What fear can teach us",
+  "url": "https://www.ted.com/talks/karen_thompson_walker_what_fear_can_teach_us",
+  "video": {
+    "low": "http://download.ted.com/talks/KarenThompsonWalker_2012G-light.mp4",
+    "medium": "http://download.ted.com/talks/KarenThompsonWalker_2012G.mp4",
+    "high": "http://download.ted.com/talks/KarenThompsonWalker_2012G-480p.mp4"
+  },
+  "viewCount": 1763093,
+  "year": "2012"
+}

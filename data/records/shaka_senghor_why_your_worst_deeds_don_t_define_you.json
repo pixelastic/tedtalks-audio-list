@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/ShakaSenghor_2014.mp3",
+  "author": "Shaka Senghor",
+  "dateFilmed": 1395273600,
+  "datePublished": 1403535445,
+  "description": "In 1991, Shaka Senghor shot and killed a man. He was, he says, \"a drug dealer with a quick temper and a semi-automatic pistol.\" Jailed for second degree murder, that could very well have been the end of the story. But it wasn't. Instead, it was the beginning of a years-long journey to redemption, one with humbling and sobering lessons for us all.",
+  "duration": 720,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/535751efd934740f65decb5309496066e2e3ff4e_2400x1800.jpg",
+  "keywords": [
+    "TED Conference",
+    "crime",
+    "culture",
+    "prison"
+  ],
+  "mainLanguage": null,
+  "objectID": 2029,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Courageous": 588,
+    "Inspiring": 799,
+    "Fascinating": 130,
+    "Informative": 169,
+    "Unconvincing": 11,
+    "OK": 58,
+    "Beautiful": 149,
+    "Persuasive": 118,
+    "Funny": 23,
+    "Jaw-dropping": 15,
+    "Longwinded": 7,
+    "Confusing": 4,
+    "Ingenious": 5,
+    "Obnoxious": 11
+  },
+  "slug": "shaka_senghor_why_your_worst_deeds_don_t_define_you",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/535751efd934740f65decb5309496066e2e3ff4e_2400x1800.jpg?quality=89&w=600",
+  "title": "Why your worst deeds don’t define you",
+  "url": "https://www.ted.com/talks/shaka_senghor_why_your_worst_deeds_don_t_define_you",
+  "video": {
+    "low": "http://download.ted.com/talks/ShakaSenghor_2014-light.mp4",
+    "medium": "http://download.ted.com/talks/ShakaSenghor_2014.mp4",
+    "high": "http://download.ted.com/talks/ShakaSenghor_2014-480p.mp4"
+  },
+  "viewCount": 1338454,
+  "year": "2014"
+}

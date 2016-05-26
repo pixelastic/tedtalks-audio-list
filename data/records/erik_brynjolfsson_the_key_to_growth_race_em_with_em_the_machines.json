@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/ErikBrynjolfsson_2013.mp3",
+  "author": "Erik Brynjolfsson",
+  "dateFilmed": 1361836800,
+  "datePublished": 1366729421,
+  "description": "As machines take on more jobs, many find themselves out of work or with raises indefinitely postponed. Is this the end of growth? No, says Erik Brynjolfsson -- it’s simply the growing pains of a radically reorganized economy. A riveting case for why big innovations are ahead of us … if we think of computers as our teammates. Be sure to watch the opposing viewpoint from Robert Gordon.",
+  "duration": 716,
+  "event": "TED2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/4c95305355e1ee8be031bc712a4883fb16c39777_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "business",
+    "economics",
+    "technology",
+    "work"
+  ],
+  "mainLanguage": null,
+  "objectID": 1720,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Courageous": 29,
+    "Informative": 194,
+    "Inspiring": 175,
+    "Funny": 8,
+    "Persuasive": 156,
+    "Fascinating": 97,
+    "Jaw-dropping": 18,
+    "Unconvincing": 46,
+    "OK": 62,
+    "Obnoxious": 8,
+    "Confusing": 6,
+    "Ingenious": 24,
+    "Longwinded": 6,
+    "Beautiful": 7
+  },
+  "slug": "erik_brynjolfsson_the_key_to_growth_race_em_with_em_the_machines",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/4c95305355e1ee8be031bc712a4883fb16c39777_1600x1200.jpg?quality=89&w=600",
+  "title": "The key to growth? Race with the machines",
+  "url": "https://www.ted.com/talks/erik_brynjolfsson_the_key_to_growth_race_em_with_em_the_machines",
+  "video": {
+    "low": "http://download.ted.com/talks/ErikBrynjolfsson_2013-light.mp4",
+    "medium": "http://download.ted.com/talks/ErikBrynjolfsson_2013.mp4",
+    "high": "http://download.ted.com/talks/ErikBrynjolfsson_2013-480p.mp4"
+  },
+  "viewCount": 1102790,
+  "year": "2013"
+}

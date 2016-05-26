@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/SaraSeager_2015.mp3",
+  "author": "Sara Seager",
+  "dateFilmed": 1426636800,
+  "datePublished": 1432826468,
+  "description": "Every star we see in the sky has at least one planet orbiting it, says astronomer Sara Seager. So what do we know about these exoplanets, and how can we find out more? Seager introduces her favorite set of exoplanets and shows new technology that can help collect information about them -- and even help us look for exoplanets with life.",
+  "duration": 974,
+  "event": "TED2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b85e33a8ea82c523ac305dd7e4100947dec8762f_2880x1620.jpg",
+  "keywords": [
+    "Planets",
+    "astronomy",
+    "science",
+    "space"
+  ],
+  "mainLanguage": null,
+  "objectID": 2260,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 373,
+    "Fascinating": 281,
+    "Beautiful": 65,
+    "Ingenious": 62,
+    "Inspiring": 161,
+    "Jaw-dropping": 16,
+    "Funny": 10,
+    "Persuasive": 29,
+    "OK": 50,
+    "Obnoxious": 9,
+    "Longwinded": 26,
+    "Unconvincing": 15,
+    "Courageous": 22,
+    "Confusing": 9
+  },
+  "slug": "sara_seager_the_search_for_planets_beyond_our_solar_system",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b85e33a8ea82c523ac305dd7e4100947dec8762f_2880x1620.jpg?quality=89&w=600",
+  "title": "The search for planets beyond our solar system",
+  "url": "https://www.ted.com/talks/sara_seager_the_search_for_planets_beyond_our_solar_system",
+  "video": {
+    "low": "http://download.ted.com/talks/SaraSeager_2015-light.mp4",
+    "medium": "http://download.ted.com/talks/SaraSeager_2015.mp4",
+    "high": "http://download.ted.com/talks/SaraSeager_2015-480p.mp4"
+  },
+  "viewCount": 1262805,
+  "year": "2015"
+}

@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/MiaBirdsong_2015W.mp3",
+  "author": "Mia Birdsong",
+  "dateFilmed": 1432857600,
+  "datePublished": 1442330652,
+  "description": "As a global community, we all want to end poverty. Mia Birdsong suggests a great place to start: Let's honor the skills, drive and initiative that poor people bring to the struggle every day. She asks us to look again at people in poverty: They may be broke — but they're not broken.",
+  "duration": 916,
+  "event": "TEDWomen 2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/f41945e3407663d5a41b5843f2a5a499e2305147_2880x1620.jpg",
+  "keywords": [
+    "activism",
+    "community",
+    "economics",
+    "inequality",
+    "poverty"
+  ],
+  "mainLanguage": null,
+  "objectID": 2328,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 285,
+    "Courageous": 168,
+    "Inspiring": 512,
+    "Persuasive": 159,
+    "Unconvincing": 28,
+    "Fascinating": 43,
+    "Jaw-dropping": 11,
+    "OK": 43,
+    "Informative": 123,
+    "Longwinded": 21,
+    "Ingenious": 28,
+    "Funny": 8,
+    "Confusing": 13,
+    "Obnoxious": 12
+  },
+  "slug": "mia_birdsong_the_story_we_tell_about_poverty_isn_t_true",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/f41945e3407663d5a41b5843f2a5a499e2305147_2880x1620.jpg?quality=89&w=600",
+  "title": "The story we tell about poverty isn't true",
+  "url": "https://www.ted.com/talks/mia_birdsong_the_story_we_tell_about_poverty_isn_t_true",
+  "video": {
+    "low": "http://download.ted.com/talks/MiaBirdsong_2015W-light.mp4",
+    "medium": "http://download.ted.com/talks/MiaBirdsong_2015W.mp4",
+    "high": "http://download.ted.com/talks/MiaBirdsong_2015W-480p.mp4"
+  },
+  "viewCount": 1418168,
+  "year": "2015"
+}

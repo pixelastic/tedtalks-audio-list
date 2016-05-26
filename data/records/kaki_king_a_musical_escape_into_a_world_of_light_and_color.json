@@ -1,0 +1,51 @@
+{
+  "audio": "http://download.ted.com/talks/KakiKing_2015W.mp3",
+  "author": "Kaki King",
+  "dateFilmed": 1432684800,
+  "datePublished": 1446824200,
+  "description": "A genre unto herself, Kaki King fuses the ancient tradition of working with one's hands with digital technology, projection-mapping imagery onto her guitar in her groundbreaking multimedia work \"The Neck Is a Bridge to the Body.\" Using her guitar's neck like a keyboard, she plays an intricate melody as she takes the audience on a musical journey of light and sound. She calls it \"guitar as paintbrush.\"",
+  "duration": 691,
+  "event": "TEDWomen 2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ee7d7b0abbc72ed262e4ccc93e3bbb4be3a7e452_2880x1620.jpg",
+  "keywords": [
+    "art",
+    "creativity",
+    "guitar",
+    "innovation",
+    "live music",
+    "music",
+    "performance"
+  ],
+  "mainLanguage": null,
+  "objectID": 2366,
+  "otherLanguages": {
+    "pt-br": "Portuguese, Brazilian"
+  },
+  "ratings": {
+    "Inspiring": 116,
+    "Fascinating": 109,
+    "Beautiful": 265,
+    "Ingenious": 53,
+    "OK": 70,
+    "Obnoxious": 9,
+    "Jaw-dropping": 25,
+    "Unconvincing": 36,
+    "Longwinded": 15,
+    "Courageous": 3,
+    "Confusing": 9,
+    "Informative": 9,
+    "Funny": 16,
+    "Persuasive": 0
+  },
+  "slug": "kaki_king_a_musical_escape_into_a_world_of_light_and_color",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ee7d7b0abbc72ed262e4ccc93e3bbb4be3a7e452_2880x1620.jpg?quality=89&w=600",
+  "title": "A musical escape into a world of light and color",
+  "url": "https://www.ted.com/talks/kaki_king_a_musical_escape_into_a_world_of_light_and_color",
+  "video": {
+    "low": "http://download.ted.com/talks/KakiKing_2015W-light.mp4",
+    "medium": "http://download.ted.com/talks/KakiKing_2015W.mp4",
+    "high": "http://download.ted.com/talks/KakiKing_2015W-480p.mp4"
+  },
+  "viewCount": 1188046,
+  "year": "2015"
+}

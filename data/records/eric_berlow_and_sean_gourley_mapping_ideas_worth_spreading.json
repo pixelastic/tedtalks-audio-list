@@ -1,0 +1,49 @@
+{
+  "audio": "http://download.ted.com/talks/EricBerlow_2013U.mp3",
+  "author": "Eric Berlow and Sean Gourley",
+  "dateFilmed": 1362009600,
+  "datePublished": 1379516494,
+  "description": "What do 24,000 ideas look like? Ecologist Eric Berlow and physicist Sean Gourley apply algorithms to the entire archive of TEDx Talks, taking us on a stimulating visual tour to show how ideas connect globally.",
+  "duration": 475,
+  "event": "TED2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7afc3969fed81d16eb00d739a916d559c5e53933_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "TED Fellows",
+    "algorithm",
+    "complexity",
+    "data",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 1823,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Fascinating": 192,
+    "Informative": 152,
+    "OK": 34,
+    "Ingenious": 145,
+    "Confusing": 12,
+    "Persuasive": 20,
+    "Jaw-dropping": 58,
+    "Inspiring": 46,
+    "Beautiful": 43,
+    "Unconvincing": 10,
+    "Longwinded": 7,
+    "Funny": 3,
+    "Obnoxious": 1,
+    "Courageous": 0
+  },
+  "slug": "eric_berlow_and_sean_gourley_mapping_ideas_worth_spreading",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7afc3969fed81d16eb00d739a916d559c5e53933_1600x1200.jpg?quality=89&w=600",
+  "title": "Mapping ideas worth spreading",
+  "url": "https://www.ted.com/talks/eric_berlow_and_sean_gourley_mapping_ideas_worth_spreading",
+  "video": {
+    "low": "http://download.ted.com/talks/EricBerlow_2013U-light.mp4",
+    "medium": "http://download.ted.com/talks/EricBerlow_2013U.mp4",
+    "high": "http://download.ted.com/talks/EricBerlow_2013U-480p.mp4"
+  },
+  "viewCount": 999514,
+  "year": "2013"
+}

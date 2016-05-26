@@ -1,0 +1,57 @@
+{
+  "audio": "http://download.ted.com/talks/LouieSchwartzberg_2011U.mp3",
+  "author": "Louie Schwartzberg",
+  "dateFilmed": 1299024000,
+  "datePublished": 1304691900,
+  "description": "Pollination: it's vital to life on Earth, but largely unseen by the human eye. Filmmaker Louie Schwartzberg shows us the intricate world of pollen and pollinators with gorgeous high-speed images from his film \"Wings of Life,\" inspired by the vanishing of one of nature's primary pollinators, the honeybee.",
+  "duration": 468,
+  "event": "TED2011",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/afcb1a554cee6dc16a56ace473c23a7afa8b02c5_800x600.jpg",
+  "keywords": [
+    "TED Conference",
+    "beauty",
+    "bees",
+    "evolution",
+    "film",
+    "garden",
+    "insects",
+    "life",
+    "nature"
+  ],
+  "mainLanguage": null,
+  "objectID": 1140,
+  "otherLanguages": {
+    "en": "English",
+    "de": "German",
+    "ko": "Korean",
+    "uk": "Ukrainian",
+    "vi": "Vietnamese"
+  },
+  "ratings": {
+    "Beautiful": 1517,
+    "Jaw-dropping": 490,
+    "Fascinating": 669,
+    "Inspiring": 612,
+    "Persuasive": 58,
+    "Ingenious": 79,
+    "OK": 40,
+    "Informative": 161,
+    "Unconvincing": 12,
+    "Courageous": 19,
+    "Longwinded": 18,
+    "Funny": 11,
+    "Confusing": 15,
+    "Obnoxious": 10
+  },
+  "slug": "louie_schwartzberg_the_hidden_beauty_of_pollination",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/afcb1a554cee6dc16a56ace473c23a7afa8b02c5_800x600.jpg?quality=89&w=600",
+  "title": "The hidden beauty of pollination",
+  "url": "https://www.ted.com/talks/louie_schwartzberg_the_hidden_beauty_of_pollination",
+  "video": {
+    "low": "http://download.ted.com/talks/LouieSchwartzberg_2011U-light.mp4",
+    "medium": "http://download.ted.com/talks/LouieSchwartzberg_2011U.mp4",
+    "high": "http://download.ted.com/talks/LouieSchwartzberg_2011U-480p.mp4"
+  },
+  "viewCount": 1707905,
+  "year": "2011"
+}

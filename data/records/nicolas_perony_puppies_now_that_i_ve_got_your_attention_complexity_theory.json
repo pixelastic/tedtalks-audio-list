@@ -1,0 +1,47 @@
+{
+  "audio": null,
+  "author": "Nicolas Perony",
+  "dateFilmed": 1380758400,
+  "datePublished": 1391097709,
+  "description": "Animal behavior isn't complicated, but it is complex. Nicolas Perony studies how individual animals -- be they Scottish Terriers, bats or meerkats -- follow simple rules that, collectively, create larger patterns of behavior. And how this complexity born of simplicity can help them adapt to new circumstances, as they arise.",
+  "duration": 825,
+  "event": "TEDxZurich 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/f968a4cdcb27ee5487609b4c452fa17653dd27c8_1600x1200.jpg",
+  "keywords": [
+    "TEDx",
+    "animals",
+    "complexity"
+  ],
+  "mainLanguage": null,
+  "objectID": 1916,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified"
+  },
+  "ratings": {
+    "Persuasive": 48,
+    "Fascinating": 242,
+    "Informative": 274,
+    "Ingenious": 57,
+    "Unconvincing": 34,
+    "OK": 71,
+    "Longwinded": 23,
+    "Jaw-dropping": 7,
+    "Beautiful": 42,
+    "Inspiring": 55,
+    "Confusing": 6,
+    "Funny": 22,
+    "Obnoxious": 2,
+    "Courageous": 0
+  },
+  "slug": "nicolas_perony_puppies_now_that_i_ve_got_your_attention_complexity_theory",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/f968a4cdcb27ee5487609b4c452fa17653dd27c8_1600x1200.jpg?quality=89&w=600",
+  "title": "Puppies! Now that I’ve got your attention, complexity theory",
+  "url": "https://www.ted.com/talks/nicolas_perony_puppies_now_that_i_ve_got_your_attention_complexity_theory",
+  "video": {
+    "low": "http://download.ted.com/talks/NicolasPerony_2013X-light.mp4",
+    "medium": "http://download.ted.com/talks/NicolasPerony_2013X.mp4",
+    "high": "http://download.ted.com/talks/NicolasPerony_2013X-480p.mp4"
+  },
+  "viewCount": 920254,
+  "year": "2013"
+}

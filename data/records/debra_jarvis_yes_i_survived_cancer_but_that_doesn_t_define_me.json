@@ -1,0 +1,46 @@
+{
+  "audio": "http://download.ted.com/talks/DebraJarvis_2014P.mp3",
+  "author": "Debra Jarvis",
+  "dateFilmed": 1410307200,
+  "datePublished": 1414680657,
+  "description": "Debra Jarvis had worked as a hospital chaplain for nearly 30 years when she was diagnosed with cancer. And she learned quite a bit as a patient. In a witty, daring talk, she explains how the identity of “cancer survivor” can feel static. She asks us all to claim our hardest experiences, while giving ourselves room to grow and evolve.",
+  "duration": 969,
+  "event": "TEDMED 2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/dcc970f64ba2e32cbb5824a2430d6303515924bd_2880x1620.jpg",
+  "keywords": [
+    "cancer",
+    "health care",
+    "identity"
+  ],
+  "mainLanguage": null,
+  "objectID": 2120,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Longwinded": 45,
+    "OK": 58,
+    "Beautiful": 174,
+    "Inspiring": 288,
+    "Persuasive": 98,
+    "Funny": 35,
+    "Courageous": 157,
+    "Unconvincing": 8,
+    "Informative": 56,
+    "Fascinating": 37,
+    "Ingenious": 19,
+    "Obnoxious": 9,
+    "Jaw-dropping": 4,
+    "Confusing": 8
+  },
+  "slug": "debra_jarvis_yes_i_survived_cancer_but_that_doesn_t_define_me",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/dcc970f64ba2e32cbb5824a2430d6303515924bd_2880x1620.jpg?quality=89&w=600",
+  "title": "Yes, I survived cancer. But that doesn't define me",
+  "url": "https://www.ted.com/talks/debra_jarvis_yes_i_survived_cancer_but_that_doesn_t_define_me",
+  "video": {
+    "low": "http://download.ted.com/talks/DebraJarvis_2014P-light.mp4",
+    "medium": "http://download.ted.com/talks/DebraJarvis_2014P.mp4",
+    "high": "http://download.ted.com/talks/DebraJarvis_2014P-480p.mp4"
+  },
+  "viewCount": 879028,
+  "year": "2014"
+}

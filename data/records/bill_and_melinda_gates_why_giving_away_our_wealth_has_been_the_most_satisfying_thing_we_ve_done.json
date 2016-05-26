@@ -1,0 +1,49 @@
+{
+  "audio": "http://download.ted.com/talks/BillGates_2014.mp3",
+  "author": "Bill and Melinda Gates",
+  "dateFilmed": 1395100800,
+  "datePublished": 1396450718,
+  "description": "In 1993, Bill and Melinda Gates took a walk on the beach and made a big decision: to give their Microsoft wealth back to society. In conversation with Chris Anderson, the couple talks about their work at the Bill & Melinda Gates Foundation, as well as their marriage, their children, their failures and the satisfaction of giving most of their money away. ",
+  "duration": 1500,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/1c443a121cbd80555dd1cf7389359b5050786e07_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "activism",
+    "business",
+    "money",
+    "philanthropy",
+    "relationships"
+  ],
+  "mainLanguage": null,
+  "objectID": 1964,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Obnoxious": 41,
+    "Fascinating": 351,
+    "Inspiring": 915,
+    "Beautiful": 240,
+    "Informative": 369,
+    "Jaw-dropping": 45,
+    "Persuasive": 161,
+    "Courageous": 134,
+    "Ingenious": 42,
+    "Confusing": 7,
+    "Unconvincing": 11,
+    "OK": 61,
+    "Longwinded": 18,
+    "Funny": 40
+  },
+  "slug": "bill_and_melinda_gates_why_giving_away_our_wealth_has_been_the_most_satisfying_thing_we_ve_done",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/1c443a121cbd80555dd1cf7389359b5050786e07_1600x1200.jpg?quality=89&w=600",
+  "title": "Why giving away our wealth has been the most satisfying thing we've done",
+  "url": "https://www.ted.com/talks/bill_and_melinda_gates_why_giving_away_our_wealth_has_been_the_most_satisfying_thing_we_ve_done",
+  "video": {
+    "low": "http://download.ted.com/talks/BillGates_2014-light.mp4",
+    "medium": "http://download.ted.com/talks/BillGates_2014.mp4",
+    "high": "http://download.ted.com/talks/BillGates_2014-480p.mp4"
+  },
+  "viewCount": 2530622,
+  "year": "2014"
+}

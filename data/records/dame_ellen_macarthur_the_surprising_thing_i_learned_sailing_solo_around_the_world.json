@@ -1,0 +1,46 @@
+{
+  "audio": "http://download.ted.com/talks/DameEllenMacArthur_2015.mp3",
+  "author": "Dame Ellen MacArthur",
+  "dateFilmed": 1426809600,
+  "datePublished": 1435591142,
+  "description": "What do you learn when you sail around the world on your own? When solo sailor Ellen MacArthur circled the globe – carrying everything she needed with her – she came back with new insight into the way the world works, as a place of interlocking cycles and finite resources, where the decisions we make today affect what's left for tomorrow. She proposes a bold new way to see the world's economic systems: not as linear, but as circular, where everything comes around.",
+  "duration": 1007,
+  "event": "TED2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/5151fba66ae3761b5d67cb2d95fa28335b0cb70f_2880x1620.jpg",
+  "keywords": [
+    "economics",
+    "environment",
+    "oceans"
+  ],
+  "mainLanguage": null,
+  "objectID": 2292,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 236,
+    "Beautiful": 93,
+    "Courageous": 184,
+    "Ingenious": 67,
+    "Inspiring": 484,
+    "Persuasive": 129,
+    "Fascinating": 135,
+    "Jaw-dropping": 26,
+    "Longwinded": 15,
+    "Obnoxious": 2,
+    "OK": 37,
+    "Unconvincing": 31,
+    "Confusing": 4,
+    "Funny": 2
+  },
+  "slug": "dame_ellen_macarthur_the_surprising_thing_i_learned_sailing_solo_around_the_world",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/5151fba66ae3761b5d67cb2d95fa28335b0cb70f_2880x1620.jpg?quality=89&w=600",
+  "title": "The surprising thing I learned sailing solo around the world",
+  "url": "https://www.ted.com/talks/dame_ellen_macarthur_the_surprising_thing_i_learned_sailing_solo_around_the_world",
+  "video": {
+    "low": "http://download.ted.com/talks/DameEllenMacArthur_2015-light.mp4",
+    "medium": "http://download.ted.com/talks/DameEllenMacArthur_2015.mp4",
+    "high": "http://download.ted.com/talks/DameEllenMacArthur_2015-480p.mp4"
+  },
+  "viewCount": 1209516,
+  "year": "2015"
+}

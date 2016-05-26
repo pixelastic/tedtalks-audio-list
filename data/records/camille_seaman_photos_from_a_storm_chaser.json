@@ -1,0 +1,49 @@
+{
+  "audio": "http://download.ted.com/talks/CamilleSeaman_2013.mp3",
+  "author": "Camille Seaman",
+  "dateFilmed": 1362009600,
+  "datePublished": 1371826747,
+  "description": "Photographer Camille Seaman has been chasing storms for 5 years. In this talk she shows stunning, surreal photos of the heavens in tumult.",
+  "duration": 206,
+  "event": "TED2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/57c2bf4db9b0086d3e1596224f8ed15111a6e556_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "TED Fellows",
+    "arts",
+    "entertainment",
+    "nature",
+    "photography"
+  ],
+  "mainLanguage": null,
+  "objectID": 1763,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "OK": 109,
+    "Inspiring": 95,
+    "Beautiful": 421,
+    "Funny": 11,
+    "Jaw-dropping": 49,
+    "Fascinating": 144,
+    "Informative": 52,
+    "Ingenious": 11,
+    "Obnoxious": 3,
+    "Confusing": 4,
+    "Courageous": 21,
+    "Persuasive": 8,
+    "Longwinded": 8,
+    "Unconvincing": 6
+  },
+  "slug": "camille_seaman_photos_from_a_storm_chaser",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/57c2bf4db9b0086d3e1596224f8ed15111a6e556_1600x1200.jpg?quality=89&w=600",
+  "title": "Photos from a storm chaser",
+  "url": "https://www.ted.com/talks/camille_seaman_photos_from_a_storm_chaser",
+  "video": {
+    "low": "http://download.ted.com/talks/CamilleSeaman_2013-light.mp4",
+    "medium": "http://download.ted.com/talks/CamilleSeaman_2013.mp4",
+    "high": "http://download.ted.com/talks/CamilleSeaman_2013-480p.mp4"
+  },
+  "viewCount": 1486730,
+  "year": "2013"
+}

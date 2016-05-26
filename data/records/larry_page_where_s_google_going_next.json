@@ -1,0 +1,48 @@
+{
+  "audio": null,
+  "author": "Larry Page",
+  "dateFilmed": 1395273600,
+  "datePublished": 1395436124,
+  "description": "Onstage at TED2014, Charlie Rose interviews Google CEO Larry Page about his far-off vision for the company. It includes aerial bikeways and internet balloons … and then it gets even more interesting, as Page talks through the company’s recent acquisition of Deep Mind, an AI that is learning some surprising things.",
+  "duration": 1410,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/305ffd312450b409757879c70f073bb0d8883656_1600x1200.jpg",
+  "keywords": [
+    "AI",
+    "TED Brain Trust",
+    "algorithm",
+    "business",
+    "intelligence"
+  ],
+  "mainLanguage": null,
+  "objectID": 1953,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 659,
+    "Inspiring": 658,
+    "Fascinating": 396,
+    "Courageous": 85,
+    "OK": 179,
+    "Unconvincing": 39,
+    "Ingenious": 81,
+    "Persuasive": 64,
+    "Obnoxious": 17,
+    "Funny": 24,
+    "Longwinded": 46,
+    "Beautiful": 45,
+    "Jaw-dropping": 34,
+    "Confusing": 23
+  },
+  "slug": "larry_page_where_s_google_going_next",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/305ffd312450b409757879c70f073bb0d8883656_1600x1200.jpg?quality=89&w=600",
+  "title": "Where’s Google going next?",
+  "url": "https://www.ted.com/talks/larry_page_where_s_google_going_next",
+  "video": {
+    "low": "http://download.ted.com/talks/CharlieRose_2014-light.mp4",
+    "medium": "http://download.ted.com/talks/CharlieRose_2014.mp4",
+    "high": "http://download.ted.com/talks/CharlieRose_2014-480p.mp4"
+  },
+  "viewCount": 2075150,
+  "year": "2014"
+}

@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/JeffSpeck_2013Z.mp3",
+  "author": "Jeff Speck",
+  "dateFilmed": 1379635200,
+  "datePublished": 1381763957,
+  "description": "How do we solve the problem of the suburbs? Urbanist Jeff Speck shows how we can free ourselves from dependence on the car -- which he calls \"a gas-belching, time-wasting, life-threatening prosthetic device\" -- by making our cities more walkable and more pleasant for more people.",
+  "duration": 1016,
+  "event": "TEDCity2.0",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b918cbcfe933570a683a1b970fd4b804c39e7fcf_1600x1200.jpg",
+  "keywords": [
+    "cities",
+    "culture",
+    "design",
+    "transportation"
+  ],
+  "mainLanguage": null,
+  "objectID": 1843,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Obnoxious": 9,
+    "Unconvincing": 18,
+    "OK": 39,
+    "Longwinded": 12,
+    "Funny": 51,
+    "Fascinating": 75,
+    "Inspiring": 204,
+    "Persuasive": 244,
+    "Informative": 261,
+    "Ingenious": 29,
+    "Jaw-dropping": 12,
+    "Confusing": 9,
+    "Courageous": 20,
+    "Beautiful": 17
+  },
+  "slug": "jeff_speck_the_walkable_city",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b918cbcfe933570a683a1b970fd4b804c39e7fcf_1600x1200.jpg?quality=89&w=600",
+  "title": "The walkable city",
+  "url": "https://www.ted.com/talks/jeff_speck_the_walkable_city",
+  "video": {
+    "low": "http://download.ted.com/talks/JeffSpeck_2013Z-light.mp4",
+    "medium": "http://download.ted.com/talks/JeffSpeck_2013Z.mp4",
+    "high": "http://download.ted.com/talks/JeffSpeck_2013Z-480p.mp4"
+  },
+  "viewCount": 926162,
+  "year": "2013"
+}

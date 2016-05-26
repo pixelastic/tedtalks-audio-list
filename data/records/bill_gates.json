@@ -1,0 +1,54 @@
+{
+  "audio": "http://download.ted.com/talks/BillGates_2010.mp3",
+  "author": "Bill Gates",
+  "dateFilmed": 1265932800,
+  "datePublished": 1266454800,
+  "description": "At TED2010, Bill Gates unveils his vision for the world's energy future, describing the need for \"miracles\" to avoid planetary catastrophe and explaining why he's backing a dramatically different type of nuclear reactor. The necessary goal? Zero carbon emissions globally by 2050.",
+  "duration": 1669,
+  "event": "TED2010",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/150046_800x600.jpg",
+  "keywords": [
+    "TED Brain Trust",
+    "TED Conference",
+    "business",
+    "energy",
+    "global issues",
+    "invention",
+    "science",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 767,
+  "otherLanguages": {
+    "de": "German",
+    "it": "Italian",
+    "ro": "Romanian"
+  },
+  "ratings": {
+    "Unconvincing": 170,
+    "Informative": 890,
+    "Ingenious": 247,
+    "Inspiring": 739,
+    "Jaw-dropping": 133,
+    "Persuasive": 701,
+    "OK": 190,
+    "Fascinating": 344,
+    "Courageous": 215,
+    "Beautiful": 34,
+    "Longwinded": 76,
+    "Funny": 33,
+    "Confusing": 59,
+    "Obnoxious": 62
+  },
+  "slug": "bill_gates",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/150046_800x600.jpg?quality=89&w=600",
+  "title": "Innovating to zero!",
+  "url": "https://www.ted.com/talks/bill_gates",
+  "video": {
+    "low": "http://download.ted.com/talks/BillGates_2010-light.mp4",
+    "medium": "http://download.ted.com/talks/BillGates_2010.mp4",
+    "high": "http://download.ted.com/talks/BillGates_2010-480p.mp4"
+  },
+  "viewCount": 3660261,
+  "year": "2010"
+}

@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/DanCohen_2013X.mp3",
+  "author": "Daniel H. Cohen",
+  "dateFilmed": 1361577600,
+  "datePublished": 1375714807,
+  "description": "Why do we argue? To out-reason our opponents, prove them wrong, and, most of all, to win! ... Right? Philosopher Daniel H. Cohen shows how our most common form of argument -- a war in which one person must win and the other must lose -- misses out on the real benefits of engaging in active disagreement. (Filmed at TEDxColbyCollege.)",
+  "duration": 575,
+  "event": "TEDxColbyCollege",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/db58251b942be5c79b5d8b7918d53f1c01ed3253_1600x1200.jpg",
+  "keywords": [
+    "TEDx",
+    "culture",
+    "language",
+    "philosophy"
+  ],
+  "mainLanguage": null,
+  "objectID": 1805,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Persuasive": 197,
+    "Fascinating": 95,
+    "Informative": 233,
+    "Unconvincing": 59,
+    "Obnoxious": 16,
+    "OK": 151,
+    "Inspiring": 139,
+    "Ingenious": 41,
+    "Longwinded": 34,
+    "Confusing": 29,
+    "Jaw-dropping": 6,
+    "Beautiful": 9,
+    "Courageous": 10,
+    "Funny": 17
+  },
+  "slug": "daniel_h_cohen_for_argument_s_sake",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/db58251b942be5c79b5d8b7918d53f1c01ed3253_1600x1200.jpg?quality=89&w=600",
+  "title": "For argument’s sake",
+  "url": "https://www.ted.com/talks/daniel_h_cohen_for_argument_s_sake",
+  "video": {
+    "low": "http://download.ted.com/talks/DanCohen_2013X-light.mp4",
+    "medium": "http://download.ted.com/talks/DanCohen_2013X.mp4",
+    "high": "http://download.ted.com/talks/DanCohen_2013X-480p.mp4"
+  },
+  "viewCount": 1303873,
+  "year": "2013"
+}

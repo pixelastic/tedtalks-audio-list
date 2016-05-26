@@ -1,0 +1,49 @@
+{
+  "audio": "http://download.ted.com/talks/StephenCave_2013X.mp3",
+  "author": "Stephen Cave",
+  "dateFilmed": 1374105600,
+  "datePublished": 1386864306,
+  "description": "Philosopher Stephen Cave begins with a dark but compelling question: When did you first realize you were going to die? And even more interesting: Why do we humans so often resist the inevitability of death? Cave explores four narratives -- common across civilizations -- that we tell ourselves \"in order to help us manage the terror of death.\"",
+  "duration": 933,
+  "event": "TEDxBratislava",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2c106addcfbfa8c7b3cf9f2c4ee88c52d9a515b2_1600x1200.jpg",
+  "keywords": [
+    "TEDx",
+    "culture",
+    "death",
+    "history",
+    "humanity",
+    "philosophy"
+  ],
+  "mainLanguage": null,
+  "objectID": 1891,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Unconvincing": 176,
+    "OK": 148,
+    "Obnoxious": 32,
+    "Beautiful": 207,
+    "Persuasive": 255,
+    "Inspiring": 600,
+    "Informative": 227,
+    "Fascinating": 372,
+    "Courageous": 154,
+    "Longwinded": 63,
+    "Ingenious": 113,
+    "Jaw-dropping": 44,
+    "Funny": 22,
+    "Confusing": 10
+  },
+  "slug": "stephen_cave_the_4_stories_we_tell_ourselves_about_death",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2c106addcfbfa8c7b3cf9f2c4ee88c52d9a515b2_1600x1200.jpg?quality=89&w=600",
+  "title": "The 4 stories we tell ourselves about death",
+  "url": "https://www.ted.com/talks/stephen_cave_the_4_stories_we_tell_ourselves_about_death",
+  "video": {
+    "low": "http://download.ted.com/talks/StephenCave_2013X-light.mp4",
+    "medium": "http://download.ted.com/talks/StephenCave_2013X.mp4",
+    "high": "http://download.ted.com/talks/StephenCave_2013X-480p.mp4"
+  },
+  "viewCount": 2086769,
+  "year": "2013"
+}

@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/TimBernersLee_2014U.mp3",
+  "author": "Tim Berners-Lee",
+  "dateFilmed": 1394582400,
+  "datePublished": 1408375118,
+  "description": "Sir Tim Berners-Lee invented the World Wide Web 25 years ago. So it’s worth a listen when he warns us: There’s a battle ahead. Eroding net neutrality, filter bubbles and centralizing corporate control all threaten the web’s wide-open spaces. It’s up to users to fight for the right to access and openness. The question is, What kind of Internet do we want?",
+  "duration": 403,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/39a923a807cd8dfac8bfcd867963ebf99c3be2fd_2400x1800.jpg",
+  "keywords": [
+    "Internet",
+    "TED Conference",
+    "global issues",
+    "open-source",
+    "web"
+  ],
+  "mainLanguage": null,
+  "objectID": 2061,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 170,
+    "Inspiring": 120,
+    "OK": 126,
+    "Longwinded": 14,
+    "Confusing": 25,
+    "Persuasive": 42,
+    "Unconvincing": 28,
+    "Ingenious": 15,
+    "Fascinating": 37,
+    "Beautiful": 7,
+    "Courageous": 22,
+    "Obnoxious": 18,
+    "Jaw-dropping": 5,
+    "Funny": 10
+  },
+  "slug": "tim_berners_lee_a_magna_carta_for_the_web",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/39a923a807cd8dfac8bfcd867963ebf99c3be2fd_2400x1800.jpg?quality=89&w=600",
+  "title": "A Magna Carta for the web",
+  "url": "https://www.ted.com/talks/tim_berners_lee_a_magna_carta_for_the_web",
+  "video": {
+    "low": "http://download.ted.com/talks/TimBernersLee_2014U-light.mp4",
+    "medium": "http://download.ted.com/talks/TimBernersLee_2014U.mp4",
+    "high": "http://download.ted.com/talks/TimBernersLee_2014U-480p.mp4"
+  },
+  "viewCount": 992875,
+  "year": "2014"
+}

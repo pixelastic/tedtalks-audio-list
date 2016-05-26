@@ -1,0 +1,46 @@
+{
+  "audio": null,
+  "author": "Anne Milgram",
+  "dateFilmed": 1383091200,
+  "datePublished": 1390925122,
+  "description": "When she became the attorney general of New Jersey in 2007, Anne Milgram quickly discovered a few startling facts: not only did her team not really know who they were putting in jail, but they had no way of understanding if their decisions were actually making the public safer. And so began her ongoing, inspirational quest to bring data analytics and statistical analysis to the US criminal justice system.",
+  "duration": 761,
+  "event": "TED@BCG San Francisco",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/3e820be716ef041e7bd7792bbfc5b5753d4e0dbf_1600x1200.jpg",
+  "keywords": [
+    "crime",
+    "data"
+  ],
+  "mainLanguage": null,
+  "objectID": 1914,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified"
+  },
+  "ratings": {
+    "Persuasive": 232,
+    "Fascinating": 114,
+    "Ingenious": 124,
+    "Informative": 321,
+    "Confusing": 8,
+    "Unconvincing": 22,
+    "Inspiring": 113,
+    "Courageous": 49,
+    "OK": 40,
+    "Longwinded": 16,
+    "Jaw-dropping": 13,
+    "Beautiful": 13,
+    "Funny": 5,
+    "Obnoxious": 2
+  },
+  "slug": "anne_milgram_why_smart_statistics_are_the_key_to_fighting_crime",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/3e820be716ef041e7bd7792bbfc5b5753d4e0dbf_1600x1200.jpg?quality=89&w=600",
+  "title": "Why smart statistics are the key to fighting crime",
+  "url": "https://www.ted.com/talks/anne_milgram_why_smart_statistics_are_the_key_to_fighting_crime",
+  "video": {
+    "low": "http://download.ted.com/talks/AnneMilgram_2013S-light.mp4",
+    "medium": "http://download.ted.com/talks/AnneMilgram_2013S.mp4",
+    "high": "http://download.ted.com/talks/AnneMilgram_2013S-480p.mp4"
+  },
+  "viewCount": 791006,
+  "year": "2013"
+}

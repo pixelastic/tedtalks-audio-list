@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/TaiyeSelasi_2014G.mp3",
+  "author": "Taiye Selasi",
+  "dateFilmed": 1412640000,
+  "datePublished": 1443539368,
+  "description": "When someone asks you where you're from … do you sometimes not know how to answer? Writer Taiye Selasi speaks on behalf of \"multi-local\" people, who feel at home in the town where they grew up, the city they live now and maybe another place or two. \"How can I come from a country?\" she asks. \"How can a human being come from a concept?\"",
+  "duration": 991,
+  "event": "TEDGlobal 2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/13e6ec8601cf8e0705fa80ffb2c4e4fea204d1e4_2880x1620.jpg",
+  "keywords": [
+    "culture",
+    "humanity",
+    "identity",
+    "self",
+    "world cultures"
+  ],
+  "mainLanguage": null,
+  "objectID": 2333,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Inspiring": 892,
+    "Informative": 261,
+    "Ingenious": 195,
+    "Confusing": 23,
+    "Persuasive": 207,
+    "OK": 49,
+    "Beautiful": 409,
+    "Jaw-dropping": 24,
+    "Fascinating": 294,
+    "Funny": 12,
+    "Courageous": 88,
+    "Longwinded": 27,
+    "Unconvincing": 23,
+    "Obnoxious": 11
+  },
+  "slug": "taiye_selasi_don_t_ask_where_i_m_from_ask_where_i_m_a_local",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/13e6ec8601cf8e0705fa80ffb2c4e4fea204d1e4_2880x1620.jpg?quality=89&w=600",
+  "title": "Don't ask where I'm from, ask where I'm a local",
+  "url": "https://www.ted.com/talks/taiye_selasi_don_t_ask_where_i_m_from_ask_where_i_m_a_local",
+  "video": {
+    "low": "http://download.ted.com/talks/TaiyeSelasi_2014G-light.mp4",
+    "medium": "http://download.ted.com/talks/TaiyeSelasi_2014G.mp4",
+    "high": "http://download.ted.com/talks/TaiyeSelasi_2014G-480p.mp4"
+  },
+  "viewCount": 1560078,
+  "year": "2014"
+}

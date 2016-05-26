@@ -1,0 +1,51 @@
+{
+  "audio": "http://download.ted.com/talks/RayKurzweil_2014.mp3",
+  "author": "Ray Kurzweil",
+  "dateFilmed": 1395273600,
+  "datePublished": 1401721325,
+  "description": "Two hundred million years ago, our mammal ancestors developed a new brain feature: the neocortex. This stamp-sized piece of tissue (wrapped around a brain the size of a walnut) is the key to what humanity has become. Now, futurist Ray Kurzweil suggests, we should get ready for the next big leap in brain power, as we tap into the computing power in the cloud.",
+  "duration": 592,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/9bd2cc9f4130b1c408721e3d755e13d168cb38a0_1600x1200.jpg",
+  "keywords": [
+    "AI",
+    "TED Brain Trust",
+    "TED Conference",
+    "brain",
+    "cloud",
+    "evolution",
+    "future",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 2015,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 410,
+    "Ingenious": 130,
+    "Jaw-dropping": 161,
+    "Unconvincing": 60,
+    "OK": 97,
+    "Fascinating": 343,
+    "Inspiring": 194,
+    "Persuasive": 54,
+    "Courageous": 20,
+    "Confusing": 36,
+    "Longwinded": 26,
+    "Obnoxious": 10,
+    "Beautiful": 19,
+    "Funny": 20
+  },
+  "slug": "ray_kurzweil_get_ready_for_hybrid_thinking",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/9bd2cc9f4130b1c408721e3d755e13d168cb38a0_1600x1200.jpg?quality=89&w=600",
+  "title": "Get ready for hybrid thinking",
+  "url": "https://www.ted.com/talks/ray_kurzweil_get_ready_for_hybrid_thinking",
+  "video": {
+    "low": "http://download.ted.com/talks/RayKurzweil_2014-light.mp4",
+    "medium": "http://download.ted.com/talks/RayKurzweil_2014.mp4",
+    "high": "http://download.ted.com/talks/RayKurzweil_2014-480p.mp4"
+  },
+  "viewCount": 1701622,
+  "year": "2014"
+}

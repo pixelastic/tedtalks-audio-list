@@ -1,0 +1,49 @@
+{
+  "audio": "http://download.ted.com/talks/HyeonseoLee_2013.mp3",
+  "author": "Hyeonseo Lee",
+  "dateFilmed": 1362009600,
+  "datePublished": 1363791588,
+  "description": "As a child growing up in North Korea, Hyeonseo Lee thought her country was “the best on the planet.” It wasn't until the famine of the 90s that she began to wonder. She escaped the country at 14, to begin a life in hiding, as a refugee in China. Hers is a harrowing, personal tale of survival and hope -- and a powerful reminder of those who face constant danger, even when the border is far behind. ",
+  "duration": 735,
+  "event": "TED2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2b3f77f722515fca6436901cb0b9f791beaa938a_1600x1200.jpg",
+  "keywords": [
+    "Asia",
+    "culture",
+    "family",
+    "global issues",
+    "politics"
+  ],
+  "mainLanguage": null,
+  "objectID": 1694,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified"
+  },
+  "ratings": {
+    "Jaw-dropping": 431,
+    "Confusing": 43,
+    "Longwinded": 19,
+    "Obnoxious": 12,
+    "Courageous": 1753,
+    "Inspiring": 1046,
+    "Persuasive": 97,
+    "Informative": 326,
+    "Fascinating": 286,
+    "Beautiful": 273,
+    "OK": 113,
+    "Funny": 28,
+    "Ingenious": 26,
+    "Unconvincing": 29
+  },
+  "slug": "hyeonseo_lee_my_escape_from_north_korea",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2b3f77f722515fca6436901cb0b9f791beaa938a_1600x1200.jpg?quality=89&w=600",
+  "title": "My escape from North Korea",
+  "url": "https://www.ted.com/talks/hyeonseo_lee_my_escape_from_north_korea",
+  "video": {
+    "low": "http://download.ted.com/talks/HyeonseoLee_2013-light.mp4",
+    "medium": "http://download.ted.com/talks/HyeonseoLee_2013.mp4",
+    "high": "http://download.ted.com/talks/HyeonseoLee_2013-480p.mp4"
+  },
+  "viewCount": 5466754,
+  "year": "2013"
+}

@@ -1,0 +1,61 @@
+{
+  "audio": "http://download.ted.com/talks/EuvinNaidoo_2007G.mp3",
+  "author": "Euvin Naidoo",
+  "dateFilmed": 1180915200,
+  "datePublished": 1185895440,
+  "description": "South African investment banker Euvin Naidoo explains why investing in Africa can make great business sense.",
+  "duration": 1141,
+  "event": "TEDGlobal 2007",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/13909_480x360.jpg",
+  "keywords": [
+    "Africa",
+    "business",
+    "entrepreneur",
+    "global issues",
+    "investment"
+  ],
+  "mainLanguage": null,
+  "objectID": 154,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified",
+    "zh-tw": "Chinese, Traditional",
+    "en": "English",
+    "fr": "French",
+    "de": "German",
+    "el": "Greek",
+    "he": "Hebrew",
+    "it": "Italian",
+    "ko": "Korean",
+    "ro": "Romanian",
+    "ru": "Russian",
+    "sk": "Slovak",
+    "es": "Spanish"
+  },
+  "ratings": {
+    "Inspiring": 113,
+    "Informative": 98,
+    "Ingenious": 28,
+    "Fascinating": 33,
+    "Courageous": 8,
+    "Longwinded": 16,
+    "Unconvincing": 11,
+    "OK": 16,
+    "Persuasive": 34,
+    "Obnoxious": 3,
+    "Jaw-dropping": 5,
+    "Beautiful": 6,
+    "Confusing": 1,
+    "Funny": 1
+  },
+  "slug": "euvin_naidoo_on_investing_in_africa",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/13909_480x360.jpg?quality=89&w=600",
+  "title": "Why invest in Africa",
+  "url": "https://www.ted.com/talks/euvin_naidoo_on_investing_in_africa",
+  "video": {
+    "low": "http://download.ted.com/talks/EuvinNaidoo_2007G-light.mp4",
+    "medium": "http://download.ted.com/talks/EuvinNaidoo_2007G.mp4",
+    "high": "http://download.ted.com/talks/EuvinNaidoo_2007G-480p.mp4"
+  },
+  "viewCount": 270521,
+  "year": "2007"
+}

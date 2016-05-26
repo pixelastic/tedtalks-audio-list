@@ -1,0 +1,50 @@
+{
+  "audio": "http://download.ted.com/talks/JoeSabia_2011S.mp3",
+  "author": "Joe Sabia",
+  "dateFilmed": 1306195200,
+  "datePublished": 1322064664,
+  "description": "iPad storyteller Joe Sabia introduces us to Lothar Meggendorfer, who created a bold technology for storytelling: the pop-up book. Sabia shows how new technology has always helped us tell our own stories, from the walls of caves to his own onstage iPad. \r\n",
+  "duration": 231,
+  "event": "Full Spectrum Auditions",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/6b976501c4fcaa2f02e201a86922526bc87253e4_2880x1620.jpg",
+  "keywords": [
+    "creativity",
+    "design",
+    "entertainment",
+    "storytelling",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 1282,
+  "otherLanguages": {
+    "my": "Burmese",
+    "ta": "Tamil"
+  },
+  "ratings": {
+    "Funny": 365,
+    "Informative": 129,
+    "Fascinating": 99,
+    "Ingenious": 133,
+    "Jaw-dropping": 19,
+    "Beautiful": 58,
+    "Confusing": 26,
+    "Unconvincing": 169,
+    "OK": 195,
+    "Obnoxious": 101,
+    "Persuasive": 18,
+    "Inspiring": 69,
+    "Longwinded": 30,
+    "Courageous": 11
+  },
+  "slug": "joe_sabia_the_technology_of_storytelling",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/6b976501c4fcaa2f02e201a86922526bc87253e4_2880x1620.jpg?quality=89&w=600",
+  "title": "The technology of storytelling",
+  "url": "https://www.ted.com/talks/joe_sabia_the_technology_of_storytelling",
+  "video": {
+    "low": "http://download.ted.com/talks/JoeSabia_2011S-light.mp4",
+    "medium": "http://download.ted.com/talks/JoeSabia_2011S.mp4",
+    "high": "http://download.ted.com/talks/JoeSabia_2011S-480p.mp4"
+  },
+  "viewCount": 959423,
+  "year": "2011"
+}

@@ -1,0 +1,47 @@
+{
+  "audio": null,
+  "author": "Richard Feynman",
+  "dateFilmed": 426531600,
+  "datePublished": 1267631820,
+  "description": "In this archival footage from BBC TV, celebrated physicist Richard Feynman explains what fire, magnets, rubber bands (and more) are like at the scale of the jiggling atoms they're made of. This accessible, enchanting conversation in physics reveals a teeming nano-world that's just plain fun to imagine.",
+  "duration": 3955,
+  "event": "BBC TV",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/154735_800x600.jpg",
+  "keywords": [
+    "astronomy",
+    "physics",
+    "science"
+  ],
+  "mainLanguage": null,
+  "objectID": 784,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 296,
+    "Fascinating": 321,
+    "Inspiring": 282,
+    "Beautiful": 154,
+    "Ingenious": 122,
+    "Persuasive": 43,
+    "Funny": 127,
+    "Jaw-dropping": 49,
+    "OK": 38,
+    "Longwinded": 14,
+    "Confusing": 5,
+    "Obnoxious": 6,
+    "Courageous": 12,
+    "Unconvincing": 0
+  },
+  "slug": "richard_feynman",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/154735_800x600.jpg?quality=89&w=600",
+  "title": "Physics is fun to imagine",
+  "url": "https://www.ted.com/talks/richard_feynman",
+  "video": {
+    "youtube": {
+      "id": "4zZbX_9ru9U",
+      "url": "http://www.youtube.com/watch?v=v3pYRn5j7oI"
+    }
+  },
+  "viewCount": 477154,
+  "year": "1983"
+}

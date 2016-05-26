@@ -1,0 +1,51 @@
+{
+  "audio": "http://download.ted.com/talks/TaylorWilson_2013.mp3",
+  "author": "Taylor Wilson",
+  "dateFilmed": 1361923200,
+  "datePublished": 1367334082,
+  "description": "Taylor Wilson was 14 when he built a nuclear fusion reactor in his parents' garage. Now 19, he returns to the TED stage to present a new take on an old topic: fission. Wilson, who has won backing to create a company to realize his vision, explains why he's so excited about his innovative design for small modular fission reactors -- and why it could be the next big step in solving the global energy crisis. ",
+  "duration": 773,
+  "event": "TED2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a39d3332aa3d0cabe2e4c20ffb1a3934c012ee8b_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "innovation",
+    "nuclear energy",
+    "physics",
+    "science",
+    "technology",
+    "youth"
+  ],
+  "mainLanguage": null,
+  "objectID": 1727,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified"
+  },
+  "ratings": {
+    "Confusing": 24,
+    "Ingenious": 428,
+    "Jaw-dropping": 318,
+    "Fascinating": 251,
+    "Informative": 179,
+    "Inspiring": 219,
+    "Unconvincing": 81,
+    "Obnoxious": 51,
+    "Persuasive": 138,
+    "Courageous": 59,
+    "Longwinded": 23,
+    "OK": 40,
+    "Funny": 15,
+    "Beautiful": 35
+  },
+  "slug": "taylor_wilson_my_radical_plan_for_small_nuclear_fission_reactors",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a39d3332aa3d0cabe2e4c20ffb1a3934c012ee8b_1600x1200.jpg?quality=89&w=600",
+  "title": "My radical plan for small nuclear fission reactors",
+  "url": "https://www.ted.com/talks/taylor_wilson_my_radical_plan_for_small_nuclear_fission_reactors",
+  "video": {
+    "low": "http://download.ted.com/talks/TaylorWilson_2013-light.mp4",
+    "medium": "http://download.ted.com/talks/TaylorWilson_2013.mp4",
+    "high": "http://download.ted.com/talks/TaylorWilson_2013-480p.mp4"
+  },
+  "viewCount": 1380425,
+  "year": "2013"
+}

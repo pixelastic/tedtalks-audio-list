@@ -1,0 +1,62 @@
+{
+  "audio": null,
+  "author": "David Kelley",
+  "dateFilmed": 1012608000,
+  "datePublished": 1179223200,
+  "description": "IDEO’s David Kelley says that product design has become much less about the hardware and more about the user experience. He shows video of this new, broader approach, including footage from the Prada store in New York.",
+  "duration": 1020,
+  "event": "TED2002",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7951_480x360.jpg",
+  "keywords": [
+    "TED Conference",
+    "arts",
+    "collaboration",
+    "creativity",
+    "culture",
+    "design",
+    "museums",
+    "philanthropy",
+    "water"
+  ],
+  "mainLanguage": null,
+  "objectID": 122,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified",
+    "zh-tw": "Chinese, Traditional",
+    "en": "English",
+    "fr": "French",
+    "it": "Italian",
+    "ja": "Japanese",
+    "ko": "Korean",
+    "pt": "Portuguese",
+    "pt-br": "Portuguese, Brazilian",
+    "es": "Spanish"
+  },
+  "ratings": {
+    "Beautiful": 32,
+    "Ingenious": 67,
+    "Funny": 39,
+    "Longwinded": 25,
+    "Confusing": 7,
+    "Informative": 106,
+    "Inspiring": 130,
+    "Unconvincing": 29,
+    "Fascinating": 72,
+    "OK": 48,
+    "Courageous": 8,
+    "Jaw-dropping": 9,
+    "Obnoxious": 6,
+    "Persuasive": 13
+  },
+  "slug": "david_kelley_on_human_centered_design",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7951_480x360.jpg?quality=89&w=600",
+  "title": "Human-centered design",
+  "url": "https://www.ted.com/talks/david_kelley_on_human_centered_design",
+  "video": {
+    "low": "http://download.ted.com/talks/DavidKelley_2002-light.mp4",
+    "medium": "http://download.ted.com/talks/DavidKelley_2002.mp4",
+    "high": "http://download.ted.com/talks/DavidKelley_2002-480p.mp4"
+  },
+  "viewCount": 680185,
+  "year": "2002"
+}

@@ -1,0 +1,50 @@
+{
+  "audio": "http://download.ted.com/talks/BruceAylward_2014X.mp3",
+  "author": "Bruce Aylward",
+  "dateFilmed": 1418256000,
+  "datePublished": 1422979247,
+  "description": "“Ebola threatens everything that makes us human,” says Bruce Aylward of the World Health Organization. And when the Ebola epidemic exploded in 2014, it caused a worldwide panic. But humanity can beat Ebola -- and Aylward shows four strategies that show how we are succeeding. The fight against Ebola is not yet won, he says, but it can be.",
+  "duration": 1151,
+  "event": "TEDxPlaceDesNations",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/feb20ff7066bfae475458b02519cbda9523c3ed8_2880x1620.jpg",
+  "keywords": [
+    "TEDx",
+    "disease",
+    "ebola",
+    "epidemiology",
+    "health",
+    "public health",
+    "virus"
+  ],
+  "mainLanguage": null,
+  "objectID": 2177,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 171,
+    "Inspiring": 60,
+    "Persuasive": 40,
+    "OK": 16,
+    "Beautiful": 7,
+    "Ingenious": 4,
+    "Unconvincing": 8,
+    "Obnoxious": 3,
+    "Courageous": 21,
+    "Longwinded": 12,
+    "Fascinating": 22,
+    "Funny": 3,
+    "Jaw-dropping": 4,
+    "Confusing": 3
+  },
+  "slug": "bruce_aylward_humanity_vs_ebola_the_winning_strategies_in_a_terrifying_war",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/feb20ff7066bfae475458b02519cbda9523c3ed8_2880x1620.jpg?quality=89&w=600",
+  "title": "Humanity vs. Ebola. How we could win a terrifying war",
+  "url": "https://www.ted.com/talks/bruce_aylward_humanity_vs_ebola_the_winning_strategies_in_a_terrifying_war",
+  "video": {
+    "low": "http://download.ted.com/talks/BruceAylward_2014X-light.mp4",
+    "medium": "http://download.ted.com/talks/BruceAylward_2014X.mp4",
+    "high": "http://download.ted.com/talks/BruceAylward_2014X-480p.mp4"
+  },
+  "viewCount": 807707,
+  "year": "2014"
+}

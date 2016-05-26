@@ -1,0 +1,56 @@
+{
+  "audio": null,
+  "author": "Bill Gross",
+  "dateFilmed": 1044144000,
+  "datePublished": 1233593580,
+  "description": "Bill Gross, the founder of Idealab, talks about his life as an inventor, starting with his high-school company selling solar energy plans and kits. Learn here about a groundbreaking system for solar cells -- and some questions we haven't yet solved.",
+  "duration": 1195,
+  "event": "TED2003",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/68608_800x600.jpg",
+  "keywords": [
+    "TED Conference",
+    "energy",
+    "invention",
+    "solar energy",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 450,
+  "otherLanguages": {
+    "bg": "Bulgarian",
+    "zh-cn": "Chinese, Simplified",
+    "en": "English",
+    "hu": "Hungarian",
+    "ko": "Korean",
+    "pt": "Portuguese",
+    "th": "Thai",
+    "tr": "Turkish"
+  },
+  "ratings": {
+    "Persuasive": 98,
+    "Ingenious": 387,
+    "OK": 36,
+    "Inspiring": 178,
+    "Fascinating": 174,
+    "Informative": 178,
+    "Longwinded": 28,
+    "Beautiful": 10,
+    "Courageous": 18,
+    "Unconvincing": 15,
+    "Jaw-dropping": 67,
+    "Confusing": 5,
+    "Obnoxious": 7,
+    "Funny": 3
+  },
+  "slug": "bill_gross_on_new_energy",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/68608_800x600.jpg?quality=89&w=600",
+  "title": "A solar energy system that tracks the sun",
+  "url": "https://www.ted.com/talks/bill_gross_on_new_energy",
+  "video": {
+    "low": "http://download.ted.com/talks/BillGross_2003-light.mp4",
+    "medium": "http://download.ted.com/talks/BillGross_2003.mp4",
+    "high": "http://download.ted.com/talks/BillGross_2003-480p.mp4"
+  },
+  "viewCount": 592061,
+  "year": "2003"
+}

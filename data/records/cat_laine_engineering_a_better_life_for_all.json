@@ -1,0 +1,51 @@
+{
+  "audio": null,
+  "author": "Cat Laine",
+  "dateFilmed": 1254873600,
+  "datePublished": 1261572540,
+  "description": "At the BIF innovation summit, Cat Laine draws on the Greek myth of Tantalus to explain the frustration developing countries face. She shows how we might help communities rich in human capital, but poor in resources and infrastructure, with cleverly engineered solutions.",
+  "duration": 889,
+  "event": "Business Innovation Factory",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/137579_240x180.jpg",
+  "keywords": [
+    "business",
+    "creativity",
+    "development",
+    "engineering",
+    "infrastructure",
+    "innovation",
+    "poverty"
+  ],
+  "mainLanguage": null,
+  "objectID": 722,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Fascinating": 39,
+    "Beautiful": 20,
+    "Persuasive": 61,
+    "Inspiring": 126,
+    "Courageous": 33,
+    "Longwinded": 51,
+    "Jaw-dropping": 19,
+    "Funny": 11,
+    "Informative": 123,
+    "Ingenious": 56,
+    "OK": 44,
+    "Obnoxious": 23,
+    "Confusing": 15,
+    "Unconvincing": 22
+  },
+  "slug": "cat_laine_engineering_a_better_life_for_all",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/137579_240x180.jpg?quality=89&w=600",
+  "title": "Engineering a better life for all",
+  "url": "https://www.ted.com/talks/cat_laine_engineering_a_better_life_for_all",
+  "video": {
+    "youtube": {
+      "id": "cuN2etCCkhA",
+      "url": "http://businessinnovationfactory.com/iss/video/bif4-cat-laine"
+    }
+  },
+  "viewCount": 150818,
+  "year": "2009"
+}

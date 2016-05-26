@@ -1,0 +1,51 @@
+{
+  "audio": "http://download.ted.com/talks/DariavandenBercken_2014S.mp3",
+  "author": "Daria van den Bercken",
+  "dateFilmed": 1403568000,
+  "datePublished": 1412348486,
+  "description": "Pianist Daria van den Bercken fell in love with the baroque keyboard music of George Frideric Handel. Now, she aims to ignite this passion in others. In this talk, she plays us through the emotional roller coaster of his music — while sailing with her piano through the air, driving it down the street, and of course playing on the stage.",
+  "duration": 570,
+  "event": "TEDSalon Berlin 2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/f0b2de54d5276e863d96cd736902cad23052e554_2880x1620.jpg",
+  "keywords": [
+    "music",
+    "piano"
+  ],
+  "mainLanguage": null,
+  "objectID": 2100,
+  "otherLanguages": {
+    "ar": "Arabic",
+    "nl": "Dutch",
+    "el": "Greek",
+    "lv": "Latvian",
+    "uk": "Ukrainian",
+    "vi": "Vietnamese"
+  },
+  "ratings": {
+    "Beautiful": 557,
+    "Fascinating": 145,
+    "Jaw-dropping": 50,
+    "Ingenious": 38,
+    "Inspiring": 236,
+    "Courageous": 41,
+    "OK": 42,
+    "Informative": 20,
+    "Unconvincing": 2,
+    "Persuasive": 22,
+    "Funny": 18,
+    "Obnoxious": 8,
+    "Longwinded": 1,
+    "Confusing": 0
+  },
+  "slug": "daria_van_den_bercken_why_i_take_the_piano_on_the_road_and_in_the_air",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/f0b2de54d5276e863d96cd736902cad23052e554_2880x1620.jpg?quality=89&w=600",
+  "title": "Why I take the piano on the road … and in the air",
+  "url": "https://www.ted.com/talks/daria_van_den_bercken_why_i_take_the_piano_on_the_road_and_in_the_air",
+  "video": {
+    "low": "http://download.ted.com/talks/DariavandenBercken_2014S-light.mp4",
+    "medium": "http://download.ted.com/talks/DariavandenBercken_2014S.mp4",
+    "high": "http://download.ted.com/talks/DariavandenBercken_2014S-480p.mp4"
+  },
+  "viewCount": 859096,
+  "year": "2014"
+}

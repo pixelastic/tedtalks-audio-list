@@ -1,0 +1,50 @@
+{
+  "audio": null,
+  "author": "Michael Stevens",
+  "dateFilmed": 1362009600,
+  "datePublished": 1366815569,
+  "description": "What color is a mirror? How much does a video weigh? Michael Stevens, creator of the popular educational YouTube channel Vsauce, spends his day asking quirky questions like these. In this talk he shows how asking the right -- seemingly silly -- questions can make incredibly effective lessons.",
+  "duration": 441,
+  "event": "TED-Ed",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e5939f2b5a88625d98f0dbd402759cc5c6e8d0f7_1600x1200.jpg",
+  "keywords": [
+    "Internet",
+    "TED-Ed",
+    "education",
+    "humor",
+    "science",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 1723,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Fascinating": 157,
+    "Informative": 184,
+    "Funny": 93,
+    "Ingenious": 57,
+    "Inspiring": 68,
+    "OK": 69,
+    "Persuasive": 30,
+    "Obnoxious": 15,
+    "Longwinded": 16,
+    "Unconvincing": 20,
+    "Beautiful": 24,
+    "Jaw-dropping": 8,
+    "Courageous": 4,
+    "Confusing": 20
+  },
+  "slug": "how_much_does_a_video_weigh",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e5939f2b5a88625d98f0dbd402759cc5c6e8d0f7_1600x1200.jpg?quality=89&w=600",
+  "title": "How much does a video weigh?",
+  "url": "https://www.ted.com/talks/how_much_does_a_video_weigh",
+  "video": {
+    "youtube": {
+      "id": "yzQDFKY2uEI",
+      "url": null
+    }
+  },
+  "viewCount": 177868,
+  "year": "2013"
+}

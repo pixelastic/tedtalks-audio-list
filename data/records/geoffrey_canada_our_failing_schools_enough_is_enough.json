@@ -1,0 +1,46 @@
+{
+  "audio": "http://download.ted.com/talks/GeoffreyCanada_2013S.mp3",
+  "author": "Geoffrey Canada",
+  "dateFilmed": 1367884800,
+  "datePublished": 1368025681,
+  "description": "Why, why, why does our education system look so similar to the way it did 50 years ago? Millions of students were failing then, as they are now -- and it’s because we’re clinging to a business model that clearly doesn’t work. Education advocate Geoffrey Canada dares the system to look at the data, think about the customers and make systematic shifts in order to help greater numbers of kids excel. ",
+  "duration": 1027,
+  "event": "TED Talks Education",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/3c01ad67e5062e6fe35c36a12ac28fce058b3eba_1600x1200.jpg",
+  "keywords": [
+    "business",
+    "children",
+    "education"
+  ],
+  "mainLanguage": null,
+  "objectID": 1732,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Persuasive": 348,
+    "Inspiring": 486,
+    "Funny": 202,
+    "Fascinating": 89,
+    "Courageous": 148,
+    "OK": 38,
+    "Informative": 188,
+    "Obnoxious": 9,
+    "Ingenious": 40,
+    "Beautiful": 31,
+    "Jaw-dropping": 38,
+    "Unconvincing": 9,
+    "Longwinded": 9,
+    "Confusing": 6
+  },
+  "slug": "geoffrey_canada_our_failing_schools_enough_is_enough",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/3c01ad67e5062e6fe35c36a12ac28fce058b3eba_1600x1200.jpg?quality=89&w=600",
+  "title": "Our failing schools. Enough is enough!",
+  "url": "https://www.ted.com/talks/geoffrey_canada_our_failing_schools_enough_is_enough",
+  "video": {
+    "low": "http://download.ted.com/talks/GeoffreyCanada_2013S-light.mp4",
+    "medium": "http://download.ted.com/talks/GeoffreyCanada_2013S.mp4",
+    "high": "http://download.ted.com/talks/GeoffreyCanada_2013S-480p.mp4"
+  },
+  "viewCount": 1558203,
+  "year": "2013"
+}

@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/Teitur_2015.mp3",
+  "author": "Teitur",
+  "dateFilmed": 1426723200,
+  "datePublished": 1444403905,
+  "description": "For musician Teitur, singing is about giving away a piece of yourself to others. \"If your intentions are to impress people or to get the big applause at the end,\" he says, \"then you are taking, not giving.\" Listen as he plays on stage at TED2015, offering two songs about love, distance and home.",
+  "duration": 649,
+  "event": "TED2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8a93dd2e23f0b10e2dbb2bb352dfab11a2a083bc_2880x1620.jpg",
+  "keywords": [
+    "guitar",
+    "live music",
+    "music",
+    "performance",
+    "piano"
+  ],
+  "mainLanguage": null,
+  "objectID": 2345,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 268,
+    "Inspiring": 86,
+    "Fascinating": 50,
+    "OK": 29,
+    "Obnoxious": 5,
+    "Persuasive": 5,
+    "Unconvincing": 6,
+    "Ingenious": 6,
+    "Funny": 2,
+    "Informative": 12,
+    "Confusing": 13,
+    "Courageous": 10,
+    "Longwinded": 5,
+    "Jaw-dropping": 1
+  },
+  "slug": "teitur_home_is_a_song_i_ve_always_remembered",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8a93dd2e23f0b10e2dbb2bb352dfab11a2a083bc_2880x1620.jpg?quality=89&w=600",
+  "title": "Home is a song I've always remembered",
+  "url": "https://www.ted.com/talks/teitur_home_is_a_song_i_ve_always_remembered",
+  "video": {
+    "low": "http://download.ted.com/talks/Teitur_2015-light.mp4",
+    "medium": "http://download.ted.com/talks/Teitur_2015.mp4",
+    "high": "http://download.ted.com/talks/Teitur_2015-480p.mp4"
+  },
+  "viewCount": 952364,
+  "year": "2015"
+}

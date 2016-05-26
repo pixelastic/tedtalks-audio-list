@@ -1,0 +1,61 @@
+{
+  "audio": "http://download.ted.com/talks/ArvindGupta_2010P.mp3",
+  "author": "Arvind Gupta",
+  "dateFilmed": 1291852800,
+  "datePublished": 1304088660,
+  "description": "At the INK Conference, Arvind Gupta shares simple yet stunning plans for turning trash into seriously entertaining, well-designed toys that kids can build themselves -- while learning basic principles of science and design. ",
+  "duration": 930,
+  "event": "INK Conference",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/4427fe46abb679f8747d48ce9bc3b7f60913f4e6_800x600.jpg",
+  "keywords": [
+    "design",
+    "education",
+    "play",
+    "science",
+    "technology",
+    "toy"
+  ],
+  "mainLanguage": null,
+  "objectID": 1135,
+  "otherLanguages": {
+    "ar": "Arabic",
+    "hy": "Armenian",
+    "zh-tw": "Chinese, Traditional",
+    "cs": "Czech",
+    "da": "Danish",
+    "fr": "French",
+    "lv": "Latvian",
+    "mr": "Marathi",
+    "ru": "Russian",
+    "sk": "Slovak",
+    "tr": "Turkish",
+    "vi": "Vietnamese"
+  },
+  "ratings": {
+    "Fascinating": 347,
+    "Informative": 159,
+    "Inspiring": 682,
+    "Ingenious": 454,
+    "Jaw-dropping": 123,
+    "OK": 49,
+    "Beautiful": 172,
+    "Funny": 141,
+    "Unconvincing": 6,
+    "Courageous": 49,
+    "Persuasive": 65,
+    "Confusing": 13,
+    "Longwinded": 13,
+    "Obnoxious": 1
+  },
+  "slug": "arvind_gupta_turning_trash_into_toys_for_learning",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/4427fe46abb679f8747d48ce9bc3b7f60913f4e6_800x600.jpg?quality=89&w=600",
+  "title": "Turning trash into toys for learning",
+  "url": "https://www.ted.com/talks/arvind_gupta_turning_trash_into_toys_for_learning",
+  "video": {
+    "low": "http://download.ted.com/talks/ArvindGupta_2010P-light.mp4",
+    "medium": "http://download.ted.com/talks/ArvindGupta_2010P.mp4",
+    "high": "http://download.ted.com/talks/ArvindGupta_2010P-480p.mp4"
+  },
+  "viewCount": 1234355,
+  "year": "2010"
+}

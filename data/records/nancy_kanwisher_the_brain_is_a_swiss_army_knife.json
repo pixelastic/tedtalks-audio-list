@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/NancyKanwisher_2014.mp3",
+  "author": "Nancy Kanwisher",
+  "dateFilmed": 1394755200,
+  "datePublished": 1412211660,
+  "description": "Brain imaging pioneer Nancy Kanwisher, who uses fMRI scans to see activity in brain regions (often her own), shares what she and her colleagues have learned: The brain is made up of both highly specialized components and general-purpose \"machinery.\" Another surprise: There's so much left to learn.",
+  "duration": 1060,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/808f160318137a04e794f9ed584c3bc20fd151dc_2880x1620.jpg",
+  "keywords": [
+    "TED Conference",
+    "brain",
+    "neuroscience",
+    "visualizations"
+  ],
+  "mainLanguage": null,
+  "objectID": 2077,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 128,
+    "Informative": 476,
+    "Fascinating": 456,
+    "Inspiring": 123,
+    "Jaw-dropping": 44,
+    "Ingenious": 79,
+    "Persuasive": 64,
+    "Funny": 6,
+    "OK": 34,
+    "Courageous": 10,
+    "Obnoxious": 3,
+    "Longwinded": 8,
+    "Unconvincing": 16,
+    "Confusing": 0
+  },
+  "slug": "nancy_kanwisher_the_brain_is_a_swiss_army_knife",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/808f160318137a04e794f9ed584c3bc20fd151dc_2880x1620.jpg?quality=89&w=600",
+  "title": "A neural portrait of the human mind",
+  "url": "https://www.ted.com/talks/nancy_kanwisher_the_brain_is_a_swiss_army_knife",
+  "video": {
+    "low": "http://download.ted.com/talks/NancyKanwisher_2014-light.mp4",
+    "medium": "http://download.ted.com/talks/NancyKanwisher_2014.mp4",
+    "high": "http://download.ted.com/talks/NancyKanwisher_2014-480p.mp4"
+  },
+  "viewCount": 980474,
+  "year": "2014"
+}

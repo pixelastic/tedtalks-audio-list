@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/JaySilver_2013S.mp3",
+  "author": "Jay Silver",
+  "dateFilmed": 1366761600,
+  "datePublished": 1368716779,
+  "description": "Why can't two slices of pizza be used as a slide clicker? Why shouldn't you make music with ketchup? In this charming talk, inventor Jay Silver talks about the urge to play with the world around you. He shares some of his messiest inventions, and demos MaKey MaKey, a kit for hacking everyday objects.",
+  "duration": 795,
+  "event": "TEDSalon NY2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/cb0aee115b8488a71c0a932ad05feb8df23def61_1600x1200.jpg",
+  "keywords": [
+    "creativity",
+    "invention",
+    "technology",
+    "toy"
+  ],
+  "mainLanguage": null,
+  "objectID": 1743,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Ingenious": 469,
+    "Fascinating": 316,
+    "Beautiful": 68,
+    "Unconvincing": 15,
+    "Funny": 270,
+    "Inspiring": 473,
+    "Informative": 62,
+    "Jaw-dropping": 187,
+    "Longwinded": 4,
+    "Persuasive": 51,
+    "Obnoxious": 9,
+    "Courageous": 26,
+    "OK": 18,
+    "Confusing": 9
+  },
+  "slug": "jay_silver_hack_a_banana_make_a_keyboard",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/cb0aee115b8488a71c0a932ad05feb8df23def61_1600x1200.jpg?quality=89&w=600",
+  "title": "Hack a banana, make a keyboard!",
+  "url": "https://www.ted.com/talks/jay_silver_hack_a_banana_make_a_keyboard",
+  "video": {
+    "low": "http://download.ted.com/talks/JaySilver_2013S-light.mp4",
+    "medium": "http://download.ted.com/talks/JaySilver_2013S.mp4",
+    "high": "http://download.ted.com/talks/JaySilver_2013S-480p.mp4"
+  },
+  "viewCount": 1216344,
+  "year": "2013"
+}

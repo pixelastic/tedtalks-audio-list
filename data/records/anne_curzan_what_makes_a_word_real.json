@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/AnneCurzan_2014X.mp3",
+  "author": "Anne Curzan ",
+  "dateFilmed": 1394841600,
+  "datePublished": 1403016753,
+  "description": "One could argue that slang words like ‘hangry,’ ‘defriend’ and ‘adorkable’ fill crucial meaning gaps in the English language, even if they don't appear in the dictionary. After all, who actually decides which words make it into those pages? Language historian Anne Curzan gives a charming look at the humans behind dictionaries, and the choices they make.",
+  "duration": 1033,
+  "event": "TEDxUofM",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/1a66dc4c95d485cb2d14363a1a6e052325520093_2400x1800.jpg",
+  "keywords": [
+    "TEDx",
+    "culture",
+    "language"
+  ],
+  "mainLanguage": null,
+  "objectID": 2022,
+  "otherLanguages": {
+    "zh-tw": "Chinese, Traditional"
+  },
+  "ratings": {
+    "Informative": 523,
+    "Fascinating": 365,
+    "Persuasive": 174,
+    "Funny": 309,
+    "Inspiring": 148,
+    "Beautiful": 39,
+    "Ingenious": 63,
+    "OK": 59,
+    "Longwinded": 14,
+    "Obnoxious": 4,
+    "Unconvincing": 10,
+    "Confusing": 7,
+    "Courageous": 14,
+    "Jaw-dropping": 8
+  },
+  "slug": "anne_curzan_what_makes_a_word_real",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/1a66dc4c95d485cb2d14363a1a6e052325520093_2400x1800.jpg?quality=89&w=600",
+  "title": "What makes a word \"real\"?",
+  "url": "https://www.ted.com/talks/anne_curzan_what_makes_a_word_real",
+  "video": {
+    "low": "http://download.ted.com/talks/AnneCurzan_2014X-light.mp4",
+    "medium": "http://download.ted.com/talks/AnneCurzan_2014X.mp4",
+    "high": "http://download.ted.com/talks/AnneCurzan_2014X-480p.mp4"
+  },
+  "viewCount": 1398037,
+  "year": "2014"
+}

@@ -1,0 +1,50 @@
+{
+  "audio": "http://download.ted.com/talks/LaurelBraitman_2014S.mp3",
+  "author": "Laurel Braitman",
+  "dateFilmed": 1405468800,
+  "datePublished": 1408631357,
+  "description": "Behind those funny animal videos, sometimes, are oddly human-like problems. Laurel Braitman studies non-human animals who exhibit signs of mental health issues -- from compulsive bears to self-destructive rats to monkeys with unlikely friends. Braitman asks what we as humans can learn from watching animals cope with depression, sadness and other all-too-human problems.",
+  "duration": 1169,
+  "event": "TEDSalon NY2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/da973f3e8e459fb12072656aeb2d7f56fcbe398b_2400x1800.jpg",
+  "keywords": [
+    "TED Fellows",
+    "animals",
+    "health",
+    "history",
+    "mental health",
+    "psychology",
+    "science"
+  ],
+  "mainLanguage": null,
+  "objectID": 2066,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 303,
+    "Informative": 410,
+    "Inspiring": 364,
+    "Longwinded": 27,
+    "OK": 43,
+    "Funny": 143,
+    "Fascinating": 296,
+    "Persuasive": 89,
+    "Courageous": 28,
+    "Obnoxious": 12,
+    "Jaw-dropping": 8,
+    "Confusing": 11,
+    "Ingenious": 13,
+    "Unconvincing": 19
+  },
+  "slug": "laurel_braitman_depressed_dogs_cats_with_ocd_what_animal_madness_means_for_us_humans",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/da973f3e8e459fb12072656aeb2d7f56fcbe398b_2400x1800.jpg?quality=89&w=600",
+  "title": "Depressed dogs, cats with OCD — what animal madness means for us humans",
+  "url": "https://www.ted.com/talks/laurel_braitman_depressed_dogs_cats_with_ocd_what_animal_madness_means_for_us_humans",
+  "video": {
+    "low": "http://download.ted.com/talks/LaurelBraitman_2014S-light.mp4",
+    "medium": "http://download.ted.com/talks/LaurelBraitman_2014S.mp4",
+    "high": "http://download.ted.com/talks/LaurelBraitman_2014S-480p.mp4"
+  },
+  "viewCount": 1246329,
+  "year": "2014"
+}

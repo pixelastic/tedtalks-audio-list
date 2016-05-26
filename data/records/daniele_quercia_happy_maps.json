@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/DanieleQuercia_2014S.mp3",
+  "author": "Daniele Quercia",
+  "dateFilmed": 1415577600,
+  "datePublished": 1420560134,
+  "description": "Mapping apps help us find the fastest route to where we’re going. But what if we’d rather wander? Researcher Daniele Quercia demos “happy maps” that take into account not only the route you want to take, but how you want to feel along the way.",
+  "duration": 440,
+  "event": "TED@BCG Berlin",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/526bdf2a9e90114041ede34abfa9fec6992f1e77_2880x1620.jpg",
+  "keywords": [
+    "cities",
+    "design",
+    "happiness",
+    "map",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 2162,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 422,
+    "Ingenious": 257,
+    "Fascinating": 290,
+    "Informative": 171,
+    "Inspiring": 705,
+    "Longwinded": 8,
+    "Unconvincing": 20,
+    "OK": 73,
+    "Persuasive": 142,
+    "Courageous": 20,
+    "Funny": 78,
+    "Jaw-dropping": 7,
+    "Confusing": 2,
+    "Obnoxious": 3
+  },
+  "slug": "daniele_quercia_happy_maps",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/526bdf2a9e90114041ede34abfa9fec6992f1e77_2880x1620.jpg?quality=89&w=600",
+  "title": "Happy maps",
+  "url": "https://www.ted.com/talks/daniele_quercia_happy_maps",
+  "video": {
+    "low": "http://download.ted.com/talks/DanieleQuercia_2014S-light.mp4",
+    "medium": "http://download.ted.com/talks/DanieleQuercia_2014S.mp4",
+    "high": "http://download.ted.com/talks/DanieleQuercia_2014S-480p.mp4"
+  },
+  "viewCount": 1872930,
+  "year": "2014"
+}

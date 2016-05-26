@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/Bono_2013.mp3",
+  "author": "Bono",
+  "dateFilmed": 1361836800,
+  "datePublished": 1363265922,
+  "description": "Human beings have been campaigning against inequality and poverty for 3,000 years. But this journey is accelerating. Bono \"embraces his inner nerd\" and shares inspiring data that shows the end of poverty is in sight … if we can harness the momentum.",
+  "duration": 837,
+  "event": "TED2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/221175dd6e13ee2451205490c23839497ea8fc09_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "activism",
+    "global issues",
+    "inequality",
+    "poverty"
+  ],
+  "mainLanguage": null,
+  "objectID": 1691,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Persuasive": 175,
+    "Fascinating": 70,
+    "Inspiring": 431,
+    "Unconvincing": 39,
+    "Courageous": 83,
+    "Informative": 205,
+    "Funny": 31,
+    "Jaw-dropping": 45,
+    "Beautiful": 85,
+    "Obnoxious": 45,
+    "OK": 34,
+    "Confusing": 13,
+    "Ingenious": 6,
+    "Longwinded": 30
+  },
+  "slug": "bono_the_good_news_on_poverty_yes_there_s_good_news",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/221175dd6e13ee2451205490c23839497ea8fc09_1600x1200.jpg?quality=89&w=600",
+  "title": "The good news on poverty (Yes, there's good news)",
+  "url": "https://www.ted.com/talks/bono_the_good_news_on_poverty_yes_there_s_good_news",
+  "video": {
+    "low": "http://download.ted.com/talks/Bono_2013-light.mp4",
+    "medium": "http://download.ted.com/talks/Bono_2013.mp4",
+    "high": "http://download.ted.com/talks/Bono_2013-480p.mp4"
+  },
+  "viewCount": 1570862,
+  "year": "2013"
+}

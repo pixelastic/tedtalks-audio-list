@@ -1,0 +1,60 @@
+{
+  "audio": "http://download.ted.com/talks/MyriamSidibe_2014S.mp3",
+  "author": "Myriam Sidibe",
+  "dateFilmed": 1410307200,
+  "datePublished": 1413299481,
+  "description": "Myriam Sidibe is a warrior in the fight against childhood disease. Her weapon of choice? A bar of soap. For cost-effective prevention against sickness, it’s hard to beat soapy hand-washing, which cuts down risk of pneumonia, diarrhea, cholera and worse. Sidibe, a public-health expert, makes a smart case for public-private partnerships to promote clean hands — and local, sustainable entrepreneurship.",
+  "duration": 701,
+  "event": "TED@Unilever",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/da1a3dced401c2eb862e4ae98ff7f53a1e710e5f_2880x1620.jpg",
+  "keywords": [
+    "children",
+    "global issues",
+    "health",
+    "public health",
+    "sanitation"
+  ],
+  "mainLanguage": null,
+  "objectID": 2108,
+  "otherLanguages": {
+    "ar": "Arabic",
+    "zh-cn": "Chinese, Simplified",
+    "hr": "Croatian",
+    "el": "Greek",
+    "ja": "Japanese",
+    "mn": "Mongolian",
+    "pt": "Portuguese",
+    "ro": "Romanian",
+    "ru": "Russian",
+    "th": "Thai",
+    "uk": "Ukrainian",
+    "vi": "Vietnamese"
+  },
+  "ratings": {
+    "OK": 118,
+    "Inspiring": 215,
+    "Courageous": 57,
+    "Informative": 267,
+    "Longwinded": 30,
+    "Beautiful": 45,
+    "Persuasive": 166,
+    "Ingenious": 22,
+    "Fascinating": 50,
+    "Funny": 18,
+    "Jaw-dropping": 10,
+    "Unconvincing": 11,
+    "Confusing": 10,
+    "Obnoxious": 6
+  },
+  "slug": "myriam_sidibe_the_simple_power_of_hand_washing",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/da1a3dced401c2eb862e4ae98ff7f53a1e710e5f_2880x1620.jpg?quality=89&w=600",
+  "title": "The simple power of hand-washing",
+  "url": "https://www.ted.com/talks/myriam_sidibe_the_simple_power_of_hand_washing",
+  "video": {
+    "low": "http://download.ted.com/talks/MyriamSidibe_2014S-light.mp4",
+    "medium": "http://download.ted.com/talks/MyriamSidibe_2014S.mp4",
+    "high": "http://download.ted.com/talks/MyriamSidibe_2014S-480p.mp4"
+  },
+  "viewCount": 947215,
+  "year": "2014"
+}

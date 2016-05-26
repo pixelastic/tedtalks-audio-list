@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/FrancesLarson_2015G.mp3",
+  "author": "Frances Larson",
+  "dateFilmed": 1434412800,
+  "datePublished": 1442936421,
+  "description": "In a disturbing — but fascinating — walk through history, Frances Larson examines humanity's strange relationship with public executions … and specifically beheadings. As she shows us, they have always drawn a crowd, first in the public square and now on YouTube. What makes them horrific and compelling in equal measure?",
+  "duration": 957,
+  "event": "TEDGlobalLondon",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/781042f87671357480c70b7fc64d8898eae86efd_2880x1620.jpg",
+  "keywords": [
+    "death",
+    "global issues",
+    "history",
+    "online video"
+  ],
+  "mainLanguage": null,
+  "objectID": 2335,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Unconvincing": 39,
+    "Persuasive": 77,
+    "Beautiful": 16,
+    "Informative": 183,
+    "Fascinating": 67,
+    "Courageous": 27,
+    "Ingenious": 5,
+    "OK": 48,
+    "Obnoxious": 18,
+    "Jaw-dropping": 35,
+    "Longwinded": 31,
+    "Inspiring": 19,
+    "Confusing": 17,
+    "Funny": 6
+  },
+  "slug": "frances_larson_why_public_beheadings_get_millions_of_views",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/781042f87671357480c70b7fc64d8898eae86efd_2880x1620.jpg?quality=89&w=600",
+  "title": "Why public beheadings get millions of views",
+  "url": "https://www.ted.com/talks/frances_larson_why_public_beheadings_get_millions_of_views",
+  "video": {
+    "low": "http://download.ted.com/talks/FrancesLarson_2015G-light.mp4",
+    "medium": "http://download.ted.com/talks/FrancesLarson_2015G.mp4",
+    "high": "http://download.ted.com/talks/FrancesLarson_2015G-480p.mp4"
+  },
+  "viewCount": 1052607,
+  "year": "2015"
+}

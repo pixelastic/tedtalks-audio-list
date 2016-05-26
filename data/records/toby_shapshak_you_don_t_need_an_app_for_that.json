@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/TobyShapshak_2013G.mp3",
+  "author": "Toby Shapshak",
+  "dateFilmed": 1374019200,
+  "datePublished": 1394722549,
+  "description": "Are the simplest phones the smartest? While the rest of the world is updating statuses and playing games on smartphones, Africa is developing useful SMS-based solutions to everyday needs, says journalist Toby Shapshak. In this eye-opening talk, Shapshak explores the frontiers of mobile invention in Africa as he asks us to reconsider our preconceived notions of innovation. ",
+  "duration": 474,
+  "event": "TEDGlobal 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2337f7bee98c8eb6b5ef834bda5de156dfb4d749_1600x1200.jpg",
+  "keywords": [
+    "Africa",
+    "innovation",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 1944,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified"
+  },
+  "ratings": {
+    "Obnoxious": 42,
+    "Beautiful": 125,
+    "Funny": 163,
+    "OK": 159,
+    "Informative": 448,
+    "Fascinating": 257,
+    "Persuasive": 109,
+    "Ingenious": 121,
+    "Unconvincing": 63,
+    "Inspiring": 390,
+    "Longwinded": 19,
+    "Courageous": 46,
+    "Jaw-dropping": 31,
+    "Confusing": 18
+  },
+  "slug": "toby_shapshak_you_don_t_need_an_app_for_that",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2337f7bee98c8eb6b5ef834bda5de156dfb4d749_1600x1200.jpg?quality=89&w=600",
+  "title": "You don't need an app for that",
+  "url": "https://www.ted.com/talks/toby_shapshak_you_don_t_need_an_app_for_that",
+  "video": {
+    "low": "http://download.ted.com/talks/TobyShapshak_2013G-light.mp4",
+    "medium": "http://download.ted.com/talks/TobyShapshak_2013G.mp4",
+    "high": "http://download.ted.com/talks/TobyShapshak_2013G-480p.mp4"
+  },
+  "viewCount": 1432828,
+  "year": "2013"
+}

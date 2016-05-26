@@ -1,0 +1,60 @@
+{
+  "audio": "http://download.ted.com/talks/DavidMerrill_2009.mp3",
+  "author": "David Merrill",
+  "dateFilmed": 1233878400,
+  "datePublished": 1234431300,
+  "description": "MIT grad student David Merrill demos Siftables -- cookie-sized, computerized tiles you can stack and shuffle in your hands. These future-toys can do math, play music, and talk to their friends, too. Is this the next thing in hands-on learning?",
+  "duration": 429,
+  "event": "TED2009",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/71466_800x600.jpg",
+  "keywords": [
+    "TED Conference",
+    "art",
+    "business",
+    "children",
+    "computers",
+    "design",
+    "education",
+    "invention",
+    "music",
+    "technology",
+    "toy"
+  ],
+  "mainLanguage": null,
+  "objectID": 457,
+  "otherLanguages": {
+    "zh-tw": "Chinese, Traditional",
+    "de": "German",
+    "ja": "Japanese",
+    "mk": "Macedonian",
+    "pl": "Polish",
+    "tr": "Turkish"
+  },
+  "ratings": {
+    "Ingenious": 806,
+    "Fascinating": 548,
+    "Funny": 43,
+    "Jaw-dropping": 400,
+    "Informative": 184,
+    "OK": 105,
+    "Unconvincing": 50,
+    "Inspiring": 364,
+    "Beautiful": 95,
+    "Longwinded": 9,
+    "Confusing": 12,
+    "Persuasive": 54,
+    "Courageous": 24,
+    "Obnoxious": 8
+  },
+  "slug": "david_merrill_demos_siftables_the_smart_blocks",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/71466_800x600.jpg?quality=89&w=600",
+  "title": "Toy tiles that talk to each other",
+  "url": "https://www.ted.com/talks/david_merrill_demos_siftables_the_smart_blocks",
+  "video": {
+    "low": "http://download.ted.com/talks/DavidMerrill_2009-light.mp4",
+    "medium": "http://download.ted.com/talks/DavidMerrill_2009.mp4",
+    "high": "http://download.ted.com/talks/DavidMerrill_2009-480p.mp4"
+  },
+  "viewCount": 1733003,
+  "year": "2009"
+}

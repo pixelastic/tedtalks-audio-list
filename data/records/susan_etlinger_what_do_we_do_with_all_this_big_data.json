@@ -1,0 +1,44 @@
+{
+  "audio": "http://download.ted.com/talks/SusanEtlinger_2014S.mp3",
+  "author": "Susan Etlinger",
+  "dateFilmed": 1411603200,
+  "datePublished": 1413816332,
+  "description": "Does a set of data make you feel more comfortable? More successful? Then your interpretation of it is likely wrong. In a surprisingly moving talk, Susan Etlinger explains why, as we receive more and more data, we need to deepen our critical thinking skills. Because it's hard to move beyond counting things to really understanding them.",
+  "duration": 743,
+  "event": "TED@IBM",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/af9d6067a02b5d76cdbf44ada9a1494b849a29d1_2880x1620.jpg",
+  "keywords": [
+    "data"
+  ],
+  "mainLanguage": null,
+  "objectID": 2112,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 267,
+    "Fascinating": 117,
+    "OK": 99,
+    "Persuasive": 125,
+    "Beautiful": 69,
+    "Inspiring": 132,
+    "Unconvincing": 37,
+    "Obnoxious": 12,
+    "Courageous": 32,
+    "Ingenious": 31,
+    "Funny": 26,
+    "Confusing": 38,
+    "Longwinded": 33,
+    "Jaw-dropping": 11
+  },
+  "slug": "susan_etlinger_what_do_we_do_with_all_this_big_data",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/af9d6067a02b5d76cdbf44ada9a1494b849a29d1_2880x1620.jpg?quality=89&w=600",
+  "title": "What do we do with all this big data? ",
+  "url": "https://www.ted.com/talks/susan_etlinger_what_do_we_do_with_all_this_big_data",
+  "video": {
+    "low": "http://download.ted.com/talks/SusanEtlinger_2014S-light.mp4",
+    "medium": "http://download.ted.com/talks/SusanEtlinger_2014S.mp4",
+    "high": "http://download.ted.com/talks/SusanEtlinger_2014S-480p.mp4"
+  },
+  "viewCount": 1100884,
+  "year": "2014"
+}

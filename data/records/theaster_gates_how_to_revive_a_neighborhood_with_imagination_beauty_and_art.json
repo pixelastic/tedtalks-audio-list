@@ -1,0 +1,50 @@
+{
+  "audio": "http://download.ted.com/talks/TheasterGates_2015.mp3",
+  "author": "Theaster Gates",
+  "dateFilmed": 1426636800,
+  "datePublished": 1427382819,
+  "description": "Theaster Gates, a potter by training and a social activist by calling, wanted to do something about the sorry state of his neighborhood on the south side of Chicago. So he did, transforming abandoned buildings to create community hubs that connect and inspire those who still live there (and draw in those who don't). In this passionate talk, Gates describes his efforts to build a \"miniature Versailles\" in Chicago, and he shares his fervent belief that culture can be a catalyst for social transformation in any city, anywhere.",
+  "duration": 1012,
+  "event": "TED2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ca8853f7f7fa4fa629610bd38f7f42795d10f9c6_2880x1620.jpg",
+  "keywords": [
+    "architecture",
+    "art",
+    "arts",
+    "cities",
+    "design",
+    "environment",
+    "urban planning"
+  ],
+  "mainLanguage": null,
+  "objectID": 2220,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 171,
+    "Unconvincing": 2,
+    "OK": 20,
+    "Longwinded": 13,
+    "Beautiful": 158,
+    "Courageous": 101,
+    "Inspiring": 489,
+    "Ingenious": 82,
+    "Fascinating": 100,
+    "Persuasive": 53,
+    "Jaw-dropping": 11,
+    "Funny": 11,
+    "Confusing": 4,
+    "Obnoxious": 0
+  },
+  "slug": "theaster_gates_how_to_revive_a_neighborhood_with_imagination_beauty_and_art",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ca8853f7f7fa4fa629610bd38f7f42795d10f9c6_2880x1620.jpg?quality=89&w=600",
+  "title": "How to revive a neighborhood: with imagination, beauty and art",
+  "url": "https://www.ted.com/talks/theaster_gates_how_to_revive_a_neighborhood_with_imagination_beauty_and_art",
+  "video": {
+    "low": "http://download.ted.com/talks/TheasterGates_2015-light.mp4",
+    "medium": "http://download.ted.com/talks/TheasterGates_2015.mp4",
+    "high": "http://download.ted.com/talks/TheasterGates_2015-480p.mp4"
+  },
+  "viewCount": 892247,
+  "year": "2015"
+}

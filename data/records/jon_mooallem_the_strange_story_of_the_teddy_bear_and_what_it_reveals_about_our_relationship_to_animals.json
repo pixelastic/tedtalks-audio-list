@@ -1,0 +1,46 @@
+{
+  "audio": "http://download.ted.com/talks/JonMooallem_2014.mp3",
+  "author": "Jon Mooallem",
+  "dateFilmed": 1395187200,
+  "datePublished": 1401202257,
+  "description": "In 1902, President Theodore Roosevelt legendarily spared the life of a black bear -- and prompted a plush toy craze for so-called \"teddy bears.\" Writer Jon Mooallem digs into this toy story and asks us to consider how the tales we tell about wild animals have real consequences for a species' chance of survival -- and the natural world at large.",
+  "duration": 856,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/4f3bbbbff420247824e2d0e92418d7ffb0767fb0_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "environment",
+    "nature"
+  ],
+  "mainLanguage": null,
+  "objectID": 2006,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 304,
+    "Persuasive": 149,
+    "Ingenious": 45,
+    "Inspiring": 163,
+    "Beautiful": 90,
+    "Fascinating": 103,
+    "OK": 64,
+    "Courageous": 17,
+    "Funny": 39,
+    "Jaw-dropping": 2,
+    "Unconvincing": 13,
+    "Longwinded": 17,
+    "Obnoxious": 6,
+    "Confusing": 6
+  },
+  "slug": "jon_mooallem_the_strange_story_of_the_teddy_bear_and_what_it_reveals_about_our_relationship_to_animals",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/4f3bbbbff420247824e2d0e92418d7ffb0767fb0_1600x1200.jpg?quality=89&w=600",
+  "title": "How the teddy bear taught us compassion",
+  "url": "https://www.ted.com/talks/jon_mooallem_the_strange_story_of_the_teddy_bear_and_what_it_reveals_about_our_relationship_to_animals",
+  "video": {
+    "low": "http://download.ted.com/talks/JonMooallem_2014-light.mp4",
+    "medium": "http://download.ted.com/talks/JonMooallem_2014.mp4",
+    "high": "http://download.ted.com/talks/JonMooallem_2014-480p.mp4"
+  },
+  "viewCount": 1064143,
+  "year": "2014"
+}

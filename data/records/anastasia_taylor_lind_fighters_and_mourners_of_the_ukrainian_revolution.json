@@ -1,0 +1,46 @@
+{
+  "audio": "http://download.ted.com/talks/AnastasiaTaylorLind_2014U.mp3",
+  "author": "Anastasia Taylor-Lind",
+  "dateFilmed": 1413244800,
+  "datePublished": 1418140258,
+  "description": "“Men fight wars, and women mourn them,” says documentary photographer Anastasia Taylor-Lind. With stark, arresting images from the Maidan protests in Ukraine, the TED Fellow shows us intimate faces from the revolution. A grim and beautiful talk.",
+  "duration": 365,
+  "event": "TEDGlobal 2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8d91fc31714f69604d9ee4d2e348e3762d25e92f_2880x1620.jpg",
+  "keywords": [
+    "TED Fellows",
+    "photography",
+    "war"
+  ],
+  "mainLanguage": null,
+  "objectID": 2146,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 106,
+    "Beautiful": 142,
+    "Courageous": 117,
+    "Jaw-dropping": 14,
+    "Confusing": 18,
+    "Unconvincing": 44,
+    "OK": 33,
+    "Inspiring": 68,
+    "Persuasive": 23,
+    "Obnoxious": 21,
+    "Fascinating": 24,
+    "Ingenious": 4,
+    "Longwinded": 13,
+    "Funny": 4
+  },
+  "slug": "anastasia_taylor_lind_fighters_and_mourners_of_the_ukrainian_revolution",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8d91fc31714f69604d9ee4d2e348e3762d25e92f_2880x1620.jpg?quality=89&w=600",
+  "title": "Fighters and mourners of the Ukrainian revolution",
+  "url": "https://www.ted.com/talks/anastasia_taylor_lind_fighters_and_mourners_of_the_ukrainian_revolution",
+  "video": {
+    "low": "http://download.ted.com/talks/AnastasiaTaylorLind_2014U-light.mp4",
+    "medium": "http://download.ted.com/talks/AnastasiaTaylorLind_2014U.mp4",
+    "high": "http://download.ted.com/talks/AnastasiaTaylorLind_2014U-480p.mp4"
+  },
+  "viewCount": 667771,
+  "year": "2014"
+}

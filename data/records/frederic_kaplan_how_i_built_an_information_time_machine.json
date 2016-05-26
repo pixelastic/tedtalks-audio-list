@@ -1,0 +1,50 @@
+{
+  "audio": "http://download.ted.com/talks/FredericKaplan_2013X.mp3",
+  "author": "Frederic Kaplan",
+  "dateFilmed": 1371600000,
+  "datePublished": 1389282937,
+  "description": "Imagine if you could surf Facebook ... from the Middle Ages. Well, it may not be as far off as it sounds. In a fun and interesting talk, researcher and engineer Frederic Kaplan shows off the Venice Time Machine, a project to digitize 80 kilometers of books to create a historical and geographical simulation of Venice across 1000 years. (Filmed at TEDxCaFoscariU.)",
+  "duration": 620,
+  "event": "TEDxCaFoscariU",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e0c93d5e28d30a0ff0670df4ebc1a3ee3e780d25_1600x1200.jpg",
+  "keywords": [
+    "TEDx",
+    "books",
+    "computers",
+    "history",
+    "library",
+    "map",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 1902,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Ingenious": 91,
+    "Jaw-dropping": 23,
+    "Inspiring": 51,
+    "OK": 49,
+    "Fascinating": 94,
+    "Informative": 92,
+    "Beautiful": 22,
+    "Persuasive": 16,
+    "Confusing": 11,
+    "Courageous": 15,
+    "Unconvincing": 26,
+    "Longwinded": 16,
+    "Funny": 2,
+    "Obnoxious": 1
+  },
+  "slug": "frederic_kaplan_how_i_built_an_information_time_machine",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e0c93d5e28d30a0ff0670df4ebc1a3ee3e780d25_1600x1200.jpg?quality=89&w=600",
+  "title": "How to build an information time machine",
+  "url": "https://www.ted.com/talks/frederic_kaplan_how_i_built_an_information_time_machine",
+  "video": {
+    "low": "http://download.ted.com/talks/FredericKaplan_2013X-light.mp4",
+    "medium": "http://download.ted.com/talks/FredericKaplan_2013X.mp4",
+    "high": "http://download.ted.com/talks/FredericKaplan_2013X-480p.mp4"
+  },
+  "viewCount": 1150689,
+  "year": "2013"
+}

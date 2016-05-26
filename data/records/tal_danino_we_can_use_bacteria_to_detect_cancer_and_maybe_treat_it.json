@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/TalDanino_2015U.mp3",
+  "author": "Tal Danino",
+  "dateFilmed": 1426464000,
+  "datePublished": 1431011006,
+  "description": "Liver cancer is one of the most difficult cancers to detect, but synthetic biologist Tal Danino had a left-field thought: What if we could create a probiotic, edible bacteria that was \"programmed\" to find liver tumors? His insight exploits something we're just beginning to understand about bacteria: their power of quorum sensing, or doing something together once they reach critical mass. Danino, a TED Fellow, explains how quorum sensing works -- and how clever bacteria working together could someday change cancer treatment.",
+  "duration": 251,
+  "event": "TED2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/fe249c0d349f50d028ccba2bc328d317ec70fc39_2880x1620.jpg",
+  "keywords": [
+    "TED Fellows",
+    "bacteria",
+    "biology",
+    "cancer",
+    "health"
+  ],
+  "mainLanguage": null,
+  "objectID": 2245,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 78,
+    "Informative": 230,
+    "Inspiring": 178,
+    "Fascinating": 208,
+    "Jaw-dropping": 78,
+    "Ingenious": 147,
+    "Persuasive": 25,
+    "Confusing": 13,
+    "OK": 28,
+    "Unconvincing": 4,
+    "Longwinded": 12,
+    "Funny": 2,
+    "Obnoxious": 1,
+    "Courageous": 7
+  },
+  "slug": "tal_danino_we_can_use_bacteria_to_detect_cancer_and_maybe_treat_it",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/fe249c0d349f50d028ccba2bc328d317ec70fc39_2880x1620.jpg?quality=89&w=600",
+  "title": "Programming bacteria to detect cancer (and maybe treat it)",
+  "url": "https://www.ted.com/talks/tal_danino_we_can_use_bacteria_to_detect_cancer_and_maybe_treat_it",
+  "video": {
+    "low": "http://download.ted.com/talks/TalDanino_2015U-light.mp4",
+    "medium": "http://download.ted.com/talks/TalDanino_2015U.mp4",
+    "high": "http://download.ted.com/talks/TalDanino_2015U-480p.mp4"
+  },
+  "viewCount": 1109180,
+  "year": "2015"
+}

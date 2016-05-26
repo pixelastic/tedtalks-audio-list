@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/AnandGiridharadas_2015.mp3",
+  "author": "Anand Giridharadas",
+  "dateFilmed": 1425945600,
+  "datePublished": 1427209762,
+  "description": "Ten days after 9/11, a shocking attack at a Texas mini-mart shattered the lives of two men: the victim and the attacker. In this stunning talk, Anand Giridharadas, author of \"The True American,\" tells the story of what happened next. It's a parable about the two paths an American life can take, and a powerful call for reconciliation.",
+  "duration": 1163,
+  "event": "TED2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a2b28c69eac9216fa175749c32ced0c39d6c93ff_2880x1620.jpg",
+  "keywords": [
+    "crime",
+    "history",
+    "immigration",
+    "inequality",
+    "storytelling"
+  ],
+  "mainLanguage": null,
+  "objectID": 2219,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 286,
+    "Fascinating": 198,
+    "Courageous": 297,
+    "Inspiring": 616,
+    "Beautiful": 265,
+    "Jaw-dropping": 50,
+    "Persuasive": 260,
+    "Confusing": 7,
+    "Ingenious": 23,
+    "Longwinded": 12,
+    "Unconvincing": 22,
+    "Obnoxious": 11,
+    "OK": 35,
+    "Funny": 6
+  },
+  "slug": "anand_giridharadas_a_tale_of_two_americas_and_the_mini_mart_where_they_collided",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a2b28c69eac9216fa175749c32ced0c39d6c93ff_2880x1620.jpg?quality=89&w=600",
+  "title": "A tale of two Americas. And the mini-mart where they collided",
+  "url": "https://www.ted.com/talks/anand_giridharadas_a_tale_of_two_americas_and_the_mini_mart_where_they_collided",
+  "video": {
+    "low": "http://download.ted.com/talks/AnandGiridharadas_2015-light.mp4",
+    "medium": "http://download.ted.com/talks/AnandGiridharadas_2015.mp4",
+    "high": "http://download.ted.com/talks/AnandGiridharadas_2015-480p.mp4"
+  },
+  "viewCount": 1128916,
+  "year": "2015"
+}

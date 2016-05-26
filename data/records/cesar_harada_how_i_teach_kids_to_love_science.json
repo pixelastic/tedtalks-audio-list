@@ -1,0 +1,62 @@
+{
+  "audio": "http://download.ted.com/talks/CesarHarada_2015F.mp3",
+  "author": "Cesar Harada",
+  "dateFilmed": 1440547200,
+  "datePublished": 1445959451,
+  "description": "At the Harbour School in Hong Kong, TED Senior Fellow Cesar Harada teaches citizen science and invention to the next generation of environmentalists. He's moved his classroom into an industrial mega-space where imaginative kids work with wood, metal, chemistry, biology, optics and, occasionally, power tools to create solutions to the threats facing the world's oceans. There, he instills a universal lesson that his own parents taught him at a young age: \"You can make a mess, but you have to clean up after yourself.\"",
+  "duration": 588,
+  "event": "TED Fellows Retreat 2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/50f20fdf4e841d45d6a16658e8167f0ae35e378f_2880x1620.jpg",
+  "keywords": [
+    "TED Fellows",
+    "collaboration",
+    "design",
+    "education",
+    "environment",
+    "global issues",
+    "green",
+    "innovation",
+    "invention",
+    "oceans",
+    "water"
+  ],
+  "mainLanguage": null,
+  "objectID": 2363,
+  "otherLanguages": {
+    "my": "Burmese",
+    "he": "Hebrew",
+    "kk": "Kazakh",
+    "ko": "Korean",
+    "pt-br": "Portuguese, Brazilian",
+    "sr": "Serbian",
+    "tr": "Turkish",
+    "vi": "Vietnamese"
+  },
+  "ratings": {
+    "Informative": 177,
+    "Fascinating": 149,
+    "Persuasive": 68,
+    "Courageous": 51,
+    "Inspiring": 356,
+    "Ingenious": 100,
+    "Funny": 29,
+    "Beautiful": 62,
+    "OK": 41,
+    "Jaw-dropping": 18,
+    "Longwinded": 7,
+    "Unconvincing": 6,
+    "Confusing": 6,
+    "Obnoxious": 0
+  },
+  "slug": "cesar_harada_how_i_teach_kids_to_love_science",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/50f20fdf4e841d45d6a16658e8167f0ae35e378f_2880x1620.jpg?quality=89&w=600",
+  "title": "How I teach kids to love science",
+  "url": "https://www.ted.com/talks/cesar_harada_how_i_teach_kids_to_love_science",
+  "video": {
+    "low": "http://download.ted.com/talks/CesarHarada_2015F-light.mp4",
+    "medium": "http://download.ted.com/talks/CesarHarada_2015F.mp4",
+    "high": "http://download.ted.com/talks/CesarHarada_2015F-480p.mp4"
+  },
+  "viewCount": 1384233,
+  "year": "2015"
+}

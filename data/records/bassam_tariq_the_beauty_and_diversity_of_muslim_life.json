@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/BassamTariq_2014U.mp3",
+  "author": "Bassam Tariq",
+  "dateFilmed": 1412553600,
+  "datePublished": 1422633604,
+  "description": "Bassam Tariq is a blogger, a filmmaker, and a halal butcher -- but one thread unites his work: His joy in the diversity, the humanness of our individual experiences. In this charming talk, he shares clips from his film \"These Birds Walk\" and images from his tour of 30 mosques in 30 days -- and reminds us to consider the beautiful complexity within us all.",
+  "duration": 278,
+  "event": "TEDGlobal 2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ead696e0726a646b206200ce357800d627b170c2_2880x1620.jpg",
+  "keywords": [
+    "TED Fellows",
+    "creativity",
+    "film",
+    "writing"
+  ],
+  "mainLanguage": null,
+  "objectID": 2169,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Courageous": 186,
+    "Informative": 141,
+    "Inspiring": 348,
+    "Beautiful": 226,
+    "Unconvincing": 77,
+    "Confusing": 36,
+    "Funny": 55,
+    "Ingenious": 22,
+    "Obnoxious": 31,
+    "Longwinded": 12,
+    "Fascinating": 79,
+    "Persuasive": 33,
+    "OK": 74,
+    "Jaw-dropping": 9
+  },
+  "slug": "bassam_tariq_the_beauty_and_diversity_of_muslim_life",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ead696e0726a646b206200ce357800d627b170c2_2880x1620.jpg?quality=89&w=600",
+  "title": "The beauty and diversity of Muslim life",
+  "url": "https://www.ted.com/talks/bassam_tariq_the_beauty_and_diversity_of_muslim_life",
+  "video": {
+    "low": "http://download.ted.com/talks/BassamTariq_2014U-light.mp4",
+    "medium": "http://download.ted.com/talks/BassamTariq_2014U.mp4",
+    "high": "http://download.ted.com/talks/BassamTariq_2014U-480p.mp4"
+  },
+  "viewCount": 1267748,
+  "year": "2014"
+}

@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/LatifNasser_2015.mp3",
+  "author": "Latif Nasser",
+  "dateFilmed": 1427155200,
+  "datePublished": 1435762806,
+  "description": "For the longest time, doctors basically ignored the most basic and frustrating part of being sick -- pain. In this lyrical, informative talk, Latif Nasser tells the extraordinary story of wrestler and doctor John J. Bonica, who persuaded the medical profession to take pain seriously -- and transformed the lives of millions. ",
+  "duration": 831,
+  "event": "TED2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/5efb76855ee037f1b0d5c2b713c42dc745a4c2ec_2880x1620.jpg",
+  "keywords": [
+    "health",
+    "health care",
+    "medical research",
+    "medicine",
+    "science"
+  ],
+  "mainLanguage": null,
+  "objectID": 2285,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Inspiring": 364,
+    "Beautiful": 271,
+    "Informative": 347,
+    "OK": 103,
+    "Courageous": 64,
+    "Fascinating": 171,
+    "Persuasive": 30,
+    "Confusing": 21,
+    "Longwinded": 47,
+    "Unconvincing": 28,
+    "Obnoxious": 12,
+    "Ingenious": 9,
+    "Jaw-dropping": 12,
+    "Funny": 14
+  },
+  "slug": "latif_nasser_the_amazing_story_of_the_man_who_gave_us_modern_pain_relief",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/5efb76855ee037f1b0d5c2b713c42dc745a4c2ec_2880x1620.jpg?quality=89&w=600",
+  "title": "The amazing story of the man who gave us modern pain relief",
+  "url": "https://www.ted.com/talks/latif_nasser_the_amazing_story_of_the_man_who_gave_us_modern_pain_relief",
+  "video": {
+    "low": "http://download.ted.com/talks/LatifNasser_2015-light.mp4",
+    "medium": "http://download.ted.com/talks/LatifNasser_2015.mp4",
+    "high": "http://download.ted.com/talks/LatifNasser_2015-480p.mp4"
+  },
+  "viewCount": 1435189,
+  "year": "2015"
+}

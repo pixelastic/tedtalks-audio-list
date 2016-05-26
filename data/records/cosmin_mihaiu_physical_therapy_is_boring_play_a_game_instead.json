@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/CosminMihaiu_2015U.mp3",
+  "author": "Cosmin Mihaiu",
+  "dateFilmed": 1425945600,
+  "datePublished": 1432047415,
+  "description": "You’ve just been injured, and you’re on the way home from an hour of physical therapy. The last thing you want to do on your own is confusing exercises that take too long to show results. TED Fellow Cosmin Mihaiu demos a fun, cheap solution that turns boring physical therapy exercises into a video game with crystal-clear instructions.",
+  "duration": 357,
+  "event": "TED2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/62282ce1ab101160a243b9b97cb118557bf3e60a_2880x1620.jpg",
+  "keywords": [
+    "TED Fellows",
+    "demo",
+    "gaming",
+    "health",
+    "software"
+  ],
+  "mainLanguage": null,
+  "objectID": 2257,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 104,
+    "Courageous": 18,
+    "Ingenious": 281,
+    "Informative": 185,
+    "Inspiring": 190,
+    "Unconvincing": 17,
+    "OK": 76,
+    "Persuasive": 66,
+    "Fascinating": 59,
+    "Funny": 42,
+    "Jaw-dropping": 7,
+    "Confusing": 11,
+    "Longwinded": 16,
+    "Obnoxious": 4
+  },
+  "slug": "cosmin_mihaiu_physical_therapy_is_boring_play_a_game_instead",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/62282ce1ab101160a243b9b97cb118557bf3e60a_2880x1620.jpg?quality=89&w=600",
+  "title": "Physical therapy is boring -- play a game instead",
+  "url": "https://www.ted.com/talks/cosmin_mihaiu_physical_therapy_is_boring_play_a_game_instead",
+  "video": {
+    "low": "http://download.ted.com/talks/CosminMihaiu_2015U-light.mp4",
+    "medium": "http://download.ted.com/talks/CosminMihaiu_2015U.mp4",
+    "high": "http://download.ted.com/talks/CosminMihaiu_2015U-480p.mp4"
+  },
+  "viewCount": 1249203,
+  "year": "2015"
+}

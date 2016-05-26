@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/AndrewConnolly_2014.mp3",
+  "author": "Andrew Connolly",
+  "dateFilmed": 1395187200,
+  "datePublished": 1410880087,
+  "description": "Big Data is everywhere — even the skies. In an informative talk, astronomer Andrew Connolly shows how large amounts of data are being collected about our universe, recording it in its ever-changing moods. Just how do scientists capture so many images at scale? It starts with a giant telescope …",
+  "duration": 1059,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/4037b79ef05ea9c6f615932a53a32f26bb6d675c_2400x1800.jpg",
+  "keywords": [
+    "TED Conference",
+    "astronomy",
+    "space",
+    "technology",
+    "universe"
+  ],
+  "mainLanguage": null,
+  "objectID": 2069,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 71,
+    "Informative": 257,
+    "Inspiring": 140,
+    "Fascinating": 193,
+    "OK": 39,
+    "Ingenious": 20,
+    "Courageous": 7,
+    "Persuasive": 24,
+    "Jaw-dropping": 31,
+    "Longwinded": 22,
+    "Confusing": 6,
+    "Unconvincing": 7,
+    "Obnoxious": 1,
+    "Funny": 4
+  },
+  "slug": "andrew_connolly_what_s_the_next_window_into_our_universe",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/4037b79ef05ea9c6f615932a53a32f26bb6d675c_2400x1800.jpg?quality=89&w=600",
+  "title": "What's the next window into our universe?",
+  "url": "https://www.ted.com/talks/andrew_connolly_what_s_the_next_window_into_our_universe",
+  "video": {
+    "low": "http://download.ted.com/talks/AndrewConnolly_2014-light.mp4",
+    "medium": "http://download.ted.com/talks/AndrewConnolly_2014.mp4",
+    "high": "http://download.ted.com/talks/AndrewConnolly_2014-480p.mp4"
+  },
+  "viewCount": 1189880,
+  "year": "2014"
+}

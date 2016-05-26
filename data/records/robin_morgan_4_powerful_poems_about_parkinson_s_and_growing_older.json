@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/RobinMorgan_2015W.mp3",
+  "author": "Robin Morgan",
+  "dateFilmed": 1432857600,
+  "datePublished": 1443192957,
+  "description": "When poet Robin Morgan found herself facing Parkinson’s disease, she distilled her experiences into these four quietly powerful poems — meditating on age, loss, and the simple power of noticing.",
+  "duration": 717,
+  "event": "TEDWomen 2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/eaef73c208e14197e7baf46e61df18c983f32e72_2880x1620.jpg",
+  "keywords": [
+    "aging",
+    "disease",
+    "health",
+    "personal growth",
+    "poetry"
+  ],
+  "mainLanguage": null,
+  "objectID": 2336,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 229,
+    "Courageous": 83,
+    "Longwinded": 6,
+    "Inspiring": 93,
+    "OK": 28,
+    "Fascinating": 23,
+    "Jaw-dropping": 15,
+    "Obnoxious": 4,
+    "Informative": 9,
+    "Persuasive": 4,
+    "Confusing": 5,
+    "Unconvincing": 1,
+    "Funny": 14,
+    "Ingenious": 3
+  },
+  "slug": "robin_morgan_4_powerful_poems_about_parkinson_s_and_growing_older",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/eaef73c208e14197e7baf46e61df18c983f32e72_2880x1620.jpg?quality=89&w=600",
+  "title": "4 powerful poems about Parkinson's and growing older",
+  "url": "https://www.ted.com/talks/robin_morgan_4_powerful_poems_about_parkinson_s_and_growing_older",
+  "video": {
+    "low": "http://download.ted.com/talks/RobinMorgan_2015W-light.mp4",
+    "medium": "http://download.ted.com/talks/RobinMorgan_2015W.mp4",
+    "high": "http://download.ted.com/talks/RobinMorgan_2015W-480p.mp4"
+  },
+  "viewCount": 927919,
+  "year": "2015"
+}

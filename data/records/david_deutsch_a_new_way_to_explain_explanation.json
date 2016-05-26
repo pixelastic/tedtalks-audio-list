@@ -1,0 +1,61 @@
+{
+  "audio": "http://download.ted.com/talks/DavidDeutsch_2009G.mp3",
+  "author": "David Deutsch",
+  "dateFilmed": 1248307200,
+  "datePublished": 1256546040,
+  "description": "For tens of thousands of years our ancestors understood the world through myths, and the pace of change was glacial. The rise of scientific understanding transformed the world within a few centuries. Why? Physicist David Deutsch proposes a subtle answer.",
+  "duration": 998,
+  "event": "TEDGlobal 2009",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/75f3b4c9df371bc6e440cc8b13a4441c60bde2bd_1600x1200.jpg",
+  "keywords": [
+    "ancient world",
+    "cosmos",
+    "faith",
+    "history",
+    "philosophy",
+    "physics",
+    "religion",
+    "science",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 666,
+  "otherLanguages": {
+    "ar": "Arabic",
+    "en": "English",
+    "el": "Greek",
+    "ko": "Korean",
+    "fa": "Persian",
+    "sk": "Slovak",
+    "es": "Spanish",
+    "tr": "Turkish",
+    "vi": "Vietnamese"
+  },
+  "ratings": {
+    "Persuasive": 373,
+    "Ingenious": 186,
+    "Fascinating": 241,
+    "Unconvincing": 68,
+    "OK": 103,
+    "Confusing": 57,
+    "Informative": 302,
+    "Longwinded": 164,
+    "Obnoxious": 20,
+    "Inspiring": 142,
+    "Jaw-dropping": 44,
+    "Beautiful": 37,
+    "Courageous": 24,
+    "Funny": 24
+  },
+  "slug": "david_deutsch_a_new_way_to_explain_explanation",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/75f3b4c9df371bc6e440cc8b13a4441c60bde2bd_1600x1200.jpg?quality=89&w=600",
+  "title": "A new way to explain explanation",
+  "url": "https://www.ted.com/talks/david_deutsch_a_new_way_to_explain_explanation",
+  "video": {
+    "low": "http://download.ted.com/talks/DavidDeutsch_2009G-light.mp4",
+    "medium": "http://download.ted.com/talks/DavidDeutsch_2009G.mp4",
+    "high": "http://download.ted.com/talks/DavidDeutsch_2009G-480p.mp4"
+  },
+  "viewCount": 820371,
+  "year": "2009"
+}

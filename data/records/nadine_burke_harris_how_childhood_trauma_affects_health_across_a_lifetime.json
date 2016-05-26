@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/NadineBurkeHarris_2014P.mp3",
+  "author": "Nadine Burke Harris",
+  "dateFilmed": 1410307200,
+  "datePublished": 1424188236,
+  "description": "Childhood trauma isn’t something you just get over as you grow up. Pediatrician Nadine Burke Harris explains that the repeated stress of abuse, neglect and parents struggling with mental health or substance abuse issues has real, tangible effects on the development of the brain. This unfolds across a lifetime, to the point where those who’ve experienced high levels of trauma are at triple the risk for heart disease and lung cancer. An impassioned plea for pediatric medicine to confront the prevention and treatment of trauma, head-on.",
+  "duration": 959,
+  "event": "TEDMED 2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/edead82f6a5bc26faa11c585ad637ed441641cb8_2880x1620.jpg",
+  "keywords": [
+    "brain",
+    "children",
+    "health",
+    "health care"
+  ],
+  "mainLanguage": null,
+  "objectID": 2194,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 1807,
+    "Ingenious": 232,
+    "Jaw-dropping": 460,
+    "Inspiring": 954,
+    "Beautiful": 125,
+    "Courageous": 351,
+    "Fascinating": 610,
+    "Confusing": 10,
+    "Persuasive": 639,
+    "Funny": 10,
+    "OK": 42,
+    "Unconvincing": 15,
+    "Longwinded": 15,
+    "Obnoxious": 9
+  },
+  "slug": "nadine_burke_harris_how_childhood_trauma_affects_health_across_a_lifetime",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/edead82f6a5bc26faa11c585ad637ed441641cb8_2880x1620.jpg?quality=89&w=600",
+  "title": "How childhood trauma affects health across a lifetime",
+  "url": "https://www.ted.com/talks/nadine_burke_harris_how_childhood_trauma_affects_health_across_a_lifetime",
+  "video": {
+    "low": "http://download.ted.com/talks/NadineBurkeHarris_2014P-light.mp4",
+    "medium": "http://download.ted.com/talks/NadineBurkeHarris_2014P.mp4",
+    "high": "http://download.ted.com/talks/NadineBurkeHarris_2014P-480p.mp4"
+  },
+  "viewCount": 2059872,
+  "year": "2014"
+}

@@ -1,0 +1,51 @@
+{
+  "audio": null,
+  "author": "Greg Gage",
+  "dateFilmed": 1321488000,
+  "datePublished": 1331567340,
+  "description": "By dissecting a cockroach ... yes, live on stage ... TED Fellow and neuroscientist Greg Gage shows how brains receive and deliver electric impulses -- and how legs can respond. This talk comes from the TED-Ed project.",
+  "duration": 376,
+  "event": "TED-Ed",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/d060a40289ad470716462efdccfdfb66f6ad1374_800x600.jpg",
+  "keywords": [
+    "TED Fellows",
+    "TED-Ed",
+    "brain",
+    "life",
+    "neuroscience",
+    "science",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 1385,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Fascinating": 374,
+    "Informative": 213,
+    "Inspiring": 100,
+    "Jaw-dropping": 228,
+    "Funny": 209,
+    "Obnoxious": 47,
+    "Ingenious": 217,
+    "Confusing": 8,
+    "OK": 43,
+    "Persuasive": 38,
+    "Courageous": 26,
+    "Longwinded": 5,
+    "Beautiful": 33,
+    "Unconvincing": 11
+  },
+  "slug": "the_cockroach_beatbox",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/d060a40289ad470716462efdccfdfb66f6ad1374_800x600.jpg?quality=89&w=600",
+  "title": "The cockroach beatbox",
+  "url": "https://www.ted.com/talks/the_cockroach_beatbox",
+  "video": {
+    "youtube": {
+      "id": "tr4gWi9Jf6k",
+      "url": "http://ed.ted.com/lessons/the-cockroach-beatbox"
+    }
+  },
+  "viewCount": 285381,
+  "year": "2011"
+}

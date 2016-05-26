@@ -1,0 +1,49 @@
+{
+  "audio": "http://download.ted.com/talks/AlastairParvin_2013.mp3",
+  "author": "Alastair Parvin",
+  "dateFilmed": 1361923200,
+  "datePublished": 1369321231,
+  "description": "Designer Alastair Parvin presents a simple but provocative idea: what if, instead of architects creating buildings for those who can afford to commission them, regular citizens could design and build their own houses? The concept is at the heart of WikiHouse, an open source construction kit that means just about anyone can build a house, anywhere.",
+  "duration": 791,
+  "event": "TED2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/039455b94123a06d992506495fbaa010cc7bb863_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "architecture",
+    "design",
+    "infrastructure",
+    "open-source"
+  ],
+  "mainLanguage": null,
+  "objectID": 1749,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified"
+  },
+  "ratings": {
+    "Jaw-dropping": 87,
+    "Persuasive": 155,
+    "Ingenious": 371,
+    "Courageous": 69,
+    "Fascinating": 265,
+    "Unconvincing": 19,
+    "Informative": 152,
+    "Inspiring": 382,
+    "Beautiful": 25,
+    "OK": 27,
+    "Longwinded": 4,
+    "Funny": 7,
+    "Obnoxious": 4,
+    "Confusing": 3
+  },
+  "slug": "alastair_parvin_architecture_for_the_people_by_the_people",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/039455b94123a06d992506495fbaa010cc7bb863_1600x1200.jpg?quality=89&w=600",
+  "title": "Architecture for the people by the people",
+  "url": "https://www.ted.com/talks/alastair_parvin_architecture_for_the_people_by_the_people",
+  "video": {
+    "low": "http://download.ted.com/talks/AlastairParvin_2013-light.mp4",
+    "medium": "http://download.ted.com/talks/AlastairParvin_2013.mp4",
+    "high": "http://download.ted.com/talks/AlastairParvin_2013-480p.mp4"
+  },
+  "viewCount": 1291284,
+  "year": "2013"
+}

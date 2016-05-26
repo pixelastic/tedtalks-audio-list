@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/JamilaLyiscott_2014S.mp3",
+  "author": "Jamila Lyiscott",
+  "dateFilmed": 1392163200,
+  "datePublished": 1403190011,
+  "description": "Jamila Lyiscott is a “tri-tongued orator;” in her powerful spoken-word essay “Broken English,” she celebrates — and challenges — the three distinct flavors of English she speaks with her friends, in the classroom and with her parents. As she explores the complicated history and present-day identity that each language represents, she unpacks what it means to be “articulate.”",
+  "duration": 269,
+  "event": "TEDSalon NY2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7cf9611626ed32b38dfde06ee5fd53cdddf13cad_2400x1800.jpg",
+  "keywords": [
+    "culture",
+    "language",
+    "race",
+    "spoken word"
+  ],
+  "mainLanguage": null,
+  "objectID": 2028,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Obnoxious": 262,
+    "Informative": 282,
+    "Fascinating": 425,
+    "Persuasive": 210,
+    "Inspiring": 741,
+    "Ingenious": 408,
+    "OK": 200,
+    "Beautiful": 607,
+    "Funny": 406,
+    "Confusing": 137,
+    "Courageous": 392,
+    "Jaw-dropping": 110,
+    "Unconvincing": 210,
+    "Longwinded": 83
+  },
+  "slug": "jamila_lyiscott_3_ways_to_speak_english",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7cf9611626ed32b38dfde06ee5fd53cdddf13cad_2400x1800.jpg?quality=89&w=600",
+  "title": "3 ways to speak English",
+  "url": "https://www.ted.com/talks/jamila_lyiscott_3_ways_to_speak_english",
+  "video": {
+    "low": "http://download.ted.com/talks/JamilaLyiscott_2014S-light.mp4",
+    "medium": "http://download.ted.com/talks/JamilaLyiscott_2014S.mp4",
+    "high": "http://download.ted.com/talks/JamilaLyiscott_2014S-480p.mp4"
+  },
+  "viewCount": 3468953,
+  "year": "2014"
+}

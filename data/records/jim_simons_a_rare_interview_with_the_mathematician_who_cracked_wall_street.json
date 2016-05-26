@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/JimSimons_2015.mp3",
+  "author": "Jim Simons",
+  "dateFilmed": 1426550400,
+  "datePublished": 1441292491,
+  "description": "Jim Simons was a mathematician and cryptographer who realized: the complex math he used to break codes could help explain patterns in the world of finance. Billions later, he’s working to support the next generation of math teachers and scholars. TED’s Chris Anderson sits down with Simons to talk about his extraordinary life in numbers.",
+  "duration": 1383,
+  "event": "TED2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/4992208e156d7fa0de27c0affa357c6ada9dd230_2880x1620.jpg",
+  "keywords": [
+    "human origins",
+    "investment",
+    "math",
+    "philanthropy",
+    "physics"
+  ],
+  "mainLanguage": null,
+  "objectID": 2323,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Inspiring": 218,
+    "Longwinded": 30,
+    "OK": 66,
+    "Confusing": 15,
+    "Fascinating": 140,
+    "Informative": 163,
+    "Beautiful": 16,
+    "Persuasive": 18,
+    "Funny": 12,
+    "Courageous": 14,
+    "Unconvincing": 8,
+    "Ingenious": 32,
+    "Jaw-dropping": 5,
+    "Obnoxious": 5
+  },
+  "slug": "jim_simons_a_rare_interview_with_the_mathematician_who_cracked_wall_street",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/4992208e156d7fa0de27c0affa357c6ada9dd230_2880x1620.jpg?quality=89&w=600",
+  "title": "A rare interview with the mathematician who cracked Wall Street",
+  "url": "https://www.ted.com/talks/jim_simons_a_rare_interview_with_the_mathematician_who_cracked_wall_street",
+  "video": {
+    "low": "http://download.ted.com/talks/JimSimons_2015-light.mp4",
+    "medium": "http://download.ted.com/talks/JimSimons_2015.mp4",
+    "high": "http://download.ted.com/talks/JimSimons_2015-480p.mp4"
+  },
+  "viewCount": 1329119,
+  "year": "2015"
+}

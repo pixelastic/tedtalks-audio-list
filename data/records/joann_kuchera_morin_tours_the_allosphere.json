@@ -1,0 +1,61 @@
+{
+  "audio": "http://download.ted.com/talks/JoAnnKucheraMorin_2009.mp3",
+  "author": "JoAnn Kuchera-Morin",
+  "dateFilmed": 1233792000,
+  "datePublished": 1239757200,
+  "description": "JoAnn Kuchera-Morin demos the AlloSphere, a new way to see, hear and interpret scientific data. Dive into the brain, feel electron spin, hear the music of the elements ... and detect previously unseen patterns that could lead to new discoveries.",
+  "duration": 387,
+  "event": "TED2009",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/83840_800x600.jpg",
+  "keywords": [
+    "TED Conference",
+    "art",
+    "math",
+    "science",
+    "technology",
+    "visualizations"
+  ],
+  "mainLanguage": null,
+  "objectID": 516,
+  "otherLanguages": {
+    "bg": "Bulgarian",
+    "zh-cn": "Chinese, Simplified",
+    "zh-tw": "Chinese, Traditional",
+    "en": "English",
+    "fr": "French",
+    "de": "German",
+    "he": "Hebrew",
+    "it": "Italian",
+    "ja": "Japanese",
+    "ko": "Korean",
+    "pt-br": "Portuguese, Brazilian",
+    "es": "Spanish"
+  },
+  "ratings": {
+    "Unconvincing": 158,
+    "OK": 78,
+    "Jaw-dropping": 189,
+    "Ingenious": 190,
+    "Fascinating": 263,
+    "Confusing": 69,
+    "Beautiful": 252,
+    "Inspiring": 127,
+    "Obnoxious": 45,
+    "Informative": 89,
+    "Persuasive": 17,
+    "Longwinded": 32,
+    "Funny": 4,
+    "Courageous": 11
+  },
+  "slug": "joann_kuchera_morin_tours_the_allosphere",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/83840_800x600.jpg?quality=89&w=600",
+  "title": "Stunning data visualization in the AlloSphere",
+  "url": "https://www.ted.com/talks/joann_kuchera_morin_tours_the_allosphere",
+  "video": {
+    "low": "http://download.ted.com/talks/JoAnnKucheraMorin_2009-light.mp4",
+    "medium": "http://download.ted.com/talks/JoAnnKucheraMorin_2009.mp4",
+    "high": "http://download.ted.com/talks/JoAnnKucheraMorin_2009-480p.mp4"
+  },
+  "viewCount": 588398,
+  "year": "2009"
+}

@@ -1,0 +1,54 @@
+{
+  "audio": "http://download.ted.com/talks/AlisonKilling_2014U.mp3",
+  "author": "Alison Killing",
+  "dateFilmed": 1413763200,
+  "datePublished": 1427727389,
+  "description": "In this short, provocative talk, architect Alison Killing looks at buildings where death and dying happen -- cemeteries, hospitals, homes. The way we die is changing, and the way we build for dying ... well, maybe that should too. It's a surprisingly fascinating look at a hidden aspect of our cities, and our lives.",
+  "duration": 279,
+  "event": "TEDGlobal 2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/95a4015b80150ecd8795e24793648c5877612d20_2880x1620.jpg",
+  "keywords": [
+    "TED Fellows",
+    "architecture",
+    "cities",
+    "death",
+    "design"
+  ],
+  "mainLanguage": null,
+  "objectID": 2212,
+  "otherLanguages": {
+    "fr": "French",
+    "pl": "Polish",
+    "pt-br": "Portuguese, Brazilian",
+    "sr": "Serbian",
+    "sl": "Slovenian",
+    "es": "Spanish"
+  },
+  "ratings": {
+    "Informative": 203,
+    "OK": 131,
+    "Beautiful": 86,
+    "Inspiring": 170,
+    "Fascinating": 121,
+    "Unconvincing": 22,
+    "Persuasive": 90,
+    "Courageous": 44,
+    "Ingenious": 36,
+    "Longwinded": 5,
+    "Confusing": 8,
+    "Jaw-dropping": 6,
+    "Funny": 13,
+    "Obnoxious": 6
+  },
+  "slug": "alison_killing_there_s_a_better_way_to_die_and_architecture_can_help",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/95a4015b80150ecd8795e24793648c5877612d20_2880x1620.jpg?quality=89&w=600",
+  "title": "There’s a better way to die, and architecture can help",
+  "url": "https://www.ted.com/talks/alison_killing_there_s_a_better_way_to_die_and_architecture_can_help",
+  "video": {
+    "low": "http://download.ted.com/talks/AlisonKilling_2014U-light.mp4",
+    "medium": "http://download.ted.com/talks/AlisonKilling_2014U.mp4",
+    "high": "http://download.ted.com/talks/AlisonKilling_2014U-480p.mp4"
+  },
+  "viewCount": 1135131,
+  "year": "2014"
+}

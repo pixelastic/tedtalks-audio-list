@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/SalvatoreIaconesi_2013P.mp3",
+  "author": "Salvatore Iaconesi",
+  "dateFilmed": 1370736000,
+  "datePublished": 1437061619,
+  "description": "When artist Salvatore Iaconesi was diagnosed with brain cancer, he refused to be a passive patient -- which, he points out, means \"one who waits.\" So he hacked his brain scans, posted them online, and invited a global community to pitch in on a \"cure.\" This sometimes meant medical advice, and it sometimes meant art, music, emotional support -- from more than half a million people.",
+  "duration": 652,
+  "event": "TEDMED 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/922fc1156a66e2c393fc29349efb7e8838d839b0_2880x1620.jpg",
+  "keywords": [
+    "TED Fellows",
+    "art",
+    "brain",
+    "cancer",
+    "science"
+  ],
+  "mainLanguage": null,
+  "objectID": 2303,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 89,
+    "Inspiring": 153,
+    "OK": 61,
+    "Courageous": 90,
+    "Informative": 70,
+    "Persuasive": 11,
+    "Funny": 21,
+    "Fascinating": 42,
+    "Ingenious": 30,
+    "Unconvincing": 16,
+    "Obnoxious": 3,
+    "Longwinded": 5,
+    "Confusing": 6,
+    "Jaw-dropping": 2
+  },
+  "slug": "salvatore_iaconesi_what_happened_when_i_open_sourced_my_brain_cancer",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/922fc1156a66e2c393fc29349efb7e8838d839b0_2880x1620.jpg?quality=89&w=600",
+  "title": "What happened when I open-sourced my brain cancer",
+  "url": "https://www.ted.com/talks/salvatore_iaconesi_what_happened_when_i_open_sourced_my_brain_cancer",
+  "video": {
+    "low": "http://download.ted.com/talks/SalvatoreIaconesi_2013P-light.mp4",
+    "medium": "http://download.ted.com/talks/SalvatoreIaconesi_2013P.mp4",
+    "high": "http://download.ted.com/talks/SalvatoreIaconesi_2013P-480p.mp4"
+  },
+  "viewCount": 1055027,
+  "year": "2013"
+}

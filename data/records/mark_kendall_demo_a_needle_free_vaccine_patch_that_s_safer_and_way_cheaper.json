@@ -1,0 +1,49 @@
+{
+  "audio": "http://download.ted.com/talks/MarkKendall_2013G.mp3",
+  "author": "Mark Kendall",
+  "dateFilmed": 1371600000,
+  "datePublished": 1389715302,
+  "description": "One hundred sixty years after the invention of the needle and syringe, we’re still using them to deliver vaccines; it’s time to evolve. Biomedical engineer Mark Kendall demos the Nanopatch, a one-centimeter-by-one-centimeter square vaccine that can be applied painlessly to the skin. He shows how this tiny piece of silicon can overcome four major shortcomings of the modern needle and syringe, at a fraction of the cost.",
+  "duration": 830,
+  "event": "TEDGlobal 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/3f66927c46f0beec652fee24ca8feddf183b8396_1600x1200.jpg",
+  "keywords": [
+    "Vaccines",
+    "biology",
+    "health",
+    "medicine",
+    "science",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 1905,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Fascinating": 340,
+    "Ingenious": 429,
+    "Inspiring": 202,
+    "Informative": 241,
+    "Beautiful": 26,
+    "Persuasive": 91,
+    "Jaw-dropping": 151,
+    "OK": 23,
+    "Courageous": 17,
+    "Unconvincing": 1,
+    "Longwinded": 11,
+    "Funny": 6,
+    "Obnoxious": 4,
+    "Confusing": 1
+  },
+  "slug": "mark_kendall_demo_a_needle_free_vaccine_patch_that_s_safer_and_way_cheaper",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/3f66927c46f0beec652fee24ca8feddf183b8396_1600x1200.jpg?quality=89&w=600",
+  "title": "Demo: A needle-free vaccine patch that's safer and way cheaper",
+  "url": "https://www.ted.com/talks/mark_kendall_demo_a_needle_free_vaccine_patch_that_s_safer_and_way_cheaper",
+  "video": {
+    "low": "http://download.ted.com/talks/MarkKendall_2013G-light.mp4",
+    "medium": "http://download.ted.com/talks/MarkKendall_2013G.mp4",
+    "high": "http://download.ted.com/talks/MarkKendall_2013G-480p.mp4"
+  },
+  "viewCount": 941223,
+  "year": "2013"
+}

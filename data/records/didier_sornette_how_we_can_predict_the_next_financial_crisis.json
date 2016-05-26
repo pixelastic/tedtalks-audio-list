@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/DidierSornette_2013G.mp3",
+  "author": "Didier Sornette",
+  "dateFilmed": 1370908800,
+  "datePublished": 1371481036,
+  "description": "The 2007-2008 financial crisis, you might think, was an unpredictable one-time crash. But Didier Sornette and his Financial Crisis Observatory have plotted a set of early warning signs for unstable, growing systems, tracking the moment when any bubble is about to pop. (And he's seeing it happen again, right now.)",
+  "duration": 1021,
+  "event": "TEDGlobal 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a48edfabaf3729e24dc8ad5e7fda6e35fefd97a4_1600x1200.jpg",
+  "keywords": [
+    "business",
+    "economics",
+    "global issues",
+    "prediction"
+  ],
+  "mainLanguage": null,
+  "objectID": 1768,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Inspiring": 63,
+    "Informative": 205,
+    "Fascinating": 118,
+    "Unconvincing": 75,
+    "Persuasive": 137,
+    "Courageous": 24,
+    "Longwinded": 18,
+    "Obnoxious": 14,
+    "Confusing": 35,
+    "Ingenious": 51,
+    "OK": 38,
+    "Jaw-dropping": 20,
+    "Beautiful": 10,
+    "Funny": 1
+  },
+  "slug": "didier_sornette_how_we_can_predict_the_next_financial_crisis",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a48edfabaf3729e24dc8ad5e7fda6e35fefd97a4_1600x1200.jpg?quality=89&w=600",
+  "title": "How we can predict the next financial crisis",
+  "url": "https://www.ted.com/talks/didier_sornette_how_we_can_predict_the_next_financial_crisis",
+  "video": {
+    "low": "http://download.ted.com/talks/DidierSornette_2013G-light.mp4",
+    "medium": "http://download.ted.com/talks/DidierSornette_2013G.mp4",
+    "high": "http://download.ted.com/talks/DidierSornette_2013G-480p.mp4"
+  },
+  "viewCount": 1244992,
+  "year": "2013"
+}

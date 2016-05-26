@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/IwanBaan_2013Z.mp3",
+  "author": "Iwan Baan",
+  "dateFilmed": 1380326400,
+  "datePublished": 1381936502,
+  "description": "In the center of Caracas, Venezuela, stands the 45-story \"Tower of David,\" an unfinished, abandoned skyscraper. But about eight years ago, people started moving in. Photographer Iwan Baan shows how people build homes in unlikely places, touring us through the family apartments of Torre David, a city on the water in Nigeria, and an underground village in China. Glorious images celebrate humanity's ability to survive and make a home -- anywhere.",
+  "duration": 1018,
+  "event": "TEDCity2.0",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/167f6a84f1e15eb73f7df4987097a42268230193_1600x1200.jpg",
+  "keywords": [
+    "cities",
+    "creativity",
+    "culture",
+    "design",
+    "photography"
+  ],
+  "mainLanguage": null,
+  "objectID": 1846,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Fascinating": 532,
+    "Ingenious": 167,
+    "Beautiful": 205,
+    "Inspiring": 288,
+    "Longwinded": 13,
+    "OK": 36,
+    "Unconvincing": 12,
+    "Informative": 260,
+    "Jaw-dropping": 120,
+    "Funny": 16,
+    "Obnoxious": 4,
+    "Persuasive": 27,
+    "Courageous": 35,
+    "Confusing": 3
+  },
+  "slug": "iwan_baan_ingenious_homes_in_unexpected_places",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/167f6a84f1e15eb73f7df4987097a42268230193_1600x1200.jpg?quality=89&w=600",
+  "title": "Ingenious homes in unexpected places",
+  "url": "https://www.ted.com/talks/iwan_baan_ingenious_homes_in_unexpected_places",
+  "video": {
+    "low": "http://download.ted.com/talks/IwanBaan_2013Z-light.mp4",
+    "medium": "http://download.ted.com/talks/IwanBaan_2013Z.mp4",
+    "high": "http://download.ted.com/talks/IwanBaan_2013Z-480p.mp4"
+  },
+  "viewCount": 1350217,
+  "year": "2013"
+}

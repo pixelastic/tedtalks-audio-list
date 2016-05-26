@@ -1,0 +1,53 @@
+{
+  "audio": null,
+  "author": "Ed Ulbrich",
+  "dateFilmed": 1233705600,
+  "datePublished": 1235350800,
+  "description": "Ed Ulbrich, the digital-effects guru from Digital Domain, explains the Oscar-winning technology that allowed his team to digitally create the older versions of Brad Pitt's face for \"The Curious Case of Benjamin Button.\"",
+  "duration": 1087,
+  "event": "TED2009",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/51ea0e7d5d539a0a905bce328b62904e1298aca9_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "aging",
+    "arts",
+    "business",
+    "entertainment",
+    "film",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 469,
+  "otherLanguages": {
+    "he": "Hebrew",
+    "fa": "Persian",
+    "vi": "Vietnamese"
+  },
+  "ratings": {
+    "Jaw-dropping": 454,
+    "Ingenious": 318,
+    "Informative": 180,
+    "Longwinded": 16,
+    "OK": 31,
+    "Beautiful": 57,
+    "Fascinating": 378,
+    "Courageous": 25,
+    "Inspiring": 87,
+    "Unconvincing": 3,
+    "Persuasive": 18,
+    "Funny": 15,
+    "Confusing": 4,
+    "Obnoxious": 3
+  },
+  "slug": "ed_ulbrich_shows_how_benjamin_button_got_his_face",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/51ea0e7d5d539a0a905bce328b62904e1298aca9_1600x1200.jpg?quality=89&w=600",
+  "title": "How Benjamin Button got his face",
+  "url": "https://www.ted.com/talks/ed_ulbrich_shows_how_benjamin_button_got_his_face",
+  "video": {
+    "low": "http://download.ted.com/talks/EdUlbrich_2009-light.mp4",
+    "medium": "http://download.ted.com/talks/EdUlbrich_2009.mp4",
+    "high": "http://download.ted.com/talks/EdUlbrich_2009-480p.mp4"
+  },
+  "viewCount": 867996,
+  "year": "2009"
+}

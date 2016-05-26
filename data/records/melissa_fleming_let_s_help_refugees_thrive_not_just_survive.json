@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/MelissaFleming_2014G.mp3",
+  "author": "Melissa Fleming",
+  "dateFilmed": 1412726400,
+  "datePublished": 1413470444,
+  "description": "Today's refugee crisis is the biggest since World War II, and it's growing. When this talk was given, 50 million people had been forcefully displaced from their homes by conflict and war; now, a year later, the number is 60 million. There were 3 million Syrian refugees in 2014; now there are 4 million. Inside this overwhelming crisis are the individual human stories -- of care, growth and family, in the face of lost education, lost home, lost future. Melissa Fleming of the UN's refugee agency tells the refugees' stories -- and asks us to help them rebuild their world.",
+  "duration": 968,
+  "event": "TEDGlobal 2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/5ddc239be84a6c05cd1f3970141e5ce18830a28e_2880x1620.jpg",
+  "keywords": [
+    "education",
+    "global issues",
+    "poverty",
+    "war"
+  ],
+  "mainLanguage": null,
+  "objectID": 2110,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Courageous": 175,
+    "Inspiring": 391,
+    "Fascinating": 93,
+    "Informative": 203,
+    "Persuasive": 138,
+    "Unconvincing": 15,
+    "Obnoxious": 6,
+    "OK": 39,
+    "Beautiful": 74,
+    "Jaw-dropping": 12,
+    "Confusing": 5,
+    "Ingenious": 2,
+    "Longwinded": 16,
+    "Funny": 6
+  },
+  "slug": "melissa_fleming_let_s_help_refugees_thrive_not_just_survive",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/5ddc239be84a6c05cd1f3970141e5ce18830a28e_2880x1620.jpg?quality=89&w=600",
+  "title": "How to help refugees rebuild their world",
+  "url": "https://www.ted.com/talks/melissa_fleming_let_s_help_refugees_thrive_not_just_survive",
+  "video": {
+    "low": "http://download.ted.com/talks/MelissaFleming_2014G-light.mp4",
+    "medium": "http://download.ted.com/talks/MelissaFleming_2014G.mp4",
+    "high": "http://download.ted.com/talks/MelissaFleming_2014G-480p.mp4"
+  },
+  "viewCount": 932256,
+  "year": "2014"
+}

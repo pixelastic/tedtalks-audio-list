@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/SarahLewis_2014.mp3",
+  "author": "Sarah Lewis",
+  "dateFilmed": 1395273600,
+  "datePublished": 1398092650,
+  "description": "At her first museum job, art historian Sarah Lewis noticed something important about an artist she was studying: Not every artwork was a total masterpiece. She asks us to consider the role of the almost-failure, the near win, in our own lives. In our pursuit of success and mastery, is it actually our near wins that push us forward?",
+  "duration": 701,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/4241335095e5e5026566315fbe8a827dc4e05353_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "art",
+    "failure",
+    "motivation"
+  ],
+  "mainLanguage": null,
+  "objectID": 1978,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Confusing": 27,
+    "Unconvincing": 22,
+    "OK": 155,
+    "Inspiring": 544,
+    "Fascinating": 162,
+    "Persuasive": 137,
+    "Obnoxious": 16,
+    "Beautiful": 171,
+    "Informative": 131,
+    "Courageous": 51,
+    "Jaw-dropping": 16,
+    "Funny": 7,
+    "Longwinded": 74,
+    "Ingenious": 43
+  },
+  "slug": "sarah_lewis_embrace_the_near_win",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/4241335095e5e5026566315fbe8a827dc4e05353_1600x1200.jpg?quality=89&w=600",
+  "title": "Embrace the near win",
+  "url": "https://www.ted.com/talks/sarah_lewis_embrace_the_near_win",
+  "video": {
+    "low": "http://download.ted.com/talks/SarahLewis_2014-light.mp4",
+    "medium": "http://download.ted.com/talks/SarahLewis_2014.mp4",
+    "high": "http://download.ted.com/talks/SarahLewis_2014-480p.mp4"
+  },
+  "viewCount": 1921784,
+  "year": "2014"
+}

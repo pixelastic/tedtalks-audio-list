@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/MichaelDickinson_2013X.mp3",
+  "author": "Michael Dickinson",
+  "dateFilmed": 1358467200,
+  "datePublished": 1361538468,
+  "description": "An insect's ability to fly is perhaps one of the greatest feats of evolution. Michael Dickinson looks at how a fruit fly takes flight with such delicate wings, thanks to a clever flapping motion and flight muscles that are both powerful and nimble. But the secret ingredient: the incredible fly brain. (Filmed at TEDxCaltech.)",
+  "duration": 955,
+  "event": "TEDxCaltech",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/358f8320e4a3b2a9f21dc6ae0585b8ddc071c1a5_1600x1200.jpg",
+  "keywords": [
+    "TEDx",
+    "biology",
+    "insects",
+    "science"
+  ],
+  "mainLanguage": null,
+  "objectID": 1674,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Jaw-dropping": 93,
+    "Fascinating": 466,
+    "Informative": 334,
+    "Funny": 112,
+    "Persuasive": 34,
+    "Inspiring": 41,
+    "Ingenious": 92,
+    "OK": 36,
+    "Longwinded": 16,
+    "Beautiful": 41,
+    "Courageous": 7,
+    "Confusing": 14,
+    "Obnoxious": 6,
+    "Unconvincing": 3
+  },
+  "slug": "michael_dickinson_how_a_fly_flies",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/358f8320e4a3b2a9f21dc6ae0585b8ddc071c1a5_1600x1200.jpg?quality=89&w=600",
+  "title": "How a fly flies",
+  "url": "https://www.ted.com/talks/michael_dickinson_how_a_fly_flies",
+  "video": {
+    "low": "http://download.ted.com/talks/MichaelDickinson_2013X-light.mp4",
+    "medium": "http://download.ted.com/talks/MichaelDickinson_2013X.mp4",
+    "high": "http://download.ted.com/talks/MichaelDickinson_2013X-480p.mp4"
+  },
+  "viewCount": 1416158,
+  "year": "2013"
+}

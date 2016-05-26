@@ -1,0 +1,51 @@
+{
+  "audio": "http://download.ted.com/talks/DavidPogue_2013U.mp3",
+  "author": "David Pogue",
+  "dateFilmed": 1361750400,
+  "datePublished": 1366988837,
+  "description": "Tech columnist David Pogue shares 10 simple, clever tips for computer, web, smartphone and camera users. And yes, you may know a few of these already -- but there's probably at least one you don't.",
+  "duration": 344,
+  "event": "TED2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b7f415a054cc0a2bfdd90d0ad5a7f64cf060150d_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "culture",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 1725,
+  "otherLanguages": {
+    "bg": "Bulgarian",
+    "ca": "Catalan",
+    "srp": "Montenegrin",
+    "sl": "Slovenian",
+    "th": "Thai"
+  },
+  "ratings": {
+    "Informative": 1396,
+    "Funny": 654,
+    "Obnoxious": 107,
+    "Ingenious": 148,
+    "Persuasive": 74,
+    "Fascinating": 124,
+    "Beautiful": 35,
+    "Longwinded": 49,
+    "OK": 270,
+    "Inspiring": 38,
+    "Jaw-dropping": 41,
+    "Unconvincing": 68,
+    "Confusing": 18,
+    "Courageous": 5
+  },
+  "slug": "david_pogue_10_top_time_saving_tech_tips",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b7f415a054cc0a2bfdd90d0ad5a7f64cf060150d_1600x1200.jpg?quality=89&w=600",
+  "title": "10 top time-saving tech tips",
+  "url": "https://www.ted.com/talks/david_pogue_10_top_time_saving_tech_tips",
+  "video": {
+    "low": "http://download.ted.com/talks/DavidPogue_2013U-light.mp4",
+    "medium": "http://download.ted.com/talks/DavidPogue_2013U.mp4",
+    "high": "http://download.ted.com/talks/DavidPogue_2013U-480p.mp4"
+  },
+  "viewCount": 4556953,
+  "year": "2013"
+}

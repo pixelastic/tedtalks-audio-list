@@ -1,0 +1,46 @@
+{
+  "audio": "http://download.ted.com/talks/MarcAbrahams_2014P.mp3",
+  "author": "Marc Abrahams",
+  "dateFilmed": 1410480000,
+  "datePublished": 1414163285,
+  "description": "As founder of the Ig Nobel awards, Marc Abrahams explores the world’s most improbable research. In this thought-provoking (and occasionally side-splitting) talk, he tells stories of truly weird science -- and makes the case that silliness is critical to boosting public interest in science.",
+  "duration": 792,
+  "event": "TEDMED 2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e09bca7cb0c480eddefdd152f453610bcc37b654_2880x1620.jpg",
+  "keywords": [
+    "humor",
+    "science",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 2115,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Funny": 856,
+    "Informative": 216,
+    "Fascinating": 204,
+    "OK": 71,
+    "Beautiful": 46,
+    "Inspiring": 128,
+    "Ingenious": 178,
+    "Courageous": 19,
+    "Unconvincing": 21,
+    "Jaw-dropping": 26,
+    "Obnoxious": 10,
+    "Confusing": 10,
+    "Persuasive": 20,
+    "Longwinded": 19
+  },
+  "slug": "marc_abrahams_a_science_award_that_makes_you_laugh_then_think",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e09bca7cb0c480eddefdd152f453610bcc37b654_2880x1620.jpg?quality=89&w=600",
+  "title": "A science award that makes you laugh, then think",
+  "url": "https://www.ted.com/talks/marc_abrahams_a_science_award_that_makes_you_laugh_then_think",
+  "video": {
+    "low": "http://download.ted.com/talks/MarcAbrahams_2014P-light.mp4",
+    "medium": "http://download.ted.com/talks/MarcAbrahams_2014P.mp4",
+    "high": "http://download.ted.com/talks/MarcAbrahams_2014P-480p.mp4"
+  },
+  "viewCount": 1314413,
+  "year": "2014"
+}

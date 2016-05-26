@@ -1,0 +1,59 @@
+{
+  "audio": "http://download.ted.com/talks/BarrySchwartz_2010S.mp3",
+  "author": "Barry Schwartz",
+  "dateFilmed": 1290038400,
+  "datePublished": 1293809880,
+  "description": "In an intimate talk, Barry Schwartz dives into the question \"How do we do the right thing?\" With help from collaborator Kenneth Sharpe, he shares stories that illustrate the difference between following the rules and truly choosing wisely.",
+  "duration": 1387,
+  "event": "TEDSalon NY2011",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/66906fa78e124d95146dd0c6e29898290c98517d_800x600.jpg",
+  "keywords": [
+    "culture",
+    "global issues",
+    "happiness",
+    "philosophy",
+    "self"
+  ],
+  "mainLanguage": null,
+  "objectID": 1043,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified",
+    "zh-tw": "Chinese, Traditional",
+    "en": "English",
+    "fr": "French",
+    "de": "German",
+    "hu": "Hungarian",
+    "it": "Italian",
+    "ja": "Japanese",
+    "ko": "Korean",
+    "pt-br": "Portuguese, Brazilian",
+    "ru": "Russian"
+  },
+  "ratings": {
+    "Courageous": 170,
+    "Informative": 361,
+    "Longwinded": 89,
+    "Persuasive": 565,
+    "OK": 98,
+    "Inspiring": 766,
+    "Obnoxious": 18,
+    "Fascinating": 176,
+    "Beautiful": 64,
+    "Ingenious": 80,
+    "Jaw-dropping": 34,
+    "Unconvincing": 93,
+    "Confusing": 9,
+    "Funny": 8
+  },
+  "slug": "barry_schwartz_using_our_practical_wisdom",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/66906fa78e124d95146dd0c6e29898290c98517d_800x600.jpg?quality=89&w=600",
+  "title": "Using our practical wisdom",
+  "url": "https://www.ted.com/talks/barry_schwartz_using_our_practical_wisdom",
+  "video": {
+    "low": "http://download.ted.com/talks/BarrySchwartz_2010S-light.mp4",
+    "medium": "http://download.ted.com/talks/BarrySchwartz_2010S.mp4",
+    "high": "http://download.ted.com/talks/BarrySchwartz_2010S-480p.mp4"
+  },
+  "viewCount": 869477,
+  "year": "2010"
+}

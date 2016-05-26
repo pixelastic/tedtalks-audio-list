@@ -1,0 +1,62 @@
+{
+  "audio": "http://download.ted.com/talks/BarrySchwartz_2014U.mp3",
+  "author": "Barry Schwartz",
+  "dateFilmed": 1395187200,
+  "datePublished": 1441727197,
+  "description": "What makes work satisfying? Apart from a paycheck, there are intangible values that, Barry Schwartz suggests, our current way of thinking about work simply ignores. It's time to stop thinking of workers as cogs on a wheel.",
+  "duration": 482,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ccff17e420da45a3422fc521da2173a99029548c_2880x1620.jpg",
+  "keywords": [
+    "business",
+    "economics",
+    "happiness",
+    "psychology",
+    "work"
+  ],
+  "mainLanguage": null,
+  "objectID": 2324,
+  "otherLanguages": {
+    "my": "Burmese",
+    "cs": "Czech",
+    "fr": "French",
+    "el": "Greek",
+    "he": "Hebrew",
+    "hi": "Hindi",
+    "hu": "Hungarian",
+    "ko": "Korean",
+    "pt": "Portuguese",
+    "ru": "Russian",
+    "sr": "Serbian",
+    "th": "Thai",
+    "uk": "Ukrainian",
+    "vi": "Vietnamese"
+  },
+  "ratings": {
+    "Informative": 293,
+    "Inspiring": 405,
+    "Persuasive": 219,
+    "Beautiful": 45,
+    "Fascinating": 153,
+    "Unconvincing": 110,
+    "OK": 198,
+    "Longwinded": 36,
+    "Confusing": 38,
+    "Courageous": 45,
+    "Obnoxious": 18,
+    "Ingenious": 45,
+    "Funny": 26,
+    "Jaw-dropping": 13
+  },
+  "slug": "barry_schwartz_the_way_we_think_about_work_is_broken",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ccff17e420da45a3422fc521da2173a99029548c_2880x1620.jpg?quality=89&w=600",
+  "title": "The way we think about work is broken",
+  "url": "https://www.ted.com/talks/barry_schwartz_the_way_we_think_about_work_is_broken",
+  "video": {
+    "low": "http://download.ted.com/talks/BarrySchwartz_2014U-light.mp4",
+    "medium": "http://download.ted.com/talks/BarrySchwartz_2014U.mp4",
+    "high": "http://download.ted.com/talks/BarrySchwartz_2014U-480p.mp4"
+  },
+  "viewCount": 2038448,
+  "year": "2014"
+}

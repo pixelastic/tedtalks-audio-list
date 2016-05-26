@@ -1,0 +1,46 @@
+{
+  "audio": "http://download.ted.com/talks/JakeBarton_2013S.mp3",
+  "author": "Jake Barton",
+  "dateFilmed": 1368662400,
+  "datePublished": 1378825147,
+  "description": "A third of the world watched live as the World Trade Center collapsed on September 11, 2001; a third more heard about it within 24 hours. (Do you remember where you were?) So exhibits at the soon-to-open 9/11 Memorial Museum will reflect the diversity of the world's experiences of that day. In a moving talk, designer Jake Barton gives a peek at some of those installations, as well as several other projects that aim to make the observer an active participant in the exhibit.",
+  "duration": 938,
+  "event": "TEDSalon NY2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/6ad9fe242fa54fb6e3edac66b816cbcce4590529_1600x1200.jpg",
+  "keywords": [
+    "collaboration",
+    "design",
+    "museums"
+  ],
+  "mainLanguage": null,
+  "objectID": 1817,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 137,
+    "Inspiring": 117,
+    "Informative": 49,
+    "Ingenious": 54,
+    "Fascinating": 75,
+    "OK": 18,
+    "Jaw-dropping": 9,
+    "Courageous": 16,
+    "Obnoxious": 6,
+    "Confusing": 4,
+    "Longwinded": 5,
+    "Unconvincing": 4,
+    "Funny": 2,
+    "Persuasive": 6
+  },
+  "slug": "jake_barton_the_museum_of_you",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/6ad9fe242fa54fb6e3edac66b816cbcce4590529_1600x1200.jpg?quality=89&w=600",
+  "title": "The museum of you",
+  "url": "https://www.ted.com/talks/jake_barton_the_museum_of_you",
+  "video": {
+    "low": "http://download.ted.com/talks/JakeBarton_2013S-light.mp4",
+    "medium": "http://download.ted.com/talks/JakeBarton_2013S.mp4",
+    "high": "http://download.ted.com/talks/JakeBarton_2013S-480p.mp4"
+  },
+  "viewCount": 746911,
+  "year": "2013"
+}

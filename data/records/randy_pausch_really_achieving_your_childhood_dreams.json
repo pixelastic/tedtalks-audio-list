@@ -1,0 +1,49 @@
+{
+  "audio": null,
+  "author": "Randy Pausch",
+  "dateFilmed": 1190073600,
+  "datePublished": 1262950320,
+  "description": "In 2007, Carnegie Mellon professor Randy Pausch, who was dying of pancreatic cancer, delivered a one-of-a-kind last lecture that made the world stop and pay attention. This moving talk will teach you how to really achieve your childhood dreams. Unmissable.",
+  "duration": 4587,
+  "event": "Carnegie Mellon University",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/140394_800x600.jpg",
+  "keywords": [
+    "culture",
+    "disease",
+    "education",
+    "life",
+    "self"
+  ],
+  "mainLanguage": null,
+  "objectID": 730,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Courageous": 275,
+    "Inspiring": 853,
+    "Funny": 194,
+    "OK": 41,
+    "Persuasive": 86,
+    "Jaw-dropping": 171,
+    "Beautiful": 244,
+    "Fascinating": 103,
+    "Informative": 76,
+    "Obnoxious": 10,
+    "Confusing": 5,
+    "Ingenious": 41,
+    "Longwinded": 14,
+    "Unconvincing": 7
+  },
+  "slug": "randy_pausch_really_achieving_your_childhood_dreams",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/140394_800x600.jpg?quality=89&w=600",
+  "title": "Really achieving your childhood dreams",
+  "url": "https://www.ted.com/talks/randy_pausch_really_achieving_your_childhood_dreams",
+  "video": {
+    "youtube": {
+      "id": "ji5_MqicxSo",
+      "url": "http://www.youtube.com/watch?v=ji5_MqicxSo"
+    }
+  },
+  "viewCount": 529861,
+  "year": "2007"
+}

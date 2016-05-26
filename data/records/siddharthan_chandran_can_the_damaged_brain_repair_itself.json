@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/SiddharthanChandran_2013G.mp3",
+  "author": "Siddharthan Chandran",
+  "dateFilmed": 1373846400,
+  "datePublished": 1393259973,
+  "description": "After a traumatic brain injury, it sometimes happens that the brain can repair itself, building new brain cells to replace damaged ones. But the repair doesn't happen quickly enough to allow recovery from degenerative conditions like motor neuron disease (also known as Lou Gehrig's disease or ALS). Siddharthan Chandran walks through some new techniques using special stem cells that could allow the damaged brain to rebuild faster.",
+  "duration": 957,
+  "event": "TEDGlobal 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/803ec7085bb7b0d8be729507bb8d50332390f62a_1600x1200.jpg",
+  "keywords": [
+    "brain",
+    "health",
+    "neuroscience",
+    "science"
+  ],
+  "mainLanguage": null,
+  "objectID": 1935,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Jaw-dropping": 120,
+    "Inspiring": 395,
+    "Ingenious": 114,
+    "Informative": 326,
+    "Fascinating": 287,
+    "Obnoxious": 4,
+    "Longwinded": 6,
+    "OK": 22,
+    "Persuasive": 82,
+    "Courageous": 17,
+    "Beautiful": 78,
+    "Unconvincing": 5,
+    "Funny": 4,
+    "Confusing": 1
+  },
+  "slug": "siddharthan_chandran_can_the_damaged_brain_repair_itself",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/803ec7085bb7b0d8be729507bb8d50332390f62a_1600x1200.jpg?quality=89&w=600",
+  "title": "Can the damaged brain repair itself?",
+  "url": "https://www.ted.com/talks/siddharthan_chandran_can_the_damaged_brain_repair_itself",
+  "video": {
+    "low": "http://download.ted.com/talks/SiddharthanChandran_2013G-light.mp4",
+    "medium": "http://download.ted.com/talks/SiddharthanChandran_2013G.mp4",
+    "high": "http://download.ted.com/talks/SiddharthanChandran_2013G-480p.mp4"
+  },
+  "viewCount": 908651,
+  "year": "2013"
+}

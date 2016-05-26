@@ -1,0 +1,46 @@
+{
+  "audio": "http://download.ted.com/talks/GayleTzemachLemmon_2015W.mp3",
+  "author": "Gayle Tzemach Lemmon",
+  "dateFilmed": 1432857600,
+  "datePublished": 1435849291,
+  "description": "In 2011, the US Armed Forces still had a ban on women in combat -- but in that year, a Special Operations team of women was sent to Afghanistan to serve on the front lines, to build rapport with locals and try to help bring an end to the war. Reporter Gayle Tzemach Lemmon tells the story of this \"band of sisters,\" an extraordinary group of women warriors who helped break a long-standing barrier to serve.",
+  "duration": 685,
+  "event": "TEDWomen 2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/4e57076a88a9de03b76c153806d352f05eba854e_2880x1620.jpg",
+  "keywords": [
+    "peace",
+    "war",
+    "women"
+  ],
+  "mainLanguage": null,
+  "objectID": 2288,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 151,
+    "Courageous": 121,
+    "Inspiring": 256,
+    "Informative": 80,
+    "OK": 43,
+    "Unconvincing": 34,
+    "Obnoxious": 31,
+    "Fascinating": 33,
+    "Longwinded": 14,
+    "Persuasive": 25,
+    "Funny": 19,
+    "Jaw-dropping": 21,
+    "Ingenious": 5,
+    "Confusing": 14
+  },
+  "slug": "gayle_tzemach_lemmon_meet_the_first_women_to_fight_on_the_front_lines_of_an_american_war",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/4e57076a88a9de03b76c153806d352f05eba854e_2880x1620.jpg?quality=89&w=600",
+  "title": "Meet the women fighting on the front lines of an American war",
+  "url": "https://www.ted.com/talks/gayle_tzemach_lemmon_meet_the_first_women_to_fight_on_the_front_lines_of_an_american_war",
+  "video": {
+    "low": "http://download.ted.com/talks/GayleTzemachLemmon_2015W-light.mp4",
+    "medium": "http://download.ted.com/talks/GayleTzemachLemmon_2015W.mp4",
+    "high": "http://download.ted.com/talks/GayleTzemachLemmon_2015W-480p.mp4"
+  },
+  "viewCount": 1098571,
+  "year": "2015"
+}

@@ -1,0 +1,50 @@
+{
+  "audio": "http://download.ted.com/talks/LarryLessig_2013.mp3",
+  "author": "Lawrence Lessig",
+  "dateFilmed": 1361923200,
+  "datePublished": 1364997280,
+  "description": "There is a corruption at the heart of American politics, caused by the dependence of Congressional candidates on funding from the tiniest percentage of citizens. That's the argument at the core of this blistering talk by legal scholar Lawrence Lessig. With rapid-fire visuals, he shows how the funding process weakens the Republic in the most fundamental way, and issues a rallying bipartisan cry that will resonate with many in the U.S. and beyond.",
+  "duration": 1099,
+  "event": "TED2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/28f3cfe3a001394ccfaafa3fd72b8e0d8be58613_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "corruption",
+    "democracy",
+    "global issues",
+    "government",
+    "law",
+    "politics"
+  ],
+  "mainLanguage": null,
+  "objectID": 1702,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Funny": 43,
+    "Informative": 559,
+    "Persuasive": 1027,
+    "Courageous": 473,
+    "Inspiring": 877,
+    "Jaw-dropping": 235,
+    "Fascinating": 148,
+    "Ingenious": 89,
+    "Beautiful": 29,
+    "Obnoxious": 14,
+    "Longwinded": 12,
+    "Unconvincing": 27,
+    "Confusing": 14,
+    "OK": 28
+  },
+  "slug": "lawrence_lessig_we_the_people_and_the_republic_we_must_reclaim",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/28f3cfe3a001394ccfaafa3fd72b8e0d8be58613_1600x1200.jpg?quality=89&w=600",
+  "title": "We the People, and the Republic we must reclaim",
+  "url": "https://www.ted.com/talks/lawrence_lessig_we_the_people_and_the_republic_we_must_reclaim",
+  "video": {
+    "low": "http://download.ted.com/talks/LarryLessig_2013-light.mp4",
+    "medium": "http://download.ted.com/talks/LarryLessig_2013.mp4",
+    "high": "http://download.ted.com/talks/LarryLessig_2013-480p.mp4"
+  },
+  "viewCount": 1365340,
+  "year": "2013"
+}

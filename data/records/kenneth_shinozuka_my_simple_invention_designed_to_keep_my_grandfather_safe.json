@@ -1,0 +1,50 @@
+{
+  "audio": "http://download.ted.com/talks/KennethShinozuka_2014Y.mp3",
+  "author": "Kenneth Shinozuka",
+  "dateFilmed": 1416009600,
+  "datePublished": 1423756820,
+  "description": "60% of people with dementia wander off, an issue that can prove hugely stressful for both patients and caregivers. In this charming talk, hear how teen inventor Kenneth Shinozuka came up with a novel solution to help his night-wandering grandfather and the aunt who looks after him ... and how he hopes to help others with Alzheimer's.",
+  "duration": 346,
+  "event": "TEDYouth 2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/53a9dce4578c8bbd105d14e457431afa330f2ec0_2880x1620.jpg",
+  "keywords": [
+    "TEDYouth",
+    "aging",
+    "design",
+    "innovation",
+    "invention",
+    "product design",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 2184,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Ingenious": 362,
+    "Inspiring": 368,
+    "Persuasive": 46,
+    "Informative": 200,
+    "Funny": 17,
+    "Fascinating": 123,
+    "Courageous": 40,
+    "Beautiful": 68,
+    "OK": 82,
+    "Unconvincing": 12,
+    "Jaw-dropping": 16,
+    "Obnoxious": 4,
+    "Longwinded": 14,
+    "Confusing": 3
+  },
+  "slug": "kenneth_shinozuka_my_simple_invention_designed_to_keep_my_grandfather_safe",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/53a9dce4578c8bbd105d14e457431afa330f2ec0_2880x1620.jpg?quality=89&w=600",
+  "title": "My simple invention, designed to keep my grandfather safe",
+  "url": "https://www.ted.com/talks/kenneth_shinozuka_my_simple_invention_designed_to_keep_my_grandfather_safe",
+  "video": {
+    "low": "http://download.ted.com/talks/KennethShinozuka_2014Y-light.mp4",
+    "medium": "http://download.ted.com/talks/KennethShinozuka_2014Y.mp4",
+    "high": "http://download.ted.com/talks/KennethShinozuka_2014Y-480p.mp4"
+  },
+  "viewCount": 1426809,
+  "year": "2014"
+}

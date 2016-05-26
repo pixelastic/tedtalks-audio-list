@@ -1,0 +1,62 @@
+{
+  "audio": "http://download.ted.com/talks/StevenPinker_2005G.mp3",
+  "author": "Steven Pinker",
+  "dateFilmed": 1120694400,
+  "datePublished": 1189349760,
+  "description": "In an exclusive preview of his book The Stuff of Thought, Steven Pinker looks at language and how it expresses what goes on in our minds -- and how the words we choose communicate much more than we realize.",
+  "duration": 1047,
+  "event": "TEDGlobal 2005",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/739e68a86e8d84ba8bfc53c603148d4eb408cfa8_1600x1200.jpg",
+  "keywords": [
+    "TED Brain Trust",
+    "culture",
+    "language",
+    "psychology",
+    "science"
+  ],
+  "mainLanguage": null,
+  "objectID": 164,
+  "otherLanguages": {
+    "sq": "Albanian",
+    "ar": "Arabic",
+    "hr": "Croatian",
+    "nl": "Dutch",
+    "he": "Hebrew",
+    "mk": "Macedonian",
+    "nb": "Norwegian Bokmal",
+    "fa": "Persian",
+    "pl": "Polish",
+    "ro": "Romanian",
+    "ru": "Russian",
+    "sr": "Serbian",
+    "tr": "Turkish",
+    "uk": "Ukrainian"
+  },
+  "ratings": {
+    "Confusing": 199,
+    "Informative": 920,
+    "Unconvincing": 87,
+    "Ingenious": 165,
+    "Fascinating": 463,
+    "Funny": 95,
+    "Inspiring": 142,
+    "Longwinded": 348,
+    "Beautiful": 44,
+    "Courageous": 13,
+    "OK": 186,
+    "Persuasive": 136,
+    "Jaw-dropping": 23,
+    "Obnoxious": 20
+  },
+  "slug": "steven_pinker_on_language_and_thought",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/739e68a86e8d84ba8bfc53c603148d4eb408cfa8_1600x1200.jpg?quality=89&w=600",
+  "title": "What our language habits reveal",
+  "url": "https://www.ted.com/talks/steven_pinker_on_language_and_thought",
+  "video": {
+    "low": "http://download.ted.com/talks/StevenPinker_2005G-light.mp4",
+    "medium": "http://download.ted.com/talks/StevenPinker_2005G.mp4",
+    "high": "http://download.ted.com/talks/StevenPinker_2005G-480p.mp4"
+  },
+  "viewCount": 1742678,
+  "year": "2005"
+}

@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/GeraldineHamilton_2013X.mp3",
+  "author": "Geraldine Hamilton",
+  "dateFilmed": 1372118400,
+  "datePublished": 1386086904,
+  "description": "It's relatively easy to imagine a new medicine, a better cure for some disease. The hard part, though, is testing it, and that can delay promising new cures for years. In this well-explained talk, Geraldine Hamilton shows how her lab creates organs and body parts on a chip, simple structures with all the pieces essential to testing new medications -- even custom cures for one specific person. (Filmed at TEDxBoston)",
+  "duration": 803,
+  "event": "TEDxBoston",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/09a24e1875a6b110abf915de98bcfe8e01870d92_1600x1200.jpg",
+  "keywords": [
+    "TEDx",
+    "biology",
+    "illness",
+    "medical research"
+  ],
+  "mainLanguage": null,
+  "objectID": 1882,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified"
+  },
+  "ratings": {
+    "Jaw-dropping": 250,
+    "Ingenious": 331,
+    "Fascinating": 374,
+    "Informative": 206,
+    "Inspiring": 156,
+    "OK": 31,
+    "Unconvincing": 6,
+    "Persuasive": 37,
+    "Confusing": 3,
+    "Obnoxious": 13,
+    "Beautiful": 30,
+    "Courageous": 6,
+    "Funny": 8,
+    "Longwinded": 8
+  },
+  "slug": "geraldine_hamilton_body_parts_on_a_chip",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/09a24e1875a6b110abf915de98bcfe8e01870d92_1600x1200.jpg?quality=89&w=600",
+  "title": "Body parts on a chip",
+  "url": "https://www.ted.com/talks/geraldine_hamilton_body_parts_on_a_chip",
+  "video": {
+    "low": "http://download.ted.com/talks/GeraldineHamilton_2013X-light.mp4",
+    "medium": "http://download.ted.com/talks/GeraldineHamilton_2013X.mp4",
+    "high": "http://download.ted.com/talks/GeraldineHamilton_2013X-480p.mp4"
+  },
+  "viewCount": 1414076,
+  "year": "2013"
+}

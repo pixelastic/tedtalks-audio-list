@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/ShigeruBan_2013X.mp3",
+  "author": "Shigeru Ban",
+  "dateFilmed": 1367366400,
+  "datePublished": 1376406006,
+  "description": "Long before sustainability was a buzzword, Pritzker Prize-winning architect Shigeru Ban had begun his experiments with ecologically sound building materials such as cardboard tubes. His remarkable structures are often intended as temporary housing for disaster-struck nations such as Haiti, Rwanda, Japan. Yet often the buildings remain a beloved part of the landscape long after they have served their intended purpose. (Filmed at TEDxTokyo.)",
+  "duration": 702,
+  "event": "TEDxTokyo",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a4da6c5872cc61038db8707455c132a728c99208_1600x1200.jpg",
+  "keywords": [
+    "TEDx",
+    "architecture",
+    "disaster relief",
+    "materials",
+    "natural disaster"
+  ],
+  "mainLanguage": null,
+  "objectID": 1809,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Ingenious": 327,
+    "Inspiring": 344,
+    "Beautiful": 118,
+    "Fascinating": 189,
+    "Jaw-dropping": 50,
+    "Courageous": 49,
+    "Informative": 54,
+    "OK": 17,
+    "Persuasive": 32,
+    "Funny": 46,
+    "Confusing": 3,
+    "Longwinded": 2,
+    "Unconvincing": 4,
+    "Obnoxious": 1
+  },
+  "slug": "shigeru_ban_emergency_shelters_made_from_paper",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a4da6c5872cc61038db8707455c132a728c99208_1600x1200.jpg?quality=89&w=600",
+  "title": "Emergency shelters made from paper",
+  "url": "https://www.ted.com/talks/shigeru_ban_emergency_shelters_made_from_paper",
+  "video": {
+    "low": "http://download.ted.com/talks/ShigeruBan_2013X-light.mp4",
+    "medium": "http://download.ted.com/talks/ShigeruBan_2013X.mp4",
+    "high": "http://download.ted.com/talks/ShigeruBan_2013X-480p.mp4"
+  },
+  "viewCount": 1464621,
+  "year": "2013"
+}

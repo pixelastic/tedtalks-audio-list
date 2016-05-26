@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/JimmyCarter_2015W.mp3",
+  "author": "Jimmy Carter",
+  "dateFilmed": 1432857600,
+  "datePublished": 1435676518,
+  "description": "With his signature resolve, former US President Jimmy Carter dives into three unexpected reasons why the mistreatment of women and girls continues in so many manifestations in so many parts of the world, both developed and developing. The final reason he gives? “In general, men don’t give a damn.”",
+  "duration": 996,
+  "event": "TEDWomen 2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/326f6ed1704fad3f037e671c7a47c8b3a2f2028a_2880x1620.jpg",
+  "keywords": [
+    "global issues",
+    "inequality",
+    "peace",
+    "women"
+  ],
+  "mainLanguage": null,
+  "objectID": 2293,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 211,
+    "Informative": 579,
+    "Courageous": 391,
+    "Inspiring": 468,
+    "Persuasive": 344,
+    "Fascinating": 83,
+    "Jaw-dropping": 91,
+    "Unconvincing": 16,
+    "Obnoxious": 16,
+    "OK": 46,
+    "Confusing": 9,
+    "Ingenious": 5,
+    "Longwinded": 19,
+    "Funny": 13
+  },
+  "slug": "jimmy_carter_why_i_believe_the_mistreatment_of_women_is_the_number_one_human_rights_abuse",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/326f6ed1704fad3f037e671c7a47c8b3a2f2028a_2880x1620.jpg?quality=89&w=600",
+  "title": "Why I believe the mistreatment of women is the number one human rights abuse ",
+  "url": "https://www.ted.com/talks/jimmy_carter_why_i_believe_the_mistreatment_of_women_is_the_number_one_human_rights_abuse",
+  "video": {
+    "low": "http://download.ted.com/talks/JimmyCarter_2015W-light.mp4",
+    "medium": "http://download.ted.com/talks/JimmyCarter_2015W.mp4",
+    "high": "http://download.ted.com/talks/JimmyCarter_2015W-480p.mp4"
+  },
+  "viewCount": 1234637,
+  "year": "2015"
+}

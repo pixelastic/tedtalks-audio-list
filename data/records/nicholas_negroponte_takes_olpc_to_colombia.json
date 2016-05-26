@@ -1,0 +1,52 @@
+{
+  "audio": null,
+  "author": "Nicholas Negroponte",
+  "dateFilmed": 1228348800,
+  "datePublished": 1229959020,
+  "description": "TED follows Nicholas Negroponte to Colombia as he delivers laptops inside territory once controlled by guerrillas. His partner? Colombia's Defense Department, who see One Laptop per Child as an investment in the region. (And you too can get involved.)",
+  "duration": 408,
+  "event": "TED in the Field",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/63395_800x600.jpg",
+  "keywords": [
+    "One Laptop Per Child",
+    "children",
+    "computers",
+    "design",
+    "education",
+    "global issues",
+    "philanthropy",
+    "politics",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 423,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Inspiring": 243,
+    "Informative": 52,
+    "Persuasive": 36,
+    "Courageous": 66,
+    "Fascinating": 54,
+    "Ingenious": 46,
+    "Beautiful": 72,
+    "Jaw-dropping": 27,
+    "Confusing": 3,
+    "Unconvincing": 12,
+    "Obnoxious": 5,
+    "OK": 15,
+    "Funny": 5,
+    "Longwinded": 0
+  },
+  "slug": "nicholas_negroponte_takes_olpc_to_colombia",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/63395_800x600.jpg?quality=89&w=600",
+  "title": "Taking OLPC to Colombia",
+  "url": "https://www.ted.com/talks/nicholas_negroponte_takes_olpc_to_colombia",
+  "video": {
+    "low": "http://download.ted.com/talks/NicholasNegroponte_2008-light.mp4",
+    "medium": "http://download.ted.com/talks/NicholasNegroponte_2008.mp4",
+    "high": "http://download.ted.com/talks/NicholasNegroponte_2008-480p.mp4"
+  },
+  "viewCount": 342907,
+  "year": "2008"
+}

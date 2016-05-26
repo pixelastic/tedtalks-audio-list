@@ -1,0 +1,59 @@
+{
+  "audio": null,
+  "author": "Carmen Agra Deedy",
+  "dateFilmed": 1107302400,
+  "datePublished": 1221181200,
+  "description": "Storyteller Carmen Agra Deedy spins a funny, wise and luminous tale of parents and kids, starring her Cuban mother. Settle in and enjoy the ride -- Mama's driving!",
+  "duration": 1414,
+  "event": "TED2005",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/53343_480x360.jpg",
+  "keywords": [
+    "TED Conference",
+    "children",
+    "entertainment",
+    "memory",
+    "storytelling"
+  ],
+  "mainLanguage": null,
+  "objectID": 347,
+  "otherLanguages": {
+    "fr": "French",
+    "he": "Hebrew",
+    "hi": "Hindi",
+    "it": "Italian",
+    "ja": "Japanese",
+    "ko": "Korean",
+    "pt": "Portuguese",
+    "pt-br": "Portuguese, Brazilian",
+    "ro": "Romanian",
+    "uk": "Ukrainian",
+    "vi": "Vietnamese"
+  },
+  "ratings": {
+    "OK": 74,
+    "Funny": 449,
+    "Jaw-dropping": 32,
+    "Confusing": 24,
+    "Unconvincing": 25,
+    "Beautiful": 246,
+    "Courageous": 29,
+    "Longwinded": 61,
+    "Obnoxious": 71,
+    "Inspiring": 120,
+    "Fascinating": 84,
+    "Persuasive": 14,
+    "Ingenious": 61,
+    "Informative": 8
+  },
+  "slug": "carmen_agra_deedy_spins_stories",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/53343_480x360.jpg?quality=89&w=600",
+  "title": "Once upon a time, my mother ...",
+  "url": "https://www.ted.com/talks/carmen_agra_deedy_spins_stories",
+  "video": {
+    "low": "http://download.ted.com/talks/CarmenAgraDeedy_2005-light.mp4",
+    "medium": "http://download.ted.com/talks/CarmenAgraDeedy_2005.mp4",
+    "high": "http://download.ted.com/talks/CarmenAgraDeedy_2005-480p.mp4"
+  },
+  "viewCount": 583860,
+  "year": "2005"
+}

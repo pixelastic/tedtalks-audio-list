@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/JanetIwasa_2014U.mp3",
+  "author": "Janet Iwasa",
+  "dateFilmed": 1395187200,
+  "datePublished": 1407425669,
+  "description": "3D animation can bring scientific hypotheses to life. Molecular biologist (and TED Fellow) Janet Iwasa introduces a new open-source animation software designed just for scientists.",
+  "duration": 306,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/36de538c843e8e286150bc1152651b48fe264daa_2400x1800.jpg",
+  "keywords": [
+    "TED Conference",
+    "TED Fellows",
+    "biology",
+    "science",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 2052,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 197,
+    "Ingenious": 101,
+    "Fascinating": 160,
+    "Beautiful": 39,
+    "Inspiring": 110,
+    "Jaw-dropping": 13,
+    "OK": 38,
+    "Persuasive": 23,
+    "Funny": 15,
+    "Confusing": 1,
+    "Courageous": 8,
+    "Longwinded": 0,
+    "Unconvincing": 0,
+    "Obnoxious": 0
+  },
+  "slug": "janet_iwasa_how_animations_can_help_scientists_test_a_hypothesis",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/36de538c843e8e286150bc1152651b48fe264daa_2400x1800.jpg?quality=89&w=600",
+  "title": "How animations can help scientists test a hypothesis",
+  "url": "https://www.ted.com/talks/janet_iwasa_how_animations_can_help_scientists_test_a_hypothesis",
+  "video": {
+    "low": "http://download.ted.com/talks/JanetIwasa_2014U-light.mp4",
+    "medium": "http://download.ted.com/talks/JanetIwasa_2014U.mp4",
+    "high": "http://download.ted.com/talks/JanetIwasa_2014U-480p.mp4"
+  },
+  "viewCount": 764048,
+  "year": "2014"
+}

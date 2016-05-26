@@ -1,0 +1,55 @@
+{
+  "audio": null,
+  "author": "Newton Aduaka",
+  "dateFilmed": 1181088000,
+  "datePublished": 1225414800,
+  "description": "Filmmaker Newton Aduaka shows clips from his powerful, lyrical feature film \"Ezra,\" about a child soldier in Sierra Leone.",
+  "duration": 1124,
+  "event": "TEDGlobal 2007",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/57721_800x600.jpg",
+  "keywords": [
+    "Africa",
+    "arts",
+    "creativity",
+    "culture",
+    "entertainment",
+    "film",
+    "global issues",
+    "war"
+  ],
+  "mainLanguage": null,
+  "objectID": 386,
+  "otherLanguages": {
+    "fr": "French",
+    "ko": "Korean",
+    "es": "Spanish",
+    "vi": "Vietnamese"
+  },
+  "ratings": {
+    "Courageous": 135,
+    "Informative": 67,
+    "Inspiring": 66,
+    "Fascinating": 40,
+    "Longwinded": 12,
+    "OK": 17,
+    "Persuasive": 40,
+    "Jaw-dropping": 33,
+    "Beautiful": 40,
+    "Confusing": 7,
+    "Unconvincing": 9,
+    "Ingenious": 3,
+    "Funny": 0,
+    "Obnoxious": 0
+  },
+  "slug": "newton_aduaka_tells_the_story_of_ezra",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/57721_800x600.jpg?quality=89&w=600",
+  "title": "The story of Ezra",
+  "url": "https://www.ted.com/talks/newton_aduaka_tells_the_story_of_ezra",
+  "video": {
+    "low": "http://download.ted.com/talks/NewtonAduaka_2007G-light.mp4",
+    "medium": "http://download.ted.com/talks/NewtonAduaka_2007G.mp4",
+    "high": "http://download.ted.com/talks/NewtonAduaka_2007G-480p.mp4"
+  },
+  "viewCount": 293231,
+  "year": "2007"
+}

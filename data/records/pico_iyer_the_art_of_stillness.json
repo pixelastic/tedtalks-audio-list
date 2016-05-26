@@ -1,0 +1,50 @@
+{
+  "audio": "http://download.ted.com/talks/PicoIyer_2014S.mp3",
+  "author": "Pico Iyer",
+  "dateFilmed": 1407801600,
+  "datePublished": 1417017632,
+  "description": "The place that travel writer Pico Iyer would most like to go? Nowhere. In a counterintuitive and lyrical meditation, Iyer takes a look at the incredible insight that comes with taking time for stillness. In our world of constant movement and distraction, he teases out strategies we all can use to take back a few minutes out of every day, or a few days out of every season. It’s the talk for anyone who feels overwhelmed by the demands for our world.",
+  "duration": 937,
+  "event": "TEDSalon NY2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/bd619eb8f9002797413fb4e886808df331e00608_2880x1620.jpg",
+  "keywords": [
+    "TED Books",
+    "happiness",
+    "meditation",
+    "mindfulness",
+    "peace",
+    "productivity",
+    "travel"
+  ],
+  "mainLanguage": null,
+  "objectID": 2025,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 749,
+    "Inspiring": 1222,
+    "Persuasive": 364,
+    "OK": 136,
+    "Longwinded": 68,
+    "Informative": 168,
+    "Fascinating": 281,
+    "Courageous": 55,
+    "Ingenious": 38,
+    "Unconvincing": 42,
+    "Obnoxious": 15,
+    "Funny": 14,
+    "Confusing": 18,
+    "Jaw-dropping": 10
+  },
+  "slug": "pico_iyer_the_art_of_stillness",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/bd619eb8f9002797413fb4e886808df331e00608_2880x1620.jpg?quality=89&w=600",
+  "title": "The art of stillness",
+  "url": "https://www.ted.com/talks/pico_iyer_the_art_of_stillness",
+  "video": {
+    "low": "http://download.ted.com/talks/PicoIyer_2014S-light.mp4",
+    "medium": "http://download.ted.com/talks/PicoIyer_2014S.mp4",
+    "high": "http://download.ted.com/talks/PicoIyer_2014S-480p.mp4"
+  },
+  "viewCount": 2177948,
+  "year": "2014"
+}

@@ -1,0 +1,49 @@
+{
+  "audio": null,
+  "author": "Jer Thorp",
+  "dateFilmed": 1321056000,
+  "datePublished": 1332597708,
+  "description": "Jer Thorp creates beautiful data visualizations to put abstract data into a human context. At TEDxVancouver, he shares his moving projects, from graphing an entire year’s news cycle, to mapping the way people share articles across the internet.",
+  "duration": 1049,
+  "event": "TEDxVancouver",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a4f077eed3635ebc7e54065bacc739de19626a39_800x600.jpg",
+  "keywords": [
+    "TEDx",
+    "data",
+    "design",
+    "media",
+    "news"
+  ],
+  "mainLanguage": null,
+  "objectID": 1400,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 188,
+    "Ingenious": 105,
+    "Inspiring": 139,
+    "Persuasive": 69,
+    "Jaw-dropping": 46,
+    "Fascinating": 220,
+    "Confusing": 19,
+    "Funny": 28,
+    "Beautiful": 96,
+    "OK": 35,
+    "Obnoxious": 9,
+    "Longwinded": 29,
+    "Unconvincing": 34,
+    "Courageous": 16
+  },
+  "slug": "jer_thorp_make_data_more_human",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a4f077eed3635ebc7e54065bacc739de19626a39_800x600.jpg?quality=89&w=600",
+  "title": "Make data more human",
+  "url": "https://www.ted.com/talks/jer_thorp_make_data_more_human",
+  "video": {
+    "youtube": {
+      "id": "-q6aA5qdCzU",
+      "url": "http://www.ted.com/tedx/events/3106"
+    }
+  },
+  "viewCount": 205434,
+  "year": "2011"
+}

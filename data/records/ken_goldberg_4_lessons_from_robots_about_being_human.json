@@ -1,0 +1,55 @@
+{
+  "audio": "http://download.ted.com/talks/KenGoldberg_2012X.mp3",
+  "author": "Ken Goldberg",
+  "dateFilmed": 1328313600,
+  "datePublished": 1338127999,
+  "description": "The more that robots ingrain themselves into our everyday lives, the more we're forced to examine ourselves as people. At TEDxBerkeley, Ken Goldberg shares four very human lessons that he's learned from working with robots.",
+  "duration": 1029,
+  "event": "TEDxBerkeley",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a710062b9b3f44fbc3ad37ab4b8e78a70ee54231_800x600.jpg",
+  "keywords": [
+    "AI",
+    "TEDx",
+    "art",
+    "robots",
+    "science",
+    "social media"
+  ],
+  "mainLanguage": null,
+  "objectID": 1459,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified",
+    "en": "English",
+    "el": "Greek",
+    "hu": "Hungarian",
+    "fa": "Persian",
+    "pl": "Polish"
+  },
+  "ratings": {
+    "Longwinded": 84,
+    "OK": 89,
+    "Inspiring": 167,
+    "Beautiful": 29,
+    "Jaw-dropping": 29,
+    "Fascinating": 109,
+    "Persuasive": 38,
+    "Informative": 113,
+    "Ingenious": 51,
+    "Courageous": 22,
+    "Obnoxious": 17,
+    "Unconvincing": 42,
+    "Funny": 9,
+    "Confusing": 13
+  },
+  "slug": "ken_goldberg_4_lessons_from_robots_about_being_human",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a710062b9b3f44fbc3ad37ab4b8e78a70ee54231_800x600.jpg?quality=89&w=600",
+  "title": "4 lessons from robots about being human",
+  "url": "https://www.ted.com/talks/ken_goldberg_4_lessons_from_robots_about_being_human",
+  "video": {
+    "low": "http://download.ted.com/talks/KenGoldberg_2012X-light.mp4",
+    "medium": "http://download.ted.com/talks/KenGoldberg_2012X.mp4",
+    "high": "http://download.ted.com/talks/KenGoldberg_2012X-480p.mp4"
+  },
+  "viewCount": 320681,
+  "year": "2012"
+}

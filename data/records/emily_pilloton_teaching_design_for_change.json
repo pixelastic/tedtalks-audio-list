@@ -1,0 +1,49 @@
+{
+  "audio": null,
+  "author": "Emily Pilloton",
+  "dateFilmed": 1279238400,
+  "datePublished": 1289229480,
+  "description": "Designer Emily Pilloton moved to rural Bertie County, in North Carolina, to engage in a bold experiment of design-led community transformation. She's teaching a design-build class called Studio H that engages high schoolers' minds and bodies while bringing smart design and new opportunities to the poorest county in the state.",
+  "duration": 1003,
+  "event": "TEDGlobal 2010",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/16d6949c4dc8acdbd82a7e03929efbee19cdd661_800x600.jpg",
+  "keywords": [
+    "design",
+    "education",
+    "poverty"
+  ],
+  "mainLanguage": null,
+  "objectID": 1002,
+  "otherLanguages": {
+    "cs": "Czech",
+    "sr": "Serbian",
+    "vi": "Vietnamese"
+  },
+  "ratings": {
+    "Persuasive": 223,
+    "Informative": 167,
+    "Inspiring": 680,
+    "Courageous": 190,
+    "Jaw-dropping": 27,
+    "Fascinating": 132,
+    "Beautiful": 71,
+    "Ingenious": 223,
+    "Longwinded": 35,
+    "Unconvincing": 16,
+    "OK": 44,
+    "Funny": 6,
+    "Obnoxious": 3,
+    "Confusing": 8
+  },
+  "slug": "emily_pilloton_teaching_design_for_change",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/16d6949c4dc8acdbd82a7e03929efbee19cdd661_800x600.jpg?quality=89&w=600",
+  "title": "Teaching design for change",
+  "url": "https://www.ted.com/talks/emily_pilloton_teaching_design_for_change",
+  "video": {
+    "low": "http://download.ted.com/talks/EmilyPilloton_2010G-light.mp4",
+    "medium": "http://download.ted.com/talks/EmilyPilloton_2010G.mp4",
+    "high": "http://download.ted.com/talks/EmilyPilloton_2010G-480p.mp4"
+  },
+  "viewCount": 849040,
+  "year": "2010"
+}

@@ -1,0 +1,46 @@
+{
+  "audio": "http://download.ted.com/talks/HeatherBarnett_2014S.mp3",
+  "author": "Heather Barnett",
+  "dateFilmed": 1403481600,
+  "datePublished": 1405610986,
+  "description": "Inspired by biological design and self-organizing systems, artist Heather Barnett co-creates with physarum polycephalum, a eukaryotic microorganism that lives in cool, moist areas. What can people learn from the semi-intelligent slime mold? Watch this talk to find out.",
+  "duration": 731,
+  "event": "TEDSalon Berlin 2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/9154bb2461198f7996599fb90777ddd5d651e3b7_2400x1800.jpg",
+  "keywords": [
+    "art",
+    "biology",
+    "science"
+  ],
+  "mainLanguage": null,
+  "objectID": 2048,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 123,
+    "Informative": 269,
+    "Fascinating": 375,
+    "Jaw-dropping": 53,
+    "Inspiring": 98,
+    "Ingenious": 58,
+    "Longwinded": 15,
+    "Unconvincing": 12,
+    "OK": 35,
+    "Confusing": 2,
+    "Funny": 19,
+    "Persuasive": 9,
+    "Obnoxious": 5,
+    "Courageous": 0
+  },
+  "slug": "heather_barnett_what_humans_can_learn_from_semi_intelligent_slime_1",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/9154bb2461198f7996599fb90777ddd5d651e3b7_2400x1800.jpg?quality=89&w=600",
+  "title": "What humans can learn from semi-intelligent slime",
+  "url": "https://www.ted.com/talks/heather_barnett_what_humans_can_learn_from_semi_intelligent_slime_1",
+  "video": {
+    "low": "http://download.ted.com/talks/HeatherBarnett_2014S-light.mp4",
+    "medium": "http://download.ted.com/talks/HeatherBarnett_2014S.mp4",
+    "high": "http://download.ted.com/talks/HeatherBarnett_2014S-480p.mp4"
+  },
+  "viewCount": 850851,
+  "year": "2014"
+}

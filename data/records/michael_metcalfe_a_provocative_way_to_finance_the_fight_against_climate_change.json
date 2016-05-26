@@ -1,0 +1,56 @@
+{
+  "audio": "http://download.ted.com/talks/MichaelMetcalfe_2015S.mp3",
+  "author": "Michael Metcalfe",
+  "dateFilmed": 1446508800,
+  "datePublished": 1461854801,
+  "description": "Will we do whatever it takes to fight climate change? Back in 2008, following the global financial crisis, governments across the world adopted a \"whatever it takes\" commitment to monetary recovery, issuing $250 billion worth of international currency to stem the collapse of the economy. In this delightfully wonky talk, financial expert Michael Metcalfe suggests we can use that very same unconventional monetary tool to fund a global commitment to a green future.",
+  "duration": 772,
+  "event": "TED@State Street Boston",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/90e68452d16dbd9cbd1f891ee606a041f5af27c1_2880x1620.jpg",
+  "keywords": [
+    "big problems",
+    "business",
+    "climate change",
+    "economics",
+    "environment",
+    "finance",
+    "future",
+    "global issues",
+    "government",
+    "money",
+    "policy",
+    "pollution",
+    "sustainability"
+  ],
+  "mainLanguage": null,
+  "objectID": 2489,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 119,
+    "Beautiful": 15,
+    "Inspiring": 37,
+    "Longwinded": 23,
+    "Fascinating": 22,
+    "Persuasive": 58,
+    "Confusing": 19,
+    "Unconvincing": 36,
+    "Ingenious": 20,
+    "OK": 15,
+    "Courageous": 6,
+    "Obnoxious": 4,
+    "Funny": 0,
+    "Jaw-dropping": 0
+  },
+  "slug": "michael_metcalfe_a_provocative_way_to_finance_the_fight_against_climate_change",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/90e68452d16dbd9cbd1f891ee606a041f5af27c1_2880x1620.jpg?quality=89&w=600",
+  "title": "A provocative way to finance the fight against climate change",
+  "url": "https://www.ted.com/talks/michael_metcalfe_a_provocative_way_to_finance_the_fight_against_climate_change",
+  "video": {
+    "low": "http://download.ted.com/talks/MichaelMetcalfe_2015S-light.mp4",
+    "medium": "http://download.ted.com/talks/MichaelMetcalfe_2015S.mp4",
+    "high": "http://download.ted.com/talks/MichaelMetcalfe_2015S-480p.mp4"
+  },
+  "viewCount": 729711,
+  "year": "2015"
+}

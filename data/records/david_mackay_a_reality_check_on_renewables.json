@@ -1,0 +1,57 @@
+{
+  "audio": "http://download.ted.com/talks/DavidMackay_2012X.mp3",
+  "author": "David MacKay",
+  "dateFilmed": 1331510400,
+  "datePublished": 1338042697,
+  "description": "How much land mass would renewables need to power a nation like the UK? An entire country's worth. In this pragmatic talk, David MacKay tours the basic mathematics that show worrying limitations on our sustainable energy options and explains why we should pursue them anyway. (Filmed at TEDxWarwick.)\r\n",
+  "duration": 1115,
+  "event": "TEDxWarwick",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7715f73ce8bc059a37ecd7c7f40577f24e589d95_800x600.jpg",
+  "keywords": [
+    "TEDx",
+    "alternative energy",
+    "climate change",
+    "data",
+    "global issues",
+    "math",
+    "solar energy",
+    "sustainability",
+    "wind energy"
+  ],
+  "mainLanguage": null,
+  "objectID": 1460,
+  "otherLanguages": {
+    "el": "Greek",
+    "it": "Italian",
+    "ro": "Romanian",
+    "ru": "Russian",
+    "es": "Spanish"
+  },
+  "ratings": {
+    "Informative": 471,
+    "Persuasive": 293,
+    "Fascinating": 107,
+    "Jaw-dropping": 34,
+    "Inspiring": 96,
+    "Funny": 38,
+    "Longwinded": 31,
+    "Courageous": 43,
+    "Ingenious": 39,
+    "Confusing": 22,
+    "OK": 56,
+    "Unconvincing": 35,
+    "Obnoxious": 10,
+    "Beautiful": 12
+  },
+  "slug": "david_mackay_a_reality_check_on_renewables",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7715f73ce8bc059a37ecd7c7f40577f24e589d95_800x600.jpg?quality=89&w=600",
+  "title": "A reality check on renewables",
+  "url": "https://www.ted.com/talks/david_mackay_a_reality_check_on_renewables",
+  "video": {
+    "low": "http://download.ted.com/talks/DavidMackay_2012X-light.mp4",
+    "medium": "http://download.ted.com/talks/DavidMackay_2012X.mp4",
+    "high": "http://download.ted.com/talks/DavidMackay_2012X-480p.mp4"
+  },
+  "viewCount": 414061,
+  "year": "2012"
+}

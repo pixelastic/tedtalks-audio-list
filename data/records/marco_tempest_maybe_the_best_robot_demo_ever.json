@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/MarcoTempest_2014.mp3",
+  "author": "Marco Tempest",
+  "dateFilmed": 1395273600,
+  "datePublished": 1399388410,
+  "description": "Marco Tempest uses charming stagecraft to demo EDI, the multi-purpose robot designed to work very closely with humans. Less a magic trick than an intricately choreographed performance, Tempest shows off the robot’s sensing technology, safety features and strength, and makes the case for a closer human-robot relationship. (Okay, there’s a little magic, too.)",
+  "duration": 378,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/9af8521a7284e0a5f4bfa945215b4790e48c9cbf_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "entertainment",
+    "magic",
+    "robots",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 1991,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Funny": 493,
+    "Ingenious": 131,
+    "OK": 180,
+    "Unconvincing": 119,
+    "Beautiful": 77,
+    "Fascinating": 167,
+    "Jaw-dropping": 60,
+    "Informative": 75,
+    "Obnoxious": 48,
+    "Inspiring": 81,
+    "Courageous": 14,
+    "Longwinded": 29,
+    "Persuasive": 19,
+    "Confusing": 30
+  },
+  "slug": "marco_tempest_maybe_the_best_robot_demo_ever",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/9af8521a7284e0a5f4bfa945215b4790e48c9cbf_1600x1200.jpg?quality=89&w=600",
+  "title": "And for my next trick, a robot",
+  "url": "https://www.ted.com/talks/marco_tempest_maybe_the_best_robot_demo_ever",
+  "video": {
+    "low": "http://download.ted.com/talks/MarcoTempest_2014-light.mp4",
+    "medium": "http://download.ted.com/talks/MarcoTempest_2014.mp4",
+    "high": "http://download.ted.com/talks/MarcoTempest_2014-480p.mp4"
+  },
+  "viewCount": 1467857,
+  "year": "2014"
+}

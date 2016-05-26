@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/PaolaAntonelli_2013S.mp3",
+  "author": "Paola Antonelli",
+  "dateFilmed": 1368662400,
+  "datePublished": 1369753214,
+  "description": "When the Museum of Modern Art's senior curator of architecture and design announced the acquisition of 14 video games in 2012, \"all hell broke loose.\" In this far-ranging, entertaining, and deeply insightful talk, Paola Antonelli explains why she's delighted to challenge preconceived ideas about art and galleries, and describes her burning wish to help establish a broader understanding of design.",
+  "duration": 1122,
+  "event": "TEDSalon NY2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/30e09e406bc6f581ac6193d384a631a6ec8b361a_1600x1200.jpg",
+  "keywords": [
+    "art",
+    "design",
+    "gaming",
+    "museums"
+  ],
+  "mainLanguage": null,
+  "objectID": 1752,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified"
+  },
+  "ratings": {
+    "OK": 28,
+    "Informative": 81,
+    "Funny": 95,
+    "Courageous": 49,
+    "Jaw-dropping": 6,
+    "Confusing": 4,
+    "Ingenious": 35,
+    "Persuasive": 63,
+    "Fascinating": 84,
+    "Inspiring": 65,
+    "Obnoxious": 14,
+    "Unconvincing": 24,
+    "Beautiful": 27,
+    "Longwinded": 12
+  },
+  "slug": "paola_antonelli_why_i_brought_pacman_to_moma",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/30e09e406bc6f581ac6193d384a631a6ec8b361a_1600x1200.jpg?quality=89&w=600",
+  "title": "Why I brought Pac-Man to MoMA",
+  "url": "https://www.ted.com/talks/paola_antonelli_why_i_brought_pacman_to_moma",
+  "video": {
+    "low": "http://download.ted.com/talks/PaolaAntonelli_2013S-light.mp4",
+    "medium": "http://download.ted.com/talks/PaolaAntonelli_2013S.mp4",
+    "high": "http://download.ted.com/talks/PaolaAntonelli_2013S-480p.mp4"
+  },
+  "viewCount": 882842,
+  "year": "2013"
+}

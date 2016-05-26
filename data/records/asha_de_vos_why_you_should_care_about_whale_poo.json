@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/AshadeVos_2014U.mp3",
+  "author": "Asha de Vos",
+  "dateFilmed": 1412553600,
+  "datePublished": 1420473578,
+  "description": "Whales have a surprising and important job, says marine biologist Asha de Vos: these massive creatures are ecosystem engineers, keeping the oceans healthy and stable by ... well, by pooping, for a start. Learn from de Vos, a TED Fellow, about the undervalued work that whales do to help maintain the stability and health of our seas -- and our planet.",
+  "duration": 345,
+  "event": "TEDGlobal 2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/76787f13cc007d8b8e302d0e9a135b226aaaee6a_2880x1620.jpg",
+  "keywords": [
+    "TED Fellows",
+    "biology",
+    "nature",
+    "oceans"
+  ],
+  "mainLanguage": null,
+  "objectID": 2160,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 111,
+    "Courageous": 17,
+    "Inspiring": 184,
+    "Jaw-dropping": 11,
+    "Informative": 319,
+    "OK": 42,
+    "Longwinded": 7,
+    "Unconvincing": 6,
+    "Persuasive": 121,
+    "Ingenious": 5,
+    "Fascinating": 83,
+    "Funny": 20,
+    "Obnoxious": 1,
+    "Confusing": 3
+  },
+  "slug": "asha_de_vos_why_you_should_care_about_whale_poo",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/76787f13cc007d8b8e302d0e9a135b226aaaee6a_2880x1620.jpg?quality=89&w=600",
+  "title": "Why you should care about whale poo",
+  "url": "https://www.ted.com/talks/asha_de_vos_why_you_should_care_about_whale_poo",
+  "video": {
+    "low": "http://download.ted.com/talks/AshadeVos_2014U-light.mp4",
+    "medium": "http://download.ted.com/talks/AshadeVos_2014U.mp4",
+    "high": "http://download.ted.com/talks/AshadeVos_2014U-480p.mp4"
+  },
+  "viewCount": 1149689,
+  "year": "2014"
+}

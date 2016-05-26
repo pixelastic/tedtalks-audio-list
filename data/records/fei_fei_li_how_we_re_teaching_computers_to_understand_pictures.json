@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/FeiFeiLi_2015.mp3",
+  "author": "Fei-Fei Li",
+  "dateFilmed": 1426550400,
+  "datePublished": 1427123194,
+  "description": "When a very young child looks at a picture, she can identify simple elements: \"cat,\" \"book,\" \"chair.\" Now, computers are getting smart enough to do that too. What's next? In a thrilling talk, computer vision expert Fei-Fei Li describes the state of the art  -- including the database of 15 million photos her team built to \"teach\" a computer to understand pictures -- and the key insights yet to come.",
+  "duration": 1078,
+  "event": "TED2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/fbada01990f86f5afa850cc23a0259fec091f929_2880x1620.jpg",
+  "keywords": [
+    "AI",
+    "photography",
+    "sight",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 2218,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "OK": 160,
+    "Ingenious": 183,
+    "Inspiring": 435,
+    "Fascinating": 371,
+    "Beautiful": 126,
+    "Informative": 380,
+    "Confusing": 7,
+    "Jaw-dropping": 72,
+    "Courageous": 19,
+    "Longwinded": 12,
+    "Persuasive": 29,
+    "Unconvincing": 17,
+    "Funny": 35,
+    "Obnoxious": 9
+  },
+  "slug": "fei_fei_li_how_we_re_teaching_computers_to_understand_pictures",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/fbada01990f86f5afa850cc23a0259fec091f929_2880x1620.jpg?quality=89&w=600",
+  "title": "How we're teaching computers to understand pictures",
+  "url": "https://www.ted.com/talks/fei_fei_li_how_we_re_teaching_computers_to_understand_pictures",
+  "video": {
+    "low": "http://download.ted.com/talks/FeiFeiLi_2015-light.mp4",
+    "medium": "http://download.ted.com/talks/FeiFeiLi_2015.mp4",
+    "high": "http://download.ted.com/talks/FeiFeiLi_2015-480p.mp4"
+  },
+  "viewCount": 1492497,
+  "year": "2015"
+}

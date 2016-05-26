@@ -1,0 +1,52 @@
+{
+  "audio": "http://download.ted.com/talks/KitraCahana_2014U.mp3",
+  "author": "Kitra Cahana",
+  "dateFilmed": 1395014400,
+  "datePublished": 1401289863,
+  "description": "As a young girl, photojournalist and TED Fellow Kitra Cahana dreamed about running away from home to live freely on the road. Now as an adult and self-proclaimed vagabond, she follows modern nomads into their homes -- boxcars, bus stops, parking lots, rest stop bathrooms -- giving a glimpse into a culture on the margins.",
+  "duration": 300,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/341053090f8bac8c324c75be3114b673b4355e8a_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "TED Fellows",
+    "art",
+    "global issues",
+    "journalism",
+    "photography",
+    "travel",
+    "youth"
+  ],
+  "mainLanguage": null,
+  "objectID": 2009,
+  "otherLanguages": {
+    "zh-tw": "Chinese, Traditional"
+  },
+  "ratings": {
+    "OK": 171,
+    "Informative": 256,
+    "Inspiring": 206,
+    "Beautiful": 146,
+    "Fascinating": 193,
+    "Longwinded": 9,
+    "Unconvincing": 89,
+    "Persuasive": 45,
+    "Courageous": 112,
+    "Confusing": 19,
+    "Obnoxious": 27,
+    "Ingenious": 8,
+    "Jaw-dropping": 7,
+    "Funny": 9
+  },
+  "slug": "kitra_cahana_stories_of_the_homeless_and_hidden",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/341053090f8bac8c324c75be3114b673b4355e8a_1600x1200.jpg?quality=89&w=600",
+  "title": "A glimpse of life on the road",
+  "url": "https://www.ted.com/talks/kitra_cahana_stories_of_the_homeless_and_hidden",
+  "video": {
+    "low": "http://download.ted.com/talks/KitraCahana_2014U-light.mp4",
+    "medium": "http://download.ted.com/talks/KitraCahana_2014U.mp4",
+    "high": "http://download.ted.com/talks/KitraCahana_2014U-480p.mp4"
+  },
+  "viewCount": 1346655,
+  "year": "2014"
+}

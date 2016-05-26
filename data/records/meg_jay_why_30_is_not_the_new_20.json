@@ -1,0 +1,49 @@
+{
+  "audio": "http://download.ted.com/talks/MegJay_2013.mp3",
+  "author": "Meg Jay",
+  "dateFilmed": 1362009600,
+  "datePublished": 1368457703,
+  "description": "Clinical psychologist Meg Jay has a bold message for twentysomethings: Contrary to popular belief, your 20s are not a throwaway decade. In this provocative talk, Jay says that just because marriage, work and kids are happening later in life, doesn’t mean you can’t start planning now. She gives 3 pieces of advice for how twentysomethings can re-claim adulthood in the defining decade of their lives.",
+  "duration": 889,
+  "event": "TED2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a917a1ee6e2d74e7fdd9a4ce86efef93e3802276_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "aging",
+    "culture",
+    "goal-setting",
+    "youth"
+  ],
+  "mainLanguage": null,
+  "objectID": 1741,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified"
+  },
+  "ratings": {
+    "Unconvincing": 188,
+    "Persuasive": 1267,
+    "Fascinating": 599,
+    "Inspiring": 2669,
+    "Beautiful": 306,
+    "Informative": 1095,
+    "Courageous": 342,
+    "Obnoxious": 87,
+    "Jaw-dropping": 158,
+    "Ingenious": 111,
+    "OK": 188,
+    "Funny": 62,
+    "Longwinded": 79,
+    "Confusing": 33
+  },
+  "slug": "meg_jay_why_30_is_not_the_new_20",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a917a1ee6e2d74e7fdd9a4ce86efef93e3802276_1600x1200.jpg?quality=89&w=600",
+  "title": "Why 30 is not the new 20",
+  "url": "https://www.ted.com/talks/meg_jay_why_30_is_not_the_new_20",
+  "video": {
+    "low": "http://download.ted.com/talks/MegJay_2013-light.mp4",
+    "medium": "http://download.ted.com/talks/MegJay_2013.mp4",
+    "high": "http://download.ted.com/talks/MegJay_2013-480p.mp4"
+  },
+  "viewCount": 8100960,
+  "year": "2013"
+}

@@ -1,0 +1,63 @@
+{
+  "audio": "http://download.ted.com/talks/SheilaPatek_2004.mp3",
+  "author": "Sheila Patek",
+  "dateFilmed": 1077667200,
+  "datePublished": 1175731860,
+  "description": "Biologist Sheila Patek talks about her work measuring the feeding strike of the mantis shrimp, one of the fastest movements in the animal world, using video cameras recording at 20,000 frames per second.",
+  "duration": 985,
+  "event": "TED2004",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/428_480x360.jpg",
+  "keywords": [
+    "TED Conference",
+    "biology",
+    "biomechanics",
+    "oceans",
+    "online video",
+    "science",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 77,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified",
+    "zh-tw": "Chinese, Traditional",
+    "en": "English",
+    "fr": "French",
+    "de": "German",
+    "it": "Italian",
+    "ko": "Korean",
+    "nb": "Norwegian Bokmal",
+    "pl": "Polish",
+    "pt-br": "Portuguese, Brazilian",
+    "ro": "Romanian",
+    "ru": "Russian",
+    "es": "Spanish"
+  },
+  "ratings": {
+    "Ingenious": 103,
+    "Beautiful": 109,
+    "Funny": 148,
+    "Confusing": 5,
+    "Informative": 483,
+    "Inspiring": 81,
+    "Fascinating": 709,
+    "Courageous": 16,
+    "Jaw-dropping": 229,
+    "OK": 67,
+    "Persuasive": 15,
+    "Obnoxious": 7,
+    "Longwinded": 20,
+    "Unconvincing": 3
+  },
+  "slug": "sheila_patek_clocks_the_fastest_animals",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/428_480x360.jpg?quality=89&w=600",
+  "title": "The shrimp with a kick!",
+  "url": "https://www.ted.com/talks/sheila_patek_clocks_the_fastest_animals",
+  "video": {
+    "low": "http://download.ted.com/talks/SheilaPatek_2004-light.mp4",
+    "medium": "http://download.ted.com/talks/SheilaPatek_2004.mp4",
+    "high": "http://download.ted.com/talks/SheilaPatek_2004-480p.mp4"
+  },
+  "viewCount": 985658,
+  "year": "2004"
+}

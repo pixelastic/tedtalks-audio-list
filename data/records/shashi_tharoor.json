@@ -1,0 +1,60 @@
+{
+  "audio": "http://download.ted.com/talks/ShashiTharoor_2009I.mp3",
+  "author": "Shashi Tharoor",
+  "dateFilmed": 1257552000,
+  "datePublished": 1259542800,
+  "description": "India is fast becoming a superpower, says Shashi Tharoor -- not just through trade and politics, but through \"soft\" power, its ability to share its culture with the world through food, music, technology, Bollywood. He argues that in the long run it's not the size of the army that matters as much as a country's ability to influence the world's hearts and minds.",
+  "duration": 1073,
+  "event": "TEDIndia 2009",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/133260_800x600.jpg",
+  "keywords": [
+    "business",
+    "culture",
+    "entertainment",
+    "global issues",
+    "india",
+    "politics",
+    "writing"
+  ],
+  "mainLanguage": null,
+  "objectID": 689,
+  "otherLanguages": {
+    "ar": "Arabic",
+    "zh-tw": "Chinese, Traditional",
+    "fr": "French",
+    "de": "German",
+    "el": "Greek",
+    "it": "Italian",
+    "ja": "Japanese",
+    "ru": "Russian",
+    "es": "Spanish",
+    "vi": "Vietnamese"
+  },
+  "ratings": {
+    "Fascinating": 674,
+    "Inspiring": 1087,
+    "Beautiful": 247,
+    "Unconvincing": 23,
+    "Longwinded": 27,
+    "Obnoxious": 21,
+    "Jaw-dropping": 366,
+    "Informative": 553,
+    "Persuasive": 457,
+    "Courageous": 159,
+    "Funny": 96,
+    "Ingenious": 156,
+    "OK": 82,
+    "Confusing": 6
+  },
+  "slug": "shashi_tharoor",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/133260_800x600.jpg?quality=89&w=600",
+  "title": "Why nations should pursue soft power",
+  "url": "https://www.ted.com/talks/shashi_tharoor",
+  "video": {
+    "low": "http://download.ted.com/talks/ShashiTharoor_2009I-light.mp4",
+    "medium": "http://download.ted.com/talks/ShashiTharoor_2009I.mp4",
+    "high": "http://download.ted.com/talks/ShashiTharoor_2009I-480p.mp4"
+  },
+  "viewCount": 1292935,
+  "year": "2009"
+}

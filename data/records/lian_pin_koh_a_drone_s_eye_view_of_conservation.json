@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/LianPinKoh_2013G.mp3",
+  "author": "Lian Pin Koh",
+  "dateFilmed": 1370908800,
+  "datePublished": 1384790400,
+  "description": "Ecologist Lian Pin Koh makes a persuasive case for using drones to protect the world's forests and wildlife. These lightweight autonomous flying vehicles can track animals in their natural habitat, monitor the health of rainforests, even combat crime by detecting poachers via thermal imaging. Added bonus? They're also entirely affordable.",
+  "duration": 810,
+  "event": "TEDGlobal 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/28a78879a36a4905f74535526fd11c0177d8ca61_1600x1200.jpg",
+  "keywords": [
+    "animals",
+    "drones",
+    "global issues",
+    "sustainability"
+  ],
+  "mainLanguage": null,
+  "objectID": 1872,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Ingenious": 108,
+    "Informative": 119,
+    "Fascinating": 94,
+    "Persuasive": 52,
+    "Inspiring": 102,
+    "Courageous": 10,
+    "Beautiful": 10,
+    "Longwinded": 2,
+    "Jaw-dropping": 8,
+    "Funny": 7,
+    "OK": 5,
+    "Confusing": 0,
+    "Unconvincing": 0,
+    "Obnoxious": 0
+  },
+  "slug": "lian_pin_koh_a_drone_s_eye_view_of_conservation",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/28a78879a36a4905f74535526fd11c0177d8ca61_1600x1200.jpg?quality=89&w=600",
+  "title": "A drone's-eye view of conservation",
+  "url": "https://www.ted.com/talks/lian_pin_koh_a_drone_s_eye_view_of_conservation",
+  "video": {
+    "low": "http://download.ted.com/talks/LianPinKoh_2013G-light.mp4",
+    "medium": "http://download.ted.com/talks/LianPinKoh_2013G.mp4",
+    "high": "http://download.ted.com/talks/LianPinKoh_2013G-480p.mp4"
+  },
+  "viewCount": 573059,
+  "year": "2013"
+}

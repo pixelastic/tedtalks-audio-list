@@ -1,0 +1,45 @@
+{
+  "audio": "http://download.ted.com/talks/AviReichental_2014.mp3",
+  "author": "Avi Reichental",
+  "dateFilmed": 1394668800,
+  "datePublished": 1411053523,
+  "description": "Just like his beloved grandfather, Avi Reichental is a maker of things. The difference is, now he can use 3D printers to make almost anything, out of almost any material. Reichental tours us through the possibilities of 3D printing, for everything from printed candy to highly custom sneakers.",
+  "duration": 544,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/63a0888240fb2364a32f3ace0499aac036ee83ef_2400x1800.jpg",
+  "keywords": [
+    "TED Conference",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 2026,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 337,
+    "Courageous": 64,
+    "OK": 154,
+    "Informative": 400,
+    "Longwinded": 24,
+    "Obnoxious": 20,
+    "Inspiring": 471,
+    "Fascinating": 314,
+    "Persuasive": 125,
+    "Ingenious": 235,
+    "Unconvincing": 29,
+    "Jaw-dropping": 46,
+    "Confusing": 21,
+    "Funny": 14
+  },
+  "slug": "avi_reichental_what_s_next_in_3d_printing",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/63a0888240fb2364a32f3ace0499aac036ee83ef_2400x1800.jpg?quality=89&w=600",
+  "title": "What’s next in 3D printing",
+  "url": "https://www.ted.com/talks/avi_reichental_what_s_next_in_3d_printing",
+  "video": {
+    "low": "http://download.ted.com/talks/AviReichental_2014-light.mp4",
+    "medium": "http://download.ted.com/talks/AviReichental_2014.mp4",
+    "high": "http://download.ted.com/talks/AviReichental_2014-480p.mp4"
+  },
+  "viewCount": 2432471,
+  "year": "2014"
+}

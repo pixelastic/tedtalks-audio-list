@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/JeremyKasdin_2014.mp3",
+  "author": "Jeremy Kasdin",
+  "dateFilmed": 1395187200,
+  "datePublished": 1397746861,
+  "description": "Astronomers believe that every star in the galaxy has a planet, one fifth of which might harbor life. Only we haven't seen any of them -- yet. Jeremy Kasdin and his team are looking to change that with the design and engineering of an extraordinary piece of equipment: a flower petal-shaped \"starshade\" positioned 50,000 km from a telescope to enable imaging of planets about distant stars. It is, he says, the \"coolest possible science.\"",
+  "duration": 398,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/3e31ca794b75d058ffd2d7bce4c775670509a515_1600x1200.jpg",
+  "keywords": [
+    "Planets",
+    "TED Conference",
+    "astronomy",
+    "space",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 1976,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Inspiring": 243,
+    "Jaw-dropping": 85,
+    "Informative": 302,
+    "Persuasive": 35,
+    "Fascinating": 333,
+    "Ingenious": 223,
+    "Beautiful": 43,
+    "Funny": 8,
+    "OK": 55,
+    "Courageous": 10,
+    "Unconvincing": 14,
+    "Longwinded": 5,
+    "Confusing": 2,
+    "Obnoxious": 6
+  },
+  "slug": "jeremy_kasdin_the_flower_shaped_starshade_that_might_help_us_detect_earth_like_planets",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/3e31ca794b75d058ffd2d7bce4c775670509a515_1600x1200.jpg?quality=89&w=600",
+  "title": "The flower-shaped starshade that might help us detect Earth-like planets",
+  "url": "https://www.ted.com/talks/jeremy_kasdin_the_flower_shaped_starshade_that_might_help_us_detect_earth_like_planets",
+  "video": {
+    "low": "http://download.ted.com/talks/JeremyKasdin_2014-light.mp4",
+    "medium": "http://download.ted.com/talks/JeremyKasdin_2014.mp4",
+    "high": "http://download.ted.com/talks/JeremyKasdin_2014-480p.mp4"
+  },
+  "viewCount": 1168220,
+  "year": "2014"
+}

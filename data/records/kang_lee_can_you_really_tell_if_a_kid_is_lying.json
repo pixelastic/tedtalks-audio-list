@@ -1,0 +1,59 @@
+{
+  "audio": "http://download.ted.com/talks/KangLee_2016.mp3",
+  "author": "Kang Lee",
+  "dateFilmed": 1455753600,
+  "datePublished": 1463149758,
+  "description": "Are children poor liars? Do you think you can easily detect their lies? Developmental researcher Kang Lee studies what happens physiologically to children when they lie. They do it a lot, starting as young as two years old, and they're actually really good at it. Lee explains why we should celebrate when kids start to lie and presents new lie-detection technology that could someday reveal our hidden emotions.",
+  "duration": 816,
+  "event": "TED2016",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/f522d16117062f63ea0d9b5fd34772d3361062e1_2880x1620.jpg",
+  "keywords": [
+    "body language",
+    "communication",
+    "decision-making",
+    "development",
+    "intelligence",
+    "motivation",
+    "parenting",
+    "teaching"
+  ],
+  "mainLanguage": null,
+  "objectID": 2501,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified",
+    "en": "English",
+    "ko": "Korean",
+    "lt": "Lithuanian",
+    "mn": "Mongolian",
+    "ru": "Russian",
+    "sr": "Serbian",
+    "tr": "Turkish"
+  },
+  "ratings": {
+    "Beautiful": 151,
+    "Jaw-dropping": 35,
+    "OK": 76,
+    "Informative": 417,
+    "Fascinating": 355,
+    "Persuasive": 64,
+    "Funny": 250,
+    "Inspiring": 84,
+    "Longwinded": 2,
+    "Ingenious": 111,
+    "Courageous": 11,
+    "Unconvincing": 6,
+    "Obnoxious": 5,
+    "Confusing": 0
+  },
+  "slug": "kang_lee_can_you_really_tell_if_a_kid_is_lying",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/f522d16117062f63ea0d9b5fd34772d3361062e1_2880x1620.jpg?quality=89&w=600",
+  "title": "Can you really tell if a kid is lying?",
+  "url": "https://www.ted.com/talks/kang_lee_can_you_really_tell_if_a_kid_is_lying",
+  "video": {
+    "low": "http://download.ted.com/talks/KangLee_2016-light.mp4",
+    "medium": "http://download.ted.com/talks/KangLee_2016.mp4",
+    "high": "http://download.ted.com/talks/KangLee_2016-480p.mp4"
+  },
+  "viewCount": 787461,
+  "year": "2016"
+}

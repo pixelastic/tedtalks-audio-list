@@ -1,0 +1,52 @@
+{
+  "audio": "http://download.ted.com/talks/RobertGupta_2011U.mp3",
+  "author": "Robert Gupta + Joshua Roman",
+  "dateFilmed": 1299024000,
+  "datePublished": 1306506993,
+  "description": "It's a master class in collaboration as violinist Robert Gupta and cellist Joshua Roman perform Halvorsen's \"Passacaglia\" for violin and viola. Roman takes the viola part on his Stradivarius cello. It's powerful to watch the two musicians connect moment to moment (and recover from a mid-performance hiccup). The two are both TED Fellows, and their deep connection powers this sparkling duet. ",
+  "duration": 561,
+  "event": "TED2011",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/1c53e6d17512a3a28f27cce961ea777ac5981d14_800x600.jpg",
+  "keywords": [
+    "TED Conference",
+    "TED Fellows",
+    "collaboration",
+    "creativity",
+    "entertainment",
+    "live music"
+  ],
+  "mainLanguage": null,
+  "objectID": 1156,
+  "otherLanguages": {
+    "hi": "Hindi",
+    "mr": "Marathi",
+    "tl": "Tagalog"
+  },
+  "ratings": {
+    "Beautiful": 521,
+    "Inspiring": 175,
+    "Jaw-dropping": 153,
+    "Fascinating": 78,
+    "Courageous": 14,
+    "Ingenious": 26,
+    "OK": 26,
+    "Funny": 3,
+    "Informative": 2,
+    "Longwinded": 5,
+    "Unconvincing": 4,
+    "Persuasive": 4,
+    "Obnoxious": 2,
+    "Confusing": 0
+  },
+  "slug": "robert_gupta_and_joshua_roman_duet_on_passacaglia",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/1c53e6d17512a3a28f27cce961ea777ac5981d14_800x600.jpg?quality=89&w=600",
+  "title": "On violin and cello, \"Passacaglia\"",
+  "url": "https://www.ted.com/talks/robert_gupta_and_joshua_roman_duet_on_passacaglia",
+  "video": {
+    "low": "http://download.ted.com/talks/RobertGupta_2011U-light.mp4",
+    "medium": "http://download.ted.com/talks/RobertGupta_2011U.mp4",
+    "high": "http://download.ted.com/talks/RobertGupta_2011U-480p.mp4"
+  },
+  "viewCount": 688318,
+  "year": "2011"
+}

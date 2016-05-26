@@ -1,0 +1,46 @@
+{
+  "audio": "http://download.ted.com/talks/DanBarasch_2014S.mp3",
+  "author": "Dan Barasch",
+  "dateFilmed": 1404864000,
+  "datePublished": 1410360940,
+  "description": "Dan Barasch and James Ramsey have a crazy plan — to create a park, filled with greenery, underneath New York City. The two are developing the Lowline, an underground greenspace the size of a football field. They're building it in a trolley terminal abandoned in 1948, using technology that harvests sunlight above-ground and directs it down below. It's a park that can thrive, even in winter.",
+  "duration": 377,
+  "event": "TED@NYC",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/92ddb109a1f98a3745fe1b2b0d2c5519ab3931dc_2400x1800.jpg",
+  "keywords": [
+    "New York",
+    "architecture",
+    "cities"
+  ],
+  "mainLanguage": null,
+  "objectID": 2078,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "OK": 72,
+    "Beautiful": 126,
+    "Ingenious": 158,
+    "Fascinating": 123,
+    "Inspiring": 169,
+    "Persuasive": 35,
+    "Jaw-dropping": 15,
+    "Informative": 50,
+    "Courageous": 39,
+    "Unconvincing": 16,
+    "Funny": 13,
+    "Longwinded": 2,
+    "Confusing": 2,
+    "Obnoxious": 5
+  },
+  "slug": "dan_barasch_a_park_underneath_the_hustle_and_bustle_of_new_york_city",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/92ddb109a1f98a3745fe1b2b0d2c5519ab3931dc_2400x1800.jpg?quality=89&w=600",
+  "title": "A park underneath the hustle and bustle of New York City",
+  "url": "https://www.ted.com/talks/dan_barasch_a_park_underneath_the_hustle_and_bustle_of_new_york_city",
+  "video": {
+    "low": "http://download.ted.com/talks/DanBarasch_2014S-light.mp4",
+    "medium": "http://download.ted.com/talks/DanBarasch_2014S.mp4",
+    "high": "http://download.ted.com/talks/DanBarasch_2014S-480p.mp4"
+  },
+  "viewCount": 805256,
+  "year": "2014"
+}

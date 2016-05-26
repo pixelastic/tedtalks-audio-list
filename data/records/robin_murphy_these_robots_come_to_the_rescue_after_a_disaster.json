@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/RobinMurphy_2015W.mp3",
+  "author": "Robin Murphy",
+  "dateFilmed": 1432771200,
+  "datePublished": 1440687602,
+  "description": "When disaster strikes, who's first on the scene? More and more, it’s a robot. In her lab, Robin Murphy builds robots that fly, tunnel, swim and crawl through disaster scenes, helping firefighters and rescue workers save more lives safely -- and help communities return to normal up to three years faster.",
+  "duration": 539,
+  "event": "TEDWomen 2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/366ebe1ea6814d45aae5cda773ab491397094ada_2880x1620.jpg",
+  "keywords": [
+    "disaster relief",
+    "engineering",
+    "natural disaster",
+    "robots",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 2318,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 168,
+    "Fascinating": 84,
+    "Persuasive": 34,
+    "Obnoxious": 14,
+    "Ingenious": 36,
+    "OK": 60,
+    "Inspiring": 25,
+    "Confusing": 6,
+    "Longwinded": 7,
+    "Unconvincing": 11,
+    "Funny": 9,
+    "Beautiful": 5,
+    "Courageous": 7,
+    "Jaw-dropping": 2
+  },
+  "slug": "robin_murphy_these_robots_come_to_the_rescue_after_a_disaster",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/366ebe1ea6814d45aae5cda773ab491397094ada_2880x1620.jpg?quality=89&w=600",
+  "title": "These robots come to the rescue after a disaster",
+  "url": "https://www.ted.com/talks/robin_murphy_these_robots_come_to_the_rescue_after_a_disaster",
+  "video": {
+    "low": "http://download.ted.com/talks/RobinMurphy_2015W-light.mp4",
+    "medium": "http://download.ted.com/talks/RobinMurphy_2015W.mp4",
+    "high": "http://download.ted.com/talks/RobinMurphy_2015W-480p.mp4"
+  },
+  "viewCount": 885640,
+  "year": "2015"
+}

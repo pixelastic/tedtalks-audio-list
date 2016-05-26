@@ -1,0 +1,50 @@
+{
+  "audio": "http://download.ted.com/talks/DeniseHerzing_2013.mp3",
+  "author": "Denise Herzing",
+  "dateFilmed": 1361923200,
+  "datePublished": 1370531595,
+  "description": "For 28 years, Denise Herzing has spent five months each summer living with a pod of Atlantic spotted dolphins, following three generations of family relationships and behaviors. It's clear they are communicating with one another -- but is it language? Could humans use it too? She shares a fascinating new experiment to test this idea.",
+  "duration": 878,
+  "event": "TED2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/18c90c592ca395a33e2f7402b43e273552a1564b_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "animals",
+    "biology",
+    "communication",
+    "language",
+    "oceans",
+    "science"
+  ],
+  "mainLanguage": null,
+  "objectID": 1758,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 94,
+    "Informative": 136,
+    "Fascinating": 262,
+    "Inspiring": 72,
+    "Ingenious": 62,
+    "Longwinded": 9,
+    "Jaw-dropping": 26,
+    "Persuasive": 11,
+    "Courageous": 8,
+    "Unconvincing": 18,
+    "OK": 34,
+    "Funny": 11,
+    "Obnoxious": 1,
+    "Confusing": 1
+  },
+  "slug": "denise_herzing_could_we_speak_the_language_of_dolphins",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/18c90c592ca395a33e2f7402b43e273552a1564b_1600x1200.jpg?quality=89&w=600",
+  "title": "Could we speak the language of dolphins?",
+  "url": "https://www.ted.com/talks/denise_herzing_could_we_speak_the_language_of_dolphins",
+  "video": {
+    "low": "http://download.ted.com/talks/DeniseHerzing_2013-light.mp4",
+    "medium": "http://download.ted.com/talks/DeniseHerzing_2013.mp4",
+    "high": "http://download.ted.com/talks/DeniseHerzing_2013-480p.mp4"
+  },
+  "viewCount": 1079811,
+  "year": "2013"
+}

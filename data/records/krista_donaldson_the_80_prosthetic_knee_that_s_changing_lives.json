@@ -1,0 +1,45 @@
+{
+  "audio": "http://download.ted.com/talks/KristaDonaldson_2013W.mp3",
+  "author": "Krista Donaldson",
+  "dateFilmed": 1386201600,
+  "datePublished": 1387468812,
+  "description": "We've made incredible advances in technology in recent years, but too often it seems only certain fortunate people can benefit. Engineer Krista Donaldson introduces the ReMotion knee, a prosthetic device for above-knee amputees, many of whom earn less than $4 a day. The design contains best-in-class technology and yet is far cheaper than other prosthetics on the market.",
+  "duration": 595,
+  "event": "TEDWomen 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/61f00b23b1d5b1658422782bd532f60d5cc20c12_1600x1200.jpg",
+  "keywords": [
+    "design",
+    "innovation"
+  ],
+  "mainLanguage": null,
+  "objectID": 1895,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Inspiring": 157,
+    "Ingenious": 105,
+    "Fascinating": 49,
+    "Beautiful": 27,
+    "Informative": 87,
+    "Jaw-dropping": 15,
+    "OK": 28,
+    "Persuasive": 19,
+    "Courageous": 20,
+    "Obnoxious": 8,
+    "Funny": 1,
+    "Confusing": 4,
+    "Longwinded": 2,
+    "Unconvincing": 1
+  },
+  "slug": "krista_donaldson_the_80_prosthetic_knee_that_s_changing_lives",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/61f00b23b1d5b1658422782bd532f60d5cc20c12_1600x1200.jpg?quality=89&w=600",
+  "title": "The $80 prosthetic knee that's changing lives",
+  "url": "https://www.ted.com/talks/krista_donaldson_the_80_prosthetic_knee_that_s_changing_lives",
+  "video": {
+    "low": "http://download.ted.com/talks/KristaDonaldson_2013W-light.mp4",
+    "medium": "http://download.ted.com/talks/KristaDonaldson_2013W.mp4",
+    "high": "http://download.ted.com/talks/KristaDonaldson_2013W-480p.mp4"
+  },
+  "viewCount": 868404,
+  "year": "2013"
+}

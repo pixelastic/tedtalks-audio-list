@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/AshBeckham_2014X.mp3",
+  "author": "Ash Beckham",
+  "dateFilmed": 1411776000,
+  "datePublished": 1436541075,
+  "description": "Ash Beckham recently found herself in a situation that made her ask: who am I? She felt pulled between two roles — as an aunt and as an advocate. Each of us feels this struggle sometimes, she says -- and offers bold suggestions for how to stand up for your moral integrity when it isn’t convenient.",
+  "duration": 935,
+  "event": "TEDxBoulder",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8d86a35fc44170cf2d05de8a2517beed2bb97d47_2880x1620.jpg",
+  "keywords": [
+    "TEDx",
+    "activism",
+    "identity",
+    "morality"
+  ],
+  "mainLanguage": null,
+  "objectID": 2282,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Funny": 267,
+    "Informative": 124,
+    "Persuasive": 143,
+    "Courageous": 331,
+    "Inspiring": 533,
+    "Fascinating": 68,
+    "Beautiful": 213,
+    "Unconvincing": 40,
+    "Longwinded": 17,
+    "Obnoxious": 23,
+    "OK": 39,
+    "Ingenious": 12,
+    "Confusing": 14,
+    "Jaw-dropping": 12
+  },
+  "slug": "ash_beckham_when_to_take_a_stand_and_when_to_let_it_go",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8d86a35fc44170cf2d05de8a2517beed2bb97d47_2880x1620.jpg?quality=89&w=600",
+  "title": "When to take a stand -- and when to let it go",
+  "url": "https://www.ted.com/talks/ash_beckham_when_to_take_a_stand_and_when_to_let_it_go",
+  "video": {
+    "low": "http://download.ted.com/talks/AshBeckham_2014X-light.mp4",
+    "medium": "http://download.ted.com/talks/AshBeckham_2014X.mp4",
+    "high": "http://download.ted.com/talks/AshBeckham_2014X-480p.mp4"
+  },
+  "viewCount": 1303944,
+  "year": "2014"
+}

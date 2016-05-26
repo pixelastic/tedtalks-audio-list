@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/BenAmbridge_2014X.mp3",
+  "author": "Ben Ambridge",
+  "dateFilmed": 1415145600,
+  "datePublished": 1423065530,
+  "description": "How much of what you think about your brain is actually wrong? In this whistlestop tour of dis-proved science, Ben Ambridge walks through 10 popular ideas about psychology that have been proven wrong — and uncovers a few surprising truths about how our brains really work.",
+  "duration": 895,
+  "event": "TEDxYouth@Manchester",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/4a47e1575ccd838b9825758e3a59e5c57c317270_2880x1620.jpg",
+  "keywords": [
+    "TEDYouth",
+    "TEDx",
+    "brain",
+    "education",
+    "psychology"
+  ],
+  "mainLanguage": null,
+  "objectID": 2178,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Funny": 125,
+    "Informative": 676,
+    "Fascinating": 217,
+    "OK": 250,
+    "Persuasive": 149,
+    "Longwinded": 102,
+    "Unconvincing": 178,
+    "Ingenious": 36,
+    "Inspiring": 40,
+    "Confusing": 88,
+    "Jaw-dropping": 5,
+    "Obnoxious": 85,
+    "Courageous": 19,
+    "Beautiful": 25
+  },
+  "slug": "ben_ambridge_10_myths_about_psychology_debunked",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/4a47e1575ccd838b9825758e3a59e5c57c317270_2880x1620.jpg?quality=89&w=600",
+  "title": "10 myths about psychology, debunked",
+  "url": "https://www.ted.com/talks/ben_ambridge_10_myths_about_psychology_debunked",
+  "video": {
+    "low": "http://download.ted.com/talks/BenAmbridge_2014X-light.mp4",
+    "medium": "http://download.ted.com/talks/BenAmbridge_2014X.mp4",
+    "high": "http://download.ted.com/talks/BenAmbridge_2014X-480p.mp4"
+  },
+  "viewCount": 2132057,
+  "year": "2014"
+}

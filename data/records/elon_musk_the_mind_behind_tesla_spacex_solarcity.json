@@ -1,0 +1,53 @@
+{
+  "audio": "http://download.ted.com/talks/ElonMusk_2013.mp3",
+  "author": "Elon Musk",
+  "dateFilmed": 1362009600,
+  "datePublished": 1363705062,
+  "description": "Entrepreneur Elon Musk is a man with many plans. The founder of PayPal, Tesla Motors and SpaceX sits down with TED curator Chris Anderson to share details about his visionary projects, which include a mass-marketed electric car, a solar energy leasing company and a fully reusable rocket.",
+  "duration": 1264,
+  "event": "TED2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2534551796ee0a2638b462ce82e33b65091b1d42_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "energy",
+    "entrepreneur",
+    "exploration",
+    "innovation",
+    "solar energy",
+    "space",
+    "technology",
+    "transportation"
+  ],
+  "mainLanguage": null,
+  "objectID": 1695,
+  "otherLanguages": {
+    "fi": "Finnish"
+  },
+  "ratings": {
+    "Persuasive": 172,
+    "Ingenious": 447,
+    "Inspiring": 1085,
+    "Courageous": 206,
+    "Fascinating": 621,
+    "Informative": 303,
+    "Funny": 27,
+    "Jaw-dropping": 234,
+    "OK": 77,
+    "Beautiful": 60,
+    "Obnoxious": 6,
+    "Unconvincing": 10,
+    "Longwinded": 10,
+    "Confusing": 2
+  },
+  "slug": "elon_musk_the_mind_behind_tesla_spacex_solarcity",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2534551796ee0a2638b462ce82e33b65091b1d42_1600x1200.jpg?quality=89&w=600",
+  "title": "The mind behind Tesla, SpaceX, SolarCity ...",
+  "url": "https://www.ted.com/talks/elon_musk_the_mind_behind_tesla_spacex_solarcity",
+  "video": {
+    "low": "http://download.ted.com/talks/ElonMusk_2013-light.mp4",
+    "medium": "http://download.ted.com/talks/ElonMusk_2013.mp4",
+    "high": "http://download.ted.com/talks/ElonMusk_2013-480p.mp4"
+  },
+  "viewCount": 3251384,
+  "year": "2013"
+}

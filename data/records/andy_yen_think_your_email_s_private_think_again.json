@@ -1,0 +1,49 @@
+{
+  "audio": "http://download.ted.com/talks/AndyYen_2014G.mp3",
+  "author": "Andy Yen",
+  "dateFilmed": 1412726400,
+  "datePublished": 1425571205,
+  "description": "Sending an email message is like sending a postcard, says scientist Andy Yen in this thought-provoking talk: Anyone can read it. Yet encryption, the technology that protects the privacy of email communication, does exist. It's just that until now it has been difficult to install and a hassle to use. Showing a demo of an email program he designed with colleagues at CERN, Yen argues that encryption can be made simple to the point of becoming the default option, providing true email privacy to all.",
+  "duration": 729,
+  "event": "TEDGlobal 2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/f4792554f556e73baab114a2d7b27876bd8ae9c6_2880x1620.jpg",
+  "keywords": [
+    "Internet",
+    "communication",
+    "privacy",
+    "security",
+    "technology",
+    "web"
+  ],
+  "mainLanguage": null,
+  "objectID": 2204,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 754,
+    "Ingenious": 199,
+    "Fascinating": 180,
+    "Funny": 12,
+    "Longwinded": 21,
+    "Unconvincing": 50,
+    "Beautiful": 31,
+    "OK": 75,
+    "Persuasive": 212,
+    "Inspiring": 147,
+    "Confusing": 13,
+    "Obnoxious": 7,
+    "Courageous": 62,
+    "Jaw-dropping": 14
+  },
+  "slug": "andy_yen_think_your_email_s_private_think_again",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/f4792554f556e73baab114a2d7b27876bd8ae9c6_2880x1620.jpg?quality=89&w=600",
+  "title": "Think your email's private? Think again",
+  "url": "https://www.ted.com/talks/andy_yen_think_your_email_s_private_think_again",
+  "video": {
+    "low": "http://download.ted.com/talks/AndyYen_2014G-light.mp4",
+    "medium": "http://download.ted.com/talks/AndyYen_2014G.mp4",
+    "high": "http://download.ted.com/talks/AndyYen_2014G-480p.mp4"
+  },
+  "viewCount": 1464008,
+  "year": "2014"
+}

@@ -1,0 +1,56 @@
+{
+  "audio": "http://download.ted.com/talks/SasaVucinic_2005G.mp3",
+  "author": "Sasa Vucinic",
+  "dateFilmed": 1121299200,
+  "datePublished": 1161130260,
+  "description": "A free press -- papers, magazines, radio, TV, blogs -- is the backbone of any true democracy (and a vital watchdog on business). Sasa Vucinic, a journalist from Belgrade, talks about his new fund, which supports media by selling \"free press bonds.\"",
+  "duration": 1080,
+  "event": "TEDGlobal 2005",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/cbb85fd640a070fdce1423ec282fff2445100563_1600x1200.jpg",
+  "keywords": [
+    "business",
+    "culture",
+    "global issues",
+    "investment",
+    "media",
+    "philanthropy"
+  ],
+  "mainLanguage": null,
+  "objectID": 75,
+  "otherLanguages": {
+    "ar": "Arabic",
+    "zh-tw": "Chinese, Traditional",
+    "en": "English",
+    "fr": "French",
+    "de": "German",
+    "he": "Hebrew",
+    "pt": "Portuguese"
+  },
+  "ratings": {
+    "Longwinded": 22,
+    "Ingenious": 34,
+    "Informative": 91,
+    "Inspiring": 68,
+    "Fascinating": 26,
+    "OK": 22,
+    "Courageous": 49,
+    "Persuasive": 49,
+    "Confusing": 7,
+    "Obnoxious": 4,
+    "Jaw-dropping": 3,
+    "Unconvincing": 4,
+    "Funny": 1,
+    "Beautiful": 8
+  },
+  "slug": "sasa_vucinic_invests_in_free_press",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/cbb85fd640a070fdce1423ec282fff2445100563_1600x1200.jpg?quality=89&w=600",
+  "title": "Why we should invest in a free press",
+  "url": "https://www.ted.com/talks/sasa_vucinic_invests_in_free_press",
+  "video": {
+    "low": "http://download.ted.com/talks/SasaVucinic_2005G-light.mp4",
+    "medium": "http://download.ted.com/talks/SasaVucinic_2005G.mp4",
+    "high": "http://download.ted.com/talks/SasaVucinic_2005G-480p.mp4"
+  },
+  "viewCount": 410793,
+  "year": "2005"
+}

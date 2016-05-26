@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/ZiyahGafic_2014U.mp3",
+  "author": "Ziyah Gafić",
+  "dateFilmed": 1395014400,
+  "datePublished": 1408718451,
+  "description": "Ziyah Gafić photographs everyday objects—watches, shoes, glasses. But these images are deceptively simple; the items in them have been exhumed from the mass graves of the Bosnian War. Gafić, a TED Fellow and Sarajevo native, is photographing every item from these graves in order to create a living archive of the identities of those lost. ",
+  "duration": 272,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/cc4f9948f0fb36f9e2df8d3777110b367c237340_2400x1800.jpg",
+  "keywords": [
+    "TED Conference",
+    "TED Fellows",
+    "photography",
+    "war"
+  ],
+  "mainLanguage": null,
+  "objectID": 2063,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "OK": 90,
+    "Informative": 107,
+    "Inspiring": 67,
+    "Fascinating": 51,
+    "Courageous": 50,
+    "Jaw-dropping": 13,
+    "Beautiful": 59,
+    "Persuasive": 16,
+    "Confusing": 5,
+    "Unconvincing": 14,
+    "Obnoxious": 7,
+    "Ingenious": 11,
+    "Funny": 6,
+    "Longwinded": 14
+  },
+  "slug": "ziyah_gafic_everyday_objects_tragic_histories",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/cc4f9948f0fb36f9e2df8d3777110b367c237340_2400x1800.jpg?quality=89&w=600",
+  "title": "Everyday objects, tragic histories",
+  "url": "https://www.ted.com/talks/ziyah_gafic_everyday_objects_tragic_histories",
+  "video": {
+    "low": "http://download.ted.com/talks/ZiyahGafic_2014U-light.mp4",
+    "medium": "http://download.ted.com/talks/ZiyahGafic_2014U.mp4",
+    "high": "http://download.ted.com/talks/ZiyahGafic_2014U-480p.mp4"
+  },
+  "viewCount": 945018,
+  "year": "2014"
+}

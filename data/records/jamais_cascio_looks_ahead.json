@@ -1,0 +1,59 @@
+{
+  "audio": "http://download.ted.com/talks/JamaisCascio_2006.mp3",
+  "author": "Jamais Cascio",
+  "dateFilmed": 1138838400,
+  "datePublished": 1232499600,
+  "description": "We all want to make the world better -- but how? Jamais Cascio looks at some specific tools and techniques that can make a difference. It's a fascinating talk that might just inspire you to act.",
+  "duration": 975,
+  "event": "TED2006",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/66637_800x600.jpg",
+  "keywords": [
+    "TED Conference",
+    "culture",
+    "future",
+    "global issues",
+    "social change",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 439,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified",
+    "nl": "Dutch",
+    "en": "English",
+    "he": "Hebrew",
+    "ko": "Korean",
+    "pl": "Polish",
+    "ro": "Romanian",
+    "ru": "Russian",
+    "es": "Spanish",
+    "tr": "Turkish"
+  },
+  "ratings": {
+    "Persuasive": 37,
+    "Inspiring": 66,
+    "Beautiful": 3,
+    "Ingenious": 18,
+    "Fascinating": 26,
+    "OK": 35,
+    "Unconvincing": 15,
+    "Confusing": 7,
+    "Courageous": 6,
+    "Informative": 65,
+    "Longwinded": 29,
+    "Jaw-dropping": 6,
+    "Obnoxious": 5,
+    "Funny": 2
+  },
+  "slug": "jamais_cascio_looks_ahead",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/66637_800x600.jpg?quality=89&w=600",
+  "title": "Tools for a better world",
+  "url": "https://www.ted.com/talks/jamais_cascio_looks_ahead",
+  "video": {
+    "low": "http://download.ted.com/talks/JamaisCascio_2006-light.mp4",
+    "medium": "http://download.ted.com/talks/JamaisCascio_2006.mp4",
+    "high": "http://download.ted.com/talks/JamaisCascio_2006-480p.mp4"
+  },
+  "viewCount": 196277,
+  "year": "2006"
+}

@@ -1,0 +1,49 @@
+{
+  "audio": "http://download.ted.com/talks/NizarIbrahim_2014Y.mp3",
+  "author": "Nizar Ibrahim",
+  "dateFilmed": 1416009600,
+  "datePublished": 1429887632,
+  "description": "A 50-foot-long carnivore who hunted its prey in rivers 97 million years ago, the Spinosaurus is a \"dragon from deep time.\" Paleontologist Nizar Ibrahim and his crew found new fossils, hidden in cliffs of the Moroccan Sahara desert, that are helping us learn more about the first swimming dinosaur -- who might also be the largest carnivorous dinosaur of all. ",
+  "duration": 362,
+  "event": "TEDYouth 2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/61296ee39a8d6226e460826a8ac69243d188444a_2880x1620.jpg",
+  "keywords": [
+    "TED Fellows",
+    "TEDYouth",
+    "adventure",
+    "ancient world",
+    "dinosaurs",
+    "paleontology"
+  ],
+  "mainLanguage": null,
+  "objectID": 2238,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 204,
+    "Unconvincing": 7,
+    "OK": 52,
+    "Fascinating": 102,
+    "Inspiring": 51,
+    "Jaw-dropping": 13,
+    "Beautiful": 25,
+    "Persuasive": 7,
+    "Courageous": 10,
+    "Ingenious": 6,
+    "Longwinded": 4,
+    "Funny": 4,
+    "Confusing": 1,
+    "Obnoxious": 0
+  },
+  "slug": "nizar_ibrahim_how_we_unearthed_the_spinosaurus",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/61296ee39a8d6226e460826a8ac69243d188444a_2880x1620.jpg?quality=89&w=600",
+  "title": "How we unearthed the Spinosaurus",
+  "url": "https://www.ted.com/talks/nizar_ibrahim_how_we_unearthed_the_spinosaurus",
+  "video": {
+    "low": "http://download.ted.com/talks/NizarIbrahim_2014Y-light.mp4",
+    "medium": "http://download.ted.com/talks/NizarIbrahim_2014Y.mp4",
+    "high": "http://download.ted.com/talks/NizarIbrahim_2014Y-480p.mp4"
+  },
+  "viewCount": 864896,
+  "year": "2014"
+}

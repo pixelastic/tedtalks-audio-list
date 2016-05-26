@@ -1,0 +1,50 @@
+{
+  "audio": null,
+  "author": "Jeremy Rifkin",
+  "dateFilmed": 1282176000,
+  "datePublished": 1282647660,
+  "description": "In this talk from RSA Animate, bestselling author Jeremy Rifkin investigates the evolution of empathy and the profound ways it has shaped human development and society.",
+  "duration": 639,
+  "event": "RSA Animate",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/194331_800x600.jpg",
+  "keywords": [
+    "brain",
+    "economics",
+    "evolution",
+    "mind",
+    "psychology",
+    "science"
+  ],
+  "mainLanguage": null,
+  "objectID": 943,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Jaw-dropping": 266,
+    "Fascinating": 570,
+    "Persuasive": 509,
+    "Funny": 132,
+    "Inspiring": 919,
+    "Unconvincing": 61,
+    "Informative": 629,
+    "Beautiful": 278,
+    "OK": 75,
+    "Ingenious": 342,
+    "Courageous": 78,
+    "Obnoxious": 21,
+    "Longwinded": 23,
+    "Confusing": 39
+  },
+  "slug": "jeremy_rifkin_on_the_empathic_civilization",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/194331_800x600.jpg?quality=89&w=600",
+  "title": "The empathic civilization",
+  "url": "https://www.ted.com/talks/jeremy_rifkin_on_the_empathic_civilization",
+  "video": {
+    "youtube": {
+      "id": "l7AWnfFRc7g",
+      "url": "http://www.youtube.com/watch?v=l7AWnfFRc7g"
+    }
+  },
+  "viewCount": 519560,
+  "year": "2010"
+}

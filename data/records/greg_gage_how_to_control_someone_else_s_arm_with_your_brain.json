@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/GregGage_2015U.mp3",
+  "author": "Greg Gage",
+  "dateFilmed": 1426636800,
+  "datePublished": 1430233967,
+  "description": "Greg Gage is on a mission to make brain science accessible to all. In this fun, kind of creepy demo, the neuroscientist and TED Senior Fellow uses a simple, inexpensive DIY kit to take away the free will of an audience member. It’s not a parlor trick; it actually works. You have to see it to believe it.",
+  "duration": 352,
+  "event": "TED2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/16565cf6939650dbd2041621c744d049820c1130_2880x1620.jpg",
+  "keywords": [
+    "TED Fellows",
+    "brain",
+    "demo",
+    "neuroscience",
+    "science"
+  ],
+  "mainLanguage": null,
+  "objectID": 2244,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Courageous": 96,
+    "Funny": 469,
+    "Informative": 513,
+    "Ingenious": 396,
+    "Jaw-dropping": 497,
+    "Fascinating": 906,
+    "Inspiring": 373,
+    "Beautiful": 91,
+    "OK": 100,
+    "Persuasive": 46,
+    "Unconvincing": 10,
+    "Confusing": 14,
+    "Obnoxious": 7,
+    "Longwinded": 17
+  },
+  "slug": "greg_gage_how_to_control_someone_else_s_arm_with_your_brain",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/16565cf6939650dbd2041621c744d049820c1130_2880x1620.jpg?quality=89&w=600",
+  "title": "How to control someone else's arm with your brain",
+  "url": "https://www.ted.com/talks/greg_gage_how_to_control_someone_else_s_arm_with_your_brain",
+  "video": {
+    "low": "http://download.ted.com/talks/GregGage_2015U-light.mp4",
+    "medium": "http://download.ted.com/talks/GregGage_2015U.mp4",
+    "high": "http://download.ted.com/talks/GregGage_2015U-480p.mp4"
+  },
+  "viewCount": 3979004,
+  "year": "2015"
+}

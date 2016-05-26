@@ -1,0 +1,45 @@
+{
+  "audio": "http://download.ted.com/talks/DawnLandes_2015.mp3",
+  "author": "Dawn Landes",
+  "dateFilmed": 1426636800,
+  "datePublished": 1431098075,
+  "description": "Singer-songwriter Dawn Landes tells the story of Tori Murden McClure, who dreamed of rowing across the Atlantic in a small boat -- but whose dream was almost capsized by waves the size of a seven-story building. Through video, story and song, Landes imagines the mindset of a woman alone in the midst of the vast ocean. (This talk was part of a session at TED2015 guest-curated by Pop-Up Magazine: popupmagazine.com or @popupmag on Twitter.)",
+  "duration": 566,
+  "event": "TED2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/75b9ae338b2674529407bbbbd583d36013ce8a0a_2880x1620.jpg",
+  "keywords": [
+    "adventure",
+    "music"
+  ],
+  "mainLanguage": null,
+  "objectID": 2248,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Fascinating": 228,
+    "OK": 75,
+    "Persuasive": 14,
+    "Courageous": 106,
+    "Jaw-dropping": 14,
+    "Inspiring": 161,
+    "Beautiful": 188,
+    "Informative": 27,
+    "Longwinded": 2,
+    "Unconvincing": 5,
+    "Obnoxious": 1,
+    "Ingenious": 6,
+    "Funny": 10,
+    "Confusing": 0
+  },
+  "slug": "dawn_landes_a_song_for_my_hero_the_woman_who_rowed_into_a_hurricane",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/75b9ae338b2674529407bbbbd583d36013ce8a0a_2880x1620.jpg?quality=89&w=600",
+  "title": "A song for my hero, the woman who rowed into a hurricane",
+  "url": "https://www.ted.com/talks/dawn_landes_a_song_for_my_hero_the_woman_who_rowed_into_a_hurricane",
+  "video": {
+    "low": "http://download.ted.com/talks/DawnLandes_2015-light.mp4",
+    "medium": "http://download.ted.com/talks/DawnLandes_2015.mp4",
+    "high": "http://download.ted.com/talks/DawnLandes_2015-480p.mp4"
+  },
+  "viewCount": 1049979,
+  "year": "2015"
+}

@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/KateStone_2013.mp3",
+  "author": "Kate Stone",
+  "dateFilmed": 1361923200,
+  "datePublished": 1374591660,
+  "description": "\"I love paper, and I love technology,\" says physicist and former sheep herder Kate Stone, who's spent the past decade working to unite the two. Her experiments combine regular paper with conductive inks and tiny circuit boards to offer a unique, magical experience. To date, applications include a newspaper embedded with audio and video, posters that display energy usage in real time, and the extremely nifty paper drumkit and set of DJ decks she demonstrates onstage.",
+  "duration": 705,
+  "event": "TED2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/c51505deffbbe33877f167d064369d7fc3715b99_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "design",
+    "entertainment",
+    "materials",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 1793,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Fascinating": 167,
+    "Ingenious": 166,
+    "Jaw-dropping": 68,
+    "Inspiring": 95,
+    "Courageous": 14,
+    "Informative": 36,
+    "Obnoxious": 5,
+    "OK": 21,
+    "Longwinded": 10,
+    "Confusing": 5,
+    "Beautiful": 10,
+    "Unconvincing": 10,
+    "Funny": 16,
+    "Persuasive": 8
+  },
+  "slug": "kate_stone_dj_decks_made_of_paper",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/c51505deffbbe33877f167d064369d7fc3715b99_1600x1200.jpg?quality=89&w=600",
+  "title": "DJ decks made of ... paper",
+  "url": "https://www.ted.com/talks/kate_stone_dj_decks_made_of_paper",
+  "video": {
+    "low": "http://download.ted.com/talks/KateStone_2013-light.mp4",
+    "medium": "http://download.ted.com/talks/KateStone_2013.mp4",
+    "high": "http://download.ted.com/talks/KateStone_2013-480p.mp4"
+  },
+  "viewCount": 667318,
+  "year": "2013"
+}

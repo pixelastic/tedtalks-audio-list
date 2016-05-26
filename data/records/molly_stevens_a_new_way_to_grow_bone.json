@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/MollyStevens_2013G.mp3",
+  "author": "Molly Stevens",
+  "dateFilmed": 1372291200,
+  "datePublished": 1392739156,
+  "description": "What does it take to regrow bone in mass quantities? Typical bone regeneration -- wherein bone is taken from a patient’s hip and grafted onto damaged bone elsewhere in the body -- is limited and can cause great pain just a few years after operation. In an informative talk, Molly Stevens introduces a new stem cell application that harnesses bone’s innate ability to regenerate and produces vast quantities of bone tissue painlessly.",
+  "duration": 892,
+  "event": "TEDGlobal 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/49cf4f1b8d3b3d479b3fce9a7a7ae2d4c103eb9d_1600x1200.jpg",
+  "keywords": [
+    "biotech",
+    "medicine",
+    "science",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 1845,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Ingenious": 117,
+    "Fascinating": 118,
+    "Informative": 171,
+    "Beautiful": 16,
+    "OK": 36,
+    "Confusing": 7,
+    "Longwinded": 12,
+    "Obnoxious": 13,
+    "Jaw-dropping": 19,
+    "Persuasive": 15,
+    "Courageous": 8,
+    "Inspiring": 49,
+    "Unconvincing": 5,
+    "Funny": 8
+  },
+  "slug": "molly_stevens_a_new_way_to_grow_bone",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/49cf4f1b8d3b3d479b3fce9a7a7ae2d4c103eb9d_1600x1200.jpg?quality=89&w=600",
+  "title": "A new way to grow bone",
+  "url": "https://www.ted.com/talks/molly_stevens_a_new_way_to_grow_bone",
+  "video": {
+    "low": "http://download.ted.com/talks/MollyStevens_2013G-light.mp4",
+    "medium": "http://download.ted.com/talks/MollyStevens_2013G.mp4",
+    "high": "http://download.ted.com/talks/MollyStevens_2013G-480p.mp4"
+  },
+  "viewCount": 1107011,
+  "year": "2013"
+}

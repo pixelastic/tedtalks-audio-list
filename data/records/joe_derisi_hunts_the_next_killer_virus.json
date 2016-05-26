@@ -1,0 +1,55 @@
+{
+  "audio": "http://download.ted.com/talks/JoeDeRisi_2006.mp3",
+  "author": "Joe DeRisi",
+  "dateFilmed": 1138838400,
+  "datePublished": 1233214860,
+  "description": "Biochemist Joe DeRisi talks about amazing new ways to diagnose viruses (and treat the illnesses they cause) using DNA. His work may help us understand malaria, SARS, avian flu -- and the 60 percent of everyday viral infections that go undiagnosed.",
+  "duration": 965,
+  "event": "TED2006",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b6813c2c2477a2a97f0b35a7bdeed9a33721bacf_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "global issues",
+    "illness",
+    "medicine",
+    "science",
+    "technology",
+    "virus"
+  ],
+  "mainLanguage": null,
+  "objectID": 445,
+  "otherLanguages": {
+    "it": "Italian",
+    "ja": "Japanese",
+    "mk": "Macedonian",
+    "pt-br": "Portuguese, Brazilian",
+    "es": "Spanish"
+  },
+  "ratings": {
+    "Persuasive": 35,
+    "Ingenious": 181,
+    "Fascinating": 151,
+    "Confusing": 17,
+    "Informative": 138,
+    "Courageous": 5,
+    "OK": 24,
+    "Longwinded": 9,
+    "Inspiring": 40,
+    "Jaw-dropping": 108,
+    "Beautiful": 4,
+    "Funny": 13,
+    "Obnoxious": 1,
+    "Unconvincing": 7
+  },
+  "slug": "joe_derisi_hunts_the_next_killer_virus",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b6813c2c2477a2a97f0b35a7bdeed9a33721bacf_1600x1200.jpg?quality=89&w=600",
+  "title": "Solving medical mysteries",
+  "url": "https://www.ted.com/talks/joe_derisi_hunts_the_next_killer_virus",
+  "video": {
+    "low": "http://download.ted.com/talks/JoeDeRisi_2006-light.mp4",
+    "medium": "http://download.ted.com/talks/JoeDeRisi_2006.mp4",
+    "high": "http://download.ted.com/talks/JoeDeRisi_2006-480p.mp4"
+  },
+  "viewCount": 370357,
+  "year": "2006"
+}

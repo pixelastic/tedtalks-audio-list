@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/MaryRobinson_2015W.mp3",
+  "author": "Mary Robinson",
+  "dateFilmed": 1432771200,
+  "datePublished": 1443019067,
+  "description": "Climate change is unfair. While rich countries can fight against rising oceans and dying farm fields, poor people around the world are already having their lives upended -- and their human rights threatened -- by killer storms, starvation and the loss of their own lands. Mary Robinson asks us to join the movement for worldwide climate justice.",
+  "duration": 1307,
+  "event": "TEDWomen 2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/64bbcc24af870d9b4e1768abe88e1fe041b02a6a_2880x1620.jpg",
+  "keywords": [
+    "climate change",
+    "global issues",
+    "humanity",
+    "inequality",
+    "leadership"
+  ],
+  "mainLanguage": null,
+  "objectID": 2331,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Longwinded": 41,
+    "OK": 70,
+    "Informative": 150,
+    "Inspiring": 168,
+    "Jaw-dropping": 12,
+    "Persuasive": 93,
+    "Unconvincing": 22,
+    "Funny": 12,
+    "Courageous": 29,
+    "Beautiful": 25,
+    "Fascinating": 43,
+    "Ingenious": 6,
+    "Confusing": 15,
+    "Obnoxious": 11
+  },
+  "slug": "mary_robinson_why_climate_change_is_a_threat_to_human_rights",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/64bbcc24af870d9b4e1768abe88e1fe041b02a6a_2880x1620.jpg?quality=89&w=600",
+  "title": "Why climate change is a threat to human rights",
+  "url": "https://www.ted.com/talks/mary_robinson_why_climate_change_is_a_threat_to_human_rights",
+  "video": {
+    "low": "http://download.ted.com/talks/MaryRobinson_2015W-light.mp4",
+    "medium": "http://download.ted.com/talks/MaryRobinson_2015W.mp4"
+  },
+  "viewCount": 953078,
+  "year": "2015"
+}

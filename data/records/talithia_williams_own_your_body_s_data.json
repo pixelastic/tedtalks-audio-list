@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/TalithiaWilliams_2014X.mp3",
+  "author": "Talithia Williams",
+  "dateFilmed": 1392163200,
+  "datePublished": 1407769811,
+  "description": "The new breed of high-tech self-monitors (measuring heartrate, sleep, steps per day) might seem targeted at competitive athletes. But Talithia Williams, a statistician, makes a compelling case that all of us should be measuring and recording simple data about our bodies every day — because our own data can reveal much more than even our doctors may know.",
+  "duration": 1023,
+  "event": "TEDxClaremontColleges",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/afc9b259845ec1b543419871e10753d4d9044fda_2400x1800.jpg",
+  "keywords": [
+    "TEDx",
+    "data",
+    "health",
+    "heart health",
+    "statistics"
+  ],
+  "mainLanguage": null,
+  "objectID": 2056,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Funny": 274,
+    "Informative": 384,
+    "Persuasive": 205,
+    "Ingenious": 47,
+    "Longwinded": 24,
+    "OK": 56,
+    "Obnoxious": 17,
+    "Beautiful": 14,
+    "Inspiring": 141,
+    "Fascinating": 75,
+    "Courageous": 17,
+    "Confusing": 10,
+    "Unconvincing": 19,
+    "Jaw-dropping": 7
+  },
+  "slug": "talithia_williams_own_your_body_s_data",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/afc9b259845ec1b543419871e10753d4d9044fda_2400x1800.jpg?quality=89&w=600",
+  "title": "Own your body's data",
+  "url": "https://www.ted.com/talks/talithia_williams_own_your_body_s_data",
+  "video": {
+    "low": "http://download.ted.com/talks/TalithiaWilliams_2014X-light.mp4",
+    "medium": "http://download.ted.com/talks/TalithiaWilliams_2014X.mp4",
+    "high": "http://download.ted.com/talks/TalithiaWilliams_2014X-480p.mp4"
+  },
+  "viewCount": 1121634,
+  "year": "2014"
+}

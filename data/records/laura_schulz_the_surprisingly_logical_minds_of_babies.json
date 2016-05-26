@@ -1,0 +1,49 @@
+{
+  "audio": "http://download.ted.com/talks/LauraSchulz_2015.mp3",
+  "author": "Laura Schulz",
+  "dateFilmed": 1425945600,
+  "datePublished": 1433257089,
+  "description": "How do babies learn so much from so little so quickly? In a fun, experiment-filled talk, cognitive scientist Laura Schulz shows how our young ones make decisions with a surprisingly strong sense of logic, well before they can talk.",
+  "duration": 1218,
+  "event": "TED2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b6187cbb01f39c3a29428434b9194fe217041452_2880x1620.jpg",
+  "keywords": [
+    "brain",
+    "children",
+    "cognitive science",
+    "mind",
+    "science",
+    "youth"
+  ],
+  "mainLanguage": null,
+  "objectID": 2265,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 141,
+    "Funny": 82,
+    "Informative": 351,
+    "Fascinating": 277,
+    "Jaw-dropping": 47,
+    "Inspiring": 134,
+    "Ingenious": 67,
+    "Confusing": 14,
+    "Longwinded": 23,
+    "Unconvincing": 17,
+    "Persuasive": 59,
+    "OK": 39,
+    "Courageous": 6,
+    "Obnoxious": 0
+  },
+  "slug": "laura_schulz_the_surprisingly_logical_minds_of_babies",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b6187cbb01f39c3a29428434b9194fe217041452_2880x1620.jpg?quality=89&w=600",
+  "title": "The surprisingly logical minds of babies",
+  "url": "https://www.ted.com/talks/laura_schulz_the_surprisingly_logical_minds_of_babies",
+  "video": {
+    "low": "http://download.ted.com/talks/LauraSchulz_2015-light.mp4",
+    "medium": "http://download.ted.com/talks/LauraSchulz_2015.mp4",
+    "high": "http://download.ted.com/talks/LauraSchulz_2015-480p.mp4"
+  },
+  "viewCount": 1426996,
+  "year": "2015"
+}

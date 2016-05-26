@@ -1,0 +1,51 @@
+{
+  "audio": "http://download.ted.com/talks/IsmaelNazario_2014X.mp3",
+  "author": "Ismael Nazario",
+  "dateFilmed": 1414800000,
+  "datePublished": 1426087377,
+  "description": "As a teenager, Ismael Nazario was sent to New York’s Rikers Island jail, where he spent 300 days in solitary confinement -- all before he was ever convicted of a crime. Now as a prison reform advocate he works to change the culture of American jails and prisons, where young people are frequently subjected to violence beyond imagination. Nazario tells his chilling story and suggests ways to help, rather than harm, teens in jail.",
+  "duration": 683,
+  "event": "TEDxNewYork",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/c72c69bed3747f108a611b6a1795483a06ef61a3_2880x1620.jpg",
+  "keywords": [
+    "TEDx",
+    "activism",
+    "cities",
+    "crime",
+    "prison",
+    "social change",
+    "violence",
+    "youth"
+  ],
+  "mainLanguage": null,
+  "objectID": 2207,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Courageous": 321,
+    "Informative": 259,
+    "Fascinating": 100,
+    "Beautiful": 78,
+    "Inspiring": 370,
+    "Unconvincing": 31,
+    "Jaw-dropping": 24,
+    "OK": 47,
+    "Persuasive": 116,
+    "Funny": 12,
+    "Confusing": 9,
+    "Obnoxious": 3,
+    "Ingenious": 11,
+    "Longwinded": 5
+  },
+  "slug": "ismael_nazario_what_i_learned_as_a_kid_in_jail",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/c72c69bed3747f108a611b6a1795483a06ef61a3_2880x1620.jpg?quality=89&w=600",
+  "title": "What I learned as a kid in jail",
+  "url": "https://www.ted.com/talks/ismael_nazario_what_i_learned_as_a_kid_in_jail",
+  "video": {
+    "low": "http://download.ted.com/talks/IsmaelNazario_2014X-light.mp4",
+    "medium": "http://download.ted.com/talks/IsmaelNazario_2014X.mp4",
+    "high": "http://download.ted.com/talks/IsmaelNazario_2014X-480p.mp4"
+  },
+  "viewCount": 1284066,
+  "year": "2014"
+}

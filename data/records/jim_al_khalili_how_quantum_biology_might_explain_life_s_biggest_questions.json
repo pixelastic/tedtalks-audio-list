@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/JimAlKhalili_2015G.mp3",
+  "author": "Jim Al-Khalili",
+  "dateFilmed": 1434412800,
+  "datePublished": 1440428962,
+  "description": "How does a robin know to fly south? The answer might be weirder than you think: Quantum physics may be involved. Jim Al-Khalili rounds up the extremely new, extremely strange world of quantum biology, where something Einstein once called “spooky action at a distance” helps birds navigate, and quantum effects might explain the origin of life itself.",
+  "duration": 969,
+  "event": "TEDGlobalLondon",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b9f9609178a7d8d4ad2cc2eaffc345fe024f78b7_2880x1620.jpg",
+  "keywords": [
+    "biology",
+    "birds",
+    "consciousness",
+    "life",
+    "physics"
+  ],
+  "mainLanguage": null,
+  "objectID": 2316,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 106,
+    "Informative": 376,
+    "Fascinating": 491,
+    "OK": 63,
+    "Ingenious": 100,
+    "Inspiring": 111,
+    "Jaw-dropping": 76,
+    "Funny": 18,
+    "Persuasive": 51,
+    "Confusing": 24,
+    "Longwinded": 28,
+    "Unconvincing": 17,
+    "Obnoxious": 7,
+    "Courageous": 11
+  },
+  "slug": "jim_al_khalili_how_quantum_biology_might_explain_life_s_biggest_questions",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b9f9609178a7d8d4ad2cc2eaffc345fe024f78b7_2880x1620.jpg?quality=89&w=600",
+  "title": "How quantum biology might explain life’s biggest questions",
+  "url": "https://www.ted.com/talks/jim_al_khalili_how_quantum_biology_might_explain_life_s_biggest_questions",
+  "video": {
+    "low": "http://download.ted.com/talks/JimAlKhalili_2015G-light.mp4",
+    "medium": "http://download.ted.com/talks/JimAlKhalili_2015G.mp4",
+    "high": "http://download.ted.com/talks/JimAlKhalili_2015G-480p.mp4"
+  },
+  "viewCount": 1209931,
+  "year": "2015"
+}

@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/JoeKowan_2013S.mp3",
+  "author": "Joe Kowan",
+  "dateFilmed": 1384732800,
+  "datePublished": 1390581428,
+  "description": "Humanity's fine-tuned sense of fear served us well as a young species, giving us laser focus to avoid being eaten by competing beasts. But it's less wonderful when that same visceral, body-hijacking sense of fear kicks in in front of 20 folk-music fans at a Tuesday night open-mic. Palms sweat, hands shake, vision blurs, and the brain says RUN: it's stage fright. In this charming, tuneful little talk, Joe Kowan talks about how he conquered it.",
+  "duration": 483,
+  "event": "TED@State Street Boston",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/6517a673ec92e537f7166173f6ff9ec809455984_1600x1200.jpg",
+  "keywords": [
+    "communication",
+    "entertainment",
+    "fear"
+  ],
+  "mainLanguage": null,
+  "objectID": 1912,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified"
+  },
+  "ratings": {
+    "Jaw-dropping": 16,
+    "Ingenious": 64,
+    "Funny": 539,
+    "Unconvincing": 24,
+    "Obnoxious": 17,
+    "Courageous": 315,
+    "Inspiring": 344,
+    "OK": 94,
+    "Fascinating": 39,
+    "Beautiful": 76,
+    "Informative": 50,
+    "Persuasive": 36,
+    "Confusing": 13,
+    "Longwinded": 15
+  },
+  "slug": "joe_kowan_how_i_beat_stage_fright",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/6517a673ec92e537f7166173f6ff9ec809455984_1600x1200.jpg?quality=89&w=600",
+  "title": "How I beat stage fright",
+  "url": "https://www.ted.com/talks/joe_kowan_how_i_beat_stage_fright",
+  "video": {
+    "low": "http://download.ted.com/talks/JoeKowan_2013S-light.mp4",
+    "medium": "http://download.ted.com/talks/JoeKowan_2013S.mp4",
+    "high": "http://download.ted.com/talks/JoeKowan_2013S-480p.mp4"
+  },
+  "viewCount": 2108534,
+  "year": "2013"
+}

@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/Rives_2014A.mp3",
+  "author": "Rives",
+  "dateFilmed": 1395705600,
+  "datePublished": 1400252225,
+  "description": "Beware: Rives has a contagious obsession with 4 a.m. At TED2007, the poet shared what was then a minor fixation with a time that kept popping up everywhere. After the talk, emails starting pouring in with an avalanche of hilarious references—from the cover of \"Crochet Today!\" magazine to the opening scene of \"The Metamorphosis.\" A lyrical peek into his Museum of Four in the Morning, which overflows with treasures.",
+  "duration": 844,
+  "event": "TEDActive 2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e6aa248ec546f41f568282aba6bddf54a5a92391_2880x1620.jpg",
+  "keywords": [
+    "entertainment",
+    "humor",
+    "online video",
+    "spoken word",
+    "storytelling"
+  ],
+  "mainLanguage": null,
+  "objectID": 2000,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "OK": 106,
+    "Beautiful": 609,
+    "Jaw-dropping": 151,
+    "Courageous": 26,
+    "Inspiring": 255,
+    "Informative": 44,
+    "Funny": 468,
+    "Ingenious": 173,
+    "Fascinating": 417,
+    "Persuasive": 12,
+    "Obnoxious": 17,
+    "Unconvincing": 39,
+    "Longwinded": 24,
+    "Confusing": 16
+  },
+  "slug": "rives_a_museum_of_4_o_clock_in_the_morning",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e6aa248ec546f41f568282aba6bddf54a5a92391_2880x1620.jpg?quality=89&w=600",
+  "title": "The Museum of Four in the Morning",
+  "url": "https://www.ted.com/talks/rives_a_museum_of_4_o_clock_in_the_morning",
+  "video": {
+    "low": "http://download.ted.com/talks/Rives_2014A-light.mp4",
+    "medium": "http://download.ted.com/talks/Rives_2014A.mp4",
+    "high": "http://download.ted.com/talks/Rives_2014A-480p.mp4"
+  },
+  "viewCount": 1601246,
+  "year": "2014"
+}

@@ -1,0 +1,50 @@
+{
+  "audio": "http://download.ted.com/talks/TimFerriss_2008P.mp3",
+  "author": "Tim Ferriss",
+  "dateFilmed": 1228435200,
+  "datePublished": 1239795780,
+  "description": "From the EG conference: Productivity guru Tim Ferriss' fun, encouraging anecdotes show how one simple question -- \"What's the worst that could happen?\" -- is all you need to learn to do anything.",
+  "duration": 985,
+  "event": "EG 2008",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/83863_800x600.jpg",
+  "keywords": [
+    "dance",
+    "fear",
+    "language",
+    "life",
+    "productivity",
+    "work"
+  ],
+  "mainLanguage": null,
+  "objectID": 517,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified"
+  },
+  "ratings": {
+    "Obnoxious": 205,
+    "Inspiring": 786,
+    "OK": 235,
+    "Longwinded": 141,
+    "Persuasive": 233,
+    "Funny": 101,
+    "Beautiful": 48,
+    "Ingenious": 126,
+    "Informative": 299,
+    "Unconvincing": 288,
+    "Fascinating": 248,
+    "Confusing": 87,
+    "Courageous": 229,
+    "Jaw-dropping": 55
+  },
+  "slug": "tim_ferriss_smash_fear_learn_anything",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/83863_800x600.jpg?quality=89&w=600",
+  "title": "Smash fear, learn anything",
+  "url": "https://www.ted.com/talks/tim_ferriss_smash_fear_learn_anything",
+  "video": {
+    "low": "http://download.ted.com/talks/TimFerriss_2008P-light.mp4",
+    "medium": "http://download.ted.com/talks/TimFerriss_2008P.mp4",
+    "high": "http://download.ted.com/talks/TimFerriss_2008P-480p.mp4"
+  },
+  "viewCount": 2063183,
+  "year": "2008"
+}

@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/SallyKohn_2014S.mp3",
+  "author": "Sally Kohn",
+  "dateFilmed": 1404777600,
+  "datePublished": 1409239618,
+  "description": "Doesn't it seem like a lot of online news sites have moved beyond reporting the news to openly inciting your outrage (and your page views)? News analyst Sally Kohn suggests — don't engage with news that looks like it just wants to make you mad. Instead, give your precious clicks to the news sites you truly trust.",
+  "duration": 276,
+  "event": "TED@NYC",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2285025aeba7becd431cfa04f05c592075491fcd_2400x1800.jpg",
+  "keywords": [
+    "communication",
+    "media",
+    "social change",
+    "social media",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 2073,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Ingenious": 75,
+    "Inspiring": 213,
+    "Persuasive": 318,
+    "Unconvincing": 24,
+    "OK": 121,
+    "Courageous": 79,
+    "Obnoxious": 12,
+    "Informative": 265,
+    "Beautiful": 31,
+    "Fascinating": 37,
+    "Funny": 101,
+    "Longwinded": 5,
+    "Jaw-dropping": 1,
+    "Confusing": 2
+  },
+  "slug": "sally_kohn_don_t_like_clickbait_don_t_click",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2285025aeba7becd431cfa04f05c592075491fcd_2400x1800.jpg?quality=89&w=600",
+  "title": "Don't like clickbait? Don't click",
+  "url": "https://www.ted.com/talks/sally_kohn_don_t_like_clickbait_don_t_click",
+  "video": {
+    "low": "http://download.ted.com/talks/SallyKohn_2014S-light.mp4",
+    "medium": "http://download.ted.com/talks/SallyKohn_2014S.mp4",
+    "high": "http://download.ted.com/talks/SallyKohn_2014S-480p.mp4"
+  },
+  "viewCount": 1051413,
+  "year": "2014"
+}

@@ -1,0 +1,50 @@
+{
+  "audio": "http://download.ted.com/talks/BenWellington_2014X.mp3",
+  "author": "Ben Wellington",
+  "dateFilmed": 1414800000,
+  "datePublished": 1424966283,
+  "description": "City agencies have access to a wealth of data and statistics reflecting every part of urban life. But as data analyst Ben Wellington suggests in this entertaining talk, sometimes they just don't know what to do with it. He shows how a combination of unexpected questions and smart data crunching can produce strangely useful insights, and shares tips on how to release large sets of data so that anyone can use them.",
+  "duration": 708,
+  "event": "TEDxNewYork",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/3aa7d5d06bdf47e519b4a154435ca6dd61616570_2880x1620.jpg",
+  "keywords": [
+    "New York",
+    "TEDx",
+    "cities",
+    "data",
+    "infrastructure",
+    "statistics",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 2199,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 269,
+    "Persuasive": 111,
+    "Funny": 42,
+    "Fascinating": 78,
+    "Ingenious": 64,
+    "Inspiring": 90,
+    "OK": 73,
+    "Courageous": 10,
+    "Obnoxious": 3,
+    "Longwinded": 18,
+    "Unconvincing": 11,
+    "Beautiful": 8,
+    "Confusing": 12,
+    "Jaw-dropping": 3
+  },
+  "slug": "ben_wellington_how_we_found_the_worst_place_to_park_in_new_york_city_using_big_data",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/3aa7d5d06bdf47e519b4a154435ca6dd61616570_2880x1620.jpg?quality=89&w=600",
+  "title": "How we found the worst place to park in New York City -- using big data",
+  "url": "https://www.ted.com/talks/ben_wellington_how_we_found_the_worst_place_to_park_in_new_york_city_using_big_data",
+  "video": {
+    "low": "http://download.ted.com/talks/BenWellington_2014X-light.mp4",
+    "medium": "http://download.ted.com/talks/BenWellington_2014X.mp4",
+    "high": "http://download.ted.com/talks/BenWellington_2014X-480p.mp4"
+  },
+  "viewCount": 946477,
+  "year": "2014"
+}

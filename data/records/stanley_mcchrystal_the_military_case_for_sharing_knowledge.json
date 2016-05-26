@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/StanleyMcChrystal_2014U.mp3",
+  "author": "Stanley McChrystal",
+  "dateFilmed": 1395273600,
+  "datePublished": 1399474919,
+  "description": "When General Stanley McChrystal started fighting al Qaeda in 2003, information and secrets were the lifeblood of his operations. But as the unconventional battle waged on, he began to think that the culture of keeping important information classified was misguided and actually counterproductive. In a short but powerful talk McChrystal makes the case for actively sharing knowledge.",
+  "duration": 404,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/9b3d932e6c73c41f74993f08dd23d9f940b5464c_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "collaboration",
+    "iraq",
+    "military",
+    "war"
+  ],
+  "mainLanguage": null,
+  "objectID": 1992,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Inspiring": 113,
+    "Fascinating": 64,
+    "Persuasive": 119,
+    "Informative": 182,
+    "Courageous": 96,
+    "Ingenious": 10,
+    "Unconvincing": 29,
+    "OK": 49,
+    "Confusing": 16,
+    "Funny": 13,
+    "Beautiful": 9,
+    "Jaw-dropping": 4,
+    "Longwinded": 3,
+    "Obnoxious": 6
+  },
+  "slug": "stanley_mcchrystal_the_military_case_for_sharing_knowledge",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/9b3d932e6c73c41f74993f08dd23d9f940b5464c_1600x1200.jpg?quality=89&w=600",
+  "title": "The military case for sharing knowledge",
+  "url": "https://www.ted.com/talks/stanley_mcchrystal_the_military_case_for_sharing_knowledge",
+  "video": {
+    "low": "http://download.ted.com/talks/StanleyMcChrystal_2014U-light.mp4",
+    "medium": "http://download.ted.com/talks/StanleyMcChrystal_2014U.mp4",
+    "high": "http://download.ted.com/talks/StanleyMcChrystal_2014U-480p.mp4"
+  },
+  "viewCount": 949346,
+  "year": "2014"
+}

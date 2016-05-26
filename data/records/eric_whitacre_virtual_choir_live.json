@@ -1,0 +1,51 @@
+{
+  "audio": null,
+  "author": "Eric Whitacre",
+  "dateFilmed": 1362096000,
+  "datePublished": 1363963799,
+  "description": "Composer and conductor Eric Whitacre has inspired millions by bringing together \"virtual choirs,\" singers from many countries spliced together on video. Now, for the first time ever, he creates the experience in real time, as 32 singers from around the world Skype in to join an onstage choir (assembled from three local colleges) for an epic performance of Whitacre's \"Cloudburst,\" based on a poem by Octavio Paz.",
+  "duration": 752,
+  "event": "TED2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7be1cf3682b1b8ed1fa62ae1d1c4654288092025_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "collaboration",
+    "community",
+    "conducting",
+    "entertainment",
+    "live music",
+    "technology",
+    "virtual reality"
+  ],
+  "mainLanguage": null,
+  "objectID": 1697,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 320,
+    "Fascinating": 118,
+    "Ingenious": 86,
+    "Jaw-dropping": 102,
+    "Inspiring": 124,
+    "Obnoxious": 16,
+    "Unconvincing": 16,
+    "Longwinded": 11,
+    "Funny": 5,
+    "OK": 44,
+    "Courageous": 10,
+    "Confusing": 5,
+    "Persuasive": 4,
+    "Informative": 4
+  },
+  "slug": "eric_whitacre_virtual_choir_live",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7be1cf3682b1b8ed1fa62ae1d1c4654288092025_1600x1200.jpg?quality=89&w=600",
+  "title": "Virtual Choir Live",
+  "url": "https://www.ted.com/talks/eric_whitacre_virtual_choir_live",
+  "video": {
+    "low": "http://download.ted.com/talks/EricWhitacre_2013-light.mp4",
+    "medium": "http://download.ted.com/talks/EricWhitacre_2013.mp4",
+    "high": "http://download.ted.com/talks/EricWhitacre_2013-480p.mp4"
+  },
+  "viewCount": 938825,
+  "year": "2013"
+}

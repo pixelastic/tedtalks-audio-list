@@ -1,0 +1,50 @@
+{
+  "audio": "http://download.ted.com/talks/ShaneKoyczan_2013.mp3",
+  "author": "Shane Koyczan",
+  "dateFilmed": 1362009600,
+  "datePublished": 1362758503,
+  "description": "By turn hilarious and haunting, poet Shane Koyczan puts his finger on the pulse of what it's like to be young and … different. \"To This Day,\" his spoken-word poem about bullying, captivated millions as a viral video (created, crowd-source style, by 80 animators). Here, he gives a glorious, live reprise with backstory and violin accompaniment by Hannah Epperson.",
+  "duration": 723,
+  "event": "TED2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/df7b1a3e1fe1b7ad65f630942d9e8c330b4ac9b4_1600x1200.jpg",
+  "keywords": [
+    "bullying",
+    "children",
+    "compassion",
+    "depression",
+    "mental health",
+    "poetry",
+    "spoken word"
+  ],
+  "mainLanguage": null,
+  "objectID": 1687,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Inspiring": 2413,
+    "Courageous": 1546,
+    "Jaw-dropping": 671,
+    "Beautiful": 2034,
+    "Informative": 80,
+    "Fascinating": 221,
+    "Funny": 187,
+    "Persuasive": 168,
+    "OK": 32,
+    "Ingenious": 84,
+    "Longwinded": 17,
+    "Unconvincing": 4,
+    "Confusing": 4,
+    "Obnoxious": 32
+  },
+  "slug": "shane_koyczan_to_this_day_for_the_bullied_and_beautiful",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/df7b1a3e1fe1b7ad65f630942d9e8c330b4ac9b4_1600x1200.jpg?quality=89&w=600",
+  "title": "To This Day ... for the bullied and beautiful",
+  "url": "https://www.ted.com/talks/shane_koyczan_to_this_day_for_the_bullied_and_beautiful",
+  "video": {
+    "low": "http://download.ted.com/talks/ShaneKoyczan_2013-light.mp4",
+    "medium": "http://download.ted.com/talks/ShaneKoyczan_2013.mp4",
+    "high": "http://download.ted.com/talks/ShaneKoyczan_2013-480p.mp4"
+  },
+  "viewCount": 4400537,
+  "year": "2013"
+}

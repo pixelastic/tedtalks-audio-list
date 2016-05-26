@@ -1,0 +1,47 @@
+{
+  "audio": null,
+  "author": "Miguel Nicolelis",
+  "dateFilmed": 1413331200,
+  "datePublished": 1422288314,
+  "description": "You may remember neuroscientist Miguel Nicolelis — he built the brain-controlled exoskeleton that allowed a paralyzed man to kick the first ball of the 2014 World Cup. What’s he working on now? Building ways for two minds (rats and monkeys, for now) to send messages brain to brain. Watch to the end for an experiment that, as he says, will go to \"the limit of your imagination.\"",
+  "duration": 1137,
+  "event": "TEDGlobal 2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2689358c500f6100e9b372d5a88e1c2e53437f2f_2880x1620.jpg",
+  "keywords": [
+    "brain",
+    "communication",
+    "neuroscience"
+  ],
+  "mainLanguage": null,
+  "objectID": 2172,
+  "otherLanguages": {
+    "zh-tw": "Chinese, Traditional"
+  },
+  "ratings": {
+    "Longwinded": 45,
+    "OK": 29,
+    "Inspiring": 445,
+    "Fascinating": 437,
+    "Informative": 233,
+    "Jaw-dropping": 224,
+    "Beautiful": 118,
+    "Ingenious": 175,
+    "Courageous": 46,
+    "Confusing": 8,
+    "Persuasive": 21,
+    "Funny": 13,
+    "Unconvincing": 11,
+    "Obnoxious": 9
+  },
+  "slug": "miguel_nicolelis_brain_to_brain_communication_has_arrived_how_we_did_it",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2689358c500f6100e9b372d5a88e1c2e53437f2f_2880x1620.jpg?quality=89&w=600",
+  "title": "Brain-to-brain communication has arrived. How we did it",
+  "url": "https://www.ted.com/talks/miguel_nicolelis_brain_to_brain_communication_has_arrived_how_we_did_it",
+  "video": {
+    "low": "http://download.ted.com/talks/MiguelNicolelis_2014G-light.mp4",
+    "medium": "http://download.ted.com/talks/MiguelNicolelis_2014G.mp4",
+    "high": "http://download.ted.com/talks/MiguelNicolelis_2014G-480p.mp4"
+  },
+  "viewCount": 1174665,
+  "year": "2014"
+}

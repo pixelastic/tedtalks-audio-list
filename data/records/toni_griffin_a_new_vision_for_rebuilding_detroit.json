@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/ToniGriffin_2013Z.mp3",
+  "author": "Toni Griffin",
+  "dateFilmed": 1381449600,
+  "datePublished": 1387209522,
+  "description": "Once the powerhouse of America's industrial might, Detroit is more recently known in the popular imagination as a fabulous ruin, crumbling and bankrupt. But city planner Toni Griffin asks us to look again -- and to imagine an entrepreneurial future for the city's 700,000 residents.",
+  "duration": 708,
+  "event": "TEDCity2.0",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/f5ebbf91eb093a2da2cfe1941724a3e55d222713_1600x1200.jpg",
+  "keywords": [
+    "business",
+    "cities",
+    "culture",
+    "infrastructure"
+  ],
+  "mainLanguage": null,
+  "objectID": 1892,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "OK": 45,
+    "Longwinded": 16,
+    "Persuasive": 23,
+    "Informative": 74,
+    "Inspiring": 43,
+    "Fascinating": 10,
+    "Unconvincing": 49,
+    "Confusing": 9,
+    "Obnoxious": 11,
+    "Courageous": 24,
+    "Beautiful": 5,
+    "Jaw-dropping": 3,
+    "Ingenious": 4,
+    "Funny": 3
+  },
+  "slug": "toni_griffin_a_new_vision_for_rebuilding_detroit",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/f5ebbf91eb093a2da2cfe1941724a3e55d222713_1600x1200.jpg?quality=89&w=600",
+  "title": "A new vision for rebuilding Detroit",
+  "url": "https://www.ted.com/talks/toni_griffin_a_new_vision_for_rebuilding_detroit",
+  "video": {
+    "low": "http://download.ted.com/talks/ToniGriffin_2013Z-light.mp4",
+    "medium": "http://download.ted.com/talks/ToniGriffin_2013Z.mp4",
+    "high": "http://download.ted.com/talks/ToniGriffin_2013Z-480p.mp4"
+  },
+  "viewCount": 788508,
+  "year": "2013"
+}

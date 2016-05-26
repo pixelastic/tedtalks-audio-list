@@ -1,0 +1,47 @@
+{
+  "audio": null,
+  "author": "Jon Bergmann",
+  "dateFilmed": 1335312000,
+  "datePublished": 1335367442,
+  "description": "Just how small are atoms? Really, really, really small. This fast-paced animation from TED-Ed uses metaphors (imagine a blueberry the size of a football stadium!) to give a visceral sense of just how small atoms are. Lesson by Jon Bergmann, animation by Cognitive Media.",
+  "duration": 328,
+  "event": "TED-Ed",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/3c5676c9e0d2e5e92bc3307f2c394266e1d63b26_800x600.jpg",
+  "keywords": [
+    "TED-Ed",
+    "education",
+    "science"
+  ],
+  "mainLanguage": null,
+  "objectID": 1428,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Fascinating": 385,
+    "Jaw-dropping": 249,
+    "Funny": 173,
+    "OK": 103,
+    "Ingenious": 146,
+    "Informative": 519,
+    "Beautiful": 76,
+    "Inspiring": 73,
+    "Persuasive": 38,
+    "Obnoxious": 22,
+    "Longwinded": 21,
+    "Confusing": 59,
+    "Unconvincing": 17,
+    "Courageous": 11
+  },
+  "slug": "just_how_small_is_an_atom",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/3c5676c9e0d2e5e92bc3307f2c394266e1d63b26_800x600.jpg?quality=89&w=600",
+  "title": "Just how small is an atom?",
+  "url": "https://www.ted.com/talks/just_how_small_is_an_atom",
+  "video": {
+    "youtube": {
+      "id": "yQP4UJhNn0I",
+      "url": "http://ed.ted.com/lessons/just-how-small-is-an-atom"
+    }
+  },
+  "viewCount": 359376,
+  "year": "2012"
+}

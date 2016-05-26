@@ -1,0 +1,51 @@
+{
+  "audio": null,
+  "author": "Bruce McCall",
+  "dateFilmed": 1210550400,
+  "datePublished": 1237424400,
+  "description": "Bruce McCall paints a retro-future that never happened -- full of flying cars, polo-playing tanks and the RMS Tyrannic, \"The Biggest Thing in All the World.\" At Serious Play '08, he narrates a brisk and funny slideshow of his faux-nostalgic art.",
+  "duration": 781,
+  "event": "Serious Play 2008",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/78724_800x600.jpg",
+  "keywords": [
+    "art",
+    "arts",
+    "entertainment",
+    "humor",
+    "media"
+  ],
+  "mainLanguage": null,
+  "objectID": 489,
+  "otherLanguages": {
+    "nl": "Dutch",
+    "pl": "Polish",
+    "pt-br": "Portuguese, Brazilian"
+  },
+  "ratings": {
+    "Funny": 186,
+    "Longwinded": 23,
+    "Obnoxious": 21,
+    "Fascinating": 50,
+    "OK": 89,
+    "Unconvincing": 18,
+    "Inspiring": 52,
+    "Beautiful": 74,
+    "Ingenious": 70,
+    "Informative": 15,
+    "Confusing": 6,
+    "Courageous": 7,
+    "Jaw-dropping": 5,
+    "Persuasive": 0
+  },
+  "slug": "bruce_mccall_s_faux_nostalgia",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/78724_800x600.jpg?quality=89&w=600",
+  "title": "What is retro-futurism?",
+  "url": "https://www.ted.com/talks/bruce_mccall_s_faux_nostalgia",
+  "video": {
+    "low": "http://download.ted.com/talks/BruceMcCall_2008P-light.mp4",
+    "medium": "http://download.ted.com/talks/BruceMcCall_2008P.mp4",
+    "high": "http://download.ted.com/talks/BruceMcCall_2008P-480p.mp4"
+  },
+  "viewCount": 350879,
+  "year": "2008"
+}

@@ -1,0 +1,50 @@
+{
+  "audio": "http://download.ted.com/talks/GuyHoffman_2013X.mp3",
+  "author": "Guy Hoffman",
+  "dateFilmed": 1381795200,
+  "datePublished": 1389976812,
+  "description": "What kind of robots does an animator /  jazz musician / roboticist make? Playful, reactive, curious ones. Guy Hoffman shows demo film of his family of unusual robots -- including two musical bots that like to jam with humans.",
+  "duration": 1058,
+  "event": "TEDxJaffa 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b63f9749fe41465874b0d969b2ffb1ad7e989976_1600x1200.jpg",
+  "keywords": [
+    "AI",
+    "TEDx",
+    "entertainment",
+    "jazz",
+    "music",
+    "robots",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 1908,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Fascinating": 611,
+    "Funny": 228,
+    "Persuasive": 62,
+    "Inspiring": 308,
+    "Jaw-dropping": 147,
+    "Ingenious": 366,
+    "Beautiful": 117,
+    "Informative": 102,
+    "Courageous": 24,
+    "Longwinded": 10,
+    "OK": 41,
+    "Obnoxious": 1,
+    "Unconvincing": 21,
+    "Confusing": 4
+  },
+  "slug": "guy_hoffman_robots_with_soul",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b63f9749fe41465874b0d969b2ffb1ad7e989976_1600x1200.jpg?quality=89&w=600",
+  "title": "Robots with \"soul\"",
+  "url": "https://www.ted.com/talks/guy_hoffman_robots_with_soul",
+  "video": {
+    "low": "http://download.ted.com/talks/GuyHoffman_2013X-light.mp4",
+    "medium": "http://download.ted.com/talks/GuyHoffman_2013X.mp4",
+    "high": "http://download.ted.com/talks/GuyHoffman_2013X-480p.mp4"
+  },
+  "viewCount": 2798985,
+  "year": "2013"
+}

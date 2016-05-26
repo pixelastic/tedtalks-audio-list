@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/RobertWright_2006.mp3",
+  "author": "Robert Wright",
+  "dateFilmed": 1138838400,
+  "datePublished": 1168992660,
+  "description": "Author Robert Wright explains \"non-zero-sumness\" -- the network of linked fortunes and cooperation that has guided our evolution to this point -- and how we can use it to help save humanity today.",
+  "duration": 1151,
+  "event": "TED2006",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/714735a4fcc8eccc6c86beba28fdee415e02628f_2880x1620.jpg",
+  "keywords": [
+    "TED Conference",
+    "cooperation",
+    "culture",
+    "global issues",
+    "war"
+  ],
+  "mainLanguage": null,
+  "objectID": 68,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Funny": 324,
+    "Longwinded": 97,
+    "Ingenious": 111,
+    "Courageous": 130,
+    "Unconvincing": 103,
+    "Confusing": 53,
+    "Beautiful": 26,
+    "Informative": 232,
+    "Inspiring": 313,
+    "Fascinating": 153,
+    "Persuasive": 265,
+    "OK": 116,
+    "Jaw-dropping": 23,
+    "Obnoxious": 34
+  },
+  "slug": "robert_wright_on_optimism",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/714735a4fcc8eccc6c86beba28fdee415e02628f_2880x1620.jpg?quality=89&w=600",
+  "title": "Progress is not a zero-sum game",
+  "url": "https://www.ted.com/talks/robert_wright_on_optimism",
+  "video": {
+    "low": "http://download.ted.com/talks/RobertWright_2006-light.mp4",
+    "medium": "http://download.ted.com/talks/RobertWright_2006.mp4",
+    "high": "http://download.ted.com/talks/RobertWright_2006-480p.mp4"
+  },
+  "viewCount": 850631,
+  "year": "2006"
+}

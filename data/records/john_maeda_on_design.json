@@ -1,0 +1,62 @@
+{
+  "audio": null,
+  "author": "John Maeda",
+  "dateFilmed": 1209945600,
+  "datePublished": 1231218480,
+  "description": "Designer John Maeda talks about his path from a Seattle tofu factory to the Rhode Island School of Design, where he became president in 2008. Maeda, a tireless experimenter and a witty observer, explores the crucial moment when design met computers.",
+  "duration": 1026,
+  "event": "Serious Play 2008",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/52bd7d723ba468873a754d813e34988baaf5cab3_2400x1800.jpg",
+  "keywords": [
+    "arts",
+    "computers",
+    "curiosity",
+    "design",
+    "education",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 427,
+  "otherLanguages": {
+    "ar": "Arabic",
+    "bg": "Bulgarian",
+    "zh-cn": "Chinese, Simplified",
+    "zh-tw": "Chinese, Traditional",
+    "en": "English",
+    "fr": "French",
+    "de": "German",
+    "it": "Italian",
+    "ja": "Japanese",
+    "ko": "Korean",
+    "pt-br": "Portuguese, Brazilian",
+    "es": "Spanish",
+    "tr": "Turkish"
+  },
+  "ratings": {
+    "OK": 56,
+    "Unconvincing": 30,
+    "Longwinded": 57,
+    "Funny": 17,
+    "Informative": 15,
+    "Confusing": 33,
+    "Ingenious": 15,
+    "Obnoxious": 29,
+    "Inspiring": 41,
+    "Fascinating": 16,
+    "Courageous": 8,
+    "Beautiful": 7,
+    "Persuasive": 1,
+    "Jaw-dropping": 0
+  },
+  "slug": "john_maeda_on_design",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/52bd7d723ba468873a754d813e34988baaf5cab3_2400x1800.jpg?quality=89&w=600",
+  "title": "My journey in design",
+  "url": "https://www.ted.com/talks/john_maeda_on_design",
+  "video": {
+    "low": "http://download.ted.com/talks/JohnMaeda_2008P-light.mp4",
+    "medium": "http://download.ted.com/talks/JohnMaeda_2008P.mp4",
+    "high": "http://download.ted.com/talks/JohnMaeda_2008P-480p.mp4"
+  },
+  "viewCount": 222428,
+  "year": "2008"
+}

@@ -1,0 +1,49 @@
+{
+  "audio": "http://download.ted.com/talks/BillyCollins_2014.mp3",
+  "author": "Billy Collins",
+  "dateFilmed": 1395273600,
+  "datePublished": 1403277125,
+  "description": "What must our dogs be thinking when they look at us? Poet Billy Collins imagines the inner lives of two very different companions. It’s a charming short talk, perfect for taking a break and dreaming …",
+  "duration": 242,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/10e95c829dc4b19277199f5df872521cfa0af79f_2400x1800.jpg",
+  "keywords": [
+    "TED Conference",
+    "animals",
+    "creativity",
+    "death",
+    "love",
+    "poetry"
+  ],
+  "mainLanguage": null,
+  "objectID": 2031,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Unconvincing": 33,
+    "OK": 128,
+    "Confusing": 24,
+    "Funny": 324,
+    "Beautiful": 194,
+    "Longwinded": 15,
+    "Ingenious": 92,
+    "Persuasive": 7,
+    "Inspiring": 75,
+    "Fascinating": 52,
+    "Obnoxious": 35,
+    "Courageous": 6,
+    "Jaw-dropping": 5,
+    "Informative": 24
+  },
+  "slug": "billy_collins_two_poems_about_what_dogs_think_probably",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/10e95c829dc4b19277199f5df872521cfa0af79f_2400x1800.jpg?quality=89&w=600",
+  "title": "Two poems about what dogs think (probably)",
+  "url": "https://www.ted.com/talks/billy_collins_two_poems_about_what_dogs_think_probably",
+  "video": {
+    "low": "http://download.ted.com/talks/BillyCollins_2014-light.mp4",
+    "medium": "http://download.ted.com/talks/BillyCollins_2014.mp4",
+    "high": "http://download.ted.com/talks/BillyCollins_2014-480p.mp4"
+  },
+  "viewCount": 1371399,
+  "year": "2014"
+}

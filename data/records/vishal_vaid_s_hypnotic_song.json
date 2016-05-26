@@ -1,0 +1,50 @@
+{
+  "audio": "http://download.ted.com/talks/VishalVaid_2006.mp3",
+  "author": "Vishal Vaid",
+  "dateFilmed": 1139479500,
+  "datePublished": 1252630800,
+  "description": "Vishal Vaid and his band explore a traditional South Asian musical form in this mesmerizing improv performance. Sit back and let his music transport you.",
+  "duration": 814,
+  "event": "TED2006",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/114777_800x600.jpg",
+  "keywords": [
+    "Asia",
+    "TED Conference",
+    "beauty",
+    "culture",
+    "history",
+    "music",
+    "performance"
+  ],
+  "mainLanguage": null,
+  "objectID": 631,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "OK": 68,
+    "Fascinating": 71,
+    "Jaw-dropping": 40,
+    "Beautiful": 169,
+    "Inspiring": 45,
+    "Obnoxious": 101,
+    "Longwinded": 49,
+    "Unconvincing": 51,
+    "Ingenious": 17,
+    "Funny": 10,
+    "Persuasive": 11,
+    "Courageous": 7,
+    "Confusing": 17,
+    "Informative": 0
+  },
+  "slug": "vishal_vaid_s_hypnotic_song",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/114777_800x600.jpg?quality=89&w=600",
+  "title": "Hypnotic South Asian improv music",
+  "url": "https://www.ted.com/talks/vishal_vaid_s_hypnotic_song",
+  "video": {
+    "low": "http://download.ted.com/talks/VishalVaid_2006-light.mp4",
+    "medium": "http://download.ted.com/talks/VishalVaid_2006.mp4",
+    "high": "http://download.ted.com/talks/VishalVaid_2006-480p.mp4"
+  },
+  "viewCount": 386915,
+  "year": "2006"
+}

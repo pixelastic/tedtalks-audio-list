@@ -1,0 +1,46 @@
+{
+  "audio": "http://download.ted.com/talks/AnandVarma_2015.mp3",
+  "author": "Anand Varma",
+  "dateFilmed": 1426636800,
+  "datePublished": 1431357590,
+  "description": "We’ve heard that bees are disappearing. But what is making bee colonies so vulnerable? Photographer Anand Varma raised bees in his backyard — in front of a camera — to get an up close view. This project, for National Geographic, gives a lyrical glimpse into a beehive, and reveals one of the biggest threats to its health, a mite that preys on baby bees in their first 21 days of life. With footage set to music from Rob Moose and the Magik*Magik Orchestra, Varma shows the problem ... and what’s being done to solve it. (This talk was part of a session at TED2015 guest-curated by Pop-Up Magazine: popupmagazine.com or @popupmag on Twitter.)",
+  "duration": 366,
+  "event": "TED2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2b3dff7f7dffeb2228830bacdf591ac5cfdddc9b_2880x1620.jpg",
+  "keywords": [
+    "bees",
+    "nature",
+    "photography"
+  ],
+  "mainLanguage": null,
+  "objectID": 2249,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 299,
+    "Informative": 404,
+    "Fascinating": 367,
+    "Ingenious": 53,
+    "Persuasive": 68,
+    "Inspiring": 90,
+    "OK": 88,
+    "Confusing": 7,
+    "Unconvincing": 16,
+    "Jaw-dropping": 28,
+    "Courageous": 7,
+    "Funny": 10,
+    "Longwinded": 3,
+    "Obnoxious": 6
+  },
+  "slug": "anand_varma_a_thrilling_look_at_the_first_21_days_of_a_bee_s_life",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2b3dff7f7dffeb2228830bacdf591ac5cfdddc9b_2880x1620.jpg?quality=89&w=600",
+  "title": "The first 21 days of a bee’s life",
+  "url": "https://www.ted.com/talks/anand_varma_a_thrilling_look_at_the_first_21_days_of_a_bee_s_life",
+  "video": {
+    "low": "http://download.ted.com/talks/AnandVarma_2015-light.mp4",
+    "medium": "http://download.ted.com/talks/AnandVarma_2015.mp4",
+    "high": "http://download.ted.com/talks/AnandVarma_2015-480p.mp4"
+  },
+  "viewCount": 1995154,
+  "year": "2015"
+}

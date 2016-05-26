@@ -1,0 +1,48 @@
+{
+  "audio": null,
+  "author": "Kirk Sorensen",
+  "dateFilmed": 1301616000,
+  "datePublished": 1326553300,
+  "description": "Kirk Sorensen shows us the liquid fuel thorium reactor -- a way to produce energy that is safer, cleaner and more efficient than current nuclear power. ",
+  "duration": 603,
+  "event": "TEDxYYC",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/545e9642642e25075681fb3c5b2c94c401b22740_800x600.jpg",
+  "keywords": [
+    "TEDx",
+    "alternative energy",
+    "nuclear energy",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 1324,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Fascinating": 322,
+    "Persuasive": 343,
+    "Ingenious": 254,
+    "Inspiring": 220,
+    "Informative": 454,
+    "OK": 30,
+    "Longwinded": 6,
+    "Jaw-dropping": 269,
+    "Confusing": 11,
+    "Unconvincing": 28,
+    "Courageous": 29,
+    "Obnoxious": 6,
+    "Beautiful": 6,
+    "Funny": 1
+  },
+  "slug": "kirk_sorensen_thorium_an_alternative_nuclear_fuel",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/545e9642642e25075681fb3c5b2c94c401b22740_800x600.jpg?quality=89&w=600",
+  "title": "Thorium, an alternative nuclear fuel",
+  "url": "https://www.ted.com/talks/kirk_sorensen_thorium_an_alternative_nuclear_fuel",
+  "video": {
+    "youtube": {
+      "id": "N2vzotsvvkw",
+      "url": "http://www.ted.com/tedx/events/1413"
+    }
+  },
+  "viewCount": 343987,
+  "year": "2011"
+}

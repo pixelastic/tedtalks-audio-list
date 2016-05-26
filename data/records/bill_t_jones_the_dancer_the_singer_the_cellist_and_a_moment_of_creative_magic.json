@@ -1,0 +1,49 @@
+{
+  "audio": null,
+  "author": "Bill T. Jones",
+  "dateFilmed": 1426636800,
+  "datePublished": 1430925284,
+  "description": "Legendary dance choreographer Bill T. Jones and TED Fellows Joshua Roman and Somi didn't know exactly what was going to happen when they took the stage at TED2015. They just knew they wanted to offer the audience an opportunity to witness creative collaboration in action. The result: An improvised piece they call \"The Red Circle and the Blue Curtain,\" so extraordinary it had to be shared ...",
+  "duration": 386,
+  "event": "TED2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/d8e551a456c32dfd2ba43b2c29135c246e7c5e74_2880x1620.jpg",
+  "keywords": [
+    "TED Fellows",
+    "dance",
+    "entertainment",
+    "live music",
+    "music",
+    "performance"
+  ],
+  "mainLanguage": null,
+  "objectID": 2242,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 734,
+    "OK": 96,
+    "Ingenious": 93,
+    "Fascinating": 194,
+    "Inspiring": 230,
+    "Jaw-dropping": 31,
+    "Funny": 21,
+    "Longwinded": 11,
+    "Unconvincing": 24,
+    "Confusing": 47,
+    "Persuasive": 10,
+    "Courageous": 27,
+    "Obnoxious": 18,
+    "Informative": 3
+  },
+  "slug": "bill_t_jones_the_dancer_the_singer_the_cellist_and_a_moment_of_creative_magic",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/d8e551a456c32dfd2ba43b2c29135c246e7c5e74_2880x1620.jpg?quality=89&w=600",
+  "title": "The dancer, the singer, the cellist ... and a moment of creative magic",
+  "url": "https://www.ted.com/talks/bill_t_jones_the_dancer_the_singer_the_cellist_and_a_moment_of_creative_magic",
+  "video": {
+    "low": "http://download.ted.com/talks/BillTJones_2015-light.mp4",
+    "medium": "http://download.ted.com/talks/BillTJones_2015.mp4",
+    "high": "http://download.ted.com/talks/BillTJones_2015-480p.mp4"
+  },
+  "viewCount": 1127868,
+  "year": "2015"
+}

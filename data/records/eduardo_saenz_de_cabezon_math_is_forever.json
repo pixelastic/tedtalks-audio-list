@@ -1,0 +1,46 @@
+{
+  "audio": null,
+  "author": "Eduardo Sáenz de Cabezón",
+  "dateFilmed": 1412121600,
+  "datePublished": 1428421985,
+  "description": "With humor and charm, mathematician Eduardo Sáenz de Cabezón answers a question that’s wracked the brains of bored students the world over: What is math for? He shows the beauty of math as the backbone of science — and shows that theorems, not diamonds, are forever. In Spanish, with English subtitles.",
+  "duration": 581,
+  "event": "TEDxRiodelaPlata",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2d581c7373812177a05cfb1b07464ae3e80f9c67_2880x1620.jpg",
+  "keywords": [
+    "TEDx",
+    "humor",
+    "math"
+  ],
+  "mainLanguage": null,
+  "objectID": 2186,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 267,
+    "Ingenious": 241,
+    "Inspiring": 286,
+    "Funny": 548,
+    "OK": 64,
+    "Confusing": 13,
+    "Fascinating": 235,
+    "Beautiful": 155,
+    "Persuasive": 62,
+    "Unconvincing": 7,
+    "Jaw-dropping": 19,
+    "Longwinded": 1,
+    "Obnoxious": 2,
+    "Courageous": 7
+  },
+  "slug": "eduardo_saenz_de_cabezon_math_is_forever",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2d581c7373812177a05cfb1b07464ae3e80f9c67_2880x1620.jpg?quality=89&w=600",
+  "title": "Math is forever",
+  "url": "https://www.ted.com/talks/eduardo_saenz_de_cabezon_math_is_forever",
+  "video": {
+    "low": "http://download.ted.com/talks/EduardoSaenzdeCabezon_2014X-light.mp4",
+    "medium": "http://download.ted.com/talks/EduardoSaenzdeCabezon_2014X.mp4",
+    "high": "http://download.ted.com/talks/EduardoSaenzdeCabezon_2014X-480p.mp4"
+  },
+  "viewCount": 1329672,
+  "year": "2014"
+}

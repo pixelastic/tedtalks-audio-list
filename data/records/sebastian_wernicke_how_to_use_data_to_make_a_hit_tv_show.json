@@ -1,0 +1,61 @@
+{
+  "audio": "http://download.ted.com/talks/SebastianWernicke_2015X.mp3",
+  "author": "Sebastian Wernicke",
+  "dateFilmed": 1434585600,
+  "datePublished": 1452009658,
+  "description": "Does collecting more data lead to better decision-making? Competitive, data-savvy companies like Amazon, Google and Netflix have learned that data analysis alone doesn't always produce optimum results. In this talk, data scientist Sebastian Wernicke breaks down what goes wrong when we make decisions based purely on data -- and suggests a brainier way to use it.",
+  "duration": 745,
+  "event": "TEDxCambridge",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/9447af46e476fc16f72c2b583db397f73f82a803_2880x1620.jpg",
+  "keywords": [
+    "TEDx",
+    "algorithm",
+    "brain",
+    "data",
+    "decision-making",
+    "intelligence",
+    "media",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 2403,
+  "otherLanguages": {
+    "en": "English",
+    "de": "German",
+    "he": "Hebrew",
+    "ko": "Korean",
+    "pt": "Portuguese",
+    "pt-br": "Portuguese, Brazilian",
+    "ro": "Romanian",
+    "ru": "Russian",
+    "sr": "Serbian",
+    "vi": "Vietnamese"
+  },
+  "ratings": {
+    "Funny": 69,
+    "Informative": 355,
+    "Fascinating": 154,
+    "Unconvincing": 47,
+    "Beautiful": 25,
+    "OK": 82,
+    "Persuasive": 94,
+    "Inspiring": 121,
+    "Confusing": 14,
+    "Longwinded": 25,
+    "Courageous": 16,
+    "Ingenious": 23,
+    "Jaw-dropping": 5,
+    "Obnoxious": 3
+  },
+  "slug": "sebastian_wernicke_how_to_use_data_to_make_a_hit_tv_show",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/9447af46e476fc16f72c2b583db397f73f82a803_2880x1620.jpg?quality=89&w=600",
+  "title": "How to use data to make a hit TV show",
+  "url": "https://www.ted.com/talks/sebastian_wernicke_how_to_use_data_to_make_a_hit_tv_show",
+  "video": {
+    "low": "http://download.ted.com/talks/SebastianWernicke_2015X-light.mp4",
+    "medium": "http://download.ted.com/talks/SebastianWernicke_2015X.mp4",
+    "high": "http://download.ted.com/talks/SebastianWernicke_2015X-480p.mp4"
+  },
+  "viewCount": 1291451,
+  "year": "2015"
+}

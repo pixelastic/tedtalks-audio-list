@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/MarcKushner_2014.mp3",
+  "author": "Marc Kushner",
+  "dateFilmed": 1394409600,
+  "datePublished": 1425999739,
+  "description": "\"Architecture is not about math or zoning -- it's about visceral emotions,\" says Marc Kushner. In a sweeping — often funny — talk, he zooms through the past thirty years of architecture to show how the public, once disconnected, have become an essential part of the design process. With the help of social media, feedback reaches architects years before a building is even created. The result? Architecture that will do more for us than ever before.",
+  "duration": 1085,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/6c23c76e0033cdaf2c6c3c8d3c563fff0b4c58c5_2880x1620.jpg",
+  "keywords": [
+    "TED Books",
+    "architecture",
+    "design",
+    "social media"
+  ],
+  "mainLanguage": null,
+  "objectID": 2183,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 384,
+    "Fascinating": 450,
+    "Ingenious": 206,
+    "Inspiring": 593,
+    "Informative": 373,
+    "Longwinded": 46,
+    "Persuasive": 179,
+    "Funny": 65,
+    "Courageous": 39,
+    "Unconvincing": 60,
+    "OK": 111,
+    "Obnoxious": 21,
+    "Jaw-dropping": 28,
+    "Confusing": 18
+  },
+  "slug": "marc_kushner_why_the_buildings_of_the_future_will_be_shaped_by_you",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/6c23c76e0033cdaf2c6c3c8d3c563fff0b4c58c5_2880x1620.jpg?quality=89&w=600",
+  "title": "Why the buildings of the future will be shaped by ... you",
+  "url": "https://www.ted.com/talks/marc_kushner_why_the_buildings_of_the_future_will_be_shaped_by_you",
+  "video": {
+    "low": "http://download.ted.com/talks/MarcKushner_2014-light.mp4",
+    "medium": "http://download.ted.com/talks/MarcKushner_2014.mp4",
+    "high": "http://download.ted.com/talks/MarcKushner_2014-480p.mp4"
+  },
+  "viewCount": 1852229,
+  "year": "2014"
+}

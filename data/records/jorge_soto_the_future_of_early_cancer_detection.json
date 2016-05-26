@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/JorgeSoto_2014G.mp3",
+  "author": "Jorge Soto",
+  "dateFilmed": 1412812800,
+  "datePublished": 1413385776,
+  "description": "Along with a crew of technologists and scientists, Jorge Soto is developing a simple, noninvasive, open-source test that looks for early signs of multiple forms of cancer. Onstage at TEDGlobal 2014, he demonstrates a working prototype of the mobile platform for the first time.",
+  "duration": 677,
+  "event": "TEDGlobal 2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8fa38dd829fc3389ce6fb883825d838f53e3dec5_2880x1620.jpg",
+  "keywords": [
+    "biotech",
+    "cancer",
+    "health",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 2109,
+  "otherLanguages": {
+    "zh-tw": "Chinese, Traditional"
+  },
+  "ratings": {
+    "Inspiring": 804,
+    "Informative": 487,
+    "Ingenious": 587,
+    "Persuasive": 83,
+    "Fascinating": 442,
+    "Jaw-dropping": 263,
+    "OK": 39,
+    "Courageous": 58,
+    "Beautiful": 57,
+    "Longwinded": 1,
+    "Funny": 14,
+    "Unconvincing": 6,
+    "Obnoxious": 2,
+    "Confusing": 6
+  },
+  "slug": "jorge_soto_the_future_of_early_cancer_detection",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8fa38dd829fc3389ce6fb883825d838f53e3dec5_2880x1620.jpg?quality=89&w=600",
+  "title": "The future of early cancer detection?",
+  "url": "https://www.ted.com/talks/jorge_soto_the_future_of_early_cancer_detection",
+  "video": {
+    "low": "http://download.ted.com/talks/JorgeSoto_2014G-light.mp4",
+    "medium": "http://download.ted.com/talks/JorgeSoto_2014G.mp4",
+    "high": "http://download.ted.com/talks/JorgeSoto_2014G-480p.mp4"
+  },
+  "viewCount": 1126148,
+  "year": "2014"
+}

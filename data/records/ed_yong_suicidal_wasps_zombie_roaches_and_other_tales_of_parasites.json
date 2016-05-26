@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/EdYong_2014.mp3",
+  "author": "Ed Yong",
+  "dateFilmed": 1395273600,
+  "datePublished": 1395846329,
+  "description": "In this fascinating, hilarious and ever-so-slightly creepy talk, science writer Ed Yong tells the story of his favorite parasites -- animals and organisms that live on the bodies (and brains!) of other organisms, causing them to do their bidding. Do humans have them too? Maybe ...",
+  "duration": 794,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/4167f2a3758ebb6aa58c3ddedb86c3d2ae237301_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "biology",
+    "microbiology",
+    "science"
+  ],
+  "mainLanguage": null,
+  "objectID": 1955,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "OK": 119,
+    "Ingenious": 244,
+    "Fascinating": 1699,
+    "Jaw-dropping": 397,
+    "Informative": 938,
+    "Funny": 886,
+    "Persuasive": 95,
+    "Beautiful": 72,
+    "Inspiring": 145,
+    "Unconvincing": 6,
+    "Longwinded": 5,
+    "Courageous": 14,
+    "Confusing": 9,
+    "Obnoxious": 8
+  },
+  "slug": "ed_yong_suicidal_wasps_zombie_roaches_and_other_tales_of_parasites",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/4167f2a3758ebb6aa58c3ddedb86c3d2ae237301_1600x1200.jpg?quality=89&w=600",
+  "title": "Zombie roaches and other parasite tales",
+  "url": "https://www.ted.com/talks/ed_yong_suicidal_wasps_zombie_roaches_and_other_tales_of_parasites",
+  "video": {
+    "low": "http://download.ted.com/talks/EdYong_2014-light.mp4",
+    "medium": "http://download.ted.com/talks/EdYong_2014.mp4",
+    "high": "http://download.ted.com/talks/EdYong_2014-480p.mp4"
+  },
+  "viewCount": 1413090,
+  "year": "2014"
+}

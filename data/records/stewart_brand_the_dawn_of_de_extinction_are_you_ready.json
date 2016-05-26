@@ -1,0 +1,49 @@
+{
+  "audio": "http://download.ted.com/talks/StewartBrand_2013.mp3",
+  "author": "Stewart Brand",
+  "dateFilmed": 1361836800,
+  "datePublished": 1363187248,
+  "description": "Throughout humankind's history, we've driven species after species extinct: the passenger pigeon, the Eastern cougar, the dodo ... But now, says Stewart Brand, we have the technology (and the biology) to bring back species that humanity wiped out. So -- should we? Which ones? He asks a big question whose answer is closer than you may think.",
+  "duration": 1104,
+  "event": "TED2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e187add1da7598f6728b2d2ecbe932c287da30e3_1600x1200.jpg",
+  "keywords": [
+    "TED Brain Trust",
+    "TED Conference",
+    "biology",
+    "deextinction",
+    "philosophy",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 1690,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 231,
+    "OK": 17,
+    "Fascinating": 301,
+    "Ingenious": 113,
+    "Courageous": 49,
+    "Persuasive": 61,
+    "Inspiring": 174,
+    "Longwinded": 5,
+    "Confusing": 5,
+    "Obnoxious": 8,
+    "Beautiful": 43,
+    "Unconvincing": 24,
+    "Jaw-dropping": 176,
+    "Funny": 0
+  },
+  "slug": "stewart_brand_the_dawn_of_de_extinction_are_you_ready",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e187add1da7598f6728b2d2ecbe932c287da30e3_1600x1200.jpg?quality=89&w=600",
+  "title": "The dawn of de-extinction. Are you ready?",
+  "url": "https://www.ted.com/talks/stewart_brand_the_dawn_of_de_extinction_are_you_ready",
+  "video": {
+    "low": "http://download.ted.com/talks/StewartBrand_2013-light.mp4",
+    "medium": "http://download.ted.com/talks/StewartBrand_2013.mp4",
+    "high": "http://download.ted.com/talks/StewartBrand_2013-480p.mp4"
+  },
+  "viewCount": 1771831,
+  "year": "2013"
+}

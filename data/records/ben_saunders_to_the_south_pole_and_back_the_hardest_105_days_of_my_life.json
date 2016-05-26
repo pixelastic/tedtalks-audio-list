@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/BenSaunders_2014.mp3",
+  "author": "Ben Saunders",
+  "dateFilmed": 1395273600,
+  "datePublished": 1417534901,
+  "description": "This year, explorer Ben Saunders attempted his most ambitious trek yet. He set out to complete Captain Robert Falcon Scott’s failed 1912 polar expedition — a four-month, 1,800-mile round trip journey from the edge of Antarctica to the South Pole and back. In the first talk given after his adventure, just five weeks after his return, Saunders offers a raw, honest look at this “hubris”-tinged mission that brought him to the most difficult decision of his life.",
+  "duration": 1024,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/19acb8a01d4b356a1f793c4767f945d5767c4341_2880x1620.jpg",
+  "keywords": [
+    "adventure",
+    "exploration",
+    "extreme sports",
+    "personal growth",
+    "potential"
+  ],
+  "mainLanguage": null,
+  "objectID": 2143,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 94,
+    "Courageous": 158,
+    "Fascinating": 127,
+    "Inspiring": 212,
+    "Longwinded": 10,
+    "OK": 28,
+    "Jaw-dropping": 41,
+    "Informative": 32,
+    "Funny": 21,
+    "Persuasive": 3,
+    "Obnoxious": 4,
+    "Ingenious": 3,
+    "Confusing": 1,
+    "Unconvincing": 1
+  },
+  "slug": "ben_saunders_to_the_south_pole_and_back_the_hardest_105_days_of_my_life",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/19acb8a01d4b356a1f793c4767f945d5767c4341_2880x1620.jpg?quality=89&w=600",
+  "title": "To the South Pole and back — the hardest 105 days of my life",
+  "url": "https://www.ted.com/talks/ben_saunders_to_the_south_pole_and_back_the_hardest_105_days_of_my_life",
+  "video": {
+    "low": "http://download.ted.com/talks/BenSaunders_2014-light.mp4",
+    "medium": "http://download.ted.com/talks/BenSaunders_2014.mp4",
+    "high": "http://download.ted.com/talks/BenSaunders_2014-480p.mp4"
+  },
+  "viewCount": 957852,
+  "year": "2014"
+}

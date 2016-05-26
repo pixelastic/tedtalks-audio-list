@@ -1,0 +1,52 @@
+{
+  "audio": "http://download.ted.com/talks/NateSilver_2009A.mp3",
+  "author": "Nate Silver",
+  "dateFilmed": 1233964800,
+  "datePublished": 1240362000,
+  "description": "Nate Silver has data that answers big questions about race in politics. For instance, in the 2008 presidential race, did Obama's skin color actually keep him from getting votes in some parts of the country? Stats and myths collide in this fascinating talk that ends with a remarkable insight.",
+  "duration": 556,
+  "event": "TED2009",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/85136_800x600.jpg",
+  "keywords": [
+    "TED Conference",
+    "cities",
+    "politics",
+    "race",
+    "statistics",
+    "urban planning"
+  ],
+  "mainLanguage": null,
+  "objectID": 521,
+  "otherLanguages": {
+    "bg": "Bulgarian",
+    "zh-cn": "Chinese, Simplified",
+    "pt-br": "Portuguese, Brazilian"
+  },
+  "ratings": {
+    "Unconvincing": 124,
+    "OK": 76,
+    "Longwinded": 18,
+    "Informative": 231,
+    "Courageous": 35,
+    "Fascinating": 77,
+    "Persuasive": 111,
+    "Inspiring": 23,
+    "Ingenious": 18,
+    "Obnoxious": 59,
+    "Confusing": 24,
+    "Funny": 5,
+    "Beautiful": 2,
+    "Jaw-dropping": 3
+  },
+  "slug": "nate_silver_on_race_and_politics",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/85136_800x600.jpg?quality=89&w=600",
+  "title": "Does racism affect how you vote?",
+  "url": "https://www.ted.com/talks/nate_silver_on_race_and_politics",
+  "video": {
+    "low": "http://download.ted.com/talks/NateSilver_2009A-light.mp4",
+    "medium": "http://download.ted.com/talks/NateSilver_2009A.mp4",
+    "high": "http://download.ted.com/talks/NateSilver_2009A-480p.mp4"
+  },
+  "viewCount": 386658,
+  "year": "2009"
+}

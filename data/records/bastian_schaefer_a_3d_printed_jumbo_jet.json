@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/BastianSchaefer_2013G.mp3",
+  "author": "Bastian Schaefer",
+  "dateFilmed": 1370822400,
+  "datePublished": 1375113177,
+  "description": "Designer Bastian Schaefer shows off a speculative design for the future of jet planes, with a skeleton inspired by strong, flexible, natural forms and by the needs of the world's, ahem, growing population. Imagine an airplane that's full of light and space -- and built up from generative parts in a 3D printer.",
+  "duration": 358,
+  "event": "TEDGlobal 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/386796f272177f3abd8794c96e044cef9f99779c_1600x1200.jpg",
+  "keywords": [
+    "design",
+    "flight",
+    "industrial design",
+    "transportation"
+  ],
+  "mainLanguage": null,
+  "objectID": 1798,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Unconvincing": 106,
+    "Beautiful": 36,
+    "Inspiring": 95,
+    "OK": 64,
+    "Fascinating": 115,
+    "Ingenious": 73,
+    "Courageous": 12,
+    "Informative": 71,
+    "Persuasive": 19,
+    "Longwinded": 9,
+    "Obnoxious": 9,
+    "Confusing": 14,
+    "Jaw-dropping": 20,
+    "Funny": 4
+  },
+  "slug": "bastian_schaefer_a_3d_printed_jumbo_jet",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/386796f272177f3abd8794c96e044cef9f99779c_1600x1200.jpg?quality=89&w=600",
+  "title": "A 3D-printed jumbo jet?",
+  "url": "https://www.ted.com/talks/bastian_schaefer_a_3d_printed_jumbo_jet",
+  "video": {
+    "low": "http://download.ted.com/talks/BastianSchaefer_2013G-light.mp4",
+    "medium": "http://download.ted.com/talks/BastianSchaefer_2013G.mp4",
+    "high": "http://download.ted.com/talks/BastianSchaefer_2013G-480p.mp4"
+  },
+  "viewCount": 1052739,
+  "year": "2013"
+}

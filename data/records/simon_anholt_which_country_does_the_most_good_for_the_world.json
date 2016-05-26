@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/SimonAnholt_2014S.mp3",
+  "author": "Simon Anholt",
+  "dateFilmed": 1403481600,
+  "datePublished": 1404313134,
+  "description": "It's an unexpected side effect of globalization: problems that once would have stayed local—say, a bank lending out too much money—now have consequences worldwide. But still, countries operate independently, as if alone on the planet. Policy advisor Simon Anholt has dreamed up an unusual scale to get governments thinking outwardly: The Good Country Index. In a riveting and funny talk, he answers the question, \"Which country does the most good?\" The answer may surprise you (especially if you live in the US or China).\r\n",
+  "duration": 1074,
+  "event": "TEDSalon Berlin 2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e960b23ccb1772403a5cfe928bd74908c6dd413c_2400x1800.jpg",
+  "keywords": [
+    "Foreign Policy",
+    "global issues",
+    "government",
+    "policy",
+    "statistics"
+  ],
+  "mainLanguage": null,
+  "objectID": 2036,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Unconvincing": 222,
+    "OK": 238,
+    "Informative": 1217,
+    "Inspiring": 6121,
+    "Fascinating": 1011,
+    "Longwinded": 83,
+    "Obnoxious": 62,
+    "Persuasive": 803,
+    "Confusing": 41,
+    "Beautiful": 3667,
+    "Courageous": 352,
+    "Ingenious": 300,
+    "Jaw-dropping": 394,
+    "Funny": 111
+  },
+  "slug": "simon_anholt_which_country_does_the_most_good_for_the_world",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e960b23ccb1772403a5cfe928bd74908c6dd413c_2400x1800.jpg?quality=89&w=600",
+  "title": "Which country does the most good for the world?",
+  "url": "https://www.ted.com/talks/simon_anholt_which_country_does_the_most_good_for_the_world",
+  "video": {
+    "low": "http://download.ted.com/talks/SimonAnholt_2014S-light.mp4",
+    "medium": "http://download.ted.com/talks/SimonAnholt_2014S.mp4",
+    "high": "http://download.ted.com/talks/SimonAnholt_2014S-480p.mp4"
+  },
+  "viewCount": 2339512,
+  "year": "2014"
+}

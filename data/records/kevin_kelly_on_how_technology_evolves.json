@@ -1,0 +1,58 @@
+{
+  "audio": "http://download.ted.com/talks/KevinKelly_2005.mp3",
+  "author": "Kevin Kelly",
+  "dateFilmed": 1109203200,
+  "datePublished": 1163463060,
+  "description": "Tech enthusiast Kevin Kelly asks \"What does technology want?\" and discovers that its movement toward ubiquity and complexity is much like the evolution of life.",
+  "duration": 1200,
+  "event": "TED2005",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7ddac8199e485dc8fe198d34b726f76680e7b86e_2880x1620.jpg",
+  "keywords": [
+    "TED Conference",
+    "choice",
+    "culture",
+    "evolution",
+    "future",
+    "history",
+    "philosophy",
+    "science",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 19,
+  "otherLanguages": {
+    "en": "English",
+    "de": "German",
+    "it": "Italian",
+    "pl": "Polish",
+    "pt-br": "Portuguese, Brazilian",
+    "vi": "Vietnamese"
+  },
+  "ratings": {
+    "Ingenious": 163,
+    "Informative": 233,
+    "Beautiful": 41,
+    "Funny": 8,
+    "Confusing": 82,
+    "Longwinded": 145,
+    "Unconvincing": 135,
+    "Inspiring": 243,
+    "Fascinating": 290,
+    "Courageous": 30,
+    "Persuasive": 1066,
+    "OK": 108,
+    "Jaw-dropping": 45,
+    "Obnoxious": 23
+  },
+  "slug": "kevin_kelly_on_how_technology_evolves",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7ddac8199e485dc8fe198d34b726f76680e7b86e_2880x1620.jpg?quality=89&w=600",
+  "title": "How technology evolves",
+  "url": "https://www.ted.com/talks/kevin_kelly_on_how_technology_evolves",
+  "video": {
+    "low": "http://download.ted.com/talks/KevinKelly_2005-light.mp4",
+    "medium": "http://download.ted.com/talks/KevinKelly_2005.mp4",
+    "high": "http://download.ted.com/talks/KevinKelly_2005-480p.mp4"
+  },
+  "viewCount": 1211689,
+  "year": "2005"
+}

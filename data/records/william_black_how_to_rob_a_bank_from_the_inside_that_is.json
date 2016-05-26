@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/WilliamBlack_2013X.mp3",
+  "author": "William Black",
+  "dateFilmed": 1378684800,
+  "datePublished": 1399906710,
+  "description": "William Black is a former bank regulator who’s seen firsthand how banking systems can be used to commit fraud — and how “liar's loans” and other tricky tactics led to the 2008 US banking crisis that threatened the international economy. In this engaging talk, Black, now an academic, reveals the best way to rob a bank — from the inside.",
+  "duration": 1128,
+  "event": "TEDxUMKC",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/84912a944ae9b8448e5a7b2ffa5013d69ee27a34_1600x1200.jpg",
+  "keywords": [
+    "TEDx",
+    "business",
+    "crime",
+    "finance",
+    "law"
+  ],
+  "mainLanguage": null,
+  "objectID": 1996,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Ingenious": 69,
+    "Informative": 495,
+    "Persuasive": 263,
+    "Jaw-dropping": 160,
+    "Fascinating": 154,
+    "Inspiring": 62,
+    "OK": 66,
+    "Courageous": 145,
+    "Longwinded": 33,
+    "Confusing": 13,
+    "Unconvincing": 17,
+    "Funny": 14,
+    "Beautiful": 11,
+    "Obnoxious": 6
+  },
+  "slug": "william_black_how_to_rob_a_bank_from_the_inside_that_is",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/84912a944ae9b8448e5a7b2ffa5013d69ee27a34_1600x1200.jpg?quality=89&w=600",
+  "title": "How to rob a bank (from the inside, that is)",
+  "url": "https://www.ted.com/talks/william_black_how_to_rob_a_bank_from_the_inside_that_is",
+  "video": {
+    "low": "http://download.ted.com/talks/WilliamBlack_2013X-light.mp4",
+    "medium": "http://download.ted.com/talks/WilliamBlack_2013X.mp4",
+    "high": "http://download.ted.com/talks/WilliamBlack_2013X-480p.mp4"
+  },
+  "viewCount": 1413870,
+  "year": "2013"
+}

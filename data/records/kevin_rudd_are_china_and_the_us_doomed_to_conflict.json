@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/KevinRudd_2015.mp3",
+  "author": "Kevin Rudd",
+  "dateFilmed": 1426464000,
+  "datePublished": 1427900338,
+  "description": "The former prime minister of Australia, Kevin Rudd is also a longtime student of China, with a unique vantage point to watch its power rise in the past few decades. He asks whether the growing ambition of China will inevitably lead to conflict with other major powers -- and suggests another narrative.",
+  "duration": 1201,
+  "event": "TED2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/3193bc935b5aefa5d9310cecc4a78554fe0a76b2_2880x1620.jpg",
+  "keywords": [
+    "Asia",
+    "United States",
+    "china",
+    "politics"
+  ],
+  "mainLanguage": null,
+  "objectID": 2226,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Courageous": 142,
+    "Informative": 323,
+    "Inspiring": 292,
+    "Fascinating": 106,
+    "Persuasive": 163,
+    "Longwinded": 33,
+    "Unconvincing": 30,
+    "Jaw-dropping": 12,
+    "OK": 80,
+    "Funny": 37,
+    "Ingenious": 10,
+    "Beautiful": 36,
+    "Obnoxious": 26,
+    "Confusing": 10
+  },
+  "slug": "kevin_rudd_are_china_and_the_us_doomed_to_conflict",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/3193bc935b5aefa5d9310cecc4a78554fe0a76b2_2880x1620.jpg?quality=89&w=600",
+  "title": "Are China and the US doomed to conflict?",
+  "url": "https://www.ted.com/talks/kevin_rudd_are_china_and_the_us_doomed_to_conflict",
+  "video": {
+    "low": "http://download.ted.com/talks/KevinRudd_2015-light.mp4",
+    "medium": "http://download.ted.com/talks/KevinRudd_2015.mp4",
+    "high": "http://download.ted.com/talks/KevinRudd_2015-480p.mp4"
+  },
+  "viewCount": 1345398,
+  "year": "2015"
+}

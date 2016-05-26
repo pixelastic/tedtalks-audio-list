@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/HenryEvans_2013X.mp3",
+  "author": "Henry Evans and Chad Jenkins",
+  "dateFilmed": 1382745600,
+  "datePublished": 1384964950,
+  "description": "Paralyzed by a stroke, Henry Evans uses a telepresence robot to take the stage -- and show how new robotics, tweaked and personalized by a group called Robots for Humanity, help him live his life. He shows off a nimble little quadrotor drone, created by a team led by Chad Jenkins, that gives him the ability to navigate space -- to once again look around a garden, stroll a campus …  (Filmed at TEDxMidAtlantic.)",
+  "duration": 621,
+  "event": "TEDxMidAtlantic",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/606ddad42a977bc81fcc3f2ba033bc4706e584ca_1600x1200.jpg",
+  "keywords": [
+    "TEDx",
+    "culture",
+    "disability",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 1875,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Ingenious": 104,
+    "Inspiring": 310,
+    "Fascinating": 143,
+    "Courageous": 113,
+    "Beautiful": 65,
+    "Jaw-dropping": 112,
+    "Informative": 55,
+    "Persuasive": 24,
+    "Funny": 27,
+    "Obnoxious": 6,
+    "OK": 10,
+    "Longwinded": 5,
+    "Unconvincing": 3,
+    "Confusing": 3
+  },
+  "slug": "henry_evans_and_chad_jenkins_meet_the_robots_for_humanity",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/606ddad42a977bc81fcc3f2ba033bc4706e584ca_1600x1200.jpg?quality=89&w=600",
+  "title": "Meet the robots for humanity",
+  "url": "https://www.ted.com/talks/henry_evans_and_chad_jenkins_meet_the_robots_for_humanity",
+  "video": {
+    "low": "http://download.ted.com/talks/HenryEvans_2013X-light.mp4",
+    "medium": "http://download.ted.com/talks/HenryEvans_2013X.mp4",
+    "high": "http://download.ted.com/talks/HenryEvans_2013X-480p.mp4"
+  },
+  "viewCount": 1164958,
+  "year": "2013"
+}

@@ -1,0 +1,46 @@
+{
+  "audio": null,
+  "author": "TED staff",
+  "dateFilmed": 1396310400,
+  "datePublished": 1396324857,
+  "description": "Do you have a TED Talk inside, just bursting to come out? Take this tongue-in-cheek musical journey to “Give Your Talk.” A musical love letter to our speakers -- written, directed and performed by the TED staff.",
+  "duration": 277,
+  "event": "TED in the Field",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/cfa8ec527e9bb37dca7d5513ab829f25c246b52d_1600x1200.jpg",
+  "keywords": [
+    "dance",
+    "genetics",
+    "music"
+  ],
+  "mainLanguage": null,
+  "objectID": 1962,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Confusing": 44,
+    "Longwinded": 23,
+    "Unconvincing": 38,
+    "Obnoxious": 29,
+    "Persuasive": 13,
+    "Inspiring": 24,
+    "OK": 52,
+    "Fascinating": 9,
+    "Funny": 163,
+    "Informative": 4,
+    "Beautiful": 26,
+    "Jaw-dropping": 3,
+    "Ingenious": 17,
+    "Courageous": 4
+  },
+  "slug": "daffodil_hudson_is_this_the_cure_for_stage_fright",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/cfa8ec527e9bb37dca7d5513ab829f25c246b52d_1600x1200.jpg?quality=89&w=600",
+  "title": "It's TED, the Musical",
+  "url": "https://www.ted.com/talks/daffodil_hudson_is_this_the_cure_for_stage_fright",
+  "video": {
+    "low": "http://download.ted.com/talks/TEDMusical_2014-light.mp4",
+    "medium": "http://download.ted.com/talks/TEDMusical_2014.mp4",
+    "high": "http://download.ted.com/talks/TEDMusical_2014-480p.mp4"
+  },
+  "viewCount": 702021,
+  "year": "2014"
+}

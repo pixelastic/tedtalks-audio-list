@@ -1,0 +1,50 @@
+{
+  "audio": "http://download.ted.com/talks/TritaParsi_2013G.mp3",
+  "author": "Trita Parsi",
+  "dateFilmed": 1372204800,
+  "datePublished": 1381331315,
+  "description": "Iran and Israel: two nations with tense relations that seem existentially at odds. But for all their antagonistic rhetoric, there is a recent hidden history of collaboration, even friendship. In an informative talk, Trita Parsi shows how an unlikely strategic alliance in the past could mean peace in the future for these two feuding countries.",
+  "duration": 645,
+  "event": "TEDGlobal 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/4d7bd3902c70dbd83030efbd9e6ec34f8aac0761_1600x1200.jpg",
+  "keywords": [
+    "Foreign Policy",
+    "Iran",
+    "Middle East",
+    "global issues",
+    "government",
+    "peace",
+    "politics"
+  ],
+  "mainLanguage": null,
+  "objectID": 1839,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Inspiring": 88,
+    "Informative": 179,
+    "Fascinating": 47,
+    "Ingenious": 11,
+    "Persuasive": 97,
+    "Courageous": 46,
+    "OK": 36,
+    "Unconvincing": 38,
+    "Confusing": 6,
+    "Beautiful": 9,
+    "Jaw-dropping": 5,
+    "Funny": 1,
+    "Obnoxious": 9,
+    "Longwinded": 3
+  },
+  "slug": "trita_parsi_iran_and_israel_peace_is_possible",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/4d7bd3902c70dbd83030efbd9e6ec34f8aac0761_1600x1200.jpg?quality=89&w=600",
+  "title": "Iran and Israel: Peace is possible",
+  "url": "https://www.ted.com/talks/trita_parsi_iran_and_israel_peace_is_possible",
+  "video": {
+    "low": "http://download.ted.com/talks/TritaParsi_2013G-light.mp4",
+    "medium": "http://download.ted.com/talks/TritaParsi_2013G.mp4",
+    "high": "http://download.ted.com/talks/TritaParsi_2013G-480p.mp4"
+  },
+  "viewCount": 707964,
+  "year": "2013"
+}

@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/Beardyman_2013.mp3",
+  "author": "Beardyman",
+  "dateFilmed": 1361836800,
+  "datePublished": 1375455604,
+  "description": "Frustrated by not being able to sing two notes at the same time, musical inventor Beardyman built a machine to allow him to create loops and layers from just the sounds he makes with his voice. Given that he can effortlessly conjure the sound of everything from crying babies to buzzing flies, not to mention mimic pretty much any musical instrument imaginable, that's a lot of different sounds. Sit back and let the wall of sound of this dazzling performance wash over you.",
+  "duration": 670,
+  "event": "TED2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/0508b9eca3f60fa0f787cdcbd15d623ae5afdec3_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "creativity",
+    "entertainment",
+    "music",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 1804,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Funny": 131,
+    "Informative": 36,
+    "Fascinating": 295,
+    "Jaw-dropping": 185,
+    "Inspiring": 96,
+    "Beautiful": 88,
+    "Ingenious": 205,
+    "Persuasive": 7,
+    "Obnoxious": 19,
+    "Confusing": 16,
+    "Courageous": 7,
+    "Unconvincing": 36,
+    "Longwinded": 10,
+    "OK": 56
+  },
+  "slug": "beardyman_the_polyphonic_me",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/0508b9eca3f60fa0f787cdcbd15d623ae5afdec3_1600x1200.jpg?quality=89&w=600",
+  "title": "The polyphonic me",
+  "url": "https://www.ted.com/talks/beardyman_the_polyphonic_me",
+  "video": {
+    "low": "http://download.ted.com/talks/Beardyman_2013-light.mp4",
+    "medium": "http://download.ted.com/talks/Beardyman_2013.mp4",
+    "high": "http://download.ted.com/talks/Beardyman_2013-480p.mp4"
+  },
+  "viewCount": 1841070,
+  "year": "2013"
+}

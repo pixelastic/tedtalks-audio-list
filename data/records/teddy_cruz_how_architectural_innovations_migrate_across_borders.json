@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/TeddyCruz_2013G.mp3",
+  "author": "Teddy Cruz",
+  "dateFilmed": 1370995200,
+  "datePublished": 1391614433,
+  "description": "As the world's cities undergo explosive growth, inequality is intensifying. Wealthy neighborhoods and impoverished slums grow side by side, the gap between them widening. In this eye-opening talk, architect Teddy Cruz asks us to rethink urban development from the bottom up. Sharing lessons from the slums of Tijuana, Cruz explores the creative intelligence of the city's residents and offers a fresh perspective on what we can learn from places of scarcity.",
+  "duration": 794,
+  "event": "TEDGlobal 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/777284637366dd986604a9d8c25470e2bebb8f79_1600x1200.jpg",
+  "keywords": [
+    "architecture",
+    "cities",
+    "design",
+    "infrastructure"
+  ],
+  "mainLanguage": null,
+  "objectID": 1920,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Ingenious": 32,
+    "Fascinating": 48,
+    "Inspiring": 90,
+    "Informative": 89,
+    "Obnoxious": 18,
+    "Unconvincing": 51,
+    "Persuasive": 25,
+    "Longwinded": 25,
+    "OK": 60,
+    "Jaw-dropping": 4,
+    "Courageous": 21,
+    "Confusing": 15,
+    "Funny": 8,
+    "Beautiful": 12
+  },
+  "slug": "teddy_cruz_how_architectural_innovations_migrate_across_borders",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/777284637366dd986604a9d8c25470e2bebb8f79_1600x1200.jpg?quality=89&w=600",
+  "title": "How architectural innovations migrate across borders",
+  "url": "https://www.ted.com/talks/teddy_cruz_how_architectural_innovations_migrate_across_borders",
+  "video": {
+    "low": "http://download.ted.com/talks/TeddyCruz_2013G-light.mp4",
+    "medium": "http://download.ted.com/talks/TeddyCruz_2013G.mp4",
+    "high": "http://download.ted.com/talks/TeddyCruz_2013G-480p.mp4"
+  },
+  "viewCount": 659687,
+  "year": "2013"
+}

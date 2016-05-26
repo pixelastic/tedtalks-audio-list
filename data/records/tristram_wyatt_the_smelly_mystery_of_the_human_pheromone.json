@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/TristramWyatt_2013X.mp3",
+  "author": "Tristram Wyatt",
+  "dateFilmed": 1379376000,
+  "datePublished": 1400166002,
+  "description": "Do our smells make us sexy? Popular science suggests yes — pheromones send chemical signals about sex and attraction from our armpits to potential mates. But, despite what you might have heard, there is no conclusive research confirming that humans have these smell molecules. In this eye-opening talk, zoologist Tristram Wyatt explains the fundamental flaws in current pheromone research, and shares his hope for a future that unlocks the fascinating, potentially life-saving knowledge tied up in our scent.",
+  "duration": 893,
+  "event": "TEDxLeuvenSalon",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/0911bb2b2bc07cd0f430d3b564ab8edaa1ad0e3d_1600x1200.jpg",
+  "keywords": [
+    "TEDx",
+    "animals",
+    "biology",
+    "smell"
+  ],
+  "mainLanguage": null,
+  "objectID": 2002,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified"
+  },
+  "ratings": {
+    "Informative": 461,
+    "Fascinating": 238,
+    "Persuasive": 80,
+    "OK": 92,
+    "Funny": 8,
+    "Obnoxious": 10,
+    "Longwinded": 31,
+    "Confusing": 3,
+    "Beautiful": 14,
+    "Ingenious": 14,
+    "Inspiring": 39,
+    "Courageous": 14,
+    "Jaw-dropping": 7,
+    "Unconvincing": 6
+  },
+  "slug": "tristram_wyatt_the_smelly_mystery_of_the_human_pheromone",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/0911bb2b2bc07cd0f430d3b564ab8edaa1ad0e3d_1600x1200.jpg?quality=89&w=600",
+  "title": "The smelly mystery of the human pheromone   ",
+  "url": "https://www.ted.com/talks/tristram_wyatt_the_smelly_mystery_of_the_human_pheromone",
+  "video": {
+    "low": "http://download.ted.com/talks/TristramWyatt_2013X-light.mp4",
+    "medium": "http://download.ted.com/talks/TristramWyatt_2013X.mp4",
+    "high": "http://download.ted.com/talks/TristramWyatt_2013X-480p.mp4"
+  },
+  "viewCount": 1107101,
+  "year": "2013"
+}

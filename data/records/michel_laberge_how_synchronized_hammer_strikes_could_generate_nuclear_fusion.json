@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/MichelLaberge_2014.mp3",
+  "author": "Michel Laberge",
+  "dateFilmed": 1395273600,
+  "datePublished": 1398178644,
+  "description": "Our energy future depends on nuclear fusion, says Michel Laberge. The plasma physicist runs a small company with a big idea for a new type of nuclear reactor that could produce clean, cheap energy. His secret recipe? High speeds, scorching temperatures and crushing pressure. In this hopeful talk, he explains how nuclear fusion might be just around the corner.  ",
+  "duration": 770,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ce263768c1940829bb95c7b50ac51c4634cdf720_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "alternative energy",
+    "nuclear energy",
+    "science"
+  ],
+  "mainLanguage": null,
+  "objectID": 1979,
+  "otherLanguages": {
+    "zh-tw": "Chinese, Traditional"
+  },
+  "ratings": {
+    "Beautiful": 54,
+    "Ingenious": 277,
+    "Inspiring": 217,
+    "Fascinating": 216,
+    "Informative": 356,
+    "Persuasive": 75,
+    "Confusing": 7,
+    "Unconvincing": 21,
+    "Funny": 19,
+    "Jaw-dropping": 32,
+    "OK": 31,
+    "Courageous": 38,
+    "Longwinded": 19,
+    "Obnoxious": 6
+  },
+  "slug": "michel_laberge_how_synchronized_hammer_strikes_could_generate_nuclear_fusion",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ce263768c1940829bb95c7b50ac51c4634cdf720_1600x1200.jpg?quality=89&w=600",
+  "title": " How synchronized hammer strikes could generate nuclear fusion",
+  "url": "https://www.ted.com/talks/michel_laberge_how_synchronized_hammer_strikes_could_generate_nuclear_fusion",
+  "video": {
+    "low": "http://download.ted.com/talks/MichelLaberge_2014-light.mp4",
+    "medium": "http://download.ted.com/talks/MichelLaberge_2014.mp4",
+    "high": "http://download.ted.com/talks/MichelLaberge_2014-480p.mp4"
+  },
+  "viewCount": 992347,
+  "year": "2014"
+}

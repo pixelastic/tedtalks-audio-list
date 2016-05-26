@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/RussellFoster_2013G.mp3",
+  "author": "Russell Foster",
+  "dateFilmed": 1371081600,
+  "datePublished": 1376492031,
+  "description": "Russell Foster is a circadian neuroscientist: He studies the sleep cycles of the brain. And he asks: What do we know about sleep? Not a lot, it turns out, for something we do with one-third of our lives. In this talk, Foster shares three popular theories about why we sleep, busts some myths about how much sleep we need at different ages -- and hints at some bold new uses of sleep as a predictor of mental health.",
+  "duration": 1306,
+  "event": "TEDGlobal 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/44c8a0d9e5982eab342c4151d702004b491e48e7_2880x1620.jpg",
+  "keywords": [
+    "health",
+    "mental health",
+    "neuroscience",
+    "science"
+  ],
+  "mainLanguage": null,
+  "objectID": 1810,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified"
+  },
+  "ratings": {
+    "Persuasive": 870,
+    "Informative": 1861,
+    "Fascinating": 1028,
+    "Inspiring": 415,
+    "Funny": 365,
+    "Beautiful": 91,
+    "Unconvincing": 33,
+    "Obnoxious": 13,
+    "Ingenious": 125,
+    "Longwinded": 58,
+    "OK": 196,
+    "Jaw-dropping": 84,
+    "Courageous": 26,
+    "Confusing": 26
+  },
+  "slug": "russell_foster_why_do_we_sleep",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/44c8a0d9e5982eab342c4151d702004b491e48e7_2880x1620.jpg?quality=89&w=600",
+  "title": "Why do we sleep?",
+  "url": "https://www.ted.com/talks/russell_foster_why_do_we_sleep",
+  "video": {
+    "low": "http://download.ted.com/talks/RussellFoster_2013G-light.mp4",
+    "medium": "http://download.ted.com/talks/RussellFoster_2013G.mp4",
+    "high": "http://download.ted.com/talks/RussellFoster_2013G-480p.mp4"
+  },
+  "viewCount": 5820140,
+  "year": "2013"
+}

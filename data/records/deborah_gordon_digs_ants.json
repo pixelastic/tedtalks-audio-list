@@ -1,0 +1,63 @@
+{
+  "audio": "http://download.ted.com/talks/DeborahGordon_2003.mp3",
+  "author": "Deborah Gordon",
+  "dateFilmed": 1044144000,
+  "datePublished": 1199751960,
+  "description": "Deborah Gordon studies ant colonies in the Arizona desert to understand their complex social system. She asks: How do these chitinous creatures get down to business -- and even multitask when they need to -- with no language, memory or visible leadership? Her answers could lead to a better understanding of all complex systems, from the brain to the Web. Thanks, ants.",
+  "duration": 1231,
+  "event": "TED2003",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/29333ffe97803b733ce8a21f90c0b0e738a3adc5_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "ants",
+    "biology",
+    "collaboration",
+    "design",
+    "insects",
+    "science"
+  ],
+  "mainLanguage": null,
+  "objectID": 145,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified",
+    "zh-tw": "Chinese, Traditional",
+    "da": "Danish",
+    "fr": "French",
+    "de": "German",
+    "it": "Italian",
+    "ja": "Japanese",
+    "ko": "Korean",
+    "pl": "Polish",
+    "pt-br": "Portuguese, Brazilian",
+    "ru": "Russian",
+    "es": "Spanish",
+    "tr": "Turkish"
+  },
+  "ratings": {
+    "Fascinating": 850,
+    "Informative": 843,
+    "Inspiring": 116,
+    "Confusing": 16,
+    "Ingenious": 148,
+    "Beautiful": 64,
+    "Longwinded": 56,
+    "Funny": 39,
+    "Courageous": 19,
+    "Persuasive": 41,
+    "Jaw-dropping": 73,
+    "OK": 112,
+    "Unconvincing": 10,
+    "Obnoxious": 4
+  },
+  "slug": "deborah_gordon_digs_ants",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/29333ffe97803b733ce8a21f90c0b0e738a3adc5_1600x1200.jpg?quality=89&w=600",
+  "title": "The emergent genius of ant colonies",
+  "url": "https://www.ted.com/talks/deborah_gordon_digs_ants",
+  "video": {
+    "low": "http://download.ted.com/talks/DeborahGordon_2003-light.mp4",
+    "medium": "http://download.ted.com/talks/DeborahGordon_2003.mp4",
+    "high": "http://download.ted.com/talks/DeborahGordon_2003-480p.mp4"
+  },
+  "viewCount": 827890,
+  "year": "2003"
+}

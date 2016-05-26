@@ -1,0 +1,46 @@
+{
+  "audio": "http://download.ted.com/talks/MatthewOReilly_2014S.mp3",
+  "author": "Matthew O'Reilly",
+  "dateFilmed": 1404777600,
+  "datePublished": 1411659031,
+  "description": "Matthew O’Reilly is a veteran emergency medical technician on Long Island, New York. In this talk, O’Reilly describes what happens next when a gravely hurt patient asks him: “Am I going to die?”",
+  "duration": 333,
+  "event": "TED@NYC",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a0beec8db223d4f17a49ccaf0eae110eef083ed2_2400x1800.jpg",
+  "keywords": [
+    "death",
+    "health",
+    "medicine"
+  ],
+  "mainLanguage": null,
+  "objectID": 2096,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 825,
+    "Inspiring": 1045,
+    "Jaw-dropping": 75,
+    "Fascinating": 326,
+    "Courageous": 409,
+    "Informative": 367,
+    "OK": 129,
+    "Persuasive": 105,
+    "Unconvincing": 44,
+    "Confusing": 9,
+    "Obnoxious": 69,
+    "Funny": 9,
+    "Longwinded": 15,
+    "Ingenious": 16
+  },
+  "slug": "matthew_o_reilly_am_i_dying_the_honest_answer",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a0beec8db223d4f17a49ccaf0eae110eef083ed2_2400x1800.jpg?quality=89&w=600",
+  "title": "“Am I dying?” The honest answer.",
+  "url": "https://www.ted.com/talks/matthew_o_reilly_am_i_dying_the_honest_answer",
+  "video": {
+    "low": "http://download.ted.com/talks/MatthewOReilly_2014S-light.mp4",
+    "medium": "http://download.ted.com/talks/MatthewOReilly_2014S.mp4",
+    "high": "http://download.ted.com/talks/MatthewOReilly_2014S-480p.mp4"
+  },
+  "viewCount": 1759124,
+  "year": "2014"
+}

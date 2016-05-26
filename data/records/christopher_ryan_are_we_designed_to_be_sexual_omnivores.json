@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/ChristopherRyan_2013.mp3",
+  "author": "Christopher Ryan",
+  "dateFilmed": 1362009600,
+  "datePublished": 1392912053,
+  "description": "An idea permeates our modern view of relationships: that men and women have always paired off in sexually exclusive relationships. But before the dawn of agriculture, humans may actually have been quite promiscuous. Author Christopher Ryan walks us through the controversial evidence that human beings are sexual omnivores by nature, in hopes that a more nuanced understanding may put an end to discrimination, shame and the kind of unrealistic expectations that kill relationships.",
+  "duration": 842,
+  "event": "TED2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/199d1f6d5dc4639dcc793c77402e5b17e97d901d_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "culture",
+    "relationships",
+    "sex"
+  ],
+  "mainLanguage": null,
+  "objectID": 1931,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified"
+  },
+  "ratings": {
+    "Persuasive": 481,
+    "Jaw-dropping": 59,
+    "Courageous": 261,
+    "Funny": 215,
+    "Beautiful": 83,
+    "Informative": 748,
+    "Inspiring": 230,
+    "Fascinating": 472,
+    "Obnoxious": 28,
+    "OK": 77,
+    "Ingenious": 82,
+    "Unconvincing": 98,
+    "Confusing": 27,
+    "Longwinded": 16
+  },
+  "slug": "christopher_ryan_are_we_designed_to_be_sexual_omnivores",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/199d1f6d5dc4639dcc793c77402e5b17e97d901d_1600x1200.jpg?quality=89&w=600",
+  "title": "Are we designed to be sexual omnivores?",
+  "url": "https://www.ted.com/talks/christopher_ryan_are_we_designed_to_be_sexual_omnivores",
+  "video": {
+    "low": "http://download.ted.com/talks/ChristopherRyan_2013-light.mp4",
+    "medium": "http://download.ted.com/talks/ChristopherRyan_2013.mp4",
+    "high": "http://download.ted.com/talks/ChristopherRyan_2013-480p.mp4"
+  },
+  "viewCount": 1842370,
+  "year": "2013"
+}

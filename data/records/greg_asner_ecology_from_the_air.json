@@ -1,0 +1,49 @@
+{
+  "audio": "http://download.ted.com/talks/GregAsner_2013G.mp3",
+  "author": "Greg Asner",
+  "dateFilmed": 1370995200,
+  "datePublished": 1384876854,
+  "description": "What are our forests really made of? From the air, ecologist Greg Asner uses a spectrometer and high-powered lasers to map nature in meticulous kaleidoscopic 3D detail -- what he calls “a very high-tech accounting system” of carbon. In this fascinating talk, Asner gives a clear message: To save our ecosystems, we need more data, gathered in new ways.",
+  "duration": 830,
+  "event": "TEDGlobal 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/313e003d03863b59e551ceabef019eba406bcfeb_1600x1200.jpg",
+  "keywords": [
+    "biodiversity",
+    "drones",
+    "nature",
+    "science",
+    "technology",
+    "trees"
+  ],
+  "mainLanguage": null,
+  "objectID": 1874,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 33,
+    "Informative": 164,
+    "OK": 18,
+    "Jaw-dropping": 70,
+    "Inspiring": 65,
+    "Fascinating": 137,
+    "Ingenious": 121,
+    "Courageous": 20,
+    "Persuasive": 49,
+    "Unconvincing": 12,
+    "Obnoxious": 3,
+    "Confusing": 3,
+    "Longwinded": 1,
+    "Funny": 3
+  },
+  "slug": "greg_asner_ecology_from_the_air",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/313e003d03863b59e551ceabef019eba406bcfeb_1600x1200.jpg?quality=89&w=600",
+  "title": "Ecology from the air",
+  "url": "https://www.ted.com/talks/greg_asner_ecology_from_the_air",
+  "video": {
+    "low": "http://download.ted.com/talks/GregAsner_2013G-light.mp4",
+    "medium": "http://download.ted.com/talks/GregAsner_2013G.mp4",
+    "high": "http://download.ted.com/talks/GregAsner_2013G-480p.mp4"
+  },
+  "viewCount": 640509,
+  "year": "2013"
+}

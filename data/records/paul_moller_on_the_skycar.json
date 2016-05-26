@@ -1,0 +1,62 @@
+{
+  "audio": null,
+  "author": "Paul Moller",
+  "dateFilmed": 1075680000,
+  "datePublished": 1231400340,
+  "description": "Paul Moller talks about the future of personal air travel -- the marriage of autos and flight that will give us true freedom to travel off-road. He shows two things he's working on: the Moller Skycar (a jet + car) and a passenger-friendly hovering disc.",
+  "duration": 939,
+  "event": "TED2004",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/65190_800x600.jpg",
+  "keywords": [
+    "TED Conference",
+    "design",
+    "engineering",
+    "invention",
+    "technology",
+    "transportation"
+  ],
+  "mainLanguage": null,
+  "objectID": 429,
+  "otherLanguages": {
+    "bg": "Bulgarian",
+    "zh-cn": "Chinese, Simplified",
+    "cs": "Czech",
+    "fr": "French",
+    "it": "Italian",
+    "ko": "Korean",
+    "pl": "Polish",
+    "pt-br": "Portuguese, Brazilian",
+    "ro": "Romanian",
+    "ru": "Russian",
+    "es": "Spanish",
+    "tr": "Turkish",
+    "vi": "Vietnamese"
+  },
+  "ratings": {
+    "Unconvincing": 123,
+    "OK": 56,
+    "Fascinating": 70,
+    "Longwinded": 46,
+    "Obnoxious": 18,
+    "Ingenious": 48,
+    "Inspiring": 48,
+    "Courageous": 33,
+    "Persuasive": 29,
+    "Informative": 71,
+    "Jaw-dropping": 25,
+    "Confusing": 4,
+    "Beautiful": 0,
+    "Funny": 0
+  },
+  "slug": "paul_moller_on_the_skycar",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/65190_800x600.jpg?quality=89&w=600",
+  "title": "My dream of a flying car",
+  "url": "https://www.ted.com/talks/paul_moller_on_the_skycar",
+  "video": {
+    "low": "http://download.ted.com/talks/PaulMoller_2004-light.mp4",
+    "medium": "http://download.ted.com/talks/PaulMoller_2004.mp4",
+    "high": "http://download.ted.com/talks/PaulMoller_2004-480p.mp4"
+  },
+  "viewCount": 395919,
+  "year": "2004"
+}

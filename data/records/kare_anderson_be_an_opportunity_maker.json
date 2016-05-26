@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/KareAnderson_2014S.mp3",
+  "author": "Kare Anderson",
+  "dateFilmed": 1410739200,
+  "datePublished": 1415204448,
+  "description": "We all want to use our talents to create something meaningful with our lives. But how to get started? (And ... what if you're shy?) Writer Kare Anderson shares her own story of chronic shyness, and how she opened up her world by helping other people use their own talents and passions.",
+  "duration": 586,
+  "event": "TED@IBM",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/04e909d23c6e43b3252478007048001f3d49e7eb_2880x1620.jpg",
+  "keywords": [
+    "business",
+    "communication",
+    "creativity",
+    "relationships",
+    "work"
+  ],
+  "mainLanguage": null,
+  "objectID": 2122,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 209,
+    "OK": 168,
+    "Inspiring": 662,
+    "Fascinating": 129,
+    "Persuasive": 171,
+    "Beautiful": 120,
+    "Courageous": 90,
+    "Ingenious": 39,
+    "Unconvincing": 42,
+    "Confusing": 24,
+    "Longwinded": 27,
+    "Funny": 23,
+    "Jaw-dropping": 8,
+    "Obnoxious": 7
+  },
+  "slug": "kare_anderson_be_an_opportunity_maker",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/04e909d23c6e43b3252478007048001f3d49e7eb_2880x1620.jpg?quality=89&w=600",
+  "title": "Be an opportunity maker",
+  "url": "https://www.ted.com/talks/kare_anderson_be_an_opportunity_maker",
+  "video": {
+    "low": "http://download.ted.com/talks/KareAnderson_2014S-light.mp4",
+    "medium": "http://download.ted.com/talks/KareAnderson_2014S.mp4",
+    "high": "http://download.ted.com/talks/KareAnderson_2014S-480p.mp4"
+  },
+  "viewCount": 1880772,
+  "year": "2014"
+}

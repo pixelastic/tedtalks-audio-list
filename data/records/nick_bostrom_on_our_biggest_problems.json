@@ -1,0 +1,53 @@
+{
+  "audio": null,
+  "author": "Nick Bostrom",
+  "dateFilmed": 1121299200,
+  "datePublished": 1175731860,
+  "description": "Oxford philosopher and transhumanist Nick Bostrom examines the future of humankind and asks whether we might alter the fundamental nature of humanity to solve our most intrinsic problems.",
+  "duration": 1012,
+  "event": "TEDGlobal 2005",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/c331eb763dfc01984cd1e0c42c6d8d24c5731578_1600x1200.jpg",
+  "keywords": [
+    "biotech",
+    "culture",
+    "future",
+    "global issues",
+    "happiness",
+    "philosophy",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 44,
+  "otherLanguages": {
+    "bg": "Bulgarian",
+    "ja": "Japanese",
+    "so": "Somali"
+  },
+  "ratings": {
+    "Ingenious": 76,
+    "Courageous": 65,
+    "Longwinded": 165,
+    "Unconvincing": 266,
+    "Confusing": 87,
+    "Informative": 141,
+    "Inspiring": 103,
+    "Fascinating": 116,
+    "Funny": 15,
+    "Beautiful": 20,
+    "OK": 99,
+    "Persuasive": 41,
+    "Obnoxious": 63,
+    "Jaw-dropping": 19
+  },
+  "slug": "nick_bostrom_on_our_biggest_problems",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/c331eb763dfc01984cd1e0c42c6d8d24c5731578_1600x1200.jpg?quality=89&w=600",
+  "title": "A philosophical quest for our biggest problems",
+  "url": "https://www.ted.com/talks/nick_bostrom_on_our_biggest_problems",
+  "video": {
+    "low": "http://download.ted.com/talks/NickBostrom_2005G-light.mp4",
+    "medium": "http://download.ted.com/talks/NickBostrom_2005G.mp4",
+    "high": "http://download.ted.com/talks/NickBostrom_2005G-480p.mp4"
+  },
+  "viewCount": 685457,
+  "year": "2005"
+}

@@ -1,0 +1,46 @@
+{
+  "audio": "http://download.ted.com/talks/AlexaMeade_2013G.mp3",
+  "author": "Alexa Meade",
+  "dateFilmed": 1371081600,
+  "datePublished": 1378480353,
+  "description": "Alexa Meade takes an innovative approach to art. Not for her a life of sketching and stretching canvases. Instead, she selects a topic and then paints it--literally. She covers everything in a scene--people, chairs, food, you name it--in a mask of paint that mimics what's below it. In this eye-opening talk Meade shows off photographs of some of the more outlandish results, and shares a new project involving people, paint and milk. ",
+  "duration": 424,
+  "event": "TEDGlobal 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/cd592182c8d3e72d6421f3ff46423e3be089748b_1600x1200.jpg",
+  "keywords": [
+    "arts",
+    "creativity",
+    "design"
+  ],
+  "mainLanguage": null,
+  "objectID": 1814,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 543,
+    "Fascinating": 418,
+    "Ingenious": 311,
+    "Informative": 20,
+    "Jaw-dropping": 132,
+    "Inspiring": 327,
+    "Courageous": 60,
+    "Funny": 47,
+    "Longwinded": 8,
+    "Unconvincing": 28,
+    "Persuasive": 13,
+    "OK": 66,
+    "Obnoxious": 18,
+    "Confusing": 9
+  },
+  "slug": "alexa_meade",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/cd592182c8d3e72d6421f3ff46423e3be089748b_1600x1200.jpg?quality=89&w=600",
+  "title": "Your body is my canvas",
+  "url": "https://www.ted.com/talks/alexa_meade",
+  "video": {
+    "low": "http://download.ted.com/talks/AlexaMeade_2013G-light.mp4",
+    "medium": "http://download.ted.com/talks/AlexaMeade_2013G.mp4",
+    "high": "http://download.ted.com/talks/AlexaMeade_2013G-480p.mp4"
+  },
+  "viewCount": 2506405,
+  "year": "2013"
+}

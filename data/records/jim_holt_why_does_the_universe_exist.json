@@ -1,0 +1,45 @@
+{
+  "audio": "http://download.ted.com/talks/JimHolt_2014.mp3",
+  "author": "Jim Holt",
+  "dateFilmed": 1394668800,
+  "datePublished": 1409670137,
+  "description": "Why is there something instead of nothing? In other words: Why does the universe exist (and why are we in it)? Philosopher and writer Jim Holt follows this question toward three possible answers. Or four. Or none.",
+  "duration": 1037,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8bd64f43647646929b8ab3ca8b150a9517a6e935_2400x1800.jpg",
+  "keywords": [
+    "TED Conference",
+    "philosophy"
+  ],
+  "mainLanguage": null,
+  "objectID": 2072,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Unconvincing": 290,
+    "OK": 155,
+    "Courageous": 46,
+    "Informative": 212,
+    "Inspiring": 198,
+    "Fascinating": 402,
+    "Longwinded": 105,
+    "Persuasive": 67,
+    "Funny": 291,
+    "Ingenious": 110,
+    "Confusing": 131,
+    "Obnoxious": 68,
+    "Beautiful": 65,
+    "Jaw-dropping": 35
+  },
+  "slug": "jim_holt_why_does_the_universe_exist",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8bd64f43647646929b8ab3ca8b150a9517a6e935_2400x1800.jpg?quality=89&w=600",
+  "title": "Why does the universe exist?",
+  "url": "https://www.ted.com/talks/jim_holt_why_does_the_universe_exist",
+  "video": {
+    "low": "http://download.ted.com/talks/JimHolt_2014-light.mp4",
+    "medium": "http://download.ted.com/talks/JimHolt_2014.mp4",
+    "high": "http://download.ted.com/talks/JimHolt_2014-480p.mp4"
+  },
+  "viewCount": 2315595,
+  "year": "2014"
+}

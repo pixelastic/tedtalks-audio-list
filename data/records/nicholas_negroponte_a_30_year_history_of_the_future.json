@@ -1,0 +1,51 @@
+{
+  "audio": "http://download.ted.com/talks/NicholasNegroponte_2014.mp3",
+  "author": "Nicholas Negroponte",
+  "dateFilmed": 1395187200,
+  "datePublished": 1404831654,
+  "description": "MIT Media Lab founder Nicholas Negroponte takes you on a journey through the last 30 years of tech. The consummate predictor highlights interfaces and innovations he foresaw in the 1970s and 1980s that were scoffed at then but are ubiquitous today. And he leaves you with one last (absurd? brilliant?) prediction for the coming 30 years.",
+  "duration": 1183,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/916b709d600db97cc67aa7e984c88b011dcb561f_2400x1800.jpg",
+  "keywords": [
+    "TED Conference",
+    "computers",
+    "future",
+    "innovation",
+    "intelligence",
+    "interface design",
+    "prediction",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 2043,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Inspiring": 467,
+    "Informative": 330,
+    "Persuasive": 82,
+    "Ingenious": 96,
+    "Fascinating": 303,
+    "Jaw-dropping": 60,
+    "Courageous": 39,
+    "Funny": 33,
+    "Longwinded": 40,
+    "Beautiful": 22,
+    "OK": 67,
+    "Obnoxious": 25,
+    "Confusing": 30,
+    "Unconvincing": 16
+  },
+  "slug": "nicholas_negroponte_a_30_year_history_of_the_future",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/916b709d600db97cc67aa7e984c88b011dcb561f_2400x1800.jpg?quality=89&w=600",
+  "title": "A 30-year history of the future",
+  "url": "https://www.ted.com/talks/nicholas_negroponte_a_30_year_history_of_the_future",
+  "video": {
+    "low": "http://download.ted.com/talks/NicholasNegroponte_2014-light.mp4",
+    "medium": "http://download.ted.com/talks/NicholasNegroponte_2014.mp4",
+    "high": "http://download.ted.com/talks/NicholasNegroponte_2014-480p.mp4"
+  },
+  "viewCount": 1707362,
+  "year": "2014"
+}

@@ -1,0 +1,46 @@
+{
+  "audio": "http://download.ted.com/talks/GabbyGiffords_2014.mp3",
+  "author": "Gabby Giffords and Mark Kelly",
+  "dateFilmed": 1395360000,
+  "datePublished": 1397229849,
+  "description": "On January 8, 2011, Congresswoman Gabby Giffords was shot in the head while meeting constituents in her home town of Tucson, Arizona. Her husband, the astronaut Mark Kelly, immediately flew to be by her side. In this emotional conversation with Pat Mitchell, the pair describe their lives both before and after the accident -- and describe their views on responsible gun ownership.",
+  "duration": 1128,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e70e4f2fda97e53f03f9a35d44c681362e98b15c_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "politics",
+    "violence"
+  ],
+  "mainLanguage": null,
+  "objectID": 1972,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 213,
+    "Inspiring": 336,
+    "Unconvincing": 12,
+    "Obnoxious": 12,
+    "Courageous": 284,
+    "Funny": 9,
+    "Informative": 18,
+    "Persuasive": 21,
+    "Fascinating": 41,
+    "Longwinded": 14,
+    "Jaw-dropping": 15,
+    "OK": 24,
+    "Confusing": 7,
+    "Ingenious": 1
+  },
+  "slug": "gabby_giffords_and_mark_kelly_be_passionate_be_courageous_be_your_best",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e70e4f2fda97e53f03f9a35d44c681362e98b15c_1600x1200.jpg?quality=89&w=600",
+  "title": "Be passionate. Be courageous. Be your best.",
+  "url": "https://www.ted.com/talks/gabby_giffords_and_mark_kelly_be_passionate_be_courageous_be_your_best",
+  "video": {
+    "low": "http://download.ted.com/talks/GabbyGiffords_2014-light.mp4",
+    "medium": "http://download.ted.com/talks/GabbyGiffords_2014.mp4",
+    "high": "http://download.ted.com/talks/GabbyGiffords_2014-480p.mp4"
+  },
+  "viewCount": 992390,
+  "year": "2014"
+}

@@ -1,0 +1,46 @@
+{
+  "audio": "http://download.ted.com/talks/EthanNadelmann_2014G.mp3",
+  "author": "Ethan Nadelmann",
+  "dateFilmed": 1413331200,
+  "datePublished": 1415808033,
+  "description": "Is the War on Drugs doing more harm than good? In a bold talk, drug policy reformist Ethan Nadelmann makes an impassioned plea to end the \"backward, heartless, disastrous\" movement to stamp out the drug trade. He gives two big reasons we should focus on intelligent regulation instead.",
+  "duration": 1046,
+  "event": "TEDGlobal 2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/bf71a1d50bc5f028bb16ff42f5c5c4f70b2091eb_2880x1620.jpg",
+  "keywords": [
+    "crime",
+    "global issues",
+    "policy"
+  ],
+  "mainLanguage": null,
+  "objectID": 2130,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Fascinating": 600,
+    "Longwinded": 32,
+    "Unconvincing": 94,
+    "Obnoxious": 39,
+    "Informative": 727,
+    "Inspiring": 425,
+    "Persuasive": 769,
+    "Courageous": 386,
+    "Ingenious": 64,
+    "Confusing": 18,
+    "Jaw-dropping": 30,
+    "Beautiful": 31,
+    "OK": 74,
+    "Funny": 33
+  },
+  "slug": "ethan_nadelmann_why_we_need_to_end_the_war_on_drugs",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/bf71a1d50bc5f028bb16ff42f5c5c4f70b2091eb_2880x1620.jpg?quality=89&w=600",
+  "title": "Why we need to end the War on Drugs",
+  "url": "https://www.ted.com/talks/ethan_nadelmann_why_we_need_to_end_the_war_on_drugs",
+  "video": {
+    "low": "http://download.ted.com/talks/EthanNadelmann_2014G-light.mp4",
+    "medium": "http://download.ted.com/talks/EthanNadelmann_2014G.mp4",
+    "high": "http://download.ted.com/talks/EthanNadelmann_2014G-480p.mp4"
+  },
+  "viewCount": 1426002,
+  "year": "2014"
+}

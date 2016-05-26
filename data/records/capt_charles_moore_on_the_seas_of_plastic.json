@@ -1,0 +1,63 @@
+{
+  "audio": null,
+  "author": "Charles Moore",
+  "dateFilmed": 1233792000,
+  "datePublished": 1235437200,
+  "description": "Capt. Charles Moore of the Algalita Marine Research Foundation first discovered the Great Pacific Garbage Patch -- an endless floating waste of plastic trash. Now he's drawing attention to the growing, choking problem of plastic debris in our seas.",
+  "duration": 440,
+  "event": "TED2009",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/74119_800x600.jpg",
+  "keywords": [
+    "TED Conference",
+    "business",
+    "environment",
+    "oceans",
+    "plastic",
+    "science"
+  ],
+  "mainLanguage": null,
+  "objectID": 470,
+  "otherLanguages": {
+    "ar": "Arabic",
+    "zh-tw": "Chinese, Traditional",
+    "hr": "Croatian",
+    "nl": "Dutch",
+    "fr": "French",
+    "el": "Greek",
+    "hu": "Hungarian",
+    "it": "Italian",
+    "mr": "Marathi",
+    "pl": "Polish",
+    "ro": "Romanian",
+    "ru": "Russian",
+    "tr": "Turkish",
+    "vi": "Vietnamese"
+  },
+  "ratings": {
+    "OK": 44,
+    "Funny": 24,
+    "Informative": 517,
+    "Jaw-dropping": 434,
+    "Persuasive": 381,
+    "Courageous": 75,
+    "Inspiring": 146,
+    "Unconvincing": 15,
+    "Fascinating": 94,
+    "Beautiful": 5,
+    "Ingenious": 14,
+    "Confusing": 9,
+    "Obnoxious": 16,
+    "Longwinded": 5
+  },
+  "slug": "capt_charles_moore_on_the_seas_of_plastic",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/74119_800x600.jpg?quality=89&w=600",
+  "title": "Seas of plastic",
+  "url": "https://www.ted.com/talks/capt_charles_moore_on_the_seas_of_plastic",
+  "video": {
+    "low": "http://download.ted.com/talks/CharlesMoore_2009U-light.mp4",
+    "medium": "http://download.ted.com/talks/CharlesMoore_2009U.mp4",
+    "high": "http://download.ted.com/talks/CharlesMoore_2009U-480p.mp4"
+  },
+  "viewCount": 991494,
+  "year": "2009"
+}

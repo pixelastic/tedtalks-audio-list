@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/ThomasHellum_2014X.mp3",
+  "author": "Thomas Hellum",
+  "dateFilmed": 1408060800,
+  "datePublished": 1418227984,
+  "description": "You've heard about slow food. Now here's slow ... TV? In this very funny talk, Norwegian television producer Thomas Hellum shares how he and his team began to broadcast long, boring events, often live -- and found a rapt audience. Shows include a 7-hour train journey, an 18-hour fishing expedition and a 5.5-day ferry voyage along the coast of Norway. The results are both beautiful and fascinating. Really.",
+  "duration": 1086,
+  "event": "TEDxArendal",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/f0959efcbd3620bc73492a738185e24aa44d0acc_2880x1620.jpg",
+  "keywords": [
+    "TEDx",
+    "arts",
+    "entertainment",
+    "film",
+    "storytelling"
+  ],
+  "mainLanguage": null,
+  "objectID": 2148,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Funny": 626,
+    "Fascinating": 594,
+    "Jaw-dropping": 72,
+    "Beautiful": 368,
+    "Ingenious": 387,
+    "Inspiring": 349,
+    "Informative": 151,
+    "OK": 49,
+    "Courageous": 73,
+    "Confusing": 5,
+    "Persuasive": 36,
+    "Longwinded": 19,
+    "Unconvincing": 10,
+    "Obnoxious": 4
+  },
+  "slug": "thomas_hellum_the_world_s_most_boring_television_and_why_it_s_hilariously_addictive",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/f0959efcbd3620bc73492a738185e24aa44d0acc_2880x1620.jpg?quality=89&w=600",
+  "title": "The world's most boring television ... and why it's hilariously addictive",
+  "url": "https://www.ted.com/talks/thomas_hellum_the_world_s_most_boring_television_and_why_it_s_hilariously_addictive",
+  "video": {
+    "low": "http://download.ted.com/talks/ThomasHellum_2014X-light.mp4",
+    "medium": "http://download.ted.com/talks/ThomasHellum_2014X.mp4",
+    "high": "http://download.ted.com/talks/ThomasHellum_2014X-480p.mp4"
+  },
+  "viewCount": 1864355,
+  "year": "2014"
+}

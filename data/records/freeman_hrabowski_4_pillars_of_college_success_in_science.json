@@ -1,0 +1,49 @@
+{
+  "audio": "http://download.ted.com/talks/FreemanHrabowski_2013.mp3",
+  "author": "Freeman Hrabowski",
+  "dateFilmed": 1362009600,
+  "datePublished": 1365434089,
+  "description": "At age 12, Freeman Hrabowski marched with Martin Luther King. Now he's president of the University of Maryland, Baltimore County (UMBC), where he works to create an environment that helps under-represented students -- specifically African-American, Latino and low-income learners -- get degrees in math and science. He shares the four pillars of UMBC's approach.",
+  "duration": 910,
+  "event": "TED2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/92da812c55ec2b18177464301d1249531ab9efc3_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "education",
+    "inequality",
+    "math",
+    "science",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 1710,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 128,
+    "OK": 35,
+    "Inspiring": 362,
+    "Courageous": 53,
+    "Persuasive": 136,
+    "Beautiful": 41,
+    "Jaw-dropping": 17,
+    "Ingenious": 21,
+    "Longwinded": 12,
+    "Unconvincing": 26,
+    "Obnoxious": 16,
+    "Fascinating": 55,
+    "Funny": 8,
+    "Confusing": 5
+  },
+  "slug": "freeman_hrabowski_4_pillars_of_college_success_in_science",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/92da812c55ec2b18177464301d1249531ab9efc3_1600x1200.jpg?quality=89&w=600",
+  "title": "4 pillars of college success in science",
+  "url": "https://www.ted.com/talks/freeman_hrabowski_4_pillars_of_college_success_in_science",
+  "video": {
+    "low": "http://download.ted.com/talks/FreemanHrabowski_2013-light.mp4",
+    "medium": "http://download.ted.com/talks/FreemanHrabowski_2013.mp4",
+    "high": "http://download.ted.com/talks/FreemanHrabowski_2013-480p.mp4"
+  },
+  "viewCount": 837451,
+  "year": "2013"
+}

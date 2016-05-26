@@ -1,0 +1,50 @@
+{
+  "audio": "http://download.ted.com/talks/MarlaSpivak_2013G.mp3",
+  "author": "Marla Spivak",
+  "dateFilmed": 1370995200,
+  "datePublished": 1379429848,
+  "description": "Honeybees have thrived for 50 million years, each colony 40 to 50,000 individuals coordinated in amazing harmony. So why, seven years ago, did colonies start dying en masse? Marla Spivak reveals four reasons which are interacting with tragic consequences. This is not simply a problem because bees pollinate a third of the world’s crops. Could this incredible species be holding up a mirror for us?\r\n",
+  "duration": 957,
+  "event": "TEDGlobal 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/c58cf2dbb9f8843b91eb2228caf27974b5f428de_1600x1200.jpg",
+  "keywords": [
+    "bees",
+    "biodiversity",
+    "food",
+    "garden",
+    "insects",
+    "science"
+  ],
+  "mainLanguage": null,
+  "objectID": 1822,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified"
+  },
+  "ratings": {
+    "Persuasive": 644,
+    "Fascinating": 462,
+    "Informative": 997,
+    "Obnoxious": 17,
+    "Jaw-dropping": 119,
+    "Inspiring": 506,
+    "Beautiful": 186,
+    "Courageous": 76,
+    "OK": 45,
+    "Unconvincing": 9,
+    "Ingenious": 28,
+    "Longwinded": 18,
+    "Confusing": 10,
+    "Funny": 22
+  },
+  "slug": "marla_spivak_why_bees_are_disappearing",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/c58cf2dbb9f8843b91eb2228caf27974b5f428de_1600x1200.jpg?quality=89&w=600",
+  "title": "Why bees are disappearing",
+  "url": "https://www.ted.com/talks/marla_spivak_why_bees_are_disappearing",
+  "video": {
+    "low": "http://download.ted.com/talks/MarlaSpivak_2013G-light.mp4",
+    "medium": "http://download.ted.com/talks/MarlaSpivak_2013G.mp4",
+    "high": "http://download.ted.com/talks/MarlaSpivak_2013G-480p.mp4"
+  },
+  "viewCount": 2153534,
+  "year": "2013"
+}

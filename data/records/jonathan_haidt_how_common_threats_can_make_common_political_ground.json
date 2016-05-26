@@ -1,0 +1,60 @@
+{
+  "audio": "http://download.ted.com/talks/JonathanHaidt_2012S.mp3",
+  "author": "Jonathan Haidt",
+  "dateFilmed": 1355875200,
+  "datePublished": 1357574832,
+  "description": "If an asteroid were headed for Earth, we'd all band together and figure out how to stop it, just like in the movies, right? And yet, when faced with major, data-supported, end-of-the-world problems in real life, too often we retreat into partisan shouting and stalemate. Jonathan Haidt shows us a few of the very real asteroids headed our way -- some pet causes of the left wing, some of the right -- and suggests how both wings could work together productively to benefit humanity as a whole.",
+  "duration": 1201,
+  "event": "TEDSalon NY2012",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/08eccdf1035b0338ee208ce18f0ba077f3c94a42_1600x1200.jpg",
+  "keywords": [
+    "global issues",
+    "politics",
+    "society"
+  ],
+  "mainLanguage": null,
+  "objectID": 1642,
+  "otherLanguages": {
+    "ar": "Arabic",
+    "zh-cn": "Chinese, Simplified",
+    "nl": "Dutch",
+    "de": "German",
+    "el": "Greek",
+    "it": "Italian",
+    "ko": "Korean",
+    "mk": "Macedonian",
+    "ro": "Romanian",
+    "ru": "Russian",
+    "sr": "Serbian",
+    "es": "Spanish",
+    "th": "Thai",
+    "tr": "Turkish"
+  },
+  "ratings": {
+    "Inspiring": 107,
+    "Persuasive": 220,
+    "Courageous": 36,
+    "Unconvincing": 62,
+    "Informative": 157,
+    "Funny": 8,
+    "OK": 26,
+    "Ingenious": 26,
+    "Fascinating": 40,
+    "Obnoxious": 25,
+    "Longwinded": 17,
+    "Beautiful": 4,
+    "Confusing": 4,
+    "Jaw-dropping": 14
+  },
+  "slug": "jonathan_haidt_how_common_threats_can_make_common_political_ground",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/08eccdf1035b0338ee208ce18f0ba077f3c94a42_1600x1200.jpg?quality=89&w=600",
+  "title": "How common threats can make common (political) ground",
+  "url": "https://www.ted.com/talks/jonathan_haidt_how_common_threats_can_make_common_political_ground",
+  "video": {
+    "low": "http://download.ted.com/talks/JonathanHaidt_2012S-light.mp4",
+    "medium": "http://download.ted.com/talks/JonathanHaidt_2012S.mp4",
+    "high": "http://download.ted.com/talks/JonathanHaidt_2012S-480p.mp4"
+  },
+  "viewCount": 576862,
+  "year": "2012"
+}

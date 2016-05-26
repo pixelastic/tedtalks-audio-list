@@ -1,0 +1,46 @@
+{
+  "audio": "http://download.ted.com/talks/JenniferHealey_2013S.mp3",
+  "author": "Jennifer Healey",
+  "dateFilmed": 1365379200,
+  "datePublished": 1366901978,
+  "description": "When we drive, we get into a glass bubble, lock the doors and press the accelerator, relying on our eyes to guide us -- even though we can only see the few cars ahead of and behind us. But what if cars could share data with each other about their position and velocity, and use predictive models to calculate the safest routes for everyone on the road? Jennifer Healey imagines a world without accidents. (Filmed at TED@Intel.)",
+  "duration": 540,
+  "event": "TED@Intel",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/4165fdc540500a47d00915eb53de831abd15dd3b_1600x1200.jpg",
+  "keywords": [
+    "cars",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 1724,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified"
+  },
+  "ratings": {
+    "Jaw-dropping": 7,
+    "Unconvincing": 84,
+    "Longwinded": 16,
+    "Obnoxious": 24,
+    "OK": 55,
+    "Informative": 92,
+    "Funny": 23,
+    "Inspiring": 39,
+    "Persuasive": 84,
+    "Ingenious": 53,
+    "Fascinating": 34,
+    "Beautiful": 4,
+    "Courageous": 8,
+    "Confusing": 3
+  },
+  "slug": "jennifer_healey_if_cars_could_talk_accidents_might_be_avoidable",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/4165fdc540500a47d00915eb53de831abd15dd3b_1600x1200.jpg?quality=89&w=600",
+  "title": "If cars could talk, accidents might be avoidable",
+  "url": "https://www.ted.com/talks/jennifer_healey_if_cars_could_talk_accidents_might_be_avoidable",
+  "video": {
+    "low": "http://download.ted.com/talks/JenniferHealey_2013S-light.mp4",
+    "medium": "http://download.ted.com/talks/JenniferHealey_2013S.mp4",
+    "high": "http://download.ted.com/talks/JenniferHealey_2013S-480p.mp4"
+  },
+  "viewCount": 733999,
+  "year": "2013"
+}

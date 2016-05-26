@@ -1,0 +1,45 @@
+{
+  "audio": "http://download.ted.com/talks/MatthieuRicard_2014G.mp3",
+  "author": "Matthieu Ricard",
+  "dateFilmed": 1413504000,
+  "datePublished": 1421770652,
+  "description": "What is altruism? Put simply, it's the wish that other people may be happy. And, says Matthieu Ricard, a happiness researcher and a Buddhist monk, altruism is also a great lens for making decisions, both for the short and long term, in work and in life.",
+  "duration": 967,
+  "event": "TEDGlobal 2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2d1d6429e1014795935681d657bc7a63a358ff07_2880x1620.jpg",
+  "keywords": [
+    "communication",
+    "compassion"
+  ],
+  "mainLanguage": null,
+  "objectID": 2168,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 293,
+    "Inspiring": 799,
+    "Confusing": 6,
+    "Unconvincing": 12,
+    "Obnoxious": 5,
+    "Fascinating": 166,
+    "Persuasive": 195,
+    "Beautiful": 278,
+    "OK": 43,
+    "Courageous": 79,
+    "Funny": 52,
+    "Ingenious": 31,
+    "Longwinded": 3,
+    "Jaw-dropping": 9
+  },
+  "slug": "matthieu_ricard_how_to_let_altruism_be_your_guide",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2d1d6429e1014795935681d657bc7a63a358ff07_2880x1620.jpg?quality=89&w=600",
+  "title": "How to let altruism be your guide",
+  "url": "https://www.ted.com/talks/matthieu_ricard_how_to_let_altruism_be_your_guide",
+  "video": {
+    "low": "http://download.ted.com/talks/MatthieuRicard_2014G-light.mp4",
+    "medium": "http://download.ted.com/talks/MatthieuRicard_2014G.mp4",
+    "high": "http://download.ted.com/talks/MatthieuRicard_2014G-480p.mp4"
+  },
+  "viewCount": 1612713,
+  "year": "2014"
+}

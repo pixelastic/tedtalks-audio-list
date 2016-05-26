@@ -1,0 +1,52 @@
+{
+  "audio": null,
+  "author": "Ethel",
+  "dateFilmed": 1138838400,
+  "datePublished": 1182184140,
+  "description": "The avant-garde string quartet Ethel performs the third movement from Phil Kline's four-part suite \"The Blue Room and Other Stories.\" Searching melodic lines show off the deep, emotional musicality of these passionate players.",
+  "duration": 214,
+  "event": "TED2006",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/1498_480x360.jpg",
+  "keywords": [
+    "TED Conference",
+    "arts",
+    "cello",
+    "collaboration",
+    "culture",
+    "entertainment",
+    "live music",
+    "performance",
+    "violin"
+  ],
+  "mainLanguage": null,
+  "objectID": 138,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 206,
+    "Courageous": 6,
+    "Funny": 3,
+    "Unconvincing": 24,
+    "Confusing": 10,
+    "Longwinded": 14,
+    "Inspiring": 54,
+    "Fascinating": 44,
+    "Jaw-dropping": 15,
+    "Obnoxious": 10,
+    "OK": 54,
+    "Persuasive": 8,
+    "Ingenious": 8,
+    "Informative": 0
+  },
+  "slug": "ethel_performs_blue_room",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/1498_480x360.jpg?quality=89&w=600",
+  "title": "A string quartet plays \"Blue Room\"",
+  "url": "https://www.ted.com/talks/ethel_performs_blue_room",
+  "video": {
+    "low": "http://download.ted.com/talks/Ethel_Blue_2006-light.mp4",
+    "medium": "http://download.ted.com/talks/Ethel_Blue_2006.mp4",
+    "high": "http://download.ted.com/talks/Ethel_Blue_2006-480p.mp4"
+  },
+  "viewCount": 349195,
+  "year": "2006"
+}

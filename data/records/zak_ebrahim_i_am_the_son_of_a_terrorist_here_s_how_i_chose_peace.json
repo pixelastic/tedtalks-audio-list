@@ -1,0 +1,49 @@
+{
+  "audio": "http://download.ted.com/talks/ZakEbrahim_2014.mp3",
+  "author": "Zak Ebrahim",
+  "dateFilmed": 1394582400,
+  "datePublished": 1410268274,
+  "description": "If you’re raised on dogma and hate, can you choose a different path? Zak Ebrahim was just seven years old when his father helped plan the 1993 World Trade Center bombing. His story is shocking, powerful and, ultimately, inspiring.",
+  "duration": 550,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a1035abfcdf56c2ce96afef6ccbdf678b936a1b1_2400x1800.jpg",
+  "keywords": [
+    "Middle East",
+    "TED Books",
+    "TED Conference",
+    "peace",
+    "terrorism",
+    "violence"
+  ],
+  "mainLanguage": null,
+  "objectID": 2024,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 1207,
+    "Courageous": 2007,
+    "Inspiring": 2469,
+    "OK": 106,
+    "Persuasive": 365,
+    "Funny": 19,
+    "Fascinating": 383,
+    "Longwinded": 11,
+    "Jaw-dropping": 136,
+    "Informative": 216,
+    "Unconvincing": 38,
+    "Ingenious": 14,
+    "Obnoxious": 26,
+    "Confusing": 29
+  },
+  "slug": "zak_ebrahim_i_am_the_son_of_a_terrorist_here_s_how_i_chose_peace",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a1035abfcdf56c2ce96afef6ccbdf678b936a1b1_2400x1800.jpg?quality=89&w=600",
+  "title": "I am the son of a terrorist. Here's how I chose peace.",
+  "url": "https://www.ted.com/talks/zak_ebrahim_i_am_the_son_of_a_terrorist_here_s_how_i_chose_peace",
+  "video": {
+    "low": "http://download.ted.com/talks/ZakEbrahim_2014-light.mp4",
+    "medium": "http://download.ted.com/talks/ZakEbrahim_2014.mp4",
+    "high": "http://download.ted.com/talks/ZakEbrahim_2014-480p.mp4"
+  },
+  "viewCount": 3386268,
+  "year": "2014"
+}

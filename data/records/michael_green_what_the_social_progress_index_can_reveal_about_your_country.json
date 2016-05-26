@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/MichaelGreen_2014G.mp3",
+  "author": "Michael Green",
+  "dateFilmed": 1412726400,
+  "datePublished": 1415721331,
+  "description": "The term Gross Domestic Product is often talked about as if it were “handed down from god on tablets of stone.” But this concept was invented by an economist in the 1930s. We need a more effective measurement tool to match 21st century needs, says Michael Green: the Social Progress Index. With charm and wit, he shows how this tool measures societies across the three dimensions that actually matter. And reveals the dramatic reordering of nations that occurs when you use it.",
+  "duration": 896,
+  "event": "TEDGlobal 2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a7881db72fa6e7a9db54b56699fe13ac5fcc36f7_2880x1620.jpg",
+  "keywords": [
+    "economics",
+    "global issues",
+    "policy",
+    "statistics"
+  ],
+  "mainLanguage": null,
+  "objectID": 2134,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 539,
+    "Ingenious": 156,
+    "Persuasive": 287,
+    "Fascinating": 222,
+    "OK": 43,
+    "Inspiring": 370,
+    "Jaw-dropping": 11,
+    "Unconvincing": 12,
+    "Obnoxious": 12,
+    "Longwinded": 8,
+    "Courageous": 50,
+    "Funny": 38,
+    "Beautiful": 30,
+    "Confusing": 10
+  },
+  "slug": "michael_green_what_the_social_progress_index_can_reveal_about_your_country",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a7881db72fa6e7a9db54b56699fe13ac5fcc36f7_2880x1620.jpg?quality=89&w=600",
+  "title": "What the Social Progress Index can reveal about your country",
+  "url": "https://www.ted.com/talks/michael_green_what_the_social_progress_index_can_reveal_about_your_country",
+  "video": {
+    "low": "http://download.ted.com/talks/MichaelGreen_2014G-light.mp4",
+    "medium": "http://download.ted.com/talks/MichaelGreen_2014G.mp4",
+    "high": "http://download.ted.com/talks/MichaelGreen_2014G-480p.mp4"
+  },
+  "viewCount": 1070732,
+  "year": "2014"
+}

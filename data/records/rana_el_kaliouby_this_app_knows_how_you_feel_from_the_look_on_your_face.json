@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/RanaelKaliouby_2015W.mp3",
+  "author": "Rana el Kaliouby",
+  "dateFilmed": 1432771200,
+  "datePublished": 1434383199,
+  "description": "Our emotions influence every aspect of our lives -- how we learn, how we communicate, how we make decisions. Yet they’re absent from our digital lives; the devices and apps we interact with have no way of knowing how we feel. Scientist Rana el Kaliouby aims to change that. She demos a powerful new technology that reads your facial expressions and matches them to corresponding emotions. This “emotion engine” has big implications, she says, and could change not just how we interact with machines -- but with each other.",
+  "duration": 664,
+  "event": "TEDWomen 2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7942398dd4f5b61691f12872b6e787cf53dec95f_2880x1620.jpg",
+  "keywords": [
+    "compassion",
+    "computers",
+    "psychology",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 2279,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 323,
+    "Ingenious": 150,
+    "Fascinating": 299,
+    "Courageous": 32,
+    "Inspiring": 176,
+    "Persuasive": 31,
+    "Beautiful": 47,
+    "Funny": 57,
+    "Jaw-dropping": 26,
+    "Longwinded": 12,
+    "OK": 88,
+    "Unconvincing": 19,
+    "Confusing": 8,
+    "Obnoxious": 15
+  },
+  "slug": "rana_el_kaliouby_this_app_knows_how_you_feel_from_the_look_on_your_face",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7942398dd4f5b61691f12872b6e787cf53dec95f_2880x1620.jpg?quality=89&w=600",
+  "title": "This app knows how you feel -- from the look on your face",
+  "url": "https://www.ted.com/talks/rana_el_kaliouby_this_app_knows_how_you_feel_from_the_look_on_your_face",
+  "video": {
+    "low": "http://download.ted.com/talks/RanaelKaliouby_2015W-light.mp4",
+    "medium": "http://download.ted.com/talks/RanaelKaliouby_2015W.mp4",
+    "high": "http://download.ted.com/talks/RanaelKaliouby_2015W-480p.mp4"
+  },
+  "viewCount": 1276392,
+  "year": "2015"
+}

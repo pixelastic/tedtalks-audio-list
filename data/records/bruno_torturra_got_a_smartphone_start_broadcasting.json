@@ -1,0 +1,50 @@
+{
+  "audio": "http://download.ted.com/talks/BrunoTorturra_2014G.mp3",
+  "author": "Bruno Torturra",
+  "dateFilmed": 1412553600,
+  "datePublished": 1418918463,
+  "description": "In 2011, journalist Bruno Torturra covered a protest in São Paulo which turned ugly. His experience of being teargassed had a profound effect on the way he thought about his work, and he quit his job to focus on broadcasting raw, unedited experiences online. In this fascinating talk, he shares some of the ways in which he's experimented with livestreaming on the web, and how in the process he has helped to create a very modern media network.",
+  "duration": 815,
+  "event": "TEDGlobal 2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/cdd1498e4fb0eae89e729521abaa8b8ba85e511d_2880x1620.jpg",
+  "keywords": [
+    "activism",
+    "journalism",
+    "media",
+    "online video",
+    "politics",
+    "social media",
+    "web"
+  ],
+  "mainLanguage": null,
+  "objectID": 2154,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 185,
+    "Ingenious": 42,
+    "Courageous": 138,
+    "Beautiful": 22,
+    "OK": 59,
+    "Persuasive": 37,
+    "Inspiring": 143,
+    "Confusing": 18,
+    "Funny": 10,
+    "Longwinded": 22,
+    "Fascinating": 35,
+    "Unconvincing": 26,
+    "Jaw-dropping": 10,
+    "Obnoxious": 8
+  },
+  "slug": "bruno_torturra_got_a_smartphone_start_broadcasting",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/cdd1498e4fb0eae89e729521abaa8b8ba85e511d_2880x1620.jpg?quality=89&w=600",
+  "title": "Got a smartphone? Start broadcasting",
+  "url": "https://www.ted.com/talks/bruno_torturra_got_a_smartphone_start_broadcasting",
+  "video": {
+    "low": "http://download.ted.com/talks/BrunoTorturra_2014G-light.mp4",
+    "medium": "http://download.ted.com/talks/BrunoTorturra_2014G.mp4",
+    "high": "http://download.ted.com/talks/BrunoTorturra_2014G-480p.mp4"
+  },
+  "viewCount": 1218562,
+  "year": "2014"
+}

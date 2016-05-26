@@ -1,0 +1,48 @@
+{
+  "audio": null,
+  "author": "Vusi Mahlasela",
+  "dateFilmed": 1181260800,
+  "datePublished": 1187695440,
+  "description": "After Vusi Mahlasela's 3-song set at TEDGlobal, the audience wouldn't let him go. His encore, \"Woza,\" showcases his brilliant guitar playing and multilingual lyrics.",
+  "duration": 299,
+  "event": "TEDGlobal 2007",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/15224_480x360.jpg",
+  "keywords": [
+    "Africa",
+    "entertainment",
+    "guitar",
+    "live music",
+    "music"
+  ],
+  "mainLanguage": null,
+  "objectID": 169,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 4,
+    "Fascinating": 48,
+    "Beautiful": 191,
+    "Longwinded": 4,
+    "Unconvincing": 5,
+    "Inspiring": 70,
+    "Funny": 13,
+    "Ingenious": 22,
+    "Confusing": 7,
+    "Jaw-dropping": 34,
+    "OK": 13,
+    "Courageous": 10,
+    "Persuasive": 2,
+    "Obnoxious": 0
+  },
+  "slug": "vusi_mahlasela_s_encore_at_tedglobal2007",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/15224_480x360.jpg?quality=89&w=600",
+  "title": "\"Woza\"",
+  "url": "https://www.ted.com/talks/vusi_mahlasela_s_encore_at_tedglobal2007",
+  "video": {
+    "low": "http://download.ted.com/talks/VusiMahlasela_Woza_2007G-light.mp4",
+    "medium": "http://download.ted.com/talks/VusiMahlasela_Woza_2007G.mp4",
+    "high": "http://download.ted.com/talks/VusiMahlasela_Woza_2007G-480p.mp4"
+  },
+  "viewCount": 365121,
+  "year": "2007"
+}

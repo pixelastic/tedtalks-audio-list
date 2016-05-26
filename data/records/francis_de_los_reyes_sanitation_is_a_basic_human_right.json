@@ -1,0 +1,49 @@
+{
+  "audio": "http://download.ted.com/talks/FrancisdelosReyes_2013U.mp3",
+  "author": "Francis de los Reyes",
+  "dateFilmed": 1376438400,
+  "datePublished": 1412003448,
+  "description": "Warning: This talk might contain much more than you'd ever want to know about the way the world poops. But as sanitation activist (and TED Fellow) Francis de los Reyes asks — doesn't everyone deserve a safe place to go?",
+  "duration": 501,
+  "event": "TED Fellows Retreat 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a477c1bccc1f06b44817d6cfaf71c36a8c8eda8f_2880x1620.jpg",
+  "keywords": [
+    "TED Fellows",
+    "global issues",
+    "health",
+    "infrastructure",
+    "public health",
+    "sanitation"
+  ],
+  "mainLanguage": null,
+  "objectID": 2097,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 27,
+    "Informative": 251,
+    "Fascinating": 49,
+    "Persuasive": 139,
+    "Inspiring": 105,
+    "Ingenious": 34,
+    "Funny": 34,
+    "Courageous": 17,
+    "Jaw-dropping": 20,
+    "Confusing": 1,
+    "Unconvincing": 1,
+    "Obnoxious": 8,
+    "Longwinded": 1,
+    "OK": 10
+  },
+  "slug": "francis_de_los_reyes_sanitation_is_a_basic_human_right",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a477c1bccc1f06b44817d6cfaf71c36a8c8eda8f_2880x1620.jpg?quality=89&w=600",
+  "title": "Sanitation is a basic human right",
+  "url": "https://www.ted.com/talks/francis_de_los_reyes_sanitation_is_a_basic_human_right",
+  "video": {
+    "low": "http://download.ted.com/talks/FrancisdelosReyes_2013U-light.mp4",
+    "medium": "http://download.ted.com/talks/FrancisdelosReyes_2013U.mp4",
+    "high": "http://download.ted.com/talks/FrancisdelosReyes_2013U-480p.mp4"
+  },
+  "viewCount": 714668,
+  "year": "2013"
+}

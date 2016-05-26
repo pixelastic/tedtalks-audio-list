@@ -1,0 +1,49 @@
+{
+  "audio": null,
+  "author": "Rick Falkvinge",
+  "dateFilmed": 1331424000,
+  "datePublished": 1333289675,
+  "description": "The Pirate Party fights for transparency, anonymity and sensible copyright laws. At TEDxObserver, Rick Falkvinge explains how he became the leader of Europe’s tech-driven political party, which so far has won 17 seats across national parliaments in Europe.",
+  "duration": 911,
+  "event": "TEDxObserver",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/660209dd3a692ac31280e55016795ccfb9270f6e_800x600.jpg",
+  "keywords": [
+    "Internet",
+    "TEDx",
+    "global issues",
+    "politics",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 1407,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 145,
+    "Funny": 65,
+    "Fascinating": 53,
+    "Courageous": 141,
+    "Inspiring": 292,
+    "Persuasive": 183,
+    "Ingenious": 27,
+    "Unconvincing": 26,
+    "OK": 59,
+    "Longwinded": 25,
+    "Confusing": 11,
+    "Beautiful": 7,
+    "Obnoxious": 22,
+    "Jaw-dropping": 30
+  },
+  "slug": "rick_falkvinge_i_am_a_pirate",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/660209dd3a692ac31280e55016795ccfb9270f6e_800x600.jpg?quality=89&w=600",
+  "title": "I am a pirate",
+  "url": "https://www.ted.com/talks/rick_falkvinge_i_am_a_pirate",
+  "video": {
+    "youtube": {
+      "id": "zsI3-IEWgFg",
+      "url": "http://www.ted.com/tedx/events/4422"
+    }
+  },
+  "viewCount": 165219,
+  "year": "2012"
+}

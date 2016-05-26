@@ -1,0 +1,61 @@
+{
+  "audio": null,
+  "author": "Jenna McCarthy",
+  "dateFilmed": 1320969600,
+  "datePublished": 1329234098,
+  "description": "In this funny, casual talk from TEDx, writer Jenna McCarthy shares surprising research on how marriages (especially happy marriages) really work. One tip: Do not try to win an Oscar for best actress.",
+  "duration": 677,
+  "event": "TEDxAmericanRiviera",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a73f286b6b7a2643f2b8e8bfb98bfff64c5919e8_800x600.jpg",
+  "keywords": [
+    "TEDx",
+    "culture",
+    "humor",
+    "love",
+    "relationships",
+    "sex"
+  ],
+  "mainLanguage": null,
+  "objectID": 1357,
+  "otherLanguages": {
+    "my": "Burmese",
+    "ca": "Catalan",
+    "zh-tw": "Chinese, Traditional",
+    "nl": "Dutch",
+    "en": "English",
+    "de": "German",
+    "he": "Hebrew",
+    "it": "Italian",
+    "kk": "Kazakh",
+    "pt": "Portuguese",
+    "sv": "Swedish",
+    "uk": "Ukrainian"
+  },
+  "ratings": {
+    "Funny": 1255,
+    "Informative": 488,
+    "Obnoxious": 412,
+    "Inspiring": 220,
+    "OK": 401,
+    "Longwinded": 129,
+    "Unconvincing": 501,
+    "Ingenious": 87,
+    "Beautiful": 97,
+    "Fascinating": 144,
+    "Persuasive": 130,
+    "Confusing": 66,
+    "Jaw-dropping": 21,
+    "Courageous": 42
+  },
+  "slug": "jenna_mccarthy_what_you_don_t_know_about_marriage",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a73f286b6b7a2643f2b8e8bfb98bfff64c5919e8_800x600.jpg?quality=89&w=600",
+  "title": "What you don't know about marriage",
+  "url": "https://www.ted.com/talks/jenna_mccarthy_what_you_don_t_know_about_marriage",
+  "video": {
+    "low": "http://download.ted.com/talks/JennaMcCarthy_2011X-light.mp4",
+    "medium": "http://download.ted.com/talks/JennaMcCarthy_2011X.mp4",
+    "high": "http://download.ted.com/talks/JennaMcCarthy_2011X-480p.mp4"
+  },
+  "viewCount": 3780953,
+  "year": "2011"
+}

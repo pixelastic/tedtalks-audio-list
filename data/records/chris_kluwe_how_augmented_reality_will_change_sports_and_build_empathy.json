@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/ChrisKluwe_2014.mp3",
+  "author": "Chris Kluwe",
+  "dateFilmed": 1394496000,
+  "datePublished": 1400770859,
+  "description": "Chris Kluwe wants to look into the future of sports and think about how technology will help not just players and coaches, but fans. Here the former NFL punter envisions a future in which augmented reality will help people experience sports as if they are directly on the field -- and maybe even help them see others in a new light, too.",
+  "duration": 551,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/9b43acda94d7e3743aa877ca5b492862b860fb28_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "sports",
+    "technology",
+    "virtual reality"
+  ],
+  "mainLanguage": null,
+  "objectID": 2007,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 209,
+    "Inspiring": 99,
+    "Persuasive": 65,
+    "OK": 111,
+    "Longwinded": 25,
+    "Obnoxious": 85,
+    "Fascinating": 90,
+    "Courageous": 10,
+    "Unconvincing": 128,
+    "Funny": 22,
+    "Confusing": 19,
+    "Ingenious": 32,
+    "Beautiful": 19,
+    "Jaw-dropping": 9
+  },
+  "slug": "chris_kluwe_how_augmented_reality_will_change_sports_and_build_empathy",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/9b43acda94d7e3743aa877ca5b492862b860fb28_1600x1200.jpg?quality=89&w=600",
+  "title": "How augmented reality will change sports ... and build empathy",
+  "url": "https://www.ted.com/talks/chris_kluwe_how_augmented_reality_will_change_sports_and_build_empathy",
+  "video": {
+    "low": "http://download.ted.com/talks/ChrisKluwe_2014-light.mp4",
+    "medium": "http://download.ted.com/talks/ChrisKluwe_2014.mp4",
+    "high": "http://download.ted.com/talks/ChrisKluwe_2014-480p.mp4"
+  },
+  "viewCount": 1109763,
+  "year": "2014"
+}

@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/DanielKish_2015.mp3",
+  "author": "Daniel Kish",
+  "dateFilmed": 1426550400,
+  "datePublished": 1427813186,
+  "description": "Daniel Kish has been blind since he was 13 months old, but has learned to “see” using a form of echolocation. He clicks his tongue and sends out flashes of sound that bounce off surfaces in the environment and return to him, helping him to construct an understanding of the space around him. In a rousing talk, Kish demonstrates how this works and asks us to let go of our fear of the “dark unknown.” ",
+  "duration": 783,
+  "event": "TED2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/9d9e218a26b00bd5a0eb2f69f9a44e768fdebc26_2880x1620.jpg",
+  "keywords": [
+    "Senses",
+    "disability",
+    "fear",
+    "mind"
+  ],
+  "mainLanguage": null,
+  "objectID": 2224,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 148,
+    "Inspiring": 292,
+    "Fascinating": 219,
+    "Courageous": 89,
+    "Jaw-dropping": 57,
+    "Beautiful": 56,
+    "Ingenious": 38,
+    "Funny": 25,
+    "OK": 19,
+    "Longwinded": 3,
+    "Confusing": 1,
+    "Persuasive": 8,
+    "Unconvincing": 4,
+    "Obnoxious": 1
+  },
+  "slug": "daniel_kish_how_i_use_sonar_to_navigate_the_world",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/9d9e218a26b00bd5a0eb2f69f9a44e768fdebc26_2880x1620.jpg?quality=89&w=600",
+  "title": "How I use sonar to navigate the world",
+  "url": "https://www.ted.com/talks/daniel_kish_how_i_use_sonar_to_navigate_the_world",
+  "video": {
+    "low": "http://download.ted.com/talks/DanielKish_2015-light.mp4",
+    "medium": "http://download.ted.com/talks/DanielKish_2015.mp4",
+    "high": "http://download.ted.com/talks/DanielKish_2015-480p.mp4"
+  },
+  "viewCount": 1012806,
+  "year": "2015"
+}

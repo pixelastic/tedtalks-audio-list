@@ -1,0 +1,57 @@
+{
+  "audio": null,
+  "author": "Matthew Childs",
+  "dateFilmed": 1233844140,
+  "datePublished": 1239930000,
+  "description": "In this talk from TED University 2009, veteran rock climber Matthew Childs shares nine pointers for rock climbing. These handy tips bear on an effective life at sea level, too.",
+  "duration": 288,
+  "event": "TED2009",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/84344_800x600.jpg",
+  "keywords": [
+    "TED Conference",
+    "adventure",
+    "entertainment",
+    "environment",
+    "nature"
+  ],
+  "mainLanguage": null,
+  "objectID": 518,
+  "otherLanguages": {
+    "sq": "Albanian",
+    "zh-cn": "Chinese, Simplified",
+    "zh-tw": "Chinese, Traditional",
+    "de": "German",
+    "ja": "Japanese",
+    "ko": "Korean",
+    "es": "Spanish",
+    "th": "Thai",
+    "tr": "Turkish"
+  },
+  "ratings": {
+    "Informative": 97,
+    "OK": 69,
+    "Inspiring": 171,
+    "Persuasive": 40,
+    "Fascinating": 31,
+    "Beautiful": 21,
+    "Courageous": 35,
+    "Funny": 27,
+    "Unconvincing": 16,
+    "Jaw-dropping": 11,
+    "Ingenious": 24,
+    "Confusing": 5,
+    "Obnoxious": 4,
+    "Longwinded": 0
+  },
+  "slug": "matthew_childs_9_rules_of_rock_climbing",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/84344_800x600.jpg?quality=89&w=600",
+  "title": "9 life lessons from rock climbing",
+  "url": "https://www.ted.com/talks/matthew_childs_9_rules_of_rock_climbing",
+  "video": {
+    "low": "http://download.ted.com/talks/MatthewChilds_2009U-light.mp4",
+    "medium": "http://download.ted.com/talks/MatthewChilds_2009U.mp4",
+    "high": "http://download.ted.com/talks/MatthewChilds_2009U-480p.mp4"
+  },
+  "viewCount": 659830,
+  "year": "2009"
+}

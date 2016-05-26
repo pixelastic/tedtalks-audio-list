@@ -1,0 +1,57 @@
+{
+  "audio": "http://download.ted.com/talks/DavidPogue_2006.mp3",
+  "author": "David Pogue",
+  "dateFilmed": 1140739200,
+  "datePublished": 1151367060,
+  "description": "New York Times columnist David Pogue takes aim at technology’s worst interface-design offenders, and provides encouraging examples of products that get it right. To funny things up, he bursts into song. ",
+  "duration": 1286,
+  "event": "TED2006",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ec8cb05b010ea5c373e085b4349e30723ae4aff0_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "computers",
+    "entertainment",
+    "interface design",
+    "media",
+    "music",
+    "performance",
+    "simplicity",
+    "software",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 7,
+  "otherLanguages": {
+    "ar": "Arabic",
+    "he": "Hebrew",
+    "it": "Italian",
+    "nb": "Norwegian Bokmal"
+  },
+  "ratings": {
+    "Funny": 931,
+    "Courageous": 42,
+    "Ingenious": 176,
+    "Beautiful": 53,
+    "Unconvincing": 99,
+    "Longwinded": 75,
+    "Informative": 380,
+    "Inspiring": 225,
+    "Fascinating": 152,
+    "Confusing": 27,
+    "OK": 140,
+    "Persuasive": 225,
+    "Jaw-dropping": 51,
+    "Obnoxious": 136
+  },
+  "slug": "david_pogue_says_simplicity_sells",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ec8cb05b010ea5c373e085b4349e30723ae4aff0_1600x1200.jpg?quality=89&w=600",
+  "title": "Simplicity sells",
+  "url": "https://www.ted.com/talks/david_pogue_says_simplicity_sells",
+  "video": {
+    "low": "http://download.ted.com/talks/DavidPogue_2006-light.mp4",
+    "medium": "http://download.ted.com/talks/DavidPogue_2006.mp4",
+    "high": "http://download.ted.com/talks/DavidPogue_2006-480p.mp4"
+  },
+  "viewCount": 1550343,
+  "year": "2006"
+}

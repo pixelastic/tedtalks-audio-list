@@ -1,0 +1,47 @@
+{
+  "audio": null,
+  "author": "Don Norman",
+  "dateFilmed": 1044144000,
+  "datePublished": 1236586860,
+  "description": "In this talk from 2003, design critic Don Norman turns his incisive eye toward beauty, fun, pleasure and emotion, as he looks at design that makes people happy. He names the three emotional cues that a well-designed product must hit to succeed.",
+  "duration": 761,
+  "event": "TED2003",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/75971_800x600.jpg",
+  "keywords": [
+    "TED Conference",
+    "creativity",
+    "design",
+    "happiness"
+  ],
+  "mainLanguage": null,
+  "objectID": 480,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Funny": 276,
+    "Fascinating": 179,
+    "Informative": 175,
+    "Persuasive": 75,
+    "Ingenious": 70,
+    "Inspiring": 260,
+    "Beautiful": 125,
+    "OK": 71,
+    "Obnoxious": 3,
+    "Jaw-dropping": 19,
+    "Confusing": 11,
+    "Unconvincing": 24,
+    "Longwinded": 12,
+    "Courageous": 10
+  },
+  "slug": "don_norman_on_design_and_emotion",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/75971_800x600.jpg?quality=89&w=600",
+  "title": "3 ways good design makes you happy",
+  "url": "https://www.ted.com/talks/don_norman_on_design_and_emotion",
+  "video": {
+    "low": "http://download.ted.com/talks/DonNorman_2003-light.mp4",
+    "medium": "http://download.ted.com/talks/DonNorman_2003.mp4",
+    "high": "http://download.ted.com/talks/DonNorman_2003-480p.mp4"
+  },
+  "viewCount": 1040119,
+  "year": "2003"
+}

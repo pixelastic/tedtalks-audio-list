@@ -1,0 +1,63 @@
+{
+  "audio": null,
+  "author": "Barry Schuler",
+  "dateFilmed": 1214827020,
+  "datePublished": 1232586900,
+  "description": "What is genomics? How will it affect our lives? In this intriguing primer on the genomics revolution, entrepreneur Barry Schuler says we can at least expect healthier, tastier food. He suggests we start with the pinot noir grape, to build better wines.",
+  "duration": 1286,
+  "event": "Taste3 2008",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/66737_800x600.jpg",
+  "keywords": [
+    "biology",
+    "entrepreneur",
+    "food",
+    "genetics",
+    "science",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 437,
+  "otherLanguages": {
+    "bg": "Bulgarian",
+    "zh-tw": "Chinese, Traditional",
+    "nl": "Dutch",
+    "en": "English",
+    "fr": "French",
+    "el": "Greek",
+    "he": "Hebrew",
+    "ja": "Japanese",
+    "ko": "Korean",
+    "pl": "Polish",
+    "pt": "Portuguese",
+    "pt-br": "Portuguese, Brazilian",
+    "es": "Spanish",
+    "vi": "Vietnamese"
+  },
+  "ratings": {
+    "OK": 31,
+    "Unconvincing": 25,
+    "Informative": 162,
+    "Fascinating": 134,
+    "Persuasive": 44,
+    "Inspiring": 61,
+    "Courageous": 8,
+    "Ingenious": 34,
+    "Jaw-dropping": 34,
+    "Longwinded": 17,
+    "Funny": 26,
+    "Obnoxious": 12,
+    "Beautiful": 10,
+    "Confusing": 1
+  },
+  "slug": "barry_schuler_genomics_101",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/66737_800x600.jpg?quality=89&w=600",
+  "title": "Genomics 101",
+  "url": "https://www.ted.com/talks/barry_schuler_genomics_101",
+  "video": {
+    "low": "http://download.ted.com/talks/BarrySchuler_2008P-light.mp4",
+    "medium": "http://download.ted.com/talks/BarrySchuler_2008P.mp4",
+    "high": "http://download.ted.com/talks/BarrySchuler_2008P-480p.mp4"
+  },
+  "viewCount": 349372,
+  "year": "2008"
+}

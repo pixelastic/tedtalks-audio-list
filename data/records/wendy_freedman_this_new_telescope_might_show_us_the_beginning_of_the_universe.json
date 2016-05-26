@@ -1,0 +1,63 @@
+{
+  "audio": "http://download.ted.com/talks/WendyFreedman_2014G.mp3",
+  "author": "Wendy Freedman",
+  "dateFilmed": 1412812800,
+  "datePublished": 1441033079,
+  "description": "When and how did the universe begin? A global group of astronomers wants to answer that question by peering as far back in time as a large new telescope will let us see. Wendy Freedman headed the creation of the Giant Magellan Telescope, under construction in South America; at TEDGlobal in Rio, she shares a bold vision of the discoveries about our universe that the GMT could make possible.",
+  "duration": 938,
+  "event": "TEDGlobal 2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/54d2c8984c9d745434b1642f0f9dba785ee4a370_2880x1620.jpg",
+  "keywords": [
+    "astronomy",
+    "big bang",
+    "physics",
+    "science",
+    "space",
+    "universe"
+  ],
+  "mainLanguage": null,
+  "objectID": 2320,
+  "otherLanguages": {
+    "cs": "Czech",
+    "nl": "Dutch",
+    "fr": "French",
+    "gl": "Galician",
+    "he": "Hebrew",
+    "id": "Indonesian",
+    "fa": "Persian",
+    "pl": "Polish",
+    "pt-br": "Portuguese, Brazilian",
+    "ru": "Russian",
+    "sr": "Serbian",
+    "sk": "Slovak",
+    "uk": "Ukrainian",
+    "vi": "Vietnamese"
+  },
+  "ratings": {
+    "Informative": 231,
+    "Inspiring": 134,
+    "Fascinating": 202,
+    "OK": 33,
+    "Beautiful": 61,
+    "Persuasive": 14,
+    "Ingenious": 20,
+    "Jaw-dropping": 30,
+    "Funny": 6,
+    "Courageous": 4,
+    "Longwinded": 6,
+    "Unconvincing": 4,
+    "Obnoxious": 1,
+    "Confusing": 0
+  },
+  "slug": "wendy_freedman_this_new_telescope_might_show_us_the_beginning_of_the_universe",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/54d2c8984c9d745434b1642f0f9dba785ee4a370_2880x1620.jpg?quality=89&w=600",
+  "title": "This new telescope might show us the beginning of the universe",
+  "url": "https://www.ted.com/talks/wendy_freedman_this_new_telescope_might_show_us_the_beginning_of_the_universe",
+  "video": {
+    "low": "http://download.ted.com/talks/WendyFreedman_2014G-light.mp4",
+    "medium": "http://download.ted.com/talks/WendyFreedman_2014G.mp4",
+    "high": "http://download.ted.com/talks/WendyFreedman_2014G-480p.mp4"
+  },
+  "viewCount": 1086141,
+  "year": "2014"
+}

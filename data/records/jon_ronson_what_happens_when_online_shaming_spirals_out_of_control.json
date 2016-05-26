@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/JonRonson_2015G.mp3",
+  "author": "Jon Ronson",
+  "dateFilmed": 1434412800,
+  "datePublished": 1437404385,
+  "description": "Twitter gives a voice to the voiceless, a way to speak up and hit back at perceived injustice. But sometimes, says Jon Ronson, things go too far. In a jaw-dropping story of how one un-funny tweet ruined a woman's life and career, Ronson shows how online commenters can end up behaving like a baying mob -- and says it's time to rethink how we interact online.",
+  "duration": 1031,
+  "event": "TEDGlobalLondon",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/bd82943883da85a6df233090923b3699ee9f6f14_2880x1620.jpg",
+  "keywords": [
+    "culture",
+    "humanity",
+    "social media",
+    "society",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 2302,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Fascinating": 236,
+    "Persuasive": 211,
+    "Courageous": 248,
+    "Informative": 278,
+    "Jaw-dropping": 52,
+    "Funny": 26,
+    "Beautiful": 37,
+    "Inspiring": 156,
+    "Unconvincing": 33,
+    "Obnoxious": 6,
+    "Confusing": 2,
+    "Ingenious": 12,
+    "Longwinded": 6,
+    "OK": 34
+  },
+  "slug": "jon_ronson_what_happens_when_online_shaming_spirals_out_of_control",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/bd82943883da85a6df233090923b3699ee9f6f14_2880x1620.jpg?quality=89&w=600",
+  "title": "When online shaming spirals out of control",
+  "url": "https://www.ted.com/talks/jon_ronson_what_happens_when_online_shaming_spirals_out_of_control",
+  "video": {
+    "low": "http://download.ted.com/talks/JonRonson_2015G-light.mp4",
+    "medium": "http://download.ted.com/talks/JonRonson_2015G.mp4",
+    "high": "http://download.ted.com/talks/JonRonson_2015G-480p.mp4"
+  },
+  "viewCount": 1453094,
+  "year": "2015"
+}

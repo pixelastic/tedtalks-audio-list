@@ -1,0 +1,46 @@
+{
+  "audio": "http://download.ted.com/talks/EricDishman_2013S.mp3",
+  "author": "Eric Dishman",
+  "dateFilmed": 1364342400,
+  "datePublished": 1365692066,
+  "description": "When Eric Dishman was in college, doctors told him he had 2 to 3 years to live. That was a long time ago. Now, Dishman puts his experience and his expertise as a medical tech specialist together to suggest a bold idea for reinventing health care -- by putting the patient at the center of a treatment team.",
+  "duration": 959,
+  "event": "TED@Intel",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/c0694f2a60d1de3e606ab3c8f368ef037b39766d_1600x1200.jpg",
+  "keywords": [
+    "health care",
+    "heart health",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 1711,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Unconvincing": 19,
+    "Persuasive": 104,
+    "Informative": 124,
+    "Inspiring": 188,
+    "OK": 32,
+    "Ingenious": 32,
+    "Courageous": 89,
+    "Jaw-dropping": 28,
+    "Fascinating": 51,
+    "Longwinded": 6,
+    "Beautiful": 40,
+    "Obnoxious": 3,
+    "Funny": 7,
+    "Confusing": 0
+  },
+  "slug": "eric_dishman_health_care_should_be_a_team_sport",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/c0694f2a60d1de3e606ab3c8f368ef037b39766d_1600x1200.jpg?quality=89&w=600",
+  "title": "Health care should be a team sport",
+  "url": "https://www.ted.com/talks/eric_dishman_health_care_should_be_a_team_sport",
+  "video": {
+    "low": "http://download.ted.com/talks/EricDishman_2013S-light.mp4",
+    "medium": "http://download.ted.com/talks/EricDishman_2013S.mp4",
+    "high": "http://download.ted.com/talks/EricDishman_2013S-480p.mp4"
+  },
+  "viewCount": 734294,
+  "year": "2013"
+}

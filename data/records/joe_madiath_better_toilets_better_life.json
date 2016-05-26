@@ -1,0 +1,46 @@
+{
+  "audio": "http://download.ted.com/talks/JoeMadiath_2014G.mp3",
+  "author": "Joe Madiath",
+  "dateFilmed": 1413849600,
+  "datePublished": 1421942002,
+  "description": "In rural India, the lack of toilets creates a big, stinking problem. It leads to poor quality water, one of the leading causes of disease in India, and has a disproportionately negative effect on women. Joe Madiath introduces a program to help villagers help themselves, by building clean, protected water and sanitation systems and requiring everyone in the village to collaborate -- with significant benefits that ripple across health, education and even government.",
+  "duration": 727,
+  "event": "TEDGlobal 2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a37f6b925d1d052580f7512c13b2474e44ec6db9_2880x1620.jpg",
+  "keywords": [
+    "development",
+    "sanitation",
+    "water"
+  ],
+  "mainLanguage": null,
+  "objectID": 2173,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "OK": 57,
+    "Courageous": 49,
+    "Inspiring": 160,
+    "Informative": 114,
+    "Ingenious": 28,
+    "Persuasive": 54,
+    "Fascinating": 37,
+    "Beautiful": 26,
+    "Jaw-dropping": 16,
+    "Funny": 33,
+    "Longwinded": 1,
+    "Unconvincing": 2,
+    "Confusing": 7,
+    "Obnoxious": 2
+  },
+  "slug": "joe_madiath_better_toilets_better_life",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a37f6b925d1d052580f7512c13b2474e44ec6db9_2880x1620.jpg?quality=89&w=600",
+  "title": "Better toilets, better life",
+  "url": "https://www.ted.com/talks/joe_madiath_better_toilets_better_life",
+  "video": {
+    "low": "http://download.ted.com/talks/JoeMadiath_2014G-light.mp4",
+    "medium": "http://download.ted.com/talks/JoeMadiath_2014G.mp4",
+    "high": "http://download.ted.com/talks/JoeMadiath_2014G-480p.mp4"
+  },
+  "viewCount": 948922,
+  "year": "2014"
+}

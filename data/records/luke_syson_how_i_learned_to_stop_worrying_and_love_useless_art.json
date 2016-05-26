@@ -1,0 +1,50 @@
+{
+  "audio": "http://download.ted.com/talks/LukeSyson_2013X.mp3",
+  "author": "Luke Syson",
+  "dateFilmed": 1381881600,
+  "datePublished": 1389889224,
+  "description": "Luke Syson was a curator of Renaissance art, of transcendent paintings of saints and solemn Italian ladies -- serious art. And then he changed jobs, and inherited the Met's collection of ceramics -- pretty, frilly, \"useless\" candlesticks and vases. He didn't like it. He didn't get it. Until one day … (Filmed at TEDxMet.)",
+  "duration": 791,
+  "event": "TEDxMet",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/3062642b5f75505f83a26b6428eb9bbf348ba40f_1600x1200.jpg",
+  "keywords": [
+    "TEDx",
+    "art",
+    "arts",
+    "design",
+    "history",
+    "museums"
+  ],
+  "mainLanguage": null,
+  "objectID": 1907,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified"
+  },
+  "ratings": {
+    "OK": 65,
+    "Inspiring": 107,
+    "Beautiful": 61,
+    "Funny": 115,
+    "Persuasive": 31,
+    "Unconvincing": 25,
+    "Longwinded": 17,
+    "Confusing": 20,
+    "Informative": 52,
+    "Obnoxious": 18,
+    "Jaw-dropping": 3,
+    "Courageous": 21,
+    "Fascinating": 57,
+    "Ingenious": 25
+  },
+  "slug": "luke_syson_how_i_learned_to_stop_worrying_and_love_useless_art",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/3062642b5f75505f83a26b6428eb9bbf348ba40f_1600x1200.jpg?quality=89&w=600",
+  "title": "How I learned to stop worrying and love \"useless\" art",
+  "url": "https://www.ted.com/talks/luke_syson_how_i_learned_to_stop_worrying_and_love_useless_art",
+  "video": {
+    "low": "http://download.ted.com/talks/LukeSyson_2013X-light.mp4",
+    "medium": "http://download.ted.com/talks/LukeSyson_2013X.mp4",
+    "high": "http://download.ted.com/talks/LukeSyson_2013X-480p.mp4"
+  },
+  "viewCount": 1089460,
+  "year": "2013"
+}

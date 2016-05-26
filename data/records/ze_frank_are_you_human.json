@@ -1,0 +1,50 @@
+{
+  "audio": "http://download.ted.com/talks/ZeFrank_2014.mp3",
+  "author": "Ze Frank",
+  "dateFilmed": 1395273600,
+  "datePublished": 1405696133,
+  "description": "Have you ever wondered: Am I a human being? Ze Frank suggests a series of simple questions that will determine this. Please relax and follow the prompts. Let's begin … ",
+  "duration": 274,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/05baea8e5b77927049d526c970558c023f1fb31d_2400x1800.jpg",
+  "keywords": [
+    "TED Conference",
+    "comedy",
+    "community",
+    "entertainment",
+    "humanity",
+    "humor",
+    "performance"
+  ],
+  "mainLanguage": null,
+  "objectID": 2049,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Funny": 1598,
+    "Beautiful": 959,
+    "Informative": 134,
+    "Inspiring": 599,
+    "Fascinating": 321,
+    "Persuasive": 52,
+    "Courageous": 133,
+    "Ingenious": 228,
+    "Longwinded": 56,
+    "OK": 335,
+    "Confusing": 77,
+    "Jaw-dropping": 42,
+    "Obnoxious": 69,
+    "Unconvincing": 127
+  },
+  "slug": "ze_frank_are_you_human",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/05baea8e5b77927049d526c970558c023f1fb31d_2400x1800.jpg?quality=89&w=600",
+  "title": "Are you human?",
+  "url": "https://www.ted.com/talks/ze_frank_are_you_human",
+  "video": {
+    "low": "http://download.ted.com/talks/ZeFrank_2014-light.mp4",
+    "medium": "http://download.ted.com/talks/ZeFrank_2014.mp4",
+    "high": "http://download.ted.com/talks/ZeFrank_2014-480p.mp4"
+  },
+  "viewCount": 3561917,
+  "year": "2014"
+}

@@ -1,0 +1,63 @@
+{
+  "audio": null,
+  "author": "Peter Hirshberg",
+  "dateFilmed": 1197417600,
+  "datePublished": 1220512740,
+  "description": "In this absorbing look at emerging media and tech history, Peter Hirshberg shares some crucial lessons from Silicon Valley and explains why the web is so much more than \"better TV.\"",
+  "duration": 1899,
+  "event": "EG 2007",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/50991_480x360.jpg",
+  "keywords": [
+    "business",
+    "history",
+    "media",
+    "technology",
+    "telecom"
+  ],
+  "mainLanguage": null,
+  "objectID": 339,
+  "otherLanguages": {
+    "ar": "Arabic",
+    "bg": "Bulgarian",
+    "zh-cn": "Chinese, Simplified",
+    "zh-tw": "Chinese, Traditional",
+    "en": "English",
+    "fr": "French",
+    "de": "German",
+    "he": "Hebrew",
+    "it": "Italian",
+    "ko": "Korean",
+    "pl": "Polish",
+    "pt-br": "Portuguese, Brazilian",
+    "ro": "Romanian",
+    "es": "Spanish",
+    "vi": "Vietnamese"
+  },
+  "ratings": {
+    "Persuasive": 24,
+    "Funny": 27,
+    "Fascinating": 59,
+    "Beautiful": 6,
+    "Informative": 153,
+    "Inspiring": 25,
+    "Confusing": 17,
+    "Unconvincing": 17,
+    "OK": 45,
+    "Longwinded": 29,
+    "Ingenious": 21,
+    "Jaw-dropping": 7,
+    "Obnoxious": 7,
+    "Courageous": 1
+  },
+  "slug": "peter_hirshberg_on_tv_and_the_web",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/50991_480x360.jpg?quality=89&w=600",
+  "title": "The web is more than \"better TV\"",
+  "url": "https://www.ted.com/talks/peter_hirshberg_on_tv_and_the_web",
+  "video": {
+    "low": "http://download.ted.com/talks/PeterHirschberg_2007P-light.mp4",
+    "medium": "http://download.ted.com/talks/PeterHirschberg_2007P.mp4",
+    "high": "http://download.ted.com/talks/PeterHirschberg_2007P-480p.mp4"
+  },
+  "viewCount": 236534,
+  "year": "2007"
+}

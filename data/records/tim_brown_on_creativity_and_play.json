@@ -1,0 +1,61 @@
+{
+  "audio": null,
+  "author": "Tim Brown",
+  "dateFilmed": 1210118400,
+  "datePublished": 1225933200,
+  "description": "At the 2008 Serious Play conference, designer Tim Brown talks about the powerful relationship between creative thinking and play -- with many examples you can try at home (and one that maybe you shouldn't).",
+  "duration": 1678,
+  "event": "Serious Play 2008",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/58155_640x480.jpg",
+  "keywords": [
+    "art",
+    "creativity",
+    "design",
+    "education",
+    "play",
+    "toy"
+  ],
+  "mainLanguage": null,
+  "objectID": 392,
+  "otherLanguages": {
+    "ar": "Arabic",
+    "zh-cn": "Chinese, Simplified",
+    "zh-tw": "Chinese, Traditional",
+    "fr": "French",
+    "de": "German",
+    "ja": "Japanese",
+    "fa": "Persian",
+    "pl": "Polish",
+    "pt": "Portuguese",
+    "ro": "Romanian",
+    "ru": "Russian",
+    "tr": "Turkish"
+  },
+  "ratings": {
+    "Ingenious": 204,
+    "Inspiring": 686,
+    "Funny": 298,
+    "Informative": 433,
+    "Persuasive": 279,
+    "Courageous": 60,
+    "OK": 101,
+    "Longwinded": 102,
+    "Fascinating": 318,
+    "Beautiful": 42,
+    "Confusing": 16,
+    "Jaw-dropping": 55,
+    "Obnoxious": 5,
+    "Unconvincing": 20
+  },
+  "slug": "tim_brown_on_creativity_and_play",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/58155_640x480.jpg?quality=89&w=600",
+  "title": "Tales of creativity and play",
+  "url": "https://www.ted.com/talks/tim_brown_on_creativity_and_play",
+  "video": {
+    "low": "http://download.ted.com/talks/TimBrown_2008P-light.mp4",
+    "medium": "http://download.ted.com/talks/TimBrown_2008P.mp4",
+    "high": "http://download.ted.com/talks/TimBrown_2008P-480p.mp4"
+  },
+  "viewCount": 1663921,
+  "year": "2008"
+}

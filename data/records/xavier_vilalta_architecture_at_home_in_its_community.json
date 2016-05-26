@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/XavierVilalta_2013G.mp3",
+  "author": "Xavier Vilalta",
+  "dateFilmed": 1370908800,
+  "datePublished": 1382713208,
+  "description": "When TED Fellow Xavier Vilalta was commissioned to create a multistory shopping mall in Addis Ababa, he panicked. Other centers represented everything he hated about contemporary architecture: wasteful, glass towers requiring tons of energy whose design had absolutely nothing to do with Africa. In this charming talk, Vilalta shows how he champions an alternative approach: to harness nature, reference design tradition and create beautiful, modern, iconic buildings fit for a community.",
+  "duration": 464,
+  "event": "TEDGlobal 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/45a5d32a2b066d669f6a3310014934ff480339bc_1600x1200.jpg",
+  "keywords": [
+    "Africa",
+    "TED Fellows",
+    "architecture",
+    "design"
+  ],
+  "mainLanguage": null,
+  "objectID": 1854,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Inspiring": 160,
+    "Beautiful": 68,
+    "Informative": 68,
+    "OK": 49,
+    "Ingenious": 101,
+    "Fascinating": 77,
+    "Persuasive": 29,
+    "Courageous": 14,
+    "Funny": 3,
+    "Unconvincing": 13,
+    "Longwinded": 4,
+    "Jaw-dropping": 13,
+    "Confusing": 6,
+    "Obnoxious": 3
+  },
+  "slug": "xavier_vilalta_architecture_at_home_in_its_community",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/45a5d32a2b066d669f6a3310014934ff480339bc_1600x1200.jpg?quality=89&w=600",
+  "title": "Architecture at home in its community",
+  "url": "https://www.ted.com/talks/xavier_vilalta_architecture_at_home_in_its_community",
+  "video": {
+    "low": "http://download.ted.com/talks/XavierVilalta_2013G-light.mp4",
+    "medium": "http://download.ted.com/talks/XavierVilalta_2013G.mp4",
+    "high": "http://download.ted.com/talks/XavierVilalta_2013G-480p.mp4"
+  },
+  "viewCount": 963638,
+  "year": "2013"
+}

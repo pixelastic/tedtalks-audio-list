@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/YvesMorieux_2015S.mp3",
+  "author": "Yves Morieux",
+  "dateFilmed": 1435708800,
+  "datePublished": 1440774705,
+  "description": "Modern work -- from waiting tables to crunching numbers to designing products -- is about solving brand-new problems every day, flexibly and collaboratively. But as Yves Morieux shows in this insightful talk, too often, an overload of rules, processes and metrics keeps us from doing our best work together. Meet the new frontier of productivity: cooperation.",
+  "duration": 998,
+  "event": "TED@BCG London",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/18f7cbd893bce653534edfbb9c1f503dacefef7e_2880x1620.jpg",
+  "keywords": [
+    "cooperation",
+    "leadership",
+    "productivity",
+    "work"
+  ],
+  "mainLanguage": null,
+  "objectID": 2321,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Longwinded": 57,
+    "Unconvincing": 35,
+    "Courageous": 74,
+    "Ingenious": 115,
+    "Inspiring": 577,
+    "Beautiful": 186,
+    "Persuasive": 309,
+    "OK": 55,
+    "Funny": 65,
+    "Informative": 256,
+    "Fascinating": 228,
+    "Jaw-dropping": 19,
+    "Confusing": 22,
+    "Obnoxious": 6
+  },
+  "slug": "yves_morieux_how_too_many_rules_at_work_keep_you_from_getting_things_done",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/18f7cbd893bce653534edfbb9c1f503dacefef7e_2880x1620.jpg?quality=89&w=600",
+  "title": "How too many rules at work keep you from getting things done",
+  "url": "https://www.ted.com/talks/yves_morieux_how_too_many_rules_at_work_keep_you_from_getting_things_done",
+  "video": {
+    "low": "http://download.ted.com/talks/YvesMorieux_2015S-light.mp4",
+    "medium": "http://download.ted.com/talks/YvesMorieux_2015S.mp4",
+    "high": "http://download.ted.com/talks/YvesMorieux_2015S-480p.mp4"
+  },
+  "viewCount": 1587661,
+  "year": "2015"
+}

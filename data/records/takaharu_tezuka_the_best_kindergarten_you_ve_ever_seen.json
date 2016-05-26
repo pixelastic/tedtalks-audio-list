@@ -1,0 +1,50 @@
+{
+  "audio": "http://download.ted.com/talks/TakaharuTezuka_2014X.mp3",
+  "author": "Takaharu Tezuka",
+  "dateFilmed": 1411862400,
+  "datePublished": 1429024347,
+  "description": "At this school in Tokyo, five-year-olds cause traffic jams and windows are for Santa to climb into. Meet: the world's cutest kindergarten, designed by architect Takaharu Tezuka. In this charming talk, he walks us through a design process that really lets kids be kids.",
+  "duration": 587,
+  "event": "TEDxKyoto",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/949cf7f68bb3385b19bb0c2268c69b5d41698ee8_2880x1620.jpg",
+  "keywords": [
+    "TEDx",
+    "architecture",
+    "children",
+    "design",
+    "education",
+    "play",
+    "youth"
+  ],
+  "mainLanguage": null,
+  "objectID": 2232,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Funny": 618,
+    "Inspiring": 1224,
+    "Beautiful": 519,
+    "Ingenious": 644,
+    "Persuasive": 171,
+    "Informative": 231,
+    "Fascinating": 586,
+    "Courageous": 87,
+    "Confusing": 14,
+    "Unconvincing": 18,
+    "Jaw-dropping": 54,
+    "OK": 93,
+    "Longwinded": 29,
+    "Obnoxious": 15
+  },
+  "slug": "takaharu_tezuka_the_best_kindergarten_you_ve_ever_seen",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/949cf7f68bb3385b19bb0c2268c69b5d41698ee8_2880x1620.jpg?quality=89&w=600",
+  "title": "The best kindergarten you’ve ever seen",
+  "url": "https://www.ted.com/talks/takaharu_tezuka_the_best_kindergarten_you_ve_ever_seen",
+  "video": {
+    "low": "http://download.ted.com/talks/TakaharuTezuka_2014X-light.mp4",
+    "medium": "http://download.ted.com/talks/TakaharuTezuka_2014X.mp4",
+    "high": "http://download.ted.com/talks/TakaharuTezuka_2014X-480p.mp4"
+  },
+  "viewCount": 3523579,
+  "year": "2014"
+}

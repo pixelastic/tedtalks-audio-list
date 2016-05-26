@@ -1,0 +1,50 @@
+{
+  "audio": "http://download.ted.com/talks/ShubhenduSharma_2014U.mp3",
+  "author": "Shubhendu Sharma",
+  "dateFilmed": 1394928000,
+  "datePublished": 1409844146,
+  "description": "A forest planted by humans, then left to nature’s own devices, typically takes at least 100 years to mature. But what if we could make the process happen ten times faster? In this short talk, eco-entrepreneur (and TED Fellow) Shubhendu Sharma explains how to create a mini-forest ecosystem anywhere.",
+  "duration": 262,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/4c2a0a97a31a1e8bc7a05a2ee1835eaa636730e5_2400x1800.jpg",
+  "keywords": [
+    "TED Conference",
+    "TED Fellows",
+    "engineering",
+    "garden",
+    "nature",
+    "open-source",
+    "trees"
+  ],
+  "mainLanguage": null,
+  "objectID": 2075,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Ingenious": 325,
+    "Inspiring": 595,
+    "Jaw-dropping": 71,
+    "Fascinating": 195,
+    "Informative": 291,
+    "OK": 30,
+    "Persuasive": 112,
+    "Beautiful": 85,
+    "Courageous": 29,
+    "Longwinded": 6,
+    "Confusing": 12,
+    "Unconvincing": 7,
+    "Obnoxious": 3,
+    "Funny": 3
+  },
+  "slug": "shubhendu_sharma_how_to_grow_a_tiny_forest_anywhere",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/4c2a0a97a31a1e8bc7a05a2ee1835eaa636730e5_2400x1800.jpg?quality=89&w=600",
+  "title": "How to grow a tiny forest anywhere ",
+  "url": "https://www.ted.com/talks/shubhendu_sharma_how_to_grow_a_tiny_forest_anywhere",
+  "video": {
+    "low": "http://download.ted.com/talks/ShubhenduSharma_2014U-light.mp4",
+    "medium": "http://download.ted.com/talks/ShubhenduSharma_2014U.mp4",
+    "high": "http://download.ted.com/talks/ShubhenduSharma_2014U-480p.mp4"
+  },
+  "viewCount": 992477,
+  "year": "2014"
+}

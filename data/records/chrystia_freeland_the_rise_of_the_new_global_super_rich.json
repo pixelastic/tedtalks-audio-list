@@ -1,0 +1,53 @@
+{
+  "audio": "http://download.ted.com/talks/ChrystiaFreeland_2013G.mp3",
+  "author": "Chrystia Freeland",
+  "dateFilmed": 1371859200,
+  "datePublished": 1378393234,
+  "description": "Technology is advancing in leaps and bounds -- and so is economic inequality, says writer Chrystia Freeland. In an impassioned talk, she charts the rise of a new class of plutocrats (those who are extremely powerful because they are extremely wealthy), and suggests that globalization and new technology are actually fueling, rather than closing, the global income gap. Freeland lays out three problems with plutocracy … and one glimmer of hope. ",
+  "duration": 924,
+  "event": "TEDGlobal 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/fec904a142c611df903d9d3d0ecd6cd4755dadfc_1600x1200.jpg",
+  "keywords": [
+    "business",
+    "economics",
+    "global issues",
+    "inequality",
+    "money"
+  ],
+  "mainLanguage": null,
+  "objectID": 1791,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified",
+    "hr": "Croatian",
+    "hu": "Hungarian",
+    "id": "Indonesian",
+    "tr": "Turkish"
+  },
+  "ratings": {
+    "Obnoxious": 73,
+    "Persuasive": 387,
+    "Informative": 558,
+    "Fascinating": 152,
+    "OK": 173,
+    "Unconvincing": 190,
+    "Jaw-dropping": 58,
+    "Courageous": 148,
+    "Inspiring": 174,
+    "Longwinded": 110,
+    "Confusing": 37,
+    "Ingenious": 24,
+    "Beautiful": 23,
+    "Funny": 16
+  },
+  "slug": "chrystia_freeland_the_rise_of_the_new_global_super_rich",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/fec904a142c611df903d9d3d0ecd6cd4755dadfc_1600x1200.jpg?quality=89&w=600",
+  "title": "The rise of the new global super-rich",
+  "url": "https://www.ted.com/talks/chrystia_freeland_the_rise_of_the_new_global_super_rich",
+  "video": {
+    "low": "http://download.ted.com/talks/ChrystiaFreeland_2013G-light.mp4",
+    "medium": "http://download.ted.com/talks/ChrystiaFreeland_2013G.mp4",
+    "high": "http://download.ted.com/talks/ChrystiaFreeland_2013G-480p.mp4"
+  },
+  "viewCount": 1751667,
+  "year": "2013"
+}

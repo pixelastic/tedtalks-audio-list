@@ -1,0 +1,49 @@
+{
+  "audio": "http://download.ted.com/talks/FabienCousteau_2014G.mp3",
+  "author": "Fabien Cousteau",
+  "dateFilmed": 1413158400,
+  "datePublished": 1414077779,
+  "description": "In 1963, Jacques Cousteau lived for 30 days in an underwater laboratory positioned on the floor of the Red Sea, and set a world record in the process. This summer, his grandson Fabien Cousteau broke that record. Cousteau the younger lived for 31 days aboard the Aquarius, an underwater research laboratory nine miles off the coast of Florida. In a charming talk he brings his wondrous adventure to life.",
+  "duration": 647,
+  "event": "TEDGlobal 2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e59296d12fa94a8d3e6c3084a2771f0d3318b8b9_2880x1620.jpg",
+  "keywords": [
+    "adventure",
+    "biodiversity",
+    "exploration",
+    "oceans",
+    "submarine"
+  ],
+  "mainLanguage": null,
+  "objectID": 2116,
+  "otherLanguages": {
+    "zh-tw": "Chinese, Traditional"
+  },
+  "ratings": {
+    "Beautiful": 232,
+    "Informative": 148,
+    "Fascinating": 244,
+    "Inspiring": 179,
+    "Jaw-dropping": 27,
+    "Courageous": 36,
+    "Persuasive": 27,
+    "Longwinded": 12,
+    "OK": 94,
+    "Unconvincing": 22,
+    "Ingenious": 22,
+    "Funny": 11,
+    "Obnoxious": 6,
+    "Confusing": 3
+  },
+  "slug": "fabien_cousteau_what_i_learned_from_spending_31_days_underwater",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e59296d12fa94a8d3e6c3084a2771f0d3318b8b9_2880x1620.jpg?quality=89&w=600",
+  "title": "What I learned from spending 31 days underwater",
+  "url": "https://www.ted.com/talks/fabien_cousteau_what_i_learned_from_spending_31_days_underwater",
+  "video": {
+    "low": "http://download.ted.com/talks/FabienCousteau_2014G-light.mp4",
+    "medium": "http://download.ted.com/talks/FabienCousteau_2014G.mp4",
+    "high": "http://download.ted.com/talks/FabienCousteau_2014G-480p.mp4"
+  },
+  "viewCount": 1154606,
+  "year": "2014"
+}

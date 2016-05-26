@@ -1,0 +1,48 @@
+{
+  "audio": null,
+  "author": "Malcolm Gladwell",
+  "dateFilmed": 1379548800,
+  "datePublished": 1380553694,
+  "description": "It's a classic underdog tale: David, a young shepherd armed only with a sling, beats Goliath, the mighty warrior. The story has transcended its biblical origins to become a common shorthand for unlikely victory. But, asks Malcolm Gladwell, is that really what the David and Goliath story is about?",
+  "duration": 940,
+  "event": "TEDSalon NY2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/20d0f1af09aa0eb9db66b013724270b167a15464_1600x1200.jpg",
+  "keywords": [
+    "ancient world",
+    "entertainment",
+    "history",
+    "storytelling",
+    "war"
+  ],
+  "mainLanguage": null,
+  "objectID": 1831,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 379,
+    "Fascinating": 496,
+    "OK": 97,
+    "Courageous": 32,
+    "Unconvincing": 162,
+    "Obnoxious": 39,
+    "Inspiring": 256,
+    "Persuasive": 156,
+    "Beautiful": 69,
+    "Jaw-dropping": 47,
+    "Ingenious": 130,
+    "Longwinded": 65,
+    "Funny": 26,
+    "Confusing": 15
+  },
+  "slug": "malcolm_gladwell_the_unheard_story_of_david_and_goliath",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/20d0f1af09aa0eb9db66b013724270b167a15464_1600x1200.jpg?quality=89&w=600",
+  "title": "The unheard story of David and Goliath",
+  "url": "https://www.ted.com/talks/malcolm_gladwell_the_unheard_story_of_david_and_goliath",
+  "video": {
+    "low": "http://download.ted.com/talks/MalcolmGladwell_2013S-light.mp4",
+    "medium": "http://download.ted.com/talks/MalcolmGladwell_2013S.mp4",
+    "high": "http://download.ted.com/talks/MalcolmGladwell_2013S-480p.mp4"
+  },
+  "viewCount": 2743437,
+  "year": "2013"
+}

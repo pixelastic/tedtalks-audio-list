@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/SergeiLupashin_2014S.mp3",
+  "author": "Sergei Lupashin",
+  "dateFilmed": 1406160000,
+  "datePublished": 1414510183,
+  "description": "Let's admit it: aerial photo drones and UAVs are a little creepy, and they come with big regulatory and safety problems. But aerial photos can be a powerful way of telling the truth about the world: the size of a protest, the spread of an oil spill, the wildlife hidden in a delta. Sergei Lupashin demos Fotokite, a nifty new way to see the world from on high, safely and under control.",
+  "duration": 383,
+  "event": "TEDSalon Berlin 2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/10126c828948ca0df05d84d792885a35be74a5a3_2880x1620.jpg",
+  "keywords": [
+    "TED Fellows",
+    "drones",
+    "photography",
+    "robots",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 2119,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 120,
+    "OK": 111,
+    "Unconvincing": 26,
+    "Fascinating": 74,
+    "Longwinded": 9,
+    "Ingenious": 74,
+    "Inspiring": 41,
+    "Persuasive": 19,
+    "Courageous": 4,
+    "Funny": 27,
+    "Beautiful": 26,
+    "Jaw-dropping": 5,
+    "Obnoxious": 2,
+    "Confusing": 9
+  },
+  "slug": "sergei_lupashin_a_flying_camera_on_a_leash",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/10126c828948ca0df05d84d792885a35be74a5a3_2880x1620.jpg?quality=89&w=600",
+  "title": "A flying camera ... on a leash",
+  "url": "https://www.ted.com/talks/sergei_lupashin_a_flying_camera_on_a_leash",
+  "video": {
+    "low": "http://download.ted.com/talks/SergeiLupashin_2014S-light.mp4",
+    "medium": "http://download.ted.com/talks/SergeiLupashin_2014S.mp4",
+    "high": "http://download.ted.com/talks/SergeiLupashin_2014S-480p.mp4"
+  },
+  "viewCount": 1178247,
+  "year": "2014"
+}

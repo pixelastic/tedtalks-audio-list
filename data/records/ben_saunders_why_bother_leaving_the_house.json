@@ -1,0 +1,62 @@
+{
+  "audio": "http://download.ted.com/talks/BenSaunders_2012S.mp3",
+  "author": "Ben Saunders",
+  "dateFilmed": 1352246400,
+  "datePublished": 1355500841,
+  "description": "Explorer Ben Saunders wants you to go outside! Not because it’s always pleasant and happy, but because that’s where the meat of life is, “the juice that we can suck out of our hours and days.” Saunders’ next outdoor excursion? To try to be the first in the world to walk from the coast of Antarctica to the South Pole and back again.",
+  "duration": 637,
+  "event": "TEDSalon London Fall 2012",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/d6523fdff934851fdba2cfb3c13202a2ba0b68f9_1600x1200.jpg",
+  "keywords": [
+    "culture",
+    "extreme sports",
+    "personal growth",
+    "potential",
+    "sports",
+    "travel"
+  ],
+  "mainLanguage": null,
+  "objectID": 1631,
+  "otherLanguages": {
+    "bg": "Bulgarian",
+    "zh-cn": "Chinese, Simplified",
+    "zh-tw": "Chinese, Traditional",
+    "cs": "Czech",
+    "de": "German",
+    "hu": "Hungarian",
+    "ja": "Japanese",
+    "pl": "Polish",
+    "pt-br": "Portuguese, Brazilian",
+    "ru": "Russian",
+    "es": "Spanish",
+    "tr": "Turkish",
+    "vi": "Vietnamese"
+  },
+  "ratings": {
+    "Persuasive": 129,
+    "Inspiring": 606,
+    "Courageous": 286,
+    "Beautiful": 84,
+    "Fascinating": 159,
+    "OK": 48,
+    "Informative": 44,
+    "Longwinded": 11,
+    "Obnoxious": 16,
+    "Confusing": 3,
+    "Jaw-dropping": 22,
+    "Funny": 44,
+    "Unconvincing": 33,
+    "Ingenious": 5
+  },
+  "slug": "ben_saunders_why_bother_leaving_the_house",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/d6523fdff934851fdba2cfb3c13202a2ba0b68f9_1600x1200.jpg?quality=89&w=600",
+  "title": "Why bother leaving the house?",
+  "url": "https://www.ted.com/talks/ben_saunders_why_bother_leaving_the_house",
+  "video": {
+    "low": "http://download.ted.com/talks/BenSaunders_2012S-light.mp4",
+    "medium": "http://download.ted.com/talks/BenSaunders_2012S.mp4",
+    "high": "http://download.ted.com/talks/BenSaunders_2012S-480p.mp4"
+  },
+  "viewCount": 1691413,
+  "year": "2012"
+}

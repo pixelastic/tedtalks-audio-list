@@ -1,0 +1,45 @@
+{
+  "audio": "http://download.ted.com/talks/MalcolmLondon_2013S.mp3",
+  "author": "Malcolm London",
+  "dateFilmed": 1367884800,
+  "datePublished": 1368025560,
+  "description": "Young poet, educator and activist Malcolm London performs his stirring poem about life on the front lines of high school. He tells of the \"oceans of adolescence\" who come to school \"but never learn to swim,\" of \"masculinity mimicked by men who grew up with no fathers.\" Beautiful, lyrical, chilling.",
+  "duration": 180,
+  "event": "TED Talks Education",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ec01d6c20481947c7bd69d3d2601d1d9d556b6a5_1600x1200.jpg",
+  "keywords": [
+    "education",
+    "poetry"
+  ],
+  "mainLanguage": null,
+  "objectID": 1737,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 234,
+    "Inspiring": 262,
+    "Courageous": 188,
+    "Fascinating": 51,
+    "Jaw-dropping": 54,
+    "Persuasive": 54,
+    "Confusing": 11,
+    "Unconvincing": 10,
+    "OK": 37,
+    "Ingenious": 27,
+    "Obnoxious": 10,
+    "Funny": 10,
+    "Informative": 39,
+    "Longwinded": 7
+  },
+  "slug": "malcolm_london_high_school_training_ground",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ec01d6c20481947c7bd69d3d2601d1d9d556b6a5_1600x1200.jpg?quality=89&w=600",
+  "title": "\"High School Training Ground\"",
+  "url": "https://www.ted.com/talks/malcolm_london_high_school_training_ground",
+  "video": {
+    "low": "http://download.ted.com/talks/MalcolmLondon_2013S-light.mp4",
+    "medium": "http://download.ted.com/talks/MalcolmLondon_2013S.mp4",
+    "high": "http://download.ted.com/talks/MalcolmLondon_2013S-480p.mp4"
+  },
+  "viewCount": 1018203,
+  "year": "2013"
+}

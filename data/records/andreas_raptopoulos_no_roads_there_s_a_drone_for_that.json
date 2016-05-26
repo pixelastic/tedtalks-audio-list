@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/AndreasRaptopoulos_2013G.mp3",
+  "author": "Andreas Raptopoulos",
+  "dateFilmed": 1370908800,
+  "datePublished": 1385049552,
+  "description": "A billion people in the world lack access to all-season roads. Could the structure of the internet provide a model for how to reach them? Andreas Raptopoulos of Matternet thinks so. He introduces a new type of transportation system that uses electric autonomous flying machines to deliver medicine, food, goods and supplies wherever they are needed.",
+  "duration": 553,
+  "event": "TEDGlobal 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8cbe2598ae41cd3168ed38fc72aa43d5f5d9d60f_1600x1200.jpg",
+  "keywords": [
+    "drones",
+    "infrastructure",
+    "technology",
+    "transportation"
+  ],
+  "mainLanguage": null,
+  "objectID": 1876,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified"
+  },
+  "ratings": {
+    "Jaw-dropping": 64,
+    "Ingenious": 223,
+    "Inspiring": 179,
+    "Courageous": 31,
+    "Informative": 113,
+    "Beautiful": 9,
+    "Fascinating": 147,
+    "Persuasive": 80,
+    "Unconvincing": 16,
+    "Longwinded": 4,
+    "OK": 21,
+    "Confusing": 3,
+    "Funny": 2,
+    "Obnoxious": 2
+  },
+  "slug": "andreas_raptopoulos_no_roads_there_s_a_drone_for_that",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8cbe2598ae41cd3168ed38fc72aa43d5f5d9d60f_1600x1200.jpg?quality=89&w=600",
+  "title": "No roads? There's a drone for that",
+  "url": "https://www.ted.com/talks/andreas_raptopoulos_no_roads_there_s_a_drone_for_that",
+  "video": {
+    "low": "http://download.ted.com/talks/AndreasRaptopoulos_2013G-light.mp4",
+    "medium": "http://download.ted.com/talks/AndreasRaptopoulos_2013G.mp4",
+    "high": "http://download.ted.com/talks/AndreasRaptopoulos_2013G-480p.mp4"
+  },
+  "viewCount": 937962,
+  "year": "2013"
+}

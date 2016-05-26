@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/JenniferGolbeck_2013X.mp3",
+  "author": "Jennifer Golbeck",
+  "dateFilmed": 1380585600,
+  "datePublished": 1396537025,
+  "description": "Do you like curly fries? Have you Liked them on Facebook? Watch this talk to find out the surprising things Facebook (and others) can guess about you from your random Likes and Shares. Computer scientist Jennifer Golbeck explains how this came about, how some applications of the technology are not so cute -- and why she thinks we should return the control of information to its rightful owners. ",
+  "duration": 595,
+  "event": "TEDxMidAtlantic 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ca07fd2063e0b3fbd34eb18890d6512da7ee73e3_1600x1200.jpg",
+  "keywords": [
+    "TEDx",
+    "data",
+    "social media",
+    "sociology",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 1957,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 1071,
+    "Longwinded": 42,
+    "OK": 183,
+    "Persuasive": 260,
+    "Courageous": 65,
+    "Fascinating": 307,
+    "Jaw-dropping": 58,
+    "Unconvincing": 43,
+    "Confusing": 19,
+    "Ingenious": 75,
+    "Funny": 42,
+    "Obnoxious": 21,
+    "Inspiring": 112,
+    "Beautiful": 38
+  },
+  "slug": "jennifer_golbeck_the_curly_fry_conundrum_why_social_media_likes_say_more_than_you_might_think",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ca07fd2063e0b3fbd34eb18890d6512da7ee73e3_1600x1200.jpg?quality=89&w=600",
+  "title": "The curly fry conundrum: Why social media “likes” say more than you might think",
+  "url": "https://www.ted.com/talks/jennifer_golbeck_the_curly_fry_conundrum_why_social_media_likes_say_more_than_you_might_think",
+  "video": {
+    "low": "http://download.ted.com/talks/JenniferGolbeck_2013X-light.mp4",
+    "medium": "http://download.ted.com/talks/JenniferGolbeck_2013X.mp4",
+    "high": "http://download.ted.com/talks/JenniferGolbeck_2013X-480p.mp4"
+  },
+  "viewCount": 1791481,
+  "year": "2013"
+}

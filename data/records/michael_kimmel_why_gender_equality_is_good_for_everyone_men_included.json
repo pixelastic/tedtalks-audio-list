@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/MichaelKimmel_2015W.mp3",
+  "author": "Michael Kimmel",
+  "dateFilmed": 1432857600,
+  "datePublished": 1442414301,
+  "description": "Yes, we all know it’s the right thing to do. But Michael Kimmel makes the surprising, funny, practical case for treating men and women equally in the workplace and at home. It’s not a zero-sum game, but a win-win that will result in more opportunity and more happiness for everybody.",
+  "duration": 958,
+  "event": "TEDWomen 2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b7d5730562107b08b7ab54cf26b503ce049943c7_2880x1620.jpg",
+  "keywords": [
+    "activism",
+    "gender",
+    "inequality",
+    "women"
+  ],
+  "mainLanguage": null,
+  "objectID": 2329,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Longwinded": 26,
+    "Obnoxious": 24,
+    "Beautiful": 116,
+    "Funny": 315,
+    "Inspiring": 427,
+    "Fascinating": 110,
+    "Informative": 284,
+    "Persuasive": 225,
+    "Courageous": 63,
+    "Ingenious": 51,
+    "Unconvincing": 43,
+    "Jaw-dropping": 20,
+    "Confusing": 5,
+    "OK": 37
+  },
+  "slug": "michael_kimmel_why_gender_equality_is_good_for_everyone_men_included",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b7d5730562107b08b7ab54cf26b503ce049943c7_2880x1620.jpg?quality=89&w=600",
+  "title": "Why gender equality is good for everyone — men included",
+  "url": "https://www.ted.com/talks/michael_kimmel_why_gender_equality_is_good_for_everyone_men_included",
+  "video": {
+    "low": "http://download.ted.com/talks/MichaelKimmel_2015W-light.mp4",
+    "medium": "http://download.ted.com/talks/MichaelKimmel_2015W.mp4",
+    "high": "http://download.ted.com/talks/MichaelKimmel_2015W-480p.mp4"
+  },
+  "viewCount": 1118544,
+  "year": "2015"
+}

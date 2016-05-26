@@ -1,0 +1,49 @@
+{
+  "audio": null,
+  "author": "Seth Godin",
+  "dateFilmed": 1157673600,
+  "datePublished": 1284138120,
+  "description": "Why are so many things broken? In a hilarious talk from the 2006 Gel conference, Seth Godin gives a tour of things poorly designed, the 7 reasons why they are that way, and how to fix them.",
+  "duration": 1214,
+  "event": "Gel Conference",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/197995_800x600.jpg",
+  "keywords": [
+    "TED Brain Trust",
+    "advertising",
+    "business",
+    "design",
+    "marketing"
+  ],
+  "mainLanguage": null,
+  "objectID": 953,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Funny": 1579,
+    "Fascinating": 174,
+    "Informative": 361,
+    "Ingenious": 216,
+    "OK": 243,
+    "Longwinded": 122,
+    "Unconvincing": 173,
+    "Inspiring": 172,
+    "Persuasive": 169,
+    "Beautiful": 25,
+    "Obnoxious": 114,
+    "Jaw-dropping": 45,
+    "Confusing": 55,
+    "Courageous": 26
+  },
+  "slug": "seth_godin_this_is_broken_1",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/197995_800x600.jpg?quality=89&w=600",
+  "title": "This is broken",
+  "url": "https://www.ted.com/talks/seth_godin_this_is_broken_1",
+  "video": {
+    "youtube": {
+      "id": "aNDiHSHYI_c",
+      "url": "https://vimeo.com/4246943"
+    }
+  },
+  "viewCount": 914097,
+  "year": "2006"
+}

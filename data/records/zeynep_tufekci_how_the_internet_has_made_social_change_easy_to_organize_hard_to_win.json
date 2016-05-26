@@ -1,0 +1,50 @@
+{
+  "audio": "http://download.ted.com/talks/ZeynepTufekci_2014G.mp3",
+  "author": "Zeynep Tufekci",
+  "dateFilmed": 1413158400,
+  "datePublished": 1422892974,
+  "description": "Today, a single email can launch a worldwide movement. But as sociologist Zeynep Tufekci suggests, even though online activism is easy to grow, it often doesn't last. Why? She compares modern movements -- Gezi, Ukraine, Hong Kong -- to the civil rights movement of the 1960s, and uncovers a surprising benefit of organizing protest movements the way it happened before Twitter.",
+  "duration": 974,
+  "event": "TEDGlobal 2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a28101078e945e4b0efba3405bac0b594c557935_2880x1620.jpg",
+  "keywords": [
+    "activism",
+    "protests",
+    "social change",
+    "social media",
+    "society",
+    "sociology",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 2176,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "OK": 161,
+    "Inspiring": 151,
+    "Fascinating": 71,
+    "Persuasive": 113,
+    "Longwinded": 30,
+    "Informative": 178,
+    "Confusing": 18,
+    "Beautiful": 31,
+    "Courageous": 25,
+    "Ingenious": 12,
+    "Unconvincing": 23,
+    "Obnoxious": 19,
+    "Funny": 15,
+    "Jaw-dropping": 3
+  },
+  "slug": "zeynep_tufekci_how_the_internet_has_made_social_change_easy_to_organize_hard_to_win",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a28101078e945e4b0efba3405bac0b594c557935_2880x1620.jpg?quality=89&w=600",
+  "title": "Online social change: easy to organize, hard to win",
+  "url": "https://www.ted.com/talks/zeynep_tufekci_how_the_internet_has_made_social_change_easy_to_organize_hard_to_win",
+  "video": {
+    "low": "http://download.ted.com/talks/ZeynepTufekci_2014G-light.mp4",
+    "medium": "http://download.ted.com/talks/ZeynepTufekci_2014G.mp4",
+    "high": "http://download.ted.com/talks/ZeynepTufekci_2014G-480p.mp4"
+  },
+  "viewCount": 1010996,
+  "year": "2014"
+}

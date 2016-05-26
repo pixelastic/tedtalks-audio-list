@@ -1,0 +1,51 @@
+{
+  "audio": "http://download.ted.com/talks/PaulPholeros_2013X.mp3",
+  "author": "Paul Pholeros",
+  "dateFilmed": 1367625600,
+  "datePublished": 1371740469,
+  "description": "In 1985, architect Paul Pholeros was challenged to \"stop people getting sick\" in a small indigenous community in south Australia. And it meant thinking way beyond medicine. In this sparky, interactive talk, Pholeros shares his work with Healthabitat, which works to reduce poverty through practical design fixes -- in Australia and beyond.",
+  "duration": 1059,
+  "event": "TEDxSydney",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/d9121c06c191da85f31214940d9c1f759dd6b8ac_1600x1200.jpg",
+  "keywords": [
+    "TEDx",
+    "architecture",
+    "design",
+    "global issues",
+    "health",
+    "public health",
+    "sanitation"
+  ],
+  "mainLanguage": null,
+  "objectID": 1769,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified"
+  },
+  "ratings": {
+    "Informative": 135,
+    "Fascinating": 78,
+    "Ingenious": 154,
+    "Jaw-dropping": 31,
+    "Courageous": 39,
+    "Inspiring": 286,
+    "Beautiful": 29,
+    "Persuasive": 135,
+    "Funny": 3,
+    "Obnoxious": 1,
+    "OK": 11,
+    "Longwinded": 3,
+    "Unconvincing": 3,
+    "Confusing": 0
+  },
+  "slug": "paul_pholeros_how_to_reduce_poverty_fix_homes",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/d9121c06c191da85f31214940d9c1f759dd6b8ac_1600x1200.jpg?quality=89&w=600",
+  "title": "How to reduce poverty? Fix homes",
+  "url": "https://www.ted.com/talks/paul_pholeros_how_to_reduce_poverty_fix_homes",
+  "video": {
+    "low": "http://download.ted.com/talks/PaulPholeros_2013X-light.mp4",
+    "medium": "http://download.ted.com/talks/PaulPholeros_2013X.mp4",
+    "high": "http://download.ted.com/talks/PaulPholeros_2013X-480p.mp4"
+  },
+  "viewCount": 1282845,
+  "year": "2013"
+}

@@ -1,0 +1,49 @@
+{
+  "audio": "http://download.ted.com/talks/RichardLedgett_2014.mp3",
+  "author": "Richard Ledgett",
+  "dateFilmed": 1395273600,
+  "datePublished": 1395362789,
+  "description": "After a surprise appearance by Edward Snowden at TED2014, Chris Anderson said: \"If the NSA wants to respond, please do.\" And yes, they did. Appearing by video, NSA deputy director Richard Ledgett answers Anderson’s questions about the balance between security and protecting privacy.",
+  "duration": 2010,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b4e45bc988d63a0f64d01146505700e1217f7845_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "culture",
+    "global issues",
+    "government",
+    "law"
+  ],
+  "mainLanguage": null,
+  "objectID": 1952,
+  "otherLanguages": {
+    "zh-tw": "Chinese, Traditional"
+  },
+  "ratings": {
+    "Unconvincing": 650,
+    "Informative": 272,
+    "Funny": 38,
+    "Confusing": 103,
+    "Fascinating": 32,
+    "OK": 79,
+    "Courageous": 73,
+    "Longwinded": 94,
+    "Persuasive": 61,
+    "Obnoxious": 149,
+    "Inspiring": 18,
+    "Beautiful": 13,
+    "Jaw-dropping": 12,
+    "Ingenious": 4
+  },
+  "slug": "richard_ledgett_the_nsa_responds_to_edward_snowden_s_ted_talk",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b4e45bc988d63a0f64d01146505700e1217f7845_1600x1200.jpg?quality=89&w=600",
+  "title": "The NSA responds to Edward Snowden’s TED Talk",
+  "url": "https://www.ted.com/talks/richard_ledgett_the_nsa_responds_to_edward_snowden_s_ted_talk",
+  "video": {
+    "low": "http://download.ted.com/talks/RichardLedgett_2014-light.mp4",
+    "medium": "http://download.ted.com/talks/RichardLedgett_2014.mp4",
+    "high": "http://download.ted.com/talks/RichardLedgett_2014-480p.mp4"
+  },
+  "viewCount": 1145804,
+  "year": "2014"
+}

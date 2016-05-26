@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/KellyMcGonigal_2013G.mp3",
+  "author": "Kelly McGonigal",
+  "dateFilmed": 1370908800,
+  "datePublished": 1378306783,
+  "description": "Stress. It makes your heart pound, your breathing quicken and your forehead sweat. But while stress has been made into a public health enemy, new research suggests that stress may only be bad for you if you believe that to be the case. Psychologist Kelly McGonigal urges us to see stress as a positive, and introduces us to an unsung mechanism for stress reduction: reaching out to others.",
+  "duration": 868,
+  "event": "TEDGlobal 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e87188cac214399dd4d253585bd0698f395b40e7_1600x1200.jpg",
+  "keywords": [
+    "body language",
+    "health",
+    "psychology"
+  ],
+  "mainLanguage": null,
+  "objectID": 1815,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified"
+  },
+  "ratings": {
+    "Informative": 4007,
+    "Persuasive": 1573,
+    "Fascinating": 3026,
+    "Ingenious": 367,
+    "Inspiring": 3690,
+    "Longwinded": 58,
+    "Courageous": 630,
+    "Jaw-dropping": 509,
+    "Beautiful": 529,
+    "Funny": 323,
+    "Obnoxious": 47,
+    "Unconvincing": 199,
+    "OK": 288,
+    "Confusing": 44
+  },
+  "slug": "kelly_mcgonigal_how_to_make_stress_your_friend",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e87188cac214399dd4d253585bd0698f395b40e7_1600x1200.jpg?quality=89&w=600",
+  "title": "How to make stress your friend",
+  "url": "https://www.ted.com/talks/kelly_mcgonigal_how_to_make_stress_your_friend",
+  "video": {
+    "low": "http://download.ted.com/talks/KellyMcGonigal_2013G-light.mp4",
+    "medium": "http://download.ted.com/talks/KellyMcGonigal_2013G.mp4",
+    "high": "http://download.ted.com/talks/KellyMcGonigal_2013G-480p.mp4"
+  },
+  "viewCount": 11151341,
+  "year": "2013"
+}

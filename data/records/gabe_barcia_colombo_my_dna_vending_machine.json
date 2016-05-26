@@ -1,0 +1,46 @@
+{
+  "audio": "http://download.ted.com/talks/GabeBarciaColombo_2013U.mp3",
+  "author": "Gabe Barcia-Colombo",
+  "dateFilmed": 1376870400,
+  "datePublished": 1394121683,
+  "description": "Vending machines generally offer up sodas, candy bars and chips. Not so for the one created by TED Fellow Gabe Barcia-Colombo. This artist has dreamed up a DNA Vending Machine, which dispenses extracted human DNA, packaged in a vial along with a collectible photo of the person who gave it. It’s charming and quirky, but points out larger ethical issues that will arise as access to biotechnology increases.",
+  "duration": 296,
+  "event": "TED Fellows Retreat 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/5b5646dd5c5dcf2b98b83b2f9362461c057b69b5_1600x1200.jpg",
+  "keywords": [
+    "DNA",
+    "TED Fellows",
+    "art"
+  ],
+  "mainLanguage": null,
+  "objectID": 1942,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "OK": 147,
+    "Informative": 34,
+    "Inspiring": 14,
+    "Jaw-dropping": 10,
+    "Funny": 29,
+    "Beautiful": 19,
+    "Fascinating": 52,
+    "Unconvincing": 107,
+    "Obnoxious": 31,
+    "Confusing": 50,
+    "Ingenious": 32,
+    "Longwinded": 9,
+    "Courageous": 6,
+    "Persuasive": 2
+  },
+  "slug": "gabe_barcia_colombo_my_dna_vending_machine",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/5b5646dd5c5dcf2b98b83b2f9362461c057b69b5_1600x1200.jpg?quality=89&w=600",
+  "title": "My DNA vending machine",
+  "url": "https://www.ted.com/talks/gabe_barcia_colombo_my_dna_vending_machine",
+  "video": {
+    "low": "http://download.ted.com/talks/GabeBarciaColombo_2013U-light.mp4",
+    "medium": "http://download.ted.com/talks/GabeBarciaColombo_2013U.mp4",
+    "high": "http://download.ted.com/talks/GabeBarciaColombo_2013U-480p.mp4"
+  },
+  "viewCount": 758689,
+  "year": "2013"
+}

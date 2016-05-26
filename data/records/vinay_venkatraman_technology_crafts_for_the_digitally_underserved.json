@@ -1,0 +1,63 @@
+{
+  "audio": "http://download.ted.com/talks/VinayVenkatraman_2012S.mp3",
+  "author": "Vinay Venkatraman",
+  "dateFilmed": 1334793600,
+  "datePublished": 1342969159,
+  "description": "Two-thirds of the world may not have access to the latest smartphone, but local electronic shops are  adept at fixing older tech using low-cost parts. Vinay Venkatraman explains his work in \"technology crafts,\" through which a mobile phone, a lunchbox and a flashlight can become a digital projector for a village school, or an alarm clock and a mouse can be melded into a medical device for local triage.",
+  "duration": 848,
+  "event": "TEDxSummit",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2a482d17d95d0b3cee395e75bf015ab5656d9470_1600x1200.jpg",
+  "keywords": [
+    "TEDx",
+    "global issues",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 1516,
+  "otherLanguages": {
+    "ar": "Arabic",
+    "bg": "Bulgarian",
+    "zh-cn": "Chinese, Simplified",
+    "nl": "Dutch",
+    "en": "English",
+    "fr": "French",
+    "de": "German",
+    "el": "Greek",
+    "he": "Hebrew",
+    "it": "Italian",
+    "ja": "Japanese",
+    "ko": "Korean",
+    "fa": "Persian",
+    "ro": "Romanian",
+    "ru": "Russian",
+    "es": "Spanish",
+    "tr": "Turkish"
+  },
+  "ratings": {
+    "Fascinating": 83,
+    "Ingenious": 183,
+    "Inspiring": 156,
+    "Jaw-dropping": 41,
+    "OK": 7,
+    "Informative": 54,
+    "Persuasive": 33,
+    "Courageous": 23,
+    "Unconvincing": 8,
+    "Beautiful": 13,
+    "Longwinded": 5,
+    "Confusing": 2,
+    "Funny": 0,
+    "Obnoxious": 0
+  },
+  "slug": "vinay_venkatraman_technology_crafts_for_the_digitally_underserved",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2a482d17d95d0b3cee395e75bf015ab5656d9470_1600x1200.jpg?quality=89&w=600",
+  "title": "Technology crafts for the digitally underserved",
+  "url": "https://www.ted.com/talks/vinay_venkatraman_technology_crafts_for_the_digitally_underserved",
+  "video": {
+    "low": "http://download.ted.com/talks/VinayVenkatraman_2012S-light.mp4",
+    "medium": "http://download.ted.com/talks/VinayVenkatraman_2012S.mp4",
+    "high": "http://download.ted.com/talks/VinayVenkatraman_2012S-480p.mp4"
+  },
+  "viewCount": 566795,
+  "year": "2012"
+}

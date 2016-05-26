@@ -1,0 +1,46 @@
+{
+  "audio": "http://download.ted.com/talks/SirMartinRees_2014U.mp3",
+  "author": "Martin Rees",
+  "dateFilmed": 1394668800,
+  "datePublished": 1408979290,
+  "description": "A post-apocalyptic Earth, emptied of humans, seems like the stuff of science fiction TV and movies. But in this short, surprising talk, Lord Martin Rees asks us to think about our real existential risks — natural and human-made threats that could wipe out humanity. As a concerned member of the human race, he asks: What’s the worst thing that could possibly happen?",
+  "duration": 412,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/d3b8fd408c1f2576d86a6d781da0dfd768d0cda4_2400x1800.jpg",
+  "keywords": [
+    "TED Conference",
+    "future",
+    "humanity"
+  ],
+  "mainLanguage": null,
+  "objectID": 2067,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 248,
+    "Fascinating": 138,
+    "Ingenious": 34,
+    "Persuasive": 131,
+    "Courageous": 42,
+    "OK": 136,
+    "Inspiring": 145,
+    "Beautiful": 22,
+    "Funny": 13,
+    "Confusing": 19,
+    "Unconvincing": 68,
+    "Longwinded": 29,
+    "Obnoxious": 11,
+    "Jaw-dropping": 5
+  },
+  "slug": "martin_rees_can_we_prevent_the_end_of_the_world",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/d3b8fd408c1f2576d86a6d781da0dfd768d0cda4_2400x1800.jpg?quality=89&w=600",
+  "title": "Can we prevent the end of the world?",
+  "url": "https://www.ted.com/talks/martin_rees_can_we_prevent_the_end_of_the_world",
+  "video": {
+    "low": "http://download.ted.com/talks/SirMartinRees_2014U-light.mp4",
+    "medium": "http://download.ted.com/talks/SirMartinRees_2014U.mp4",
+    "high": "http://download.ted.com/talks/SirMartinRees_2014U-480p.mp4"
+  },
+  "viewCount": 1165293,
+  "year": "2014"
+}

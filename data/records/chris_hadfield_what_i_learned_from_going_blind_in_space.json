@@ -1,0 +1,50 @@
+{
+  "audio": "http://download.ted.com/talks/ChrisHadfield_2014.mp3",
+  "author": "Chris Hadfield",
+  "dateFilmed": 1395100800,
+  "datePublished": 1395241295,
+  "description": "There's an astronaut saying: In space, “there is no problem so bad that you can’t make it worse.” So how do you deal with the complexity, the sheer pressure, of dealing with dangerous and scary situations? Retired colonel Chris Hadfield paints a vivid portrait of how to be prepared for the worst in space (and life) -- and it starts with walking into a spider’s web. Watch for a special space-y performance.",
+  "duration": 1102,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e77007daaafb652bacbc73a3819f4165d39c06dd_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "adventure",
+    "culture",
+    "fear",
+    "life",
+    "live music",
+    "space"
+  ],
+  "mainLanguage": null,
+  "objectID": 1951,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Inspiring": 2556,
+    "Beautiful": 713,
+    "Fascinating": 1084,
+    "Informative": 455,
+    "Jaw-dropping": 273,
+    "Persuasive": 167,
+    "Courageous": 735,
+    "Funny": 174,
+    "Ingenious": 53,
+    "Longwinded": 38,
+    "OK": 126,
+    "Unconvincing": 19,
+    "Confusing": 10,
+    "Obnoxious": 5
+  },
+  "slug": "chris_hadfield_what_i_learned_from_going_blind_in_space",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e77007daaafb652bacbc73a3819f4165d39c06dd_1600x1200.jpg?quality=89&w=600",
+  "title": "What I learned from going blind in space",
+  "url": "https://www.ted.com/talks/chris_hadfield_what_i_learned_from_going_blind_in_space",
+  "video": {
+    "low": "http://download.ted.com/talks/ChrisHadfield_2014-light.mp4",
+    "medium": "http://download.ted.com/talks/ChrisHadfield_2014.mp4",
+    "high": "http://download.ted.com/talks/ChrisHadfield_2014-480p.mp4"
+  },
+  "viewCount": 3341762,
+  "year": "2014"
+}

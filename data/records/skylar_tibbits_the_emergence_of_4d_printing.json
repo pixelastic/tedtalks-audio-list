@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/SkylarTibbits_2013U.mp3",
+  "author": "Skylar Tibbits",
+  "dateFilmed": 1361750400,
+  "datePublished": 1365087381,
+  "description": "3D printing has grown in sophistication since the late 1970s; TED Fellow Skylar Tibbits is shaping the next development, which he calls 4D printing, where the fourth dimension is time. This emerging technology will allow us to print objects that then reshape themselves or self-assemble over time. Think: a printed cube that folds before your eyes, or a printed pipe able to sense the need to expand or contract. ",
+  "duration": 502,
+  "event": "TED2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/5067e7078880030b41aea9eb2b6fbddbdedc7728_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "TED Fellows",
+    "design",
+    "industrial design",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 1707,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Ingenious": 274,
+    "Informative": 200,
+    "Fascinating": 337,
+    "Jaw-dropping": 142,
+    "Inspiring": 169,
+    "Unconvincing": 83,
+    "OK": 67,
+    "Persuasive": 40,
+    "Obnoxious": 6,
+    "Confusing": 20,
+    "Beautiful": 16,
+    "Courageous": 8,
+    "Funny": 6,
+    "Longwinded": 18
+  },
+  "slug": "skylar_tibbits_the_emergence_of_4d_printing",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/5067e7078880030b41aea9eb2b6fbddbdedc7728_1600x1200.jpg?quality=89&w=600",
+  "title": "The emergence of \"4D printing\"",
+  "url": "https://www.ted.com/talks/skylar_tibbits_the_emergence_of_4d_printing",
+  "video": {
+    "low": "http://download.ted.com/talks/SkylarTibbits_2013U-light.mp4",
+    "medium": "http://download.ted.com/talks/SkylarTibbits_2013U.mp4",
+    "high": "http://download.ted.com/talks/SkylarTibbits_2013U-480p.mp4"
+  },
+  "viewCount": 2299010,
+  "year": "2013"
+}

@@ -1,0 +1,61 @@
+{
+  "audio": "http://download.ted.com/talks/EleniGabreMadhin_2007G.mp3",
+  "author": "Eleni Gabre-Madhin",
+  "dateFilmed": 1181088000,
+  "datePublished": 1193274000,
+  "description": "Economist Eleni Gabre-Madhin outlines her ambitious vision to found the first commodities market in Ethiopia. Her plan would create wealth, minimize risk for farmers and turn the world's largest recipient of food aid into a regional food basket.",
+  "duration": 1234,
+  "event": "TEDGlobal 2007",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/18551_480x360.jpg",
+  "keywords": [
+    "business",
+    "economics",
+    "food",
+    "global issues",
+    "technology",
+    "women in business"
+  ],
+  "mainLanguage": null,
+  "objectID": 185,
+  "otherLanguages": {
+    "bg": "Bulgarian",
+    "zh-cn": "Chinese, Simplified",
+    "zh-tw": "Chinese, Traditional",
+    "en": "English",
+    "fr": "French",
+    "ja": "Japanese",
+    "ko": "Korean",
+    "mk": "Macedonian",
+    "pt": "Portuguese",
+    "ro": "Romanian",
+    "ru": "Russian",
+    "es": "Spanish"
+  },
+  "ratings": {
+    "Informative": 206,
+    "Inspiring": 171,
+    "Fascinating": 71,
+    "Unconvincing": 27,
+    "Longwinded": 36,
+    "Courageous": 129,
+    "Beautiful": 28,
+    "Ingenious": 47,
+    "Confusing": 8,
+    "OK": 30,
+    "Jaw-dropping": 31,
+    "Persuasive": 73,
+    "Obnoxious": 3,
+    "Funny": 1
+  },
+  "slug": "elene_gabre_madhin_on_ethiopian_economics",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/18551_480x360.jpg?quality=89&w=600",
+  "title": "A commodities exchange for Ethiopia",
+  "url": "https://www.ted.com/talks/elene_gabre_madhin_on_ethiopian_economics",
+  "video": {
+    "low": "http://download.ted.com/talks/EleniGabreMadhin_2007G-light.mp4",
+    "medium": "http://download.ted.com/talks/EleniGabreMadhin_2007G.mp4",
+    "high": "http://download.ted.com/talks/EleniGabreMadhin_2007G-480p.mp4"
+  },
+  "viewCount": 493154,
+  "year": "2007"
+}

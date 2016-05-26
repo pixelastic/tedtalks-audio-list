@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/EdwardSnowden_2014.mp3",
+  "author": "Edward Snowden",
+  "dateFilmed": 1395100800,
+  "datePublished": 1395187262,
+  "description": "Appearing by telepresence robot, Edward Snowden speaks at TED2014 about surveillance and Internet freedom. The right to data privacy, he suggests, is not a partisan issue, but requires a fundamental rethink of the role of the internet in our lives — and the laws that protect it. \"Your rights matter,” he says, \"because you never know when you're going to need them.\" Chris Anderson interviews, with special guest Tim Berners-Lee.",
+  "duration": 2102,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/aadd75a2a5f185ca28179519cab86ff0ad367eb1_1600x1200.jpg",
+  "keywords": [
+    "Internet",
+    "TED Conference",
+    "journalism",
+    "law"
+  ],
+  "mainLanguage": null,
+  "objectID": 1950,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Courageous": 1744,
+    "Informative": 1293,
+    "Inspiring": 1132,
+    "Persuasive": 421,
+    "Jaw-dropping": 187,
+    "Fascinating": 259,
+    "Beautiful": 66,
+    "Funny": 31,
+    "Longwinded": 27,
+    "OK": 60,
+    "Ingenious": 65,
+    "Obnoxious": 31,
+    "Confusing": 20,
+    "Unconvincing": 59
+  },
+  "slug": "edward_snowden_here_s_how_we_take_back_the_internet",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/aadd75a2a5f185ca28179519cab86ff0ad367eb1_1600x1200.jpg?quality=89&w=600",
+  "title": "Here's how we take back the Internet",
+  "url": "https://www.ted.com/talks/edward_snowden_here_s_how_we_take_back_the_internet",
+  "video": {
+    "low": "http://download.ted.com/talks/EdwardSnowden_2014-light.mp4",
+    "medium": "http://download.ted.com/talks/EdwardSnowden_2014.mp4",
+    "high": "http://download.ted.com/talks/EdwardSnowden_2014-480p.mp4"
+  },
+  "viewCount": 3552979,
+  "year": "2014"
+}

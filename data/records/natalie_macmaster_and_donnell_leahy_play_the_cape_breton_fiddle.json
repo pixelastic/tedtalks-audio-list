@@ -1,0 +1,60 @@
+{
+  "audio": null,
+  "author": "Natalie MacMaster",
+  "dateFilmed": 1044144000,
+  "datePublished": 1233310260,
+  "description": "Natalie MacMaster and her musical partner Donnell Leahy play several tunes from the Cape Breton tradition -- a sprightly, soulful style of folk fiddling. It's an inspired collaboration that will have you clapping (and maybe dancing) along.",
+  "duration": 1127,
+  "event": "TED2003",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/68390_800x600.jpg",
+  "keywords": [
+    "TED Conference",
+    "arts",
+    "collaboration",
+    "culture",
+    "entertainment",
+    "music",
+    "piano",
+    "violin"
+  ],
+  "mainLanguage": null,
+  "objectID": 447,
+  "otherLanguages": {
+    "zh-tw": "Chinese, Traditional",
+    "nl": "Dutch",
+    "fr": "French",
+    "he": "Hebrew",
+    "pl": "Polish",
+    "ro": "Romanian",
+    "sr": "Serbian",
+    "th": "Thai",
+    "vi": "Vietnamese"
+  },
+  "ratings": {
+    "Jaw-dropping": 114,
+    "Fascinating": 78,
+    "Beautiful": 217,
+    "Funny": 37,
+    "OK": 14,
+    "Inspiring": 110,
+    "Courageous": 8,
+    "Persuasive": 4,
+    "Ingenious": 8,
+    "Unconvincing": 4,
+    "Confusing": 3,
+    "Longwinded": 7,
+    "Obnoxious": 6,
+    "Informative": 6
+  },
+  "slug": "natalie_macmaster_and_donnell_leahy_play_the_cape_breton_fiddle",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/68390_800x600.jpg?quality=89&w=600",
+  "title": "Fiddling in reel time",
+  "url": "https://www.ted.com/talks/natalie_macmaster_and_donnell_leahy_play_the_cape_breton_fiddle",
+  "video": {
+    "low": "http://download.ted.com/talks/NatalieMacMaster_2003-light.mp4",
+    "medium": "http://download.ted.com/talks/NatalieMacMaster_2003.mp4",
+    "high": "http://download.ted.com/talks/NatalieMacMaster_2003-480p.mp4"
+  },
+  "viewCount": 924960,
+  "year": "2003"
+}

@@ -1,0 +1,50 @@
+{
+  "audio": "http://download.ted.com/talks/ParulSehgal_2013S.mp3",
+  "author": "Parul Sehgal",
+  "dateFilmed": 1374710400,
+  "datePublished": 1382540623,
+  "description": "What is jealousy? What drives it, and why do we secretly love it? No study has ever been able to capture its \"loneliness, longevity, grim thrill\" -- that is, says Parul Sehgal, except for fiction. In an eloquent meditation she scours pages from literature to show how jealousy is not so different from a quest for knowledge.",
+  "duration": 791,
+  "event": "TEDSalon NY2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/71a9cebbabb63aed83eb29e37c72b4733eebb9af_1600x1200.jpg",
+  "keywords": [
+    "books",
+    "culture",
+    "literature",
+    "love",
+    "relationships",
+    "sex",
+    "writing"
+  ],
+  "mainLanguage": null,
+  "objectID": 1852,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Funny": 280,
+    "Fascinating": 282,
+    "Beautiful": 247,
+    "Inspiring": 186,
+    "Informative": 144,
+    "Confusing": 23,
+    "Longwinded": 48,
+    "Obnoxious": 18,
+    "Persuasive": 102,
+    "Ingenious": 106,
+    "OK": 109,
+    "Courageous": 56,
+    "Unconvincing": 72,
+    "Jaw-dropping": 26
+  },
+  "slug": "parul_sehgal_an_ode_to_envy",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/71a9cebbabb63aed83eb29e37c72b4733eebb9af_1600x1200.jpg?quality=89&w=600",
+  "title": "An ode to envy",
+  "url": "https://www.ted.com/talks/parul_sehgal_an_ode_to_envy",
+  "video": {
+    "low": "http://download.ted.com/talks/ParulSehgal_2013S-light.mp4",
+    "medium": "http://download.ted.com/talks/ParulSehgal_2013S.mp4",
+    "high": "http://download.ted.com/talks/ParulSehgal_2013S-480p.mp4"
+  },
+  "viewCount": 1980956,
+  "year": "2013"
+}

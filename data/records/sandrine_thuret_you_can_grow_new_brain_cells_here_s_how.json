@@ -1,0 +1,52 @@
+{
+  "audio": "http://download.ted.com/talks/SandrineThuret_2015S.mp3",
+  "author": "Sandrine Thuret",
+  "dateFilmed": 1435622400,
+  "datePublished": 1444316400,
+  "description": "Can we, as adults, grow new neurons? Neuroscientist Sandrine Thuret says that we can, and she offers research and practical advice on how we can help our brains better perform neurogenesis—improving mood, increasing memory formation and preventing the decline associated with aging along the way.",
+  "duration": 664,
+  "event": "TED@BCG London",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ec6df2369a3294452ed45750f41e6468c3a58621_2880x1620.jpg",
+  "keywords": [
+    "aging",
+    "brain",
+    "health",
+    "medical research",
+    "memory",
+    "mental health",
+    "mind",
+    "neuroscience",
+    "science"
+  ],
+  "mainLanguage": null,
+  "objectID": 2342,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Confusing": 38,
+    "Informative": 1689,
+    "Fascinating": 1199,
+    "Persuasive": 309,
+    "Beautiful": 129,
+    "Funny": 70,
+    "Courageous": 28,
+    "OK": 118,
+    "Ingenious": 116,
+    "Inspiring": 485,
+    "Jaw-dropping": 77,
+    "Unconvincing": 19,
+    "Longwinded": 24,
+    "Obnoxious": 6
+  },
+  "slug": "sandrine_thuret_you_can_grow_new_brain_cells_here_s_how",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ec6df2369a3294452ed45750f41e6468c3a58621_2880x1620.jpg?quality=89&w=600",
+  "title": "You can grow new brain cells. Here's how",
+  "url": "https://www.ted.com/talks/sandrine_thuret_you_can_grow_new_brain_cells_here_s_how",
+  "video": {
+    "low": "http://download.ted.com/talks/SandrineThuret_2015S-light.mp4",
+    "medium": "http://download.ted.com/talks/SandrineThuret_2015S.mp4",
+    "high": "http://download.ted.com/talks/SandrineThuret_2015S-480p.mp4"
+  },
+  "viewCount": 2967087,
+  "year": "2015"
+}

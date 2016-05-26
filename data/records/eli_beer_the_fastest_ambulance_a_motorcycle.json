@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/EliBeer_2013P.mp3",
+  "author": "Eli Beer",
+  "dateFilmed": 1366070400,
+  "datePublished": 1375196581,
+  "description": "As a young EMT on a Jerusalem ambulance, Eli Beer realized that, stuck in brutal urban traffic, they often arrived too late to help. So he organized a group of volunteer EMTs -- many on foot -- ready to drop everything and dash to save lives in their neighborhood. Today, United Hatzlah uses a smartphone app and a fleet of “ambucycles” to help nearby patients until an ambulance arrives. With an average response time of 3 minutes, last year, they treated 207,000 people in Israel. And the idea is going global.",
+  "duration": 644,
+  "event": "TEDMED 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/aa8d0403aec3466d031e3e1c1605637d84d6a07d_1600x1200.jpg",
+  "keywords": [
+    "health",
+    "health care",
+    "medicine",
+    "peace"
+  ],
+  "mainLanguage": null,
+  "objectID": 1799,
+  "otherLanguages": {
+    "id": "Indonesian"
+  },
+  "ratings": {
+    "Inspiring": 401,
+    "Persuasive": 62,
+    "Courageous": 169,
+    "Informative": 41,
+    "Fascinating": 60,
+    "Ingenious": 123,
+    "Beautiful": 54,
+    "OK": 9,
+    "Jaw-dropping": 49,
+    "Funny": 4,
+    "Unconvincing": 3,
+    "Confusing": 3,
+    "Longwinded": 0,
+    "Obnoxious": 0
+  },
+  "slug": "eli_beer_the_fastest_ambulance_a_motorcycle",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/aa8d0403aec3466d031e3e1c1605637d84d6a07d_1600x1200.jpg?quality=89&w=600",
+  "title": "The fastest ambulance? A motorcycle",
+  "url": "https://www.ted.com/talks/eli_beer_the_fastest_ambulance_a_motorcycle",
+  "video": {
+    "low": "http://download.ted.com/talks/EliBeer_2013P-light.mp4",
+    "medium": "http://download.ted.com/talks/EliBeer_2013P.mp4",
+    "high": "http://download.ted.com/talks/EliBeer_2013P-480p.mp4"
+  },
+  "viewCount": 1032590,
+  "year": "2013"
+}

@@ -1,0 +1,48 @@
+{
+  "audio": null,
+  "author": "Romina Libster",
+  "dateFilmed": 1416441600,
+  "datePublished": 1424880203,
+  "description": "How do vaccines prevent disease -- even among people too young to get vaccinated? It's a concept called \"herd immunity,\" and it relies on a critical mass of people getting their shots to break the chain of infection. Health researcher Romina Libster shows how herd immunity contained a deadly outbreak of H1N1 in her hometown. (In Spanish with subtitles.)",
+  "duration": 881,
+  "event": "TEDxRiodelaPlata",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a8f073e3176c1a4b8419551beb2341e0e80e90ce_2880x1620.jpg",
+  "keywords": [
+    "health",
+    "health care",
+    "illness",
+    "medicine",
+    "virus"
+  ],
+  "mainLanguage": null,
+  "objectID": 2185,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 109,
+    "Inspiring": 39,
+    "Unconvincing": 88,
+    "Courageous": 9,
+    "Persuasive": 56,
+    "Fascinating": 22,
+    "OK": 24,
+    "Longwinded": 11,
+    "Confusing": 75,
+    "Ingenious": 4,
+    "Obnoxious": 148,
+    "Jaw-dropping": 3,
+    "Funny": 15,
+    "Beautiful": 1
+  },
+  "slug": "romina_libster_the_power_of_herd_immunity",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a8f073e3176c1a4b8419551beb2341e0e80e90ce_2880x1620.jpg?quality=89&w=600",
+  "title": "The power of herd immunity",
+  "url": "https://www.ted.com/talks/romina_libster_the_power_of_herd_immunity",
+  "video": {
+    "low": "http://download.ted.com/talks/RominaLibster_2014X-light.mp4",
+    "medium": "http://download.ted.com/talks/RominaLibster_2014X.mp4",
+    "high": "http://download.ted.com/talks/RominaLibster_2014X-480p.mp4"
+  },
+  "viewCount": 596005,
+  "year": "2014"
+}

@@ -1,0 +1,56 @@
+{
+  "audio": null,
+  "author": "Sylvia Earle",
+  "dateFilmed": 1233792000,
+  "datePublished": 1235005200,
+  "description": "Legendary ocean researcher Sylvia Earle shares astonishing images of the ocean -- and shocking stats about its rapid decline -- as she makes her TED Prize wish: that we will join her in protecting the vital blue heart of the planet.",
+  "duration": 1096,
+  "event": "TED2009",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/73175_800x600.jpg",
+  "keywords": [
+    "TED Conference",
+    "TED Prize",
+    "activism",
+    "biodiversity",
+    "exploration",
+    "oceans",
+    "science",
+    "submarine"
+  ],
+  "mainLanguage": null,
+  "objectID": 467,
+  "otherLanguages": {
+    "ru": "Russian",
+    "sr": "Serbian",
+    "sl": "Slovenian",
+    "sv": "Swedish",
+    "vi": "Vietnamese"
+  },
+  "ratings": {
+    "Inspiring": 685,
+    "Informative": 330,
+    "Persuasive": 433,
+    "Beautiful": 249,
+    "Fascinating": 221,
+    "Unconvincing": 11,
+    "Courageous": 140,
+    "Jaw-dropping": 206,
+    "Longwinded": 18,
+    "Obnoxious": 11,
+    "Funny": 12,
+    "OK": 25,
+    "Ingenious": 25,
+    "Confusing": 12
+  },
+  "slug": "sylvia_earle_s_ted_prize_wish_to_protect_our_oceans",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/73175_800x600.jpg?quality=89&w=600",
+  "title": "My wish: Protect our oceans",
+  "url": "https://www.ted.com/talks/sylvia_earle_s_ted_prize_wish_to_protect_our_oceans",
+  "video": {
+    "low": "http://download.ted.com/talks/SylviaEarle_2009-light.mp4",
+    "medium": "http://download.ted.com/talks/SylviaEarle_2009.mp4",
+    "high": "http://download.ted.com/talks/SylviaEarle_2009-480p.mp4"
+  },
+  "viewCount": 988811,
+  "year": "2009"
+}

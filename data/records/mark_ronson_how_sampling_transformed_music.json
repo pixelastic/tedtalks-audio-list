@@ -1,0 +1,46 @@
+{
+  "audio": "http://download.ted.com/talks/MarkRonson_2014.mp3",
+  "author": "Mark Ronson",
+  "dateFilmed": 1395014400,
+  "datePublished": 1399647468,
+  "description": "Sampling isn't about \"hijacking nostalgia wholesale,\" says Mark Ronson. It's about inserting yourself into the narrative of a song while also pushing that story forward. In this mind-blowingly original talk, watch the DJ scramble 15 TED Talks into an audio-visual omelette, and trace the evolution of \"La Di Da Di,\" Doug E. Fresh and Slick Rick's 1984 hit that has been reimagined for every generation since. \r\n",
+  "duration": 1010,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/9b45eae489c8ed9b3392b6a9915b3d7b02cadc91_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "music",
+    "performance"
+  ],
+  "mainLanguage": null,
+  "objectID": 1994,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 295,
+    "Funny": 159,
+    "Confusing": 23,
+    "Ingenious": 154,
+    "Informative": 203,
+    "Fascinating": 263,
+    "Unconvincing": 52,
+    "Obnoxious": 31,
+    "Inspiring": 232,
+    "Jaw-dropping": 32,
+    "Persuasive": 41,
+    "OK": 124,
+    "Courageous": 11,
+    "Longwinded": 36
+  },
+  "slug": "mark_ronson_how_sampling_transformed_music",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/9b45eae489c8ed9b3392b6a9915b3d7b02cadc91_1600x1200.jpg?quality=89&w=600",
+  "title": "How sampling transformed music",
+  "url": "https://www.ted.com/talks/mark_ronson_how_sampling_transformed_music",
+  "video": {
+    "low": "http://download.ted.com/talks/MarkRonson_2014-light.mp4",
+    "medium": "http://download.ted.com/talks/MarkRonson_2014.mp4",
+    "high": "http://download.ted.com/talks/MarkRonson_2014-480p.mp4"
+  },
+  "viewCount": 2705841,
+  "year": "2014"
+}

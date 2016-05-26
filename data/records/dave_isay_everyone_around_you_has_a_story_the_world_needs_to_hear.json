@@ -1,0 +1,48 @@
+{
+  "audio": null,
+  "author": "Dave Isay",
+  "dateFilmed": 1426550400,
+  "datePublished": 1427295675,
+  "description": "Dave Isay opened the first StoryCorps booth in New York’s Grand Central Terminal in 2003 with the intention of creating a quiet place where a person could honor someone who mattered to them by listening to their story. Since then, StoryCorps has evolved into the single largest collection of human voices ever recorded. His TED Prize wish: to grow this digital archive of the collective wisdom of humanity. Hear his vision to take StoryCorps global — and how you can be a part of it by interviewing someone with the StoryCorps app.",
+  "duration": 1298,
+  "event": "TED2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/951ba042af28814253caf72a9c5b85b04e7912aa_2880x1620.jpg",
+  "keywords": [
+    "TED Prize",
+    "United States",
+    "history",
+    "journalism",
+    "storytelling"
+  ],
+  "mainLanguage": null,
+  "objectID": 2222,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 777,
+    "Informative": 131,
+    "Inspiring": 964,
+    "OK": 42,
+    "Courageous": 214,
+    "Persuasive": 106,
+    "Ingenious": 162,
+    "Fascinating": 145,
+    "Jaw-dropping": 36,
+    "Obnoxious": 10,
+    "Funny": 22,
+    "Unconvincing": 4,
+    "Longwinded": 14,
+    "Confusing": 12
+  },
+  "slug": "dave_isay_everyone_around_you_has_a_story_the_world_needs_to_hear",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/951ba042af28814253caf72a9c5b85b04e7912aa_2880x1620.jpg?quality=89&w=600",
+  "title": "Everyone around you has a story the world needs to hear",
+  "url": "https://www.ted.com/talks/dave_isay_everyone_around_you_has_a_story_the_world_needs_to_hear",
+  "video": {
+    "low": "http://download.ted.com/talks/DaveIsay_2015-light.mp4",
+    "medium": "http://download.ted.com/talks/DaveIsay_2015.mp4",
+    "high": "http://download.ted.com/talks/DaveIsay_2015-480p.mp4"
+  },
+  "viewCount": 1255084,
+  "year": "2015"
+}

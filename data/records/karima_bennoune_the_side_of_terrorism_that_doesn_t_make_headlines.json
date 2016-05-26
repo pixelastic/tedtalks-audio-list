@@ -1,0 +1,49 @@
+{
+  "audio": "http://download.ted.com/talks/KarimaBennoune_2014X.mp3",
+  "author": "Karima Bennoune",
+  "dateFilmed": 1395619200,
+  "datePublished": 1405005562,
+  "description": "Karima Bennoune shares four powerful stories of real people fighting against fundamentalism in their own communities — refusing to allow the faith they love to become a tool for crime, attacks and murder. These personal stories humanize one of the most overlooked human-rights struggles in the world.",
+  "duration": 1205,
+  "event": "TEDxExeter",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ea6423568d1c204c0927fa9dd847dd719d919537_2880x1620.jpg",
+  "keywords": [
+    "history",
+    "politics",
+    "religion",
+    "storytelling",
+    "terrorism",
+    "war"
+  ],
+  "mainLanguage": null,
+  "objectID": 2042,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Courageous": 521,
+    "Informative": 366,
+    "Inspiring": 451,
+    "Beautiful": 104,
+    "Confusing": 14,
+    "Persuasive": 158,
+    "Unconvincing": 39,
+    "OK": 27,
+    "Fascinating": 51,
+    "Jaw-dropping": 15,
+    "Ingenious": 9,
+    "Obnoxious": 13,
+    "Longwinded": 13,
+    "Funny": 0
+  },
+  "slug": "karima_bennoune_the_side_of_terrorism_that_doesn_t_make_headlines",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ea6423568d1c204c0927fa9dd847dd719d919537_2880x1620.jpg?quality=89&w=600",
+  "title": "When people of Muslim heritage challenge fundamentalism",
+  "url": "https://www.ted.com/talks/karima_bennoune_the_side_of_terrorism_that_doesn_t_make_headlines",
+  "video": {
+    "low": "http://download.ted.com/talks/KarimaBennoune_2014X-light.mp4",
+    "medium": "http://download.ted.com/talks/KarimaBennoune_2014X.mp4",
+    "high": "http://download.ted.com/talks/KarimaBennoune_2014X-480p.mp4"
+  },
+  "viewCount": 1367886,
+  "year": "2014"
+}

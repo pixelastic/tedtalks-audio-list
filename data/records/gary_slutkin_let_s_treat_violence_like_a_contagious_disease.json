@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/GarySlutkin_2013P.mp3",
+  "author": "Gary Slutkin",
+  "dateFilmed": 1366156800,
+  "datePublished": 1381417240,
+  "description": "Physician Gary Slutkin spent a decade fighting tuberculosis, cholera and AIDS epidemics in Africa. When he returned to the United States, he thought he'd escape brutal epidemic deaths. But then he began to look more carefully at gun violence, noting that its spread followed the patterns of infectious diseases. A mind-flipping look at a problem that too many communities have accepted as a given. We've reversed the impact of so many diseases, says Slutkin, and we can do the same with violence. (Filmed at TEDMED.)",
+  "duration": 848,
+  "event": "TEDMED 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/57e4481744417c9faab785aa78617808665b7025_1600x1200.jpg",
+  "keywords": [
+    "disease",
+    "health",
+    "medicine",
+    "violence"
+  ],
+  "mainLanguage": null,
+  "objectID": 1840,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 183,
+    "Persuasive": 220,
+    "Fascinating": 170,
+    "Inspiring": 255,
+    "Ingenious": 189,
+    "Courageous": 91,
+    "Jaw-dropping": 39,
+    "Beautiful": 23,
+    "Confusing": 2,
+    "Funny": 10,
+    "Longwinded": 8,
+    "Unconvincing": 10,
+    "OK": 16,
+    "Obnoxious": 1
+  },
+  "slug": "gary_slutkin_let_s_treat_violence_like_a_contagious_disease",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/57e4481744417c9faab785aa78617808665b7025_1600x1200.jpg?quality=89&w=600",
+  "title": "Let's treat violence like a contagious disease ",
+  "url": "https://www.ted.com/talks/gary_slutkin_let_s_treat_violence_like_a_contagious_disease",
+  "video": {
+    "low": "http://download.ted.com/talks/GarySlutkin_2013P-light.mp4",
+    "medium": "http://download.ted.com/talks/GarySlutkin_2013P.mp4",
+    "high": "http://download.ted.com/talks/GarySlutkin_2013P-480p.mp4"
+  },
+  "viewCount": 699459,
+  "year": "2013"
+}

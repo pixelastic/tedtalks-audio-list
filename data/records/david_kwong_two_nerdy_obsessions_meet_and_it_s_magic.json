@@ -1,0 +1,46 @@
+{
+  "audio": "http://download.ted.com/talks/DavidKwong_2014.mp3",
+  "author": "David Kwong",
+  "dateFilmed": 1395360000,
+  "datePublished": 1405092113,
+  "description": "David Kwong is a magician who makes crossword puzzles -- in other words, a pretty nerdy guy. And for his next trick ... ",
+  "duration": 703,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/717a3b22d2093b07a95afd8811e7e2f018f49243_2400x1800.jpg",
+  "keywords": [
+    "TED Conference",
+    "entertainment",
+    "magic"
+  ],
+  "mainLanguage": null,
+  "objectID": 2027,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 123,
+    "Inspiring": 107,
+    "Fascinating": 471,
+    "Beautiful": 83,
+    "Ingenious": 255,
+    "Unconvincing": 151,
+    "Obnoxious": 58,
+    "Longwinded": 29,
+    "Jaw-dropping": 168,
+    "Funny": 195,
+    "Persuasive": 49,
+    "Confusing": 55,
+    "OK": 101,
+    "Courageous": 12
+  },
+  "slug": "david_kwong_two_nerdy_obsessions_meet_and_it_s_magic",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/717a3b22d2093b07a95afd8811e7e2f018f49243_2400x1800.jpg?quality=89&w=600",
+  "title": "Two nerdy obsessions meet -- and it's magic",
+  "url": "https://www.ted.com/talks/david_kwong_two_nerdy_obsessions_meet_and_it_s_magic",
+  "video": {
+    "low": "http://download.ted.com/talks/DavidKwong_2014-light.mp4",
+    "medium": "http://download.ted.com/talks/DavidKwong_2014.mp4",
+    "high": "http://download.ted.com/talks/DavidKwong_2014-480p.mp4"
+  },
+  "viewCount": 1574739,
+  "year": "2014"
+}

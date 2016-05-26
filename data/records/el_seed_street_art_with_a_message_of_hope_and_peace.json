@@ -1,0 +1,50 @@
+{
+  "audio": "http://download.ted.com/talks/eLSeed_2015U.mp3",
+  "author": "eL Seed",
+  "dateFilmed": 1426464000,
+  "datePublished": 1437663497,
+  "description": "What does this gorgeous street art say? It's Arabic poetry, inspired by bold graffiti and placed where a message of hope and peace can do the most good. In this quietly passionate talk, artist and TED Fellow eL Seed describes his ambition: to create art so beautiful it needs no translation.",
+  "duration": 339,
+  "event": "TED2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/83b6197ead1303d82f0ccc05495c3a1d4f58d693_2880x1620.jpg",
+  "keywords": [
+    "TED Fellows",
+    "art",
+    "arts",
+    "culture",
+    "language",
+    "poetry",
+    "street art"
+  ],
+  "mainLanguage": null,
+  "objectID": 2304,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Courageous": 112,
+    "Informative": 58,
+    "Jaw-dropping": 16,
+    "Beautiful": 331,
+    "Inspiring": 250,
+    "Fascinating": 100,
+    "OK": 82,
+    "Ingenious": 34,
+    "Funny": 27,
+    "Longwinded": 10,
+    "Persuasive": 16,
+    "Unconvincing": 15,
+    "Obnoxious": 11,
+    "Confusing": 8
+  },
+  "slug": "el_seed_street_art_with_a_message_of_hope_and_peace",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/83b6197ead1303d82f0ccc05495c3a1d4f58d693_2880x1620.jpg?quality=89&w=600",
+  "title": "Street art with a message of hope and peace",
+  "url": "https://www.ted.com/talks/el_seed_street_art_with_a_message_of_hope_and_peace",
+  "video": {
+    "low": "http://download.ted.com/talks/eLSeed_2015U-light.mp4",
+    "medium": "http://download.ted.com/talks/eLSeed_2015U.mp4",
+    "high": "http://download.ted.com/talks/eLSeed_2015U-480p.mp4"
+  },
+  "viewCount": 1249057,
+  "year": "2015"
+}

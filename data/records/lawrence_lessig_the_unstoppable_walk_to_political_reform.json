@@ -1,0 +1,49 @@
+{
+  "audio": "http://download.ted.com/talks/LarryLessig_2014.mp3",
+  "author": "Lawrence Lessig",
+  "dateFilmed": 1395273600,
+  "datePublished": 1396623525,
+  "description": "Seven years ago, Internet activist Aaron Swartz convinced Lawrence Lessig to take up the fight for political reform. A year after Swartz's tragic death, Lessig continues his campaign to free US politics from the stranglehold of corruption. In this fiery, deeply personal talk, he calls for all citizens to engage, and offers a heartfelt reminder to never give up hope.",
+  "duration": 824,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/4fff57256dc94b8767ea082c8da3c80f32386994_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "corruption",
+    "democracy",
+    "government",
+    "politics"
+  ],
+  "mainLanguage": null,
+  "objectID": 1960,
+  "otherLanguages": {
+    "zh-tw": "Chinese, Traditional"
+  },
+  "ratings": {
+    "Inspiring": 522,
+    "OK": 66,
+    "Beautiful": 95,
+    "Courageous": 190,
+    "Persuasive": 245,
+    "Informative": 104,
+    "Ingenious": 31,
+    "Fascinating": 30,
+    "Unconvincing": 42,
+    "Longwinded": 23,
+    "Obnoxious": 10,
+    "Confusing": 4,
+    "Jaw-dropping": 10,
+    "Funny": 6
+  },
+  "slug": "lawrence_lessig_the_unstoppable_walk_to_political_reform",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/4fff57256dc94b8767ea082c8da3c80f32386994_1600x1200.jpg?quality=89&w=600",
+  "title": "The unstoppable walk to political reform",
+  "url": "https://www.ted.com/talks/lawrence_lessig_the_unstoppable_walk_to_political_reform",
+  "video": {
+    "low": "http://download.ted.com/talks/LarryLessig_2014-light.mp4",
+    "medium": "http://download.ted.com/talks/LarryLessig_2014.mp4",
+    "high": "http://download.ted.com/talks/LarryLessig_2014-480p.mp4"
+  },
+  "viewCount": 1057979,
+  "year": "2014"
+}

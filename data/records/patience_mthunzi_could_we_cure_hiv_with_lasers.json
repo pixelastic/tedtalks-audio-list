@@ -1,0 +1,46 @@
+{
+  "audio": "http://download.ted.com/talks/PatienceMthunzi_2015U.mp3",
+  "author": "Patience Mthunzi",
+  "dateFilmed": 1426636800,
+  "datePublished": 1439564669,
+  "description": "Swallowing pills to get medication is a quick, painless and often not entirely effective way of treating disease. A potentially better way? Lasers. In this passionate talk, TED Fellow Patience Mthunzi explains her idea to use lasers to deliver drugs directly to cells infected with HIV. It's early days yet, but could a cure be on the horizon?",
+  "duration": 265,
+  "event": "TED2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/75c00863cc695bd49cb185853bf0be2b8e2a5c35_2880x1620.jpg",
+  "keywords": [
+    "health",
+    "medicine",
+    "science"
+  ],
+  "mainLanguage": null,
+  "objectID": 2313,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 181,
+    "Ingenious": 72,
+    "Fascinating": 76,
+    "Inspiring": 51,
+    "Jaw-dropping": 18,
+    "OK": 36,
+    "Courageous": 21,
+    "Beautiful": 6,
+    "Persuasive": 10,
+    "Unconvincing": 22,
+    "Funny": 16,
+    "Obnoxious": 3,
+    "Confusing": 0,
+    "Longwinded": 0
+  },
+  "slug": "patience_mthunzi_could_we_cure_hiv_with_lasers",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/75c00863cc695bd49cb185853bf0be2b8e2a5c35_2880x1620.jpg?quality=89&w=600",
+  "title": "Could we cure HIV with lasers?",
+  "url": "https://www.ted.com/talks/patience_mthunzi_could_we_cure_hiv_with_lasers",
+  "video": {
+    "low": "http://download.ted.com/talks/PatienceMthunzi_2015U-light.mp4",
+    "medium": "http://download.ted.com/talks/PatienceMthunzi_2015U.mp4",
+    "high": "http://download.ted.com/talks/PatienceMthunzi_2015U-480p.mp4"
+  },
+  "viewCount": 1103833,
+  "year": "2015"
+}

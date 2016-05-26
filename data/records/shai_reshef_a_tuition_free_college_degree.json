@@ -1,0 +1,49 @@
+{
+  "audio": "http://download.ted.com/talks/ShaiReshef_2014.mp3",
+  "author": "Shai Reshef",
+  "dateFilmed": 1394755200,
+  "datePublished": 1407164933,
+  "description": "At the online University of the People, anyone with a high school diploma can take classes toward a degree in business administration or computer science — without standard tuition fees (though exams cost money). Founder Shai Reshef hopes that higher education is changing \"from being a privilege for the few to a basic right, affordable and accessible for all.\"",
+  "duration": 648,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/11bbb81480a529077b7bf1532025795686a2db7d_2400x1800.jpg",
+  "keywords": [
+    "TED Conference",
+    "business",
+    "computers",
+    "education",
+    "open-source",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 2050,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 160,
+    "Ingenious": 139,
+    "Inspiring": 473,
+    "Informative": 208,
+    "Fascinating": 111,
+    "Courageous": 80,
+    "OK": 74,
+    "Persuasive": 62,
+    "Jaw-dropping": 21,
+    "Longwinded": 7,
+    "Unconvincing": 14,
+    "Confusing": 8,
+    "Funny": 8,
+    "Obnoxious": 4
+  },
+  "slug": "shai_reshef_a_tuition_free_college_degree",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/11bbb81480a529077b7bf1532025795686a2db7d_2400x1800.jpg?quality=89&w=600",
+  "title": "An ultra-low-cost college degree",
+  "url": "https://www.ted.com/talks/shai_reshef_a_tuition_free_college_degree",
+  "video": {
+    "low": "http://download.ted.com/talks/ShaiReshef_2014-light.mp4",
+    "medium": "http://download.ted.com/talks/ShaiReshef_2014.mp4",
+    "high": "http://download.ted.com/talks/ShaiReshef_2014-480p.mp4"
+  },
+  "viewCount": 2911932,
+  "year": "2014"
+}

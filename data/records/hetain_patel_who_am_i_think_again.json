@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/HetainPatel_2013G.mp3",
+  "author": "Hetain Patel",
+  "dateFilmed": 1370908800,
+  "datePublished": 1382108360,
+  "description": "How do we decide who we are? Hetain Patel's surprising performance plays with identity, language and accent -- and challenges you to think deeper than surface appearances. A delightful meditation on self, with performer Yuyu Rau, and inspired by Bruce Lee.",
+  "duration": 546,
+  "event": "TEDGlobal 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/9a1beea7f2ca9468ce632948347887a93cf01c1c_1600x1200.jpg",
+  "keywords": [
+    "art",
+    "culture",
+    "dance",
+    "identity",
+    "performance art"
+  ],
+  "mainLanguage": null,
+  "objectID": 1849,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Funny": 586,
+    "Fascinating": 201,
+    "Ingenious": 226,
+    "Persuasive": 40,
+    "Inspiring": 236,
+    "OK": 85,
+    "Beautiful": 173,
+    "Informative": 57,
+    "Jaw-dropping": 40,
+    "Unconvincing": 42,
+    "Longwinded": 14,
+    "Courageous": 38,
+    "Confusing": 51,
+    "Obnoxious": 11
+  },
+  "slug": "hetain_patel_who_am_i_think_again",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/9a1beea7f2ca9468ce632948347887a93cf01c1c_1600x1200.jpg?quality=89&w=600",
+  "title": "Who am I? Think again",
+  "url": "https://www.ted.com/talks/hetain_patel_who_am_i_think_again",
+  "video": {
+    "low": "http://download.ted.com/talks/HetainPatel_2013G-light.mp4",
+    "medium": "http://download.ted.com/talks/HetainPatel_2013G.mp4",
+    "high": "http://download.ted.com/talks/HetainPatel_2013G-480p.mp4"
+  },
+  "viewCount": 2516931,
+  "year": "2013"
+}

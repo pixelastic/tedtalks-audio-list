@@ -1,0 +1,60 @@
+{
+  "audio": null,
+  "author": "Stefan Sagmeister",
+  "dateFilmed": 1075680000,
+  "datePublished": 1175731860,
+  "description": "Graphic designer Stefan Sagmeister takes the audience on a whimsical journey through moments of his life that made him happy -- and notes how many of these moments have to do with good design.",
+  "duration": 930,
+  "event": "TED2004",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/357645ce1b44cbb0ff229b3a8a600bb49d984c94_1920x1080.jpg",
+  "keywords": [
+    "TED Brain Trust",
+    "TED Conference",
+    "art",
+    "arts",
+    "design",
+    "happiness",
+    "typography"
+  ],
+  "mainLanguage": null,
+  "objectID": 50,
+  "otherLanguages": {
+    "sq": "Albanian",
+    "ar": "Arabic",
+    "eu": "Basque",
+    "hr": "Croatian",
+    "fa": "Persian",
+    "ru": "Russian",
+    "sr": "Serbian",
+    "es": "Spanish",
+    "uk": "Ukrainian",
+    "vi": "Vietnamese"
+  },
+  "ratings": {
+    "Confusing": 25,
+    "Funny": 454,
+    "Ingenious": 142,
+    "Beautiful": 171,
+    "Longwinded": 62,
+    "Informative": 95,
+    "Inspiring": 526,
+    "Fascinating": 136,
+    "Courageous": 51,
+    "Unconvincing": 66,
+    "OK": 118,
+    "Obnoxious": 14,
+    "Jaw-dropping": 23,
+    "Persuasive": 33
+  },
+  "slug": "stefan_sagmeister_shares_happy_design",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/357645ce1b44cbb0ff229b3a8a600bb49d984c94_1920x1080.jpg?quality=89&w=600",
+  "title": "Happiness by design",
+  "url": "https://www.ted.com/talks/stefan_sagmeister_shares_happy_design",
+  "video": {
+    "low": "http://download.ted.com/talks/StefanSagmeister_2004-light.mp4",
+    "medium": "http://download.ted.com/talks/StefanSagmeister_2004.mp4",
+    "high": "http://download.ted.com/talks/StefanSagmeister_2004-480p.mp4"
+  },
+  "viewCount": 1593681,
+  "year": "2004"
+}

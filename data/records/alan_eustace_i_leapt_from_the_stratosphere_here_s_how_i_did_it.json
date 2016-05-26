@@ -1,0 +1,50 @@
+{
+  "audio": "http://download.ted.com/talks/AlanEustace_2015.mp3",
+  "author": "Alan Eustace",
+  "dateFilmed": 1426550400,
+  "datePublished": 1441379683,
+  "description": "On October 24, 2014, Alan Eustace donned a custom-built, 235-pound spacesuit, attached himself to a weather balloon, and rose above 135,000 feet, from which point he dove to Earth, breaking both the sound barrier and previous records for high-altitude jumps. Hear his story of how -- and why.",
+  "duration": 868,
+  "event": "TED2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ebe2c7f82a8d3e60128f725c74a24c071366bd6c_2880x1620.jpg",
+  "keywords": [
+    "astronomy",
+    "exploration",
+    "innovation",
+    "invention",
+    "physics",
+    "science",
+    "space"
+  ],
+  "mainLanguage": null,
+  "objectID": 2259,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Courageous": 277,
+    "Informative": 101,
+    "Inspiring": 240,
+    "Fascinating": 173,
+    "Beautiful": 67,
+    "Jaw-dropping": 98,
+    "Ingenious": 51,
+    "OK": 54,
+    "Funny": 17,
+    "Longwinded": 2,
+    "Persuasive": 5,
+    "Obnoxious": 11,
+    "Confusing": 8,
+    "Unconvincing": 8
+  },
+  "slug": "alan_eustace_i_leapt_from_the_stratosphere_here_s_how_i_did_it",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ebe2c7f82a8d3e60128f725c74a24c071366bd6c_2880x1620.jpg?quality=89&w=600",
+  "title": "I leapt from the stratosphere. Here's how I did it",
+  "url": "https://www.ted.com/talks/alan_eustace_i_leapt_from_the_stratosphere_here_s_how_i_did_it",
+  "video": {
+    "low": "http://download.ted.com/talks/AlanEustace_2015-light.mp4",
+    "medium": "http://download.ted.com/talks/AlanEustace_2015.mp4",
+    "high": "http://download.ted.com/talks/AlanEustace_2015-480p.mp4"
+  },
+  "viewCount": 1324082,
+  "year": "2015"
+}

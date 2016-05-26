@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/DanBerkenstock_2013S.mp3",
+  "author": "Dan Berkenstock",
+  "dateFilmed": 1383091200,
+  "datePublished": 1391529645,
+  "description": "We're all familiar with satellite imagery, but what we might not know is that much of it is out of date. That's because satellites are big and expensive, so there aren't that many of them up in space. As he explains in this fascinating talk, Dan Berkenstock and his team came up with a different solution, designing a cheap, lightweight satellite with a radically new approach to photographing what's going on on Earth.",
+  "duration": 584,
+  "event": "TED@BCG San Francisco",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/df79640770a6974c2178e1708747a144c43ca7d1_1600x1200.jpg",
+  "keywords": [
+    "map",
+    "space",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 1919,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified",
+    "zh-tw": "Chinese, Traditional"
+  },
+  "ratings": {
+    "Informative": 133,
+    "OK": 29,
+    "Ingenious": 91,
+    "Courageous": 8,
+    "Jaw-dropping": 15,
+    "Fascinating": 82,
+    "Inspiring": 50,
+    "Persuasive": 8,
+    "Funny": 14,
+    "Obnoxious": 4,
+    "Longwinded": 9,
+    "Unconvincing": 10,
+    "Beautiful": 11,
+    "Confusing": 1
+  },
+  "slug": "dan_berkenstock_the_world_is_one_big_dataset_now_how_to_photograph_it",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/df79640770a6974c2178e1708747a144c43ca7d1_1600x1200.jpg?quality=89&w=600",
+  "title": "The world is one big dataset. Now, how to photograph it ...",
+  "url": "https://www.ted.com/talks/dan_berkenstock_the_world_is_one_big_dataset_now_how_to_photograph_it",
+  "video": {
+    "low": "http://download.ted.com/talks/DanBerkenstock_2013S-light.mp4",
+    "medium": "http://download.ted.com/talks/DanBerkenstock_2013S.mp4",
+    "high": "http://download.ted.com/talks/DanBerkenstock_2013S-480p.mp4"
+  },
+  "viewCount": 806891,
+  "year": "2013"
+}

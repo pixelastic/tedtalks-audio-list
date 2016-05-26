@@ -1,0 +1,51 @@
+{
+  "audio": "http://download.ted.com/talks/SleepyManBanjoBoys_2013.mp3",
+  "author": "Sleepy Man Banjo Boys",
+  "dateFilmed": 1361836800,
+  "datePublished": 1373036244,
+  "description": "All under the age of 16, brothers Jonny, Robbie and Tommy Mizzone are from New Jersey, a US state that's better known for the rock of Bruce Springsteen than the bluegrass of Earl Scruggs. Nonetheless, the siblings began performing bluegrass covers, as well as their own compositions, at a young age. Here, they play three dazzling songs in three different keys, passing the lead back and forth from fiddle to banjo to guitar.",
+  "duration": 527,
+  "event": "TED2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/5817df5175966f8f2051620a1a64508b6aec8c54_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "children",
+    "entertainment",
+    "live music",
+    "music",
+    "performance",
+    "wunderkind"
+  ],
+  "mainLanguage": null,
+  "objectID": 1782,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified"
+  },
+  "ratings": {
+    "Fascinating": 353,
+    "Beautiful": 351,
+    "Jaw-dropping": 461,
+    "Funny": 21,
+    "Inspiring": 266,
+    "OK": 47,
+    "Longwinded": 3,
+    "Persuasive": 3,
+    "Ingenious": 40,
+    "Courageous": 26,
+    "Obnoxious": 3,
+    "Confusing": 5,
+    "Unconvincing": 2,
+    "Informative": 0
+  },
+  "slug": "sleepy_man_banjo_boys_bluegrass_virtuosity_from_new_jersey",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/5817df5175966f8f2051620a1a64508b6aec8c54_1600x1200.jpg?quality=89&w=600",
+  "title": "Bluegrass virtuosity from ... New Jersey?",
+  "url": "https://www.ted.com/talks/sleepy_man_banjo_boys_bluegrass_virtuosity_from_new_jersey",
+  "video": {
+    "low": "http://download.ted.com/talks/SleepyManBanjoBoys_2013-light.mp4",
+    "medium": "http://download.ted.com/talks/SleepyManBanjoBoys_2013.mp4",
+    "high": "http://download.ted.com/talks/SleepyManBanjoBoys_2013-480p.mp4"
+  },
+  "viewCount": 3628615,
+  "year": "2013"
+}

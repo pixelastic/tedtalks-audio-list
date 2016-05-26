@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/HendrikPoinar_2013X.mp3",
+  "author": "Hendrik Poinar",
+  "dateFilmed": 1363305600,
+  "datePublished": 1369926461,
+  "description": "It’s the dream of kids all around the world to see giant beasts walk the Earth again. Could -- and should -- that dream be realized? Hendrik Poinar talks about the next big thing: the quest to engineer a creature that looks very much like our furry friend, the woolly mammoth. The first step, to sequence the woolly genome, is nearly complete. And it’s huge. ",
+  "duration": 622,
+  "event": "TEDxDeExtinction",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7728f078c0d5afc37c5a5cacdbac392c45b3efd6_1600x1200.jpg",
+  "keywords": [
+    "TEDx",
+    "animals",
+    "anthropology",
+    "deextinction",
+    "evolution"
+  ],
+  "mainLanguage": null,
+  "objectID": 1751,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Longwinded": 7,
+    "Unconvincing": 10,
+    "Fascinating": 134,
+    "Informative": 159,
+    "Persuasive": 24,
+    "Ingenious": 46,
+    "Courageous": 9,
+    "Inspiring": 33,
+    "Jaw-dropping": 25,
+    "OK": 29,
+    "Beautiful": 22,
+    "Funny": 6,
+    "Obnoxious": 6,
+    "Confusing": 4
+  },
+  "slug": "hendrik_poinar_bring_back_the_woolly_mammoth",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7728f078c0d5afc37c5a5cacdbac392c45b3efd6_1600x1200.jpg?quality=89&w=600",
+  "title": "Bring back the woolly mammoth!",
+  "url": "https://www.ted.com/talks/hendrik_poinar_bring_back_the_woolly_mammoth",
+  "video": {
+    "low": "http://download.ted.com/talks/HendrikPoinar_2013X-light.mp4",
+    "medium": "http://download.ted.com/talks/HendrikPoinar_2013X.mp4",
+    "high": "http://download.ted.com/talks/HendrikPoinar_2013X-480p.mp4"
+  },
+  "viewCount": 853576,
+  "year": "2013"
+}

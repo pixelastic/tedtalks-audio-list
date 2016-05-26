@@ -1,0 +1,49 @@
+{
+  "audio": "http://download.ted.com/talks/ThomasInsel_2013X.mp3",
+  "author": "Thomas Insel",
+  "dateFilmed": 1358467200,
+  "datePublished": 1366125538,
+  "description": "Today, thanks to better early detection, there are 63% fewer deaths from heart disease than there were just a few decades ago. Thomas Insel, Director of the National Institute of Mental Health, wonders: Could we do the same for depression and schizophrenia? The first step in this new avenue of research, he says, is a crucial reframing: for us to stop thinking about “mental disorders” and start understanding them as “brain disorders.” (Filmed at TEDxCaltech.)",
+  "duration": 783,
+  "event": "TEDxCaltech",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/1733fa238431c2ae65c5410920b2413c2c4b8171_1600x1200.jpg",
+  "keywords": [
+    "TEDx",
+    "brain",
+    "depression",
+    "health",
+    "mental health",
+    "neuroscience"
+  ],
+  "mainLanguage": null,
+  "objectID": 1714,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 363,
+    "Fascinating": 173,
+    "OK": 47,
+    "Persuasive": 135,
+    "Jaw-dropping": 19,
+    "Unconvincing": 31,
+    "Confusing": 10,
+    "Longwinded": 22,
+    "Inspiring": 112,
+    "Ingenious": 32,
+    "Courageous": 15,
+    "Obnoxious": 2,
+    "Funny": 2,
+    "Beautiful": 11
+  },
+  "slug": "thomas_insel_toward_a_new_understanding_of_mental_illness",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/1733fa238431c2ae65c5410920b2413c2c4b8171_1600x1200.jpg?quality=89&w=600",
+  "title": "Toward a new understanding of mental illness",
+  "url": "https://www.ted.com/talks/thomas_insel_toward_a_new_understanding_of_mental_illness",
+  "video": {
+    "low": "http://download.ted.com/talks/ThomasInsel_2013X-light.mp4",
+    "medium": "http://download.ted.com/talks/ThomasInsel_2013X.mp4",
+    "high": "http://download.ted.com/talks/ThomasInsel_2013X-480p.mp4"
+  },
+  "viewCount": 1010496,
+  "year": "2013"
+}

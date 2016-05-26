@@ -1,0 +1,62 @@
+{
+  "audio": "http://download.ted.com/talks/TomHoney_2005.mp3",
+  "author": "Tom Honey",
+  "dateFilmed": 1107302400,
+  "datePublished": 1176688500,
+  "description": "In the days following the tragic South Asian tsunami of 2004, the Rev. Tom Honey pondered the question, \"How could a loving God have done this?\" Here is his answer.",
+  "duration": 1172,
+  "event": "TED2005",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/195_480x360.jpg",
+  "keywords": [
+    "God",
+    "TED Conference",
+    "culture",
+    "disaster relief",
+    "global issues",
+    "natural disaster",
+    "philosophy",
+    "religion"
+  ],
+  "mainLanguage": null,
+  "objectID": 112,
+  "otherLanguages": {
+    "hr": "Croatian",
+    "cs": "Czech",
+    "nl": "Dutch",
+    "fr": "French",
+    "de": "German",
+    "he": "Hebrew",
+    "pl": "Polish",
+    "ro": "Romanian",
+    "ru": "Russian",
+    "tr": "Turkish",
+    "vi": "Vietnamese"
+  },
+  "ratings": {
+    "Courageous": 412,
+    "Longwinded": 104,
+    "Confusing": 87,
+    "Beautiful": 208,
+    "Unconvincing": 315,
+    "Informative": 71,
+    "Inspiring": 308,
+    "Fascinating": 103,
+    "Funny": 8,
+    "Ingenious": 34,
+    "Obnoxious": 62,
+    "OK": 66,
+    "Persuasive": 96,
+    "Jaw-dropping": 27
+  },
+  "slug": "tom_honey_on_god_and_the_tsunami",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/195_480x360.jpg?quality=89&w=600",
+  "title": "Why would God create a tsunami?",
+  "url": "https://www.ted.com/talks/tom_honey_on_god_and_the_tsunami",
+  "video": {
+    "low": "http://download.ted.com/talks/TomHoney_2005-light.mp4",
+    "medium": "http://download.ted.com/talks/TomHoney_2005.mp4",
+    "high": "http://download.ted.com/talks/TomHoney_2005-480p.mp4"
+  },
+  "viewCount": 569984,
+  "year": "2005"
+}

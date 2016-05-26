@@ -1,0 +1,60 @@
+{
+  "audio": "http://download.ted.com/talks/MikeMatas_2011.mp3",
+  "author": "Mike Matas",
+  "dateFilmed": 1299024000,
+  "datePublished": 1304001240,
+  "description": "Software developer Mike Matas demos the first full-length interactive book for the iPad -- with clever, swipeable video and graphics and some very cool data visualizations to play with. The book is \"Our Choice,\" Al Gore's sequel to \"An Inconvenient Truth.\" ",
+  "duration": 274,
+  "event": "TED2011",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/9bfe6c1169ec976395a370f53eecaf7dfbcc9147_800x600.jpg",
+  "keywords": [
+    "TED Conference",
+    "demo",
+    "design",
+    "entertainment",
+    "software",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 1134,
+  "otherLanguages": {
+    "be": "Belarusian",
+    "zh": "Chinese, Yue",
+    "cs": "Czech",
+    "nl": "Dutch",
+    "fr-ca": "French (Canada)",
+    "he": "Hebrew",
+    "ko": "Korean",
+    "lt": "Lithuanian",
+    "pl": "Polish",
+    "pt": "Portuguese",
+    "sl": "Slovenian"
+  },
+  "ratings": {
+    "OK": 126,
+    "Fascinating": 314,
+    "Informative": 249,
+    "Ingenious": 354,
+    "Persuasive": 43,
+    "Beautiful": 138,
+    "Obnoxious": 60,
+    "Jaw-dropping": 180,
+    "Unconvincing": 108,
+    "Inspiring": 208,
+    "Funny": 19,
+    "Longwinded": 11,
+    "Courageous": 7,
+    "Confusing": 6
+  },
+  "slug": "mike_matas",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/9bfe6c1169ec976395a370f53eecaf7dfbcc9147_800x600.jpg?quality=89&w=600",
+  "title": "A next-generation digital book",
+  "url": "https://www.ted.com/talks/mike_matas",
+  "video": {
+    "low": "http://download.ted.com/talks/MikeMatas_2011-light.mp4",
+    "medium": "http://download.ted.com/talks/MikeMatas_2011.mp4",
+    "high": "http://download.ted.com/talks/MikeMatas_2011-480p.mp4"
+  },
+  "viewCount": 1458635,
+  "year": "2011"
+}

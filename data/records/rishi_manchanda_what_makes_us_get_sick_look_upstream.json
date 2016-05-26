@@ -1,0 +1,45 @@
+{
+  "audio": "http://download.ted.com/talks/RishiManchanda_2014S.mp3",
+  "author": "Rishi Manchanda",
+  "dateFilmed": 1407369600,
+  "datePublished": 1410793203,
+  "description": "Rishi Manchanda has worked as a doctor in South Central Los Angeles for a decade, where he’s come to realize: His job isn’t just about treating a patient’s symptoms, but about getting to the root cause of what is making them ill—the “upstream\" factors like a poor diet, a stressful job, a lack of fresh air. It’s a powerful call for doctors to pay attention to a patient's life outside the exam room.",
+  "duration": 1093,
+  "event": "TEDSalon NY2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/9238ca0d06f68e5d8127c5c0236ea4d5ae8ea55d_2400x1800.jpg",
+  "keywords": [
+    "health",
+    "health care"
+  ],
+  "mainLanguage": null,
+  "objectID": 2076,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 476,
+    "Inspiring": 348,
+    "Fascinating": 122,
+    "Ingenious": 55,
+    "Persuasive": 226,
+    "OK": 38,
+    "Courageous": 67,
+    "Longwinded": 17,
+    "Unconvincing": 7,
+    "Beautiful": 15,
+    "Obnoxious": 1,
+    "Funny": 3,
+    "Confusing": 1,
+    "Jaw-dropping": 9
+  },
+  "slug": "rishi_manchanda_what_makes_us_get_sick_look_upstream",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/9238ca0d06f68e5d8127c5c0236ea4d5ae8ea55d_2400x1800.jpg?quality=89&w=600",
+  "title": "What makes us get sick? Look upstream",
+  "url": "https://www.ted.com/talks/rishi_manchanda_what_makes_us_get_sick_look_upstream",
+  "video": {
+    "low": "http://download.ted.com/talks/RishiManchanda_2014S-light.mp4",
+    "medium": "http://download.ted.com/talks/RishiManchanda_2014S.mp4",
+    "high": "http://download.ted.com/talks/RishiManchanda_2014S-480p.mp4"
+  },
+  "viewCount": 1239182,
+  "year": "2014"
+}

@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/MandyLenCatron_2015X.mp3",
+  "author": "Mandy Len Catron",
+  "dateFilmed": 1440028800,
+  "datePublished": 1442503712,
+  "description": "Did you know you can fall in love with anyone just by asking them 36 questions? Mandy Len Catron tried this experiment, it worked, and she wrote a viral article about it (that your mom probably sent you). But … is that real love? Did it last? And what’s the difference between falling in love and staying in love?",
+  "duration": 833,
+  "event": "TEDxChapmanU",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2408fa2789737bcb531459590221ac4f46aa587c_2880x1620.jpg",
+  "keywords": [
+    "TEDx",
+    "love",
+    "media",
+    "writing"
+  ],
+  "mainLanguage": null,
+  "objectID": 2330,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Funny": 219,
+    "Fascinating": 342,
+    "OK": 347,
+    "Longwinded": 82,
+    "Beautiful": 310,
+    "Informative": 250,
+    "Courageous": 199,
+    "Inspiring": 322,
+    "Persuasive": 63,
+    "Confusing": 34,
+    "Unconvincing": 62,
+    "Obnoxious": 33,
+    "Jaw-dropping": 11,
+    "Ingenious": 27
+  },
+  "slug": "mandy_len_catron_falling_in_love_is_the_easy_part",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2408fa2789737bcb531459590221ac4f46aa587c_2880x1620.jpg?quality=89&w=600",
+  "title": "Falling in love is the easy part",
+  "url": "https://www.ted.com/talks/mandy_len_catron_falling_in_love_is_the_easy_part",
+  "video": {
+    "low": "http://download.ted.com/talks/MandyLenCatron_2015X-light.mp4",
+    "medium": "http://download.ted.com/talks/MandyLenCatron_2015X.mp4",
+    "high": "http://download.ted.com/talks/MandyLenCatron_2015X-480p.mp4"
+  },
+  "viewCount": 2405235,
+  "year": "2015"
+}

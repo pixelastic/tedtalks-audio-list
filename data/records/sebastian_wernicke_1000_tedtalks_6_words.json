@@ -1,0 +1,61 @@
+{
+  "audio": "http://download.ted.com/talks/SebastianWernicke_2011X.mp3",
+  "author": "Sebastian Wernicke",
+  "dateFilmed": 1320883200,
+  "datePublished": 1325867434,
+  "description": "Sebastian Wernicke thinks every TED Talk can be summarized in six words. In this talk, he shows how to do just that -- and less.",
+  "duration": 454,
+  "event": "TEDxZurich 2011",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e6defb3780c8989a54815f3bc50384ccb404509a_800x600.jpg",
+  "keywords": [
+    "TEDx",
+    "statistics",
+    "visualizations"
+  ],
+  "mainLanguage": null,
+  "objectID": 1315,
+  "otherLanguages": {
+    "sq": "Albanian",
+    "ar": "Arabic",
+    "hy": "Armenian",
+    "nl": "Dutch",
+    "fr": "French",
+    "fr-ca": "French (Canada)",
+    "de": "German",
+    "el": "Greek",
+    "he": "Hebrew",
+    "fa": "Persian",
+    "ro": "Romanian",
+    "ru": "Russian",
+    "th": "Thai",
+    "uk": "Ukrainian",
+    "vi": "Vietnamese"
+  },
+  "ratings": {
+    "Jaw-dropping": 29,
+    "Unconvincing": 149,
+    "Longwinded": 70,
+    "OK": 134,
+    "Beautiful": 50,
+    "Funny": 382,
+    "Ingenious": 259,
+    "Fascinating": 89,
+    "Inspiring": 57,
+    "Obnoxious": 74,
+    "Persuasive": 21,
+    "Confusing": 37,
+    "Informative": 59,
+    "Courageous": 17
+  },
+  "slug": "sebastian_wernicke_1000_tedtalks_6_words",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e6defb3780c8989a54815f3bc50384ccb404509a_800x600.jpg?quality=89&w=600",
+  "title": "1,000 TED Talks in six words",
+  "url": "https://www.ted.com/talks/sebastian_wernicke_1000_tedtalks_6_words",
+  "video": {
+    "low": "http://download.ted.com/talks/SebastianWernicke_2011X-light.mp4",
+    "medium": "http://download.ted.com/talks/SebastianWernicke_2011X.mp4",
+    "high": "http://download.ted.com/talks/SebastianWernicke_2011X-480p.mp4"
+  },
+  "viewCount": 586265,
+  "year": "2011"
+}

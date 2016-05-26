@@ -1,0 +1,49 @@
+{
+  "audio": "http://download.ted.com/talks/AndrewBastawrous_2014U.mp3",
+  "author": "Andrew Bastawrous",
+  "dateFilmed": 1395014400,
+  "datePublished": 1398871015,
+  "description": "Thirty-nine million people in the world are blind, and the majority lost their sight due to curable and preventable diseases. But how do you test and treat people who live in remote areas, where expensive, bulky eye equipment is hard to come by? TED Fellow Andrew Bastawrous demos a smartphone app and cheap hardware that might help.",
+  "duration": 393,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2066297d1a9173ac6803215bbfe2a5e6f15c4acf_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "TED Fellows",
+    "health",
+    "invention",
+    "public health",
+    "sight"
+  ],
+  "mainLanguage": null,
+  "objectID": 1987,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Ingenious": 335,
+    "Inspiring": 351,
+    "Informative": 231,
+    "Jaw-dropping": 88,
+    "Fascinating": 188,
+    "Beautiful": 55,
+    "Courageous": 69,
+    "Persuasive": 42,
+    "Funny": 22,
+    "OK": 29,
+    "Obnoxious": 4,
+    "Longwinded": 2,
+    "Confusing": 4,
+    "Unconvincing": 3
+  },
+  "slug": "andrew_bastawrous_get_your_next_eye_exam_on_a_smartphone",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2066297d1a9173ac6803215bbfe2a5e6f15c4acf_1600x1200.jpg?quality=89&w=600",
+  "title": "Get your next eye exam on a smartphone",
+  "url": "https://www.ted.com/talks/andrew_bastawrous_get_your_next_eye_exam_on_a_smartphone",
+  "video": {
+    "low": "http://download.ted.com/talks/AndrewBastawrous_2014U-light.mp4",
+    "medium": "http://download.ted.com/talks/AndrewBastawrous_2014U.mp4",
+    "high": "http://download.ted.com/talks/AndrewBastawrous_2014U-480p.mp4"
+  },
+  "viewCount": 996123,
+  "year": "2014"
+}

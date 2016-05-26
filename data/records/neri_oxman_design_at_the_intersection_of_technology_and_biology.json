@@ -1,0 +1,53 @@
+{
+  "audio": "http://download.ted.com/talks/NeriOxman_2015.mp3",
+  "author": "Neri Oxman",
+  "dateFilmed": 1426723200,
+  "datePublished": 1444230000,
+  "description": "Designer and architect Neri Oxman is leading the search for ways in which digital fabrication technologies can interact with the biological world. Working at the intersection of computational design, additive manufacturing, materials engineering and synthetic biology, her lab is pioneering a new age of symbiosis between microorganisms, our bodies, our products and even our buildings.",
+  "duration": 1056,
+  "event": "TED2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a4817b9887ab589f58ea7258b3e4cecbafa126c2_2880x1620.jpg",
+  "keywords": [
+    "architecture",
+    "biology",
+    "design",
+    "innovation",
+    "materials",
+    "microbiology",
+    "nature",
+    "product design",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 2344,
+  "otherLanguages": {
+    "fa": "Persian"
+  },
+  "ratings": {
+    "Informative": 188,
+    "Inspiring": 242,
+    "Fascinating": 321,
+    "Ingenious": 176,
+    "Jaw-dropping": 122,
+    "Beautiful": 155,
+    "Confusing": 12,
+    "Longwinded": 10,
+    "Obnoxious": 18,
+    "Courageous": 13,
+    "OK": 28,
+    "Persuasive": 7,
+    "Unconvincing": 10,
+    "Funny": 4
+  },
+  "slug": "neri_oxman_design_at_the_intersection_of_technology_and_biology",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a4817b9887ab589f58ea7258b3e4cecbafa126c2_2880x1620.jpg?quality=89&w=600",
+  "title": "Design at the intersection of technology and biology",
+  "url": "https://www.ted.com/talks/neri_oxman_design_at_the_intersection_of_technology_and_biology",
+  "video": {
+    "low": "http://download.ted.com/talks/NeriOxman_2015-light.mp4",
+    "medium": "http://download.ted.com/talks/NeriOxman_2015.mp4",
+    "high": "http://download.ted.com/talks/NeriOxman_2015-480p.mp4"
+  },
+  "viewCount": 1345080,
+  "year": "2015"
+}

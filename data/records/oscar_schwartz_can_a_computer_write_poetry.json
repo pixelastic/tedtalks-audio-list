@@ -1,0 +1,59 @@
+{
+  "audio": null,
+  "author": "Oscar Schwartz",
+  "dateFilmed": 1432080000,
+  "datePublished": 1453305966,
+  "description": "If you read a poem and feel moved by it, but then find out it was actually written by a computer, would you feel differently about the experience? Would you think that the computer had expressed itself and been creative, or would you feel like you had fallen for a cheap trick? In this talk, writer Oscar Schwartz examines why we react so strongly to the idea of a computer writing poetry -- and how this reaction helps us understand what it means to be human.",
+  "duration": 656,
+  "event": "TEDxYouth@Sydney",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/952396f5b0b7aa178f6198669818c9b1cf324312_2880x1620.jpg",
+  "keywords": [
+    "AI",
+    "TEDYouth",
+    "TEDx",
+    "algorithm",
+    "arts",
+    "composing",
+    "computers",
+    "creativity",
+    "identity",
+    "language",
+    "literature",
+    "poetry",
+    "technology",
+    "writing"
+  ],
+  "mainLanguage": null,
+  "objectID": 2411,
+  "otherLanguages": {
+    "hu": "Hungarian",
+    "pt-br": "Portuguese, Brazilian"
+  },
+  "ratings": {
+    "Beautiful": 63,
+    "Informative": 125,
+    "Inspiring": 96,
+    "Fascinating": 108,
+    "Obnoxious": 4,
+    "Confusing": 14,
+    "Unconvincing": 34,
+    "Ingenious": 37,
+    "Courageous": 10,
+    "Persuasive": 25,
+    "Longwinded": 13,
+    "OK": 34,
+    "Funny": 20,
+    "Jaw-dropping": 7
+  },
+  "slug": "oscar_schwartz_can_a_computer_write_poetry",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/952396f5b0b7aa178f6198669818c9b1cf324312_2880x1620.jpg?quality=89&w=600",
+  "title": "Can a computer write poetry?",
+  "url": "https://www.ted.com/talks/oscar_schwartz_can_a_computer_write_poetry",
+  "video": {
+    "low": "http://download.ted.com/talks/OscarSchwartz_2015X-light.mp4",
+    "medium": "http://download.ted.com/talks/OscarSchwartz_2015X.mp4",
+    "high": "http://download.ted.com/talks/OscarSchwartz_2015X-480p.mp4"
+  },
+  "viewCount": 629742,
+  "year": "2015"
+}

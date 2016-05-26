@@ -1,0 +1,49 @@
+{
+  "audio": null,
+  "author": "Gabe Zichermann",
+  "dateFilmed": 1306886400,
+  "datePublished": 1321715008,
+  "description": "Can playing video games make you more productive? Gabe Zichermann shows how games are making kids better problem-solvers, and will make us better at everything from driving to multi-tasking.",
+  "duration": 1001,
+  "event": "TEDxKids@Brussels",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/4239ae357981cb7788fe8562d05cf800640a2b32_800x600.jpg",
+  "keywords": [
+    "TEDx",
+    "design",
+    "education",
+    "gaming",
+    "play"
+  ],
+  "mainLanguage": null,
+  "objectID": 1278,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Inspiring": 282,
+    "Persuasive": 295,
+    "Ingenious": 92,
+    "Informative": 290,
+    "Funny": 135,
+    "Fascinating": 205,
+    "Jaw-dropping": 72,
+    "Courageous": 48,
+    "OK": 64,
+    "Confusing": 14,
+    "Unconvincing": 85,
+    "Beautiful": 28,
+    "Obnoxious": 28,
+    "Longwinded": 17
+  },
+  "slug": "gabe_zichermann_how_games_make_kids_smarter",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/4239ae357981cb7788fe8562d05cf800640a2b32_800x600.jpg?quality=89&w=600",
+  "title": "How games make kids smarter",
+  "url": "https://www.ted.com/talks/gabe_zichermann_how_games_make_kids_smarter",
+  "video": {
+    "youtube": {
+      "id": "O2N-5maKZ9Q",
+      "url": "http://www.ted.com/tedx/events/1210"
+    }
+  },
+  "viewCount": 392984,
+  "year": "2011"
+}

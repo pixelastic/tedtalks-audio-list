@@ -1,0 +1,49 @@
+{
+  "audio": "http://download.ted.com/talks/DavidPuttnam_2013X.mp3",
+  "author": "David Puttnam",
+  "dateFilmed": 1371686400,
+  "datePublished": 1392048938,
+  "description": "In this thoughtful talk, David Puttnam asks a big question about the media: Does it have a moral imperative to create informed citizens, to support democracy? His solution for ensuring media responsibility is bold, and you might not agree. But it's certainly a question worth asking ... (Filmed at TEDxHousesofParliament.)",
+  "duration": 641,
+  "event": "TEDxHousesOfParliament",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/58dca409b2a631f5d6fd0de452336aa2b3270df8_1600x1200.jpg",
+  "keywords": [
+    "TEDx",
+    "democracy",
+    "journalism",
+    "media",
+    "politics"
+  ],
+  "mainLanguage": null,
+  "objectID": 1924,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified"
+  },
+  "ratings": {
+    "Informative": 237,
+    "Inspiring": 195,
+    "Persuasive": 249,
+    "Fascinating": 63,
+    "Courageous": 74,
+    "Beautiful": 20,
+    "Unconvincing": 35,
+    "OK": 27,
+    "Jaw-dropping": 8,
+    "Ingenious": 29,
+    "Obnoxious": 6,
+    "Longwinded": 25,
+    "Funny": 6,
+    "Confusing": 17
+  },
+  "slug": "david_puttnam_what_happens_when_the_media_s_priority_is_profit",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/58dca409b2a631f5d6fd0de452336aa2b3270df8_1600x1200.jpg?quality=89&w=600",
+  "title": "Does the media have a \"duty of care\"?",
+  "url": "https://www.ted.com/talks/david_puttnam_what_happens_when_the_media_s_priority_is_profit",
+  "video": {
+    "low": "http://download.ted.com/talks/DavidPuttnam_2013X-light.mp4",
+    "medium": "http://download.ted.com/talks/DavidPuttnam_2013X.mp4",
+    "high": "http://download.ted.com/talks/DavidPuttnam_2013X-480p.mp4"
+  },
+  "viewCount": 833143,
+  "year": "2013"
+}

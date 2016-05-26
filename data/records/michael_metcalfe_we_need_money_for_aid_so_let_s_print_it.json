@@ -1,0 +1,56 @@
+{
+  "audio": "http://download.ted.com/talks/MichaelMetcalfe_2013S.mp3",
+  "author": "Michael Metcalfe",
+  "dateFilmed": 1383696000,
+  "datePublished": 1393431301,
+  "description": "During the financial crisis, the central banks of the United States, United Kingdom and Japan created $3.7 trillion in order to buy assets and encourage investors to do the same. Michael Metcalfe offers a shocking idea: could these same central banks print money to ensure they stay on track with their goals for global aid? Without risking inflation?\r\n",
+  "duration": 864,
+  "event": "TED@State Street Boston",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/82bbf525e7b13a879e6b7299303ec510f7ceb9fb_1600x1200.jpg",
+  "keywords": [
+    "economics",
+    "global issues",
+    "poverty"
+  ],
+  "mainLanguage": null,
+  "objectID": 1929,
+  "otherLanguages": {
+    "ar": "Arabic",
+    "zh-tw": "Chinese, Traditional",
+    "el": "Greek",
+    "id": "Indonesian",
+    "ja": "Japanese",
+    "fa": "Persian",
+    "pl": "Polish",
+    "ro": "Romanian",
+    "ru": "Russian",
+    "vi": "Vietnamese"
+  },
+  "ratings": {
+    "Obnoxious": 33,
+    "Longwinded": 21,
+    "Unconvincing": 148,
+    "Informative": 100,
+    "Fascinating": 109,
+    "Ingenious": 67,
+    "OK": 46,
+    "Persuasive": 101,
+    "Courageous": 69,
+    "Inspiring": 82,
+    "Jaw-dropping": 13,
+    "Funny": 15,
+    "Confusing": 18,
+    "Beautiful": 12
+  },
+  "slug": "michael_metcalfe_we_need_money_for_aid_so_let_s_print_it",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/82bbf525e7b13a879e6b7299303ec510f7ceb9fb_1600x1200.jpg?quality=89&w=600",
+  "title": "We need money for aid. So let’s print it.",
+  "url": "https://www.ted.com/talks/michael_metcalfe_we_need_money_for_aid_so_let_s_print_it",
+  "video": {
+    "low": "http://download.ted.com/talks/MichaelMetcalfe_2013S-light.mp4",
+    "medium": "http://download.ted.com/talks/MichaelMetcalfe_2013S.mp4",
+    "high": "http://download.ted.com/talks/MichaelMetcalfe_2013S-480p.mp4"
+  },
+  "viewCount": 731411,
+  "year": "2013"
+}

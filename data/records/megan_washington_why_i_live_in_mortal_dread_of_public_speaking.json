@@ -1,0 +1,49 @@
+{
+  "audio": "http://download.ted.com/talks/MeganWashington_2014X.mp3",
+  "author": "Megan Washington",
+  "dateFilmed": 1398470400,
+  "datePublished": 1407509983,
+  "description": "Megan Washington is one of Australia's premier singer/songwriters. And, since childhood, she has had a stutter. In this bold and personal talk, she reveals how she copes with this speech impediment—from avoiding the letter combination “st” to tricking her brain by changing her words at the last minute to, yes, singing the things she has to say rather than speaking them.\r\n",
+  "duration": 778,
+  "event": "TEDxSydney",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/9119913cdebf7f4a8334b5d60cda125c7ed5039a_2400x1800.jpg",
+  "keywords": [
+    "TEDx",
+    "disability",
+    "live music",
+    "media",
+    "music",
+    "speech"
+  ],
+  "mainLanguage": null,
+  "objectID": 2054,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Inspiring": 1004,
+    "Beautiful": 661,
+    "Courageous": 727,
+    "Funny": 202,
+    "Informative": 119,
+    "Fascinating": 135,
+    "OK": 43,
+    "Ingenious": 17,
+    "Jaw-dropping": 34,
+    "Unconvincing": 7,
+    "Persuasive": 21,
+    "Longwinded": 7,
+    "Obnoxious": 3,
+    "Confusing": 1
+  },
+  "slug": "megan_washington_why_i_live_in_mortal_dread_of_public_speaking",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/9119913cdebf7f4a8334b5d60cda125c7ed5039a_2400x1800.jpg?quality=89&w=600",
+  "title": "Why I live in mortal dread of public speaking",
+  "url": "https://www.ted.com/talks/megan_washington_why_i_live_in_mortal_dread_of_public_speaking",
+  "video": {
+    "low": "http://download.ted.com/talks/MeganWashington_2014X-light.mp4",
+    "medium": "http://download.ted.com/talks/MeganWashington_2014X.mp4",
+    "high": "http://download.ted.com/talks/MeganWashington_2014X-480p.mp4"
+  },
+  "viewCount": 1460170,
+  "year": "2014"
+}

@@ -1,0 +1,48 @@
+{
+  "audio": null,
+  "author": "Matthew White",
+  "dateFilmed": 1248343200,
+  "datePublished": 1256864400,
+  "description": "The euphonium, with its sweet brass sound, is rarely heard outside of traditional brass bands. Cutting loose on the euph, prodigy Matthew White performs Nat McIntosh's hip-hop-inflected \"The Warrior Comes Out to Play.\" ",
+  "duration": 141,
+  "event": "TEDGlobal 2009",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/126506_800x600.jpg",
+  "keywords": [
+    "arts",
+    "creativity",
+    "live music",
+    "music",
+    "performance"
+  ],
+  "mainLanguage": null,
+  "objectID": 672,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Ingenious": 43,
+    "Fascinating": 70,
+    "Funny": 48,
+    "OK": 123,
+    "Obnoxious": 68,
+    "Beautiful": 40,
+    "Jaw-dropping": 33,
+    "Longwinded": 21,
+    "Unconvincing": 49,
+    "Courageous": 36,
+    "Inspiring": 30,
+    "Persuasive": 4,
+    "Informative": 6,
+    "Confusing": 16
+  },
+  "slug": "matthew_white_gives_the_euphonium_a_new_voice",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/126506_800x600.jpg?quality=89&w=600",
+  "title": "The modern euphonium",
+  "url": "https://www.ted.com/talks/matthew_white_gives_the_euphonium_a_new_voice",
+  "video": {
+    "low": "http://download.ted.com/talks/MatthewWhite_Song2_2009G-light.mp4",
+    "medium": "http://download.ted.com/talks/MatthewWhite_Song2_2009G.mp4",
+    "high": "http://download.ted.com/talks/MatthewWhite_Song2_2009G-480p.mp4"
+  },
+  "viewCount": 695793,
+  "year": "2009"
+}

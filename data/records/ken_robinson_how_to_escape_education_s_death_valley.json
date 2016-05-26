@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/SirKenRobinson_2013S.mp3",
+  "author": "Ken Robinson",
+  "dateFilmed": 1366675200,
+  "datePublished": 1368198532,
+  "description": "Sir Ken Robinson outlines 3 principles crucial for the human mind to flourish -- and how current education culture works against them. In a funny, stirring talk he tells us how to get out of the educational \"death valley\" we now face, and how to nurture our youngest generations with a climate of possibility.",
+  "duration": 1151,
+  "event": "TED Talks Education",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/de98b161ad1434910ff4b56c89de71af04b8b873_1600x1200.jpg",
+  "keywords": [
+    "culture",
+    "education",
+    "student",
+    "teaching",
+    "testing"
+  ],
+  "mainLanguage": null,
+  "objectID": 1738,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Unconvincing": 18,
+    "Obnoxious": 16,
+    "Funny": 1341,
+    "Persuasive": 1299,
+    "Informative": 1029,
+    "Inspiring": 2628,
+    "Beautiful": 344,
+    "Jaw-dropping": 216,
+    "Ingenious": 481,
+    "Fascinating": 776,
+    "Courageous": 320,
+    "Longwinded": 12,
+    "OK": 55,
+    "Confusing": 7
+  },
+  "slug": "ken_robinson_how_to_escape_education_s_death_valley",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/de98b161ad1434910ff4b56c89de71af04b8b873_1600x1200.jpg?quality=89&w=600",
+  "title": "How to escape education's death valley",
+  "url": "https://www.ted.com/talks/ken_robinson_how_to_escape_education_s_death_valley",
+  "video": {
+    "low": "http://download.ted.com/talks/SirKenRobinson_2013S-light.mp4",
+    "medium": "http://download.ted.com/talks/SirKenRobinson_2013S.mp4",
+    "high": "http://download.ted.com/talks/SirKenRobinson_2013S-480p.mp4"
+  },
+  "viewCount": 5517039,
+  "year": "2013"
+}

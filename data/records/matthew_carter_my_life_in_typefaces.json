@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/MatthewCarter_2014.mp3",
+  "author": "Matthew Carter",
+  "dateFilmed": 1395100800,
+  "datePublished": 1397833186,
+  "description": "Pick up a book, magazine or screen, and more than likely you'll come across some typography designed by Matthew Carter. In this charming talk, the man behind typefaces such as Verdana, Georgia and Bell Centennial (designed just for phone books -- remember them?), takes us on a spin through a career focused on the very last pixel of each letter of a font.",
+  "duration": 961,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/d49c608ca42bac4d26295f38f55ed25f8608f518_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "design",
+    "industrial design",
+    "typography"
+  ],
+  "mainLanguage": null,
+  "objectID": 1977,
+  "otherLanguages": {
+    "zh-tw": "Chinese, Traditional"
+  },
+  "ratings": {
+    "Informative": 366,
+    "Longwinded": 56,
+    "OK": 116,
+    "Confusing": 15,
+    "Ingenious": 57,
+    "Inspiring": 83,
+    "Funny": 21,
+    "Fascinating": 134,
+    "Beautiful": 59,
+    "Unconvincing": 15,
+    "Courageous": 9,
+    "Persuasive": 8,
+    "Obnoxious": 8,
+    "Jaw-dropping": 5
+  },
+  "slug": "matthew_carter_my_life_in_typefaces",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/d49c608ca42bac4d26295f38f55ed25f8608f518_1600x1200.jpg?quality=89&w=600",
+  "title": "My life in typefaces",
+  "url": "https://www.ted.com/talks/matthew_carter_my_life_in_typefaces",
+  "video": {
+    "low": "http://download.ted.com/talks/MatthewCarter_2014-light.mp4",
+    "medium": "http://download.ted.com/talks/MatthewCarter_2014.mp4",
+    "high": "http://download.ted.com/talks/MatthewCarter_2014-480p.mp4"
+  },
+  "viewCount": 1062185,
+  "year": "2014"
+}

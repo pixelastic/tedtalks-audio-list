@@ -1,0 +1,54 @@
+{
+  "audio": null,
+  "author": "Roy Gould + Curtis Wong",
+  "dateFilmed": 1204070400,
+  "datePublished": 1204153200,
+  "description": "Educator Roy Gould and researcher Curtis Wong show a sneak preview of Microsoft’s WorldWide Telescope, which compiles images from telescopes and satellites to build a comprehensive, interactive view of our universe.",
+  "duration": 402,
+  "event": "TED2008",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/32606_480x360.jpg",
+  "keywords": [
+    "TED Conference",
+    "astronomy",
+    "collaboration",
+    "demo",
+    "education",
+    "science",
+    "technology",
+    "universe"
+  ],
+  "mainLanguage": null,
+  "objectID": 224,
+  "otherLanguages": {
+    "nl": "Dutch",
+    "hu": "Hungarian",
+    "es": "Spanish"
+  },
+  "ratings": {
+    "Informative": 165,
+    "Ingenious": 112,
+    "Beautiful": 323,
+    "Fascinating": 355,
+    "Jaw-dropping": 304,
+    "Inspiring": 208,
+    "Persuasive": 25,
+    "Longwinded": 35,
+    "Unconvincing": 71,
+    "Confusing": 14,
+    "OK": 72,
+    "Courageous": 20,
+    "Obnoxious": 40,
+    "Funny": 5
+  },
+  "slug": "roy_gould_and_curtis_wong_preview_the_worldwide_telescope",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/32606_480x360.jpg?quality=89&w=600",
+  "title": "A preview of the WorldWide Telescope",
+  "url": "https://www.ted.com/talks/roy_gould_and_curtis_wong_preview_the_worldwide_telescope",
+  "video": {
+    "low": "http://download.ted.com/talks/RoyGould_2008-light.mp4",
+    "medium": "http://download.ted.com/talks/RoyGould_2008.mp4",
+    "high": "http://download.ted.com/talks/RoyGould_2008-480p.mp4"
+  },
+  "viewCount": 932343,
+  "year": "2008"
+}

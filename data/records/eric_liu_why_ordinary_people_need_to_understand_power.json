@@ -1,0 +1,46 @@
+{
+  "audio": "http://download.ted.com/talks/EricLiu_2013Z.mp3",
+  "author": "Eric Liu",
+  "dateFilmed": 1379635200,
+  "datePublished": 1408030920,
+  "description": "Far too many Americans are illiterate in power — what it is, how it operates and why some people have it. As a result, those few who do understand power wield disproportionate influence over everyone else. “We need to make civics sexy again,” says civics educator Eric Liu. “As sexy as it was during the American Revolution or the Civil Rights Movement.”",
+  "duration": 1035,
+  "event": "TEDCity2.0",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/fa771070465b9670a72eccacddb9aebd878cf08c_2400x1800.jpg",
+  "keywords": [
+    "democracy",
+    "policy",
+    "politics"
+  ],
+  "mainLanguage": null,
+  "objectID": 2060,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Ingenious": 109,
+    "Inspiring": 581,
+    "Longwinded": 85,
+    "Fascinating": 123,
+    "OK": 81,
+    "Persuasive": 304,
+    "Beautiful": 48,
+    "Informative": 260,
+    "Unconvincing": 63,
+    "Obnoxious": 23,
+    "Confusing": 29,
+    "Courageous": 54,
+    "Jaw-dropping": 17,
+    "Funny": 15
+  },
+  "slug": "eric_liu_why_ordinary_people_need_to_understand_power",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/fa771070465b9670a72eccacddb9aebd878cf08c_2400x1800.jpg?quality=89&w=600",
+  "title": "Why ordinary people need to understand power",
+  "url": "https://www.ted.com/talks/eric_liu_why_ordinary_people_need_to_understand_power",
+  "video": {
+    "low": "http://download.ted.com/talks/EricLiu_2013Z-light.mp4",
+    "medium": "http://download.ted.com/talks/EricLiu_2013Z.mp4",
+    "high": "http://download.ted.com/talks/EricLiu_2013Z-480p.mp4"
+  },
+  "viewCount": 1598353,
+  "year": "2013"
+}

@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/GregoireCourtine_2013G.mp3",
+  "author": "Grégoire Courtine",
+  "dateFilmed": 1371081600,
+  "datePublished": 1383754502,
+  "description": "A spinal cord injury can sever the communication between your brain and your body, leading to paralysis. Fresh from his lab, Grégoire Courtine shows a new method -- combining drugs, electrical stimulation and a robot -- that could re-awaken the neural pathways and help the body learn again to move on its own. See how it works, as a paralyzed rat becomes able to run and navigate stairs.",
+  "duration": 863,
+  "event": "TEDGlobal 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/5c6138687f271d2956fdd8b779700f4b1d980ff9_1600x1200.jpg",
+  "keywords": [
+    "biotech",
+    "health care",
+    "neuroscience",
+    "science",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 1860,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Jaw-dropping": 202,
+    "Fascinating": 202,
+    "Inspiring": 284,
+    "Informative": 69,
+    "Courageous": 46,
+    "Ingenious": 171,
+    "Unconvincing": 8,
+    "Persuasive": 28,
+    "Beautiful": 44,
+    "OK": 17,
+    "Obnoxious": 18,
+    "Confusing": 2,
+    "Longwinded": 5,
+    "Funny": 0
+  },
+  "slug": "gregoire_courtine_the_paralyzed_rat_that_walked",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/5c6138687f271d2956fdd8b779700f4b1d980ff9_1600x1200.jpg?quality=89&w=600",
+  "title": "The paralyzed rat that walked",
+  "url": "https://www.ted.com/talks/gregoire_courtine_the_paralyzed_rat_that_walked",
+  "video": {
+    "low": "http://download.ted.com/talks/GregoireCourtine_2013G-light.mp4",
+    "medium": "http://download.ted.com/talks/GregoireCourtine_2013G.mp4",
+    "high": "http://download.ted.com/talks/GregoireCourtine_2013G-480p.mp4"
+  },
+  "viewCount": 821580,
+  "year": "2013"
+}

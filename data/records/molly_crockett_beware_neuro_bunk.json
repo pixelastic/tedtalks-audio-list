@@ -1,0 +1,58 @@
+{
+  "audio": "http://download.ted.com/talks/MollyCrockett_2012S.mp3",
+  "author": "Molly Crockett",
+  "dateFilmed": 1352246400,
+  "datePublished": 1355847154,
+  "description": "Brains are ubiquitous in modern marketing: Headlines proclaim cheese sandwiches help with decision-making, while a “neuro” drink claims to reduce stress. There’s just one problem, says neuroscientist Molly Crockett: The benefits of these \"neuro-enhancements\" are not proven scientifically. In this to-the-point talk, Crockett explains the limits of interpreting neuroscientific data, and why we should all be aware of them.",
+  "duration": 678,
+  "event": "TEDSalon London Fall 2012",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/bc8ee595feccded8db544b09f3d22ed9616d8780_1600x1200.jpg",
+  "keywords": [
+    "advertising",
+    "brain",
+    "marketing",
+    "media",
+    "neuroscience",
+    "science"
+  ],
+  "mainLanguage": null,
+  "objectID": 1633,
+  "otherLanguages": {
+    "en": "English",
+    "de": "German",
+    "it": "Italian",
+    "ja": "Japanese",
+    "kk": "Kazakh",
+    "pt-br": "Portuguese, Brazilian",
+    "ru": "Russian",
+    "tr": "Turkish",
+    "vi": "Vietnamese"
+  },
+  "ratings": {
+    "Persuasive": 263,
+    "Inspiring": 68,
+    "Funny": 72,
+    "Informative": 548,
+    "Fascinating": 137,
+    "Courageous": 53,
+    "Ingenious": 22,
+    "OK": 85,
+    "Beautiful": 31,
+    "Confusing": 11,
+    "Jaw-dropping": 12,
+    "Unconvincing": 18,
+    "Longwinded": 20,
+    "Obnoxious": 4
+  },
+  "slug": "molly_crockett_beware_neuro_bunk",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/bc8ee595feccded8db544b09f3d22ed9616d8780_1600x1200.jpg?quality=89&w=600",
+  "title": "Beware neuro-bunk",
+  "url": "https://www.ted.com/talks/molly_crockett_beware_neuro_bunk",
+  "video": {
+    "low": "http://download.ted.com/talks/MollyCrockett_2012S-light.mp4",
+    "medium": "http://download.ted.com/talks/MollyCrockett_2012S.mp4",
+    "high": "http://download.ted.com/talks/MollyCrockett_2012S-480p.mp4"
+  },
+  "viewCount": 1143467,
+  "year": "2012"
+}

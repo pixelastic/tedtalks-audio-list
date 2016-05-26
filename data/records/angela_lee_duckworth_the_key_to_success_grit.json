@@ -1,0 +1,63 @@
+{
+  "audio": "http://download.ted.com/talks/AngelaDuckworth_2013S.mp3",
+  "author": "Angela Lee Duckworth",
+  "dateFilmed": 1365033600,
+  "datePublished": 1368111588,
+  "description": "Leaving a high-flying job in consulting, Angela Lee Duckworth took a job teaching math to seventh graders in a New York public school. She quickly realized that IQ wasn't the only thing separating the successful students from those who struggled. Here, she explains her theory of \"grit\" as a predictor of success.",
+  "duration": 372,
+  "event": "TED Talks Education",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ed7fa3c2c9b79234201ef8ed40be228c3e93552c_1600x1200.jpg",
+  "keywords": [
+    "business",
+    "education",
+    "psychology",
+    "success"
+  ],
+  "mainLanguage": null,
+  "objectID": 1733,
+  "otherLanguages": {
+    "ar": "Arabic",
+    "ca": "Catalan",
+    "zh-tw": "Chinese, Traditional",
+    "zh": "Chinese, Yue",
+    "cs": "Czech",
+    "el": "Greek",
+    "ko": "Korean",
+    "lv": "Latvian",
+    "lt": "Lithuanian",
+    "nb": "Norwegian Bokmal",
+    "pt-br": "Portuguese, Brazilian",
+    "ru": "Russian",
+    "sr": "Serbian",
+    "sw": "Swahili",
+    "th": "Thai",
+    "ur": "Urdu"
+  },
+  "ratings": {
+    "Inspiring": 3409,
+    "Ingenious": 266,
+    "Informative": 1668,
+    "Persuasive": 975,
+    "OK": 448,
+    "Fascinating": 594,
+    "Beautiful": 267,
+    "Courageous": 290,
+    "Longwinded": 42,
+    "Obnoxious": 64,
+    "Unconvincing": 147,
+    "Confusing": 47,
+    "Jaw-dropping": 83,
+    "Funny": 70
+  },
+  "slug": "angela_lee_duckworth_the_key_to_success_grit",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ed7fa3c2c9b79234201ef8ed40be228c3e93552c_1600x1200.jpg?quality=89&w=600",
+  "title": "Grit: The power of passion and persistence",
+  "url": "https://www.ted.com/talks/angela_lee_duckworth_the_key_to_success_grit",
+  "video": {
+    "low": "http://download.ted.com/talks/AngelaDuckworth_2013S-light.mp4",
+    "medium": "http://download.ted.com/talks/AngelaDuckworth_2013S.mp4",
+    "high": "http://download.ted.com/talks/AngelaDuckworth_2013S-480p.mp4"
+  },
+  "viewCount": 8534688,
+  "year": "2013"
+}

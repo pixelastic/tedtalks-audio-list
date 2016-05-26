@@ -1,0 +1,58 @@
+{
+  "audio": "http://download.ted.com/talks/BarrySchwartz_2005G.mp3",
+  "author": "Barry Schwartz",
+  "dateFilmed": 1121385600,
+  "datePublished": 1159229460,
+  "description": "Psychologist Barry Schwartz takes aim at a central tenet of western societies: freedom of choice. In Schwartz's estimation, choice has made us not freer but more paralyzed, not happier but more dissatisfied.",
+  "duration": 1177,
+  "event": "TEDGlobal 2005",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/d23ae99abaab7b81cd7b433645dda63c6108cdea_1600x1200.jpg",
+  "keywords": [
+    "business",
+    "choice",
+    "culture",
+    "decision-making",
+    "economics",
+    "happiness",
+    "personal growth",
+    "potential",
+    "psychology"
+  ],
+  "mainLanguage": null,
+  "objectID": 93,
+  "otherLanguages": {
+    "fr-ca": "French (Canada)",
+    "he": "Hebrew",
+    "id": "Indonesian",
+    "lt": "Lithuanian",
+    "uk": "Ukrainian",
+    "vi": "Vietnamese"
+  },
+  "ratings": {
+    "Funny": 1372,
+    "Longwinded": 166,
+    "Ingenious": 1086,
+    "Courageous": 363,
+    "Beautiful": 238,
+    "Informative": 2246,
+    "Inspiring": 2204,
+    "Fascinating": 2295,
+    "Unconvincing": 308,
+    "Confusing": 53,
+    "Persuasive": 2302,
+    "Jaw-dropping": 478,
+    "OK": 395,
+    "Obnoxious": 108
+  },
+  "slug": "barry_schwartz_on_the_paradox_of_choice",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/d23ae99abaab7b81cd7b433645dda63c6108cdea_1600x1200.jpg?quality=89&w=600",
+  "title": "The paradox of choice",
+  "url": "https://www.ted.com/talks/barry_schwartz_on_the_paradox_of_choice",
+  "video": {
+    "low": "http://download.ted.com/talks/BarrySchwartz_2005G-light.mp4",
+    "medium": "http://download.ted.com/talks/BarrySchwartz_2005G.mp4",
+    "high": "http://download.ted.com/talks/BarrySchwartz_2005G-480p.mp4"
+  },
+  "viewCount": 8609349,
+  "year": "2005"
+}

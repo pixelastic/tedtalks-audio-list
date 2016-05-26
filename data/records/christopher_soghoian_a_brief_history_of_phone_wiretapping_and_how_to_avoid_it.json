@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/ChristopherSoghoian_2015U.mp3",
+  "author": "Christopher Soghoian",
+  "dateFilmed": 1426550400,
+  "datePublished": 1440082084,
+  "description": "Who is listening in on your phone calls? On a landline, it could be anyone, says privacy activist Christopher Soghoian, because surveillance backdoors are built into the phone system by default, to allow governments to listen in. But then again, so could a foreign intelligence service ... or a criminal. Which is why, says Soghoian, some tech companies are resisting governments' call to build the same backdoors into mobile phones and new messaging systems. From this TED Fellow, learn how some tech companies are working to keep your calls and messages private.  ",
+  "duration": 376,
+  "event": "TED2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/f16911deb327624caa904f46a5473522c5228bfa_2880x1620.jpg",
+  "keywords": [
+    "TED Fellows",
+    "government",
+    "security",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 2314,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 323,
+    "Fascinating": 44,
+    "Jaw-dropping": 17,
+    "Persuasive": 86,
+    "OK": 118,
+    "Courageous": 34,
+    "Unconvincing": 84,
+    "Funny": 15,
+    "Longwinded": 35,
+    "Obnoxious": 11,
+    "Confusing": 14,
+    "Inspiring": 11,
+    "Ingenious": 3,
+    "Beautiful": 6
+  },
+  "slug": "christopher_soghoian_a_brief_history_of_phone_wiretapping_and_how_to_avoid_it",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/f16911deb327624caa904f46a5473522c5228bfa_2880x1620.jpg?quality=89&w=600",
+  "title": "How to avoid surveillance ... with the phone in your pocket",
+  "url": "https://www.ted.com/talks/christopher_soghoian_a_brief_history_of_phone_wiretapping_and_how_to_avoid_it",
+  "video": {
+    "low": "http://download.ted.com/talks/ChristopherSoghoian_2015U-light.mp4",
+    "medium": "http://download.ted.com/talks/ChristopherSoghoian_2015U.mp4",
+    "high": "http://download.ted.com/talks/ChristopherSoghoian_2015U-480p.mp4"
+  },
+  "viewCount": 1097181,
+  "year": "2015"
+}

@@ -1,0 +1,62 @@
+{
+  "audio": null,
+  "author": "Tom Rielly",
+  "dateFilmed": 1138838400,
+  "datePublished": 1176695640,
+  "description": "Satirist Tom Rielly delivers a wicked parody of the 2006 TED conference, taking down the $100 laptop, the plight of the polar bear, and people who mention, one too many times, that they work at Harvard. Watch for a special moment between Tom and Al Gore.",
+  "duration": 1195,
+  "event": "TED2006",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/234_480x360.jpg",
+  "keywords": [
+    "TED Conference",
+    "arts",
+    "comedy",
+    "culture",
+    "performance"
+  ],
+  "mainLanguage": null,
+  "objectID": 114,
+  "otherLanguages": {
+    "ar": "Arabic",
+    "bg": "Bulgarian",
+    "zh-cn": "Chinese, Simplified",
+    "zh-tw": "Chinese, Traditional",
+    "en": "English",
+    "fr": "French",
+    "he": "Hebrew",
+    "it": "Italian",
+    "ko": "Korean",
+    "pl": "Polish",
+    "pt-br": "Portuguese, Brazilian",
+    "ro": "Romanian",
+    "es": "Spanish",
+    "art-x-bork": "Swedish Chef"
+  },
+  "ratings": {
+    "Funny": 589,
+    "Ingenious": 90,
+    "Courageous": 38,
+    "Confusing": 56,
+    "Longwinded": 54,
+    "Unconvincing": 37,
+    "Beautiful": 17,
+    "Informative": 11,
+    "Inspiring": 18,
+    "Fascinating": 19,
+    "Obnoxious": 116,
+    "Jaw-dropping": 36,
+    "OK": 67,
+    "Persuasive": 1
+  },
+  "slug": "tom_rielly_delivers_a_comic_send_up_of_ted2006",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/234_480x360.jpg?quality=89&w=600",
+  "title": "A comic sendup of TED2006",
+  "url": "https://www.ted.com/talks/tom_rielly_delivers_a_comic_send_up_of_ted2006",
+  "video": {
+    "low": "http://download.ted.com/talks/TomRielly_2006-light.mp4",
+    "medium": "http://download.ted.com/talks/TomRielly_2006.mp4",
+    "high": "http://download.ted.com/talks/TomRielly_2006-480p.mp4"
+  },
+  "viewCount": 569367,
+  "year": "2006"
+}

@@ -1,0 +1,49 @@
+{
+  "audio": "http://download.ted.com/talks/DavidSengeh_2014U.mp3",
+  "author": "David Sengeh",
+  "dateFilmed": 1395014400,
+  "datePublished": 1397143257,
+  "description": "What drove David Sengeh to create a more comfortable prosthetic limb? He grew up in Sierra Leone, and too many of the people he loves are missing limbs after the brutal civil war there. When he noticed that people who had prosthetics weren’t actually wearing them, the TED Fellow set out to discover why — and to solve the problem with his team from the MIT Media Lab.",
+  "duration": 283,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7a02efea20ecb9aed3507a2cddae1430326ee639_1600x1200.jpg",
+  "keywords": [
+    "Senses",
+    "TED Conference",
+    "TED Fellows",
+    "global issues",
+    "prosthetics",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 1971,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 75,
+    "Courageous": 39,
+    "Informative": 152,
+    "Inspiring": 162,
+    "Funny": 13,
+    "Ingenious": 84,
+    "Fascinating": 52,
+    "OK": 33,
+    "Persuasive": 31,
+    "Longwinded": 3,
+    "Jaw-dropping": 6,
+    "Unconvincing": 1,
+    "Confusing": 3,
+    "Obnoxious": 0
+  },
+  "slug": "david_sengeh_the_sore_problem_of_prosthetic_limbs",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7a02efea20ecb9aed3507a2cddae1430326ee639_1600x1200.jpg?quality=89&w=600",
+  "title": "The sore problem of prosthetic limbs",
+  "url": "https://www.ted.com/talks/david_sengeh_the_sore_problem_of_prosthetic_limbs",
+  "video": {
+    "low": "http://download.ted.com/talks/DavidSengeh_2014U-light.mp4",
+    "medium": "http://download.ted.com/talks/DavidSengeh_2014U.mp4",
+    "high": "http://download.ted.com/talks/DavidSengeh_2014U-480p.mp4"
+  },
+  "viewCount": 707793,
+  "year": "2014"
+}

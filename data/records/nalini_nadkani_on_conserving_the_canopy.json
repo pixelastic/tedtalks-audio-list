@@ -1,0 +1,59 @@
+{
+  "audio": "http://download.ted.com/talks/NaliniNadkarni_2009.mp3",
+  "author": "Nalini Nadkarni",
+  "dateFilmed": 1233878400,
+  "datePublished": 1236128400,
+  "description": "A unique ecosystem of plants, birds and monkeys thrives in the treetops of the rainforest. Nalini Nadkarni explores these canopy worlds -- and shares her findings with the world below, through dance, art and bold partnerships.",
+  "duration": 990,
+  "event": "TED2009",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/75594_800x600.jpg",
+  "keywords": [
+    "TED Conference",
+    "activism",
+    "animals",
+    "biodiversity",
+    "biology",
+    "biosphere",
+    "children",
+    "education",
+    "environment",
+    "insects",
+    "trees"
+  ],
+  "mainLanguage": null,
+  "objectID": 476,
+  "otherLanguages": {
+    "zh-tw": "Chinese, Traditional",
+    "et": "Estonian",
+    "pt-br": "Portuguese, Brazilian",
+    "ru": "Russian",
+    "es": "Spanish"
+  },
+  "ratings": {
+    "Inspiring": 280,
+    "Beautiful": 88,
+    "Fascinating": 98,
+    "Ingenious": 54,
+    "OK": 39,
+    "Persuasive": 96,
+    "Courageous": 63,
+    "Jaw-dropping": 31,
+    "Longwinded": 10,
+    "Informative": 88,
+    "Unconvincing": 15,
+    "Confusing": 2,
+    "Obnoxious": 11,
+    "Funny": 7
+  },
+  "slug": "nalini_nadkani_on_conserving_the_canopy",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/75594_800x600.jpg?quality=89&w=600",
+  "title": "Conserving the canopy",
+  "url": "https://www.ted.com/talks/nalini_nadkani_on_conserving_the_canopy",
+  "video": {
+    "low": "http://download.ted.com/talks/NaliniNadkarni_2009-light.mp4",
+    "medium": "http://download.ted.com/talks/NaliniNadkarni_2009.mp4",
+    "high": "http://download.ted.com/talks/NaliniNadkarni_2009-480p.mp4"
+  },
+  "viewCount": 346197,
+  "year": "2009"
+}

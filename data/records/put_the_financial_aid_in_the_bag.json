@@ -1,0 +1,52 @@
+{
+  "audio": null,
+  "author": "Carvens Lissaint",
+  "dateFilmed": 1320969600,
+  "datePublished": 1333808241,
+  "description": "At TEDYouth 2011, performance artist Carvens Lissaint shows how to use language, metaphor and imagery to express a powerful idea -- as in this spoken-word performance, a stirring plea to make college education more accessible.",
+  "duration": 305,
+  "event": "TED-Ed",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/c2236f34daa53a41cd82467bc73a53b63fd420ae_800x600.jpg",
+  "keywords": [
+    "TED-Ed",
+    "TEDYouth",
+    "culture",
+    "education",
+    "entertainment",
+    "language",
+    "poetry",
+    "youth"
+  ],
+  "mainLanguage": null,
+  "objectID": 1415,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Courageous": 211,
+    "Inspiring": 204,
+    "Funny": 110,
+    "Unconvincing": 51,
+    "Persuasive": 104,
+    "Ingenious": 83,
+    "Beautiful": 94,
+    "Fascinating": 59,
+    "Jaw-dropping": 99,
+    "Confusing": 56,
+    "Obnoxious": 113,
+    "OK": 71,
+    "Longwinded": 19,
+    "Informative": 29
+  },
+  "slug": "put_the_financial_aid_in_the_bag",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/c2236f34daa53a41cd82467bc73a53b63fd420ae_800x600.jpg?quality=89&w=600",
+  "title": "\"Put the financial aid in the bag\"",
+  "url": "https://www.ted.com/talks/put_the_financial_aid_in_the_bag",
+  "video": {
+    "youtube": {
+      "id": "iMGRpzf2RL8",
+      "url": "http://ed.ted.com/lessons/poetic-stickup-put-the-financial-aid-in-the-bag"
+    }
+  },
+  "viewCount": 168561,
+  "year": "2011"
+}

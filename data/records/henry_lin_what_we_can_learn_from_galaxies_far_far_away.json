@@ -1,0 +1,52 @@
+{
+  "audio": "http://download.ted.com/talks/HenryLin_2013Y.mp3",
+  "author": "Henry Lin",
+  "dateFilmed": 1384819200,
+  "datePublished": 1393517082,
+  "description": "In a fun, exciting talk, teenager Henry Lin looks at something unexpected in the sky: distant galaxy clusters. By studying the properties of the universe's largest pieces, says the Intel Science Fair award winner, we can learn quite a lot about scientific mysteries in our own world and galaxy.",
+  "duration": 403,
+  "event": "TEDYouth 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7b9de2055c8b462be4224f59df4ce0feccc6c613_1600x1200.jpg",
+  "keywords": [
+    "TEDYouth",
+    "astronomy",
+    "dark matter",
+    "physics",
+    "science",
+    "space",
+    "universe",
+    "youth"
+  ],
+  "mainLanguage": null,
+  "objectID": 1936,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified"
+  },
+  "ratings": {
+    "OK": 171,
+    "Beautiful": 152,
+    "Inspiring": 342,
+    "Unconvincing": 27,
+    "Informative": 365,
+    "Ingenious": 79,
+    "Fascinating": 348,
+    "Courageous": 43,
+    "Persuasive": 98,
+    "Longwinded": 9,
+    "Confusing": 26,
+    "Jaw-dropping": 22,
+    "Funny": 33,
+    "Obnoxious": 8
+  },
+  "slug": "henry_lin_what_we_can_learn_from_galaxies_far_far_away",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7b9de2055c8b462be4224f59df4ce0feccc6c613_1600x1200.jpg?quality=89&w=600",
+  "title": "What we can learn from galaxies far, far away",
+  "url": "https://www.ted.com/talks/henry_lin_what_we_can_learn_from_galaxies_far_far_away",
+  "video": {
+    "low": "http://download.ted.com/talks/HenryLin_2013Y-light.mp4",
+    "medium": "http://download.ted.com/talks/HenryLin_2013Y.mp4",
+    "high": "http://download.ted.com/talks/HenryLin_2013Y-480p.mp4"
+  },
+  "viewCount": 1216393,
+  "year": "2013"
+}

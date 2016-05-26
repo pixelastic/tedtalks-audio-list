@@ -1,0 +1,59 @@
+{
+  "audio": "http://download.ted.com/talks/HaleyvanDyck_2016.mp3",
+  "author": "Haley Van Dyck",
+  "dateFilmed": 1455580800,
+  "datePublished": 1459781500,
+  "description": "Haley Van Dyck is transforming the way America delivers critical services to everyday people. At the United States Digital Service, Van Dyck and her team are using lessons learned by Silicon Valley and the private sector to improve services for veterans, immigrants, the disabled and others, creating a more awesome government along the way. \"We don't care about politics,\" she says. \"We care about making government work better, because it's the only one we've got.\"",
+  "duration": 915,
+  "event": "TED2016",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/9fc0adcd3eb8fffe1e5b48793c7b67db2cdd284c_2880x1620.jpg",
+  "keywords": [
+    "Internet",
+    "big problems",
+    "development",
+    "future",
+    "government",
+    "health care",
+    "innovation",
+    "leadership",
+    "potential",
+    "society",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 2465,
+  "otherLanguages": {
+    "en": "English",
+    "he": "Hebrew",
+    "ru": "Russian",
+    "es": "Spanish",
+    "uk": "Ukrainian"
+  },
+  "ratings": {
+    "Informative": 120,
+    "Inspiring": 122,
+    "Beautiful": 26,
+    "Courageous": 30,
+    "Obnoxious": 14,
+    "Persuasive": 31,
+    "Fascinating": 30,
+    "Jaw-dropping": 6,
+    "Funny": 10,
+    "Unconvincing": 14,
+    "Ingenious": 14,
+    "Longwinded": 8,
+    "Confusing": 9,
+    "OK": 14
+  },
+  "slug": "haley_van_dyck_how_a_start_up_in_the_white_house_is_changing_business_as_usual",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/9fc0adcd3eb8fffe1e5b48793c7b67db2cdd284c_2880x1620.jpg?quality=89&w=600",
+  "title": "How a start-up in the White House is changing business as usual",
+  "url": "https://www.ted.com/talks/haley_van_dyck_how_a_start_up_in_the_white_house_is_changing_business_as_usual",
+  "video": {
+    "low": "http://download.ted.com/talks/HaleyvanDyck_2016-light.mp4",
+    "medium": "http://download.ted.com/talks/HaleyvanDyck_2016.mp4",
+    "high": "http://download.ted.com/talks/HaleyvanDyck_2016-480p.mp4"
+  },
+  "viewCount": 555742,
+  "year": "2016"
+}

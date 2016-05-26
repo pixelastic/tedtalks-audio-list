@@ -1,0 +1,46 @@
+{
+  "audio": "http://download.ted.com/talks/MattKenyon_2015U.mp3",
+  "author": "Matt Kenyon",
+  "dateFilmed": 1426550400,
+  "datePublished": 1439478433,
+  "description": "In the fog of war, civilian casualties often go uncounted. Artist Matt Kenyon, whose recent work memorialized the names and stories of US soldiers killed in the Iraq war, decided he should create a companion monument, to the Iraqi civilians caught in the war's crossfire. Learn how he built a secret monument to place these names in the official record.",
+  "duration": 415,
+  "event": "TED2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/27482e11cc3d472c501630f3f31469c1b31b3099_2880x1620.jpg",
+  "keywords": [
+    "TED Fellows",
+    "art",
+    "war"
+  ],
+  "mainLanguage": null,
+  "objectID": 2306,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Courageous": 89,
+    "Ingenious": 77,
+    "Inspiring": 79,
+    "Funny": 19,
+    "Fascinating": 31,
+    "Informative": 24,
+    "OK": 39,
+    "Obnoxious": 11,
+    "Jaw-dropping": 8,
+    "Beautiful": 18,
+    "Confusing": 7,
+    "Unconvincing": 22,
+    "Longwinded": 19,
+    "Persuasive": 3
+  },
+  "slug": "matt_kenyon_how_i_snuck_a_memorial_for_iraqi_civilians_into_the_us_government",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/27482e11cc3d472c501630f3f31469c1b31b3099_2880x1620.jpg?quality=89&w=600",
+  "title": "A secret memorial for civilian casualties",
+  "url": "https://www.ted.com/talks/matt_kenyon_how_i_snuck_a_memorial_for_iraqi_civilians_into_the_us_government",
+  "video": {
+    "low": "http://download.ted.com/talks/MattKenyon_2015U-light.mp4",
+    "medium": "http://download.ted.com/talks/MattKenyon_2015U.mp4",
+    "high": "http://download.ted.com/talks/MattKenyon_2015U-480p.mp4"
+  },
+  "viewCount": 801509,
+  "year": "2015"
+}

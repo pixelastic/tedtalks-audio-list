@@ -1,0 +1,52 @@
+{
+  "audio": "http://download.ted.com/talks/EvaVertes_2005.mp3",
+  "author": "Eva Vertes",
+  "dateFilmed": 1109376000,
+  "datePublished": 1159747860,
+  "description": "Eva Vertes -- only 19 when she gave this talk -- discusses her journey toward studying medicine and her drive to understand the roots of cancer and Alzheimer’s.",
+  "duration": 1129,
+  "event": "TED2005",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/224c743df7d6b7bcd025cbb072a418a11d90397a_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "cancer",
+    "disease",
+    "health",
+    "science",
+    "technology",
+    "wunderkind"
+  ],
+  "mainLanguage": null,
+  "objectID": 12,
+  "otherLanguages": {
+    "zh-tw": "Chinese, Traditional",
+    "fr": "French"
+  },
+  "ratings": {
+    "Beautiful": 65,
+    "Courageous": 154,
+    "Ingenious": 270,
+    "Informative": 261,
+    "Unconvincing": 38,
+    "Longwinded": 83,
+    "Inspiring": 364,
+    "Fascinating": 346,
+    "Confusing": 30,
+    "Obnoxious": 55,
+    "Persuasive": 89,
+    "Jaw-dropping": 148,
+    "OK": 71,
+    "Funny": 13
+  },
+  "slug": "eva_vertes_looks_to_the_future_of_medicine",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/224c743df7d6b7bcd025cbb072a418a11d90397a_1600x1200.jpg?quality=89&w=600",
+  "title": "Meet the future of cancer research",
+  "url": "https://www.ted.com/talks/eva_vertes_looks_to_the_future_of_medicine",
+  "video": {
+    "low": "http://download.ted.com/talks/EvaVertes_2005-light.mp4",
+    "medium": "http://download.ted.com/talks/EvaVertes_2005.mp4",
+    "high": "http://download.ted.com/talks/EvaVertes_2005-480p.mp4"
+  },
+  "viewCount": 921941,
+  "year": "2005"
+}

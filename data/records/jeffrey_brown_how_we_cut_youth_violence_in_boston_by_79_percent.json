@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/JeffreyBrown_2015.mp3",
+  "author": "Jeffrey Brown",
+  "dateFilmed": 1426723200,
+  "datePublished": 1432652804,
+  "description": "An architect of the \"Boston miracle,\" Rev. Jeffrey Brown started out as a bewildered young pastor watching his Boston neighborhood fall apart around him, as drugs and gang violence took hold of the kids on the streets. The first step to recovery: Listen to those kids, don't just preach to them, and help them reduce violence in their own neighborhoods. It's a powerful talk about listening to make change.",
+  "duration": 1083,
+  "event": "TED2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/5e735a2e604c5984991b5ac3987fb99e8778b4e5_2880x1620.jpg",
+  "keywords": [
+    "faith",
+    "peace",
+    "social change",
+    "violence",
+    "youth"
+  ],
+  "mainLanguage": null,
+  "objectID": 2261,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Longwinded": 25,
+    "Unconvincing": 9,
+    "OK": 46,
+    "Beautiful": 109,
+    "Courageous": 192,
+    "Inspiring": 632,
+    "Persuasive": 241,
+    "Jaw-dropping": 16,
+    "Informative": 175,
+    "Fascinating": 71,
+    "Ingenious": 21,
+    "Confusing": 1,
+    "Funny": 17,
+    "Obnoxious": 0
+  },
+  "slug": "jeffrey_brown_how_we_cut_youth_violence_in_boston_by_79_percent",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/5e735a2e604c5984991b5ac3987fb99e8778b4e5_2880x1620.jpg?quality=89&w=600",
+  "title": "How we cut youth violence in Boston by 79 percent",
+  "url": "https://www.ted.com/talks/jeffrey_brown_how_we_cut_youth_violence_in_boston_by_79_percent",
+  "video": {
+    "low": "http://download.ted.com/talks/JeffreyBrown_2015-light.mp4",
+    "medium": "http://download.ted.com/talks/JeffreyBrown_2015.mp4",
+    "high": "http://download.ted.com/talks/JeffreyBrown_2015-480p.mp4"
+  },
+  "viewCount": 985353,
+  "year": "2015"
+}

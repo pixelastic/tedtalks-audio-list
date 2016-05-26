@@ -1,0 +1,51 @@
+{
+  "audio": null,
+  "author": "Garrett Lisi",
+  "dateFilmed": 1201910400,
+  "datePublished": 1223946000,
+  "description": "Physicist and surfer Garrett Lisi presents a controversial new model of the universe that -- just maybe -- answers all the big questions. If nothing else, it's the most beautiful 8-dimensional model of elementary particles and forces you've ever seen.",
+  "duration": 1286,
+  "event": "TED2008",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/56101_480x360.jpg",
+  "keywords": [
+    "TED Conference",
+    "physics",
+    "science",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 371,
+  "otherLanguages": {
+    "zh-tw": "Chinese, Traditional",
+    "fr": "French",
+    "hu": "Hungarian",
+    "fa": "Persian"
+  },
+  "ratings": {
+    "Longwinded": 84,
+    "Confusing": 366,
+    "Fascinating": 851,
+    "Beautiful": 576,
+    "Inspiring": 305,
+    "Ingenious": 291,
+    "Funny": 67,
+    "Informative": 374,
+    "Jaw-dropping": 291,
+    "OK": 100,
+    "Persuasive": 90,
+    "Courageous": 93,
+    "Unconvincing": 51,
+    "Obnoxious": 21
+  },
+  "slug": "garrett_lisi_on_his_theory_of_everything",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/56101_480x360.jpg?quality=89&w=600",
+  "title": "An 8-dimensional model of the universe",
+  "url": "https://www.ted.com/talks/garrett_lisi_on_his_theory_of_everything",
+  "video": {
+    "low": "http://download.ted.com/talks/GarrettLisi_2008-light.mp4",
+    "medium": "http://download.ted.com/talks/GarrettLisi_2008.mp4",
+    "high": "http://download.ted.com/talks/GarrettLisi_2008-480p.mp4"
+  },
+  "viewCount": 1402545,
+  "year": "2008"
+}

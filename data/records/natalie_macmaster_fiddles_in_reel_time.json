@@ -1,0 +1,55 @@
+{
+  "audio": null,
+  "author": "Natalie MacMaster",
+  "dateFilmed": 1012608000,
+  "datePublished": 1178040660,
+  "description": "Violinist Natalie MacMaster and TED Musical Director Thomas Dolby play Dolby’s original song “Blue Is a River” in this ethereal duet -- with a little dancing.",
+  "duration": 311,
+  "event": "TED2002",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7087_480x360.jpg",
+  "keywords": [
+    "TED Conference",
+    "entertainment",
+    "history",
+    "music",
+    "performance",
+    "violin"
+  ],
+  "mainLanguage": null,
+  "objectID": 117,
+  "otherLanguages": {
+    "sq": "Albanian",
+    "cs": "Czech",
+    "ja": "Japanese",
+    "es": "Spanish",
+    "th": "Thai",
+    "vi": "Vietnamese"
+  },
+  "ratings": {
+    "Beautiful": 350,
+    "Longwinded": 28,
+    "Unconvincing": 22,
+    "Inspiring": 98,
+    "Funny": 23,
+    "Fascinating": 65,
+    "Jaw-dropping": 53,
+    "OK": 79,
+    "Confusing": 10,
+    "Obnoxious": 23,
+    "Courageous": 6,
+    "Ingenious": 10,
+    "Persuasive": 12,
+    "Informative": 1
+  },
+  "slug": "natalie_macmaster_fiddles_in_reel_time",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7087_480x360.jpg?quality=89&w=600",
+  "title": "Cape Breton fiddling in reel time",
+  "url": "https://www.ted.com/talks/natalie_macmaster_fiddles_in_reel_time",
+  "video": {
+    "low": "http://download.ted.com/talks/NatalieMacMaster_2002-light.mp4",
+    "medium": "http://download.ted.com/talks/NatalieMacMaster_2002.mp4",
+    "high": "http://download.ted.com/talks/NatalieMacMaster_2002-480p.mp4"
+  },
+  "viewCount": 664987,
+  "year": "2002"
+}

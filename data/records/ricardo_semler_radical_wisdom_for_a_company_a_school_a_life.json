@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/RicardoSemler_2014G.mp3",
+  "author": "Ricardo Semler",
+  "dateFilmed": 1413417600,
+  "datePublished": 1423584428,
+  "description": "What if your job didn’t control your life? Brazilian CEO Ricardo Semler practices a radical form of corporate democracy, rethinking everything from board meetings to how workers report their vacation days (they don’t have to). It’s a vision that rewards the wisdom of workers, promotes work-life balance — and leads to some deep insight on what work, and life, is really all about. Bonus question: What if schools were like this too?",
+  "duration": 1302,
+  "event": "TEDGlobal 2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/07ece83dd77f758dd2c92e3fcb0ee6b404dc49a2_2880x1620.jpg",
+  "keywords": [
+    "business",
+    "creativity",
+    "education",
+    "philosophy",
+    "work"
+  ],
+  "mainLanguage": null,
+  "objectID": 2182,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Inspiring": 2238,
+    "Funny": 246,
+    "Ingenious": 583,
+    "Courageous": 461,
+    "Fascinating": 805,
+    "Longwinded": 13,
+    "Unconvincing": 14,
+    "Obnoxious": 4,
+    "Persuasive": 286,
+    "OK": 47,
+    "Jaw-dropping": 142,
+    "Beautiful": 151,
+    "Informative": 197,
+    "Confusing": 26
+  },
+  "slug": "ricardo_semler_radical_wisdom_for_a_company_a_school_a_life",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/07ece83dd77f758dd2c92e3fcb0ee6b404dc49a2_2880x1620.jpg?quality=89&w=600",
+  "title": "How to run a company with (almost) no rules ",
+  "url": "https://www.ted.com/talks/ricardo_semler_radical_wisdom_for_a_company_a_school_a_life",
+  "video": {
+    "low": "http://download.ted.com/talks/RicardoSemler_2014G-light.mp4",
+    "medium": "http://download.ted.com/talks/RicardoSemler_2014G.mp4",
+    "high": "http://download.ted.com/talks/RicardoSemler_2014G-480p.mp4"
+  },
+  "viewCount": 2165013,
+  "year": "2014"
+}

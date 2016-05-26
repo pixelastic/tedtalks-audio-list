@@ -1,0 +1,60 @@
+{
+  "audio": "http://download.ted.com/talks/StevenLevitt_2005G.mp3",
+  "author": "Steven Levitt",
+  "dateFilmed": 1121126400,
+  "datePublished": 1214269200,
+  "description": "Steven Levitt shares data that shows car seats are no more effective than seatbelts in protecting kids from dying in cars. However, during the question and answer session, he makes one crucial caveat.",
+  "duration": 1138,
+  "event": "TEDGlobal 2005",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/21_480x360.jpg",
+  "keywords": [
+    "business",
+    "cars",
+    "culture",
+    "economics",
+    "parenting",
+    "statistics",
+    "transportation"
+  ],
+  "mainLanguage": null,
+  "objectID": 30,
+  "otherLanguages": {
+    "ar": "Arabic",
+    "nl": "Dutch",
+    "el": "Greek",
+    "he": "Hebrew",
+    "it": "Italian",
+    "ja": "Japanese",
+    "pt-br": "Portuguese, Brazilian",
+    "ru": "Russian",
+    "sv": "Swedish",
+    "tr": "Turkish"
+  },
+  "ratings": {
+    "Ingenious": 60,
+    "Courageous": 112,
+    "Persuasive": 204,
+    "Informative": 302,
+    "Fascinating": 85,
+    "Confusing": 23,
+    "Inspiring": 16,
+    "Funny": 11,
+    "OK": 64,
+    "Unconvincing": 80,
+    "Obnoxious": 24,
+    "Longwinded": 57,
+    "Jaw-dropping": 26,
+    "Beautiful": 6
+  },
+  "slug": "steven_levitt_on_child_carseats",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/21_480x360.jpg?quality=89&w=600",
+  "title": "Surprising stats about child carseats",
+  "url": "https://www.ted.com/talks/steven_levitt_on_child_carseats",
+  "video": {
+    "low": "http://download.ted.com/talks/StevenLevitt_2005G-light.mp4",
+    "medium": "http://download.ted.com/talks/StevenLevitt_2005G.mp4",
+    "high": "http://download.ted.com/talks/StevenLevitt_2005G-480p.mp4"
+  },
+  "viewCount": 642225,
+  "year": "2005"
+}

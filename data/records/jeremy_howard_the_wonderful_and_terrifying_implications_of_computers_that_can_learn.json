@@ -1,0 +1,49 @@
+{
+  "audio": "http://download.ted.com/talks/JeremyHoward_2014X.mp3",
+  "author": "Jeremy Howard",
+  "dateFilmed": 1417392000,
+  "datePublished": 1418745013,
+  "description": "What happens when we teach a computer how to learn? Technologist Jeremy Howard shares some surprising new developments in the fast-moving field of deep learning, a technique that can give computers the ability to learn Chinese, or to recognize objects in photos, or to help think through a medical diagnosis. (One deep learning tool, after watching hours of YouTube, taught itself the concept of “cats.”) Get caught up on a field that will change the way the computers around you behave … sooner than you probably think.  ",
+  "duration": 1185,
+  "event": "TEDxBrussels",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/4707d8e88ba824e4a9ad05ee2446d93576117d21_2880x1620.jpg",
+  "keywords": [
+    "AI",
+    "algorithm",
+    "computers",
+    "health",
+    "intelligence",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 2155,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 658,
+    "Fascinating": 573,
+    "Jaw-dropping": 313,
+    "Persuasive": 144,
+    "Beautiful": 50,
+    "Inspiring": 166,
+    "Ingenious": 128,
+    "Unconvincing": 25,
+    "OK": 56,
+    "Courageous": 11,
+    "Funny": 12,
+    "Longwinded": 26,
+    "Confusing": 17,
+    "Obnoxious": 8
+  },
+  "slug": "jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/4707d8e88ba824e4a9ad05ee2446d93576117d21_2880x1620.jpg?quality=89&w=600",
+  "title": "The wonderful and terrifying implications of computers that can learn",
+  "url": "https://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn",
+  "video": {
+    "low": "http://download.ted.com/talks/JeremyHoward_2014X-light.mp4",
+    "medium": "http://download.ted.com/talks/JeremyHoward_2014X.mp4",
+    "high": "http://download.ted.com/talks/JeremyHoward_2014X-480p.mp4"
+  },
+  "viewCount": 1742801,
+  "year": "2014"
+}

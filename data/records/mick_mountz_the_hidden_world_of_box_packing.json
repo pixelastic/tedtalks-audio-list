@@ -1,0 +1,53 @@
+{
+  "audio": "http://download.ted.com/talks/MickMountz_2011X.mp3",
+  "author": "Mick Mountz",
+  "dateFilmed": 1309219200,
+  "datePublished": 1327849087,
+  "description": "We make millions of online purchases daily, but who (or what) actually puts our items into packages? In this talk, Mick Mountz weaves a fascinating, surprisingly robot-filled tale of what happens inside a warehouse.",
+  "duration": 726,
+  "event": "TEDxBoston 2011",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/4495665ceb0439a4037aec12f56407f4d33c2853_800x600.jpg",
+  "keywords": [
+    "TEDx",
+    "business",
+    "consumerism",
+    "robots",
+    "shopping",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 1341,
+  "otherLanguages": {
+    "ar": "Arabic",
+    "fr": "French",
+    "fa": "Persian",
+    "uk": "Ukrainian"
+  },
+  "ratings": {
+    "Ingenious": 348,
+    "Fascinating": 258,
+    "Informative": 315,
+    "Inspiring": 77,
+    "OK": 53,
+    "Funny": 27,
+    "Jaw-dropping": 62,
+    "Courageous": 9,
+    "Persuasive": 36,
+    "Longwinded": 18,
+    "Unconvincing": 13,
+    "Beautiful": 17,
+    "Obnoxious": 11,
+    "Confusing": 1
+  },
+  "slug": "mick_mountz_the_hidden_world_of_box_packing",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/4495665ceb0439a4037aec12f56407f4d33c2853_800x600.jpg?quality=89&w=600",
+  "title": "What happens inside those massive warehouses?",
+  "url": "https://www.ted.com/talks/mick_mountz_the_hidden_world_of_box_packing",
+  "video": {
+    "low": "http://download.ted.com/talks/MickMountz_2011X-light.mp4",
+    "medium": "http://download.ted.com/talks/MickMountz_2011X.mp4",
+    "high": "http://download.ted.com/talks/MickMountz_2011X-480p.mp4"
+  },
+  "viewCount": 247240,
+  "year": "2011"
+}

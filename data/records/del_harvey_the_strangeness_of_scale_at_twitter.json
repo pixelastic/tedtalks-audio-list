@@ -1,0 +1,47 @@
+{
+  "audio": null,
+  "author": "Del Harvey",
+  "dateFilmed": 1394582400,
+  "datePublished": 1395930774,
+  "description": "Del Harvey heads up Twitter’s Trust and Safety Team, and she thinks all day about how to prevent worst-case scenarios -- abuse, trolling, stalking -- while giving voice to people around the globe. With deadpan humor, she offers a window into how she works to keep 240 million users safe.",
+  "duration": 559,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/630d123572ec57fd0a35a1b15016cf4a3d1ec40f_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "security",
+    "social media",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 1958,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 439,
+    "Funny": 166,
+    "Ingenious": 34,
+    "Persuasive": 63,
+    "Fascinating": 160,
+    "Longwinded": 69,
+    "OK": 159,
+    "Courageous": 8,
+    "Inspiring": 20,
+    "Beautiful": 12,
+    "Jaw-dropping": 13,
+    "Obnoxious": 38,
+    "Confusing": 8,
+    "Unconvincing": 72
+  },
+  "slug": "del_harvey_the_strangeness_of_scale_at_twitter",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/630d123572ec57fd0a35a1b15016cf4a3d1ec40f_1600x1200.jpg?quality=89&w=600",
+  "title": "Protecting Twitter users (sometimes from themselves)",
+  "url": "https://www.ted.com/talks/del_harvey_the_strangeness_of_scale_at_twitter",
+  "video": {
+    "low": "http://download.ted.com/talks/DelHarvey_2014-light.mp4",
+    "medium": "http://download.ted.com/talks/DelHarvey_2014.mp4",
+    "high": "http://download.ted.com/talks/DelHarvey_2014-480p.mp4"
+  },
+  "viewCount": 834301,
+  "year": "2014"
+}

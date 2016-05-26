@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/AndrasForgacs_2013G.mp3",
+  "author": "Andras Forgacs",
+  "dateFilmed": 1371081600,
+  "datePublished": 1379602886,
+  "description": "By 2050, it will take 100 billion land animals to provide the world's population with meat, dairy, eggs and leather goods. Maintaining this herd will take a huge, potentially unsustainable toll on the planet. What if there were a different way? In this eye-opening talk, tissue engineering advocate Andras Forgacs argues that biofabricating meat and leather is a civilized way to move past killing animals for hamburgers and handbags.",
+  "duration": 542,
+  "event": "TEDGlobal 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/d20f6935ce0acb743a8caa4130d9a703815d7a55_1600x1200.jpg",
+  "keywords": [
+    "food",
+    "global issues",
+    "science",
+    "sustainability"
+  ],
+  "mainLanguage": null,
+  "objectID": 1824,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified"
+  },
+  "ratings": {
+    "Fascinating": 445,
+    "Ingenious": 438,
+    "Informative": 292,
+    "Jaw-dropping": 193,
+    "Persuasive": 273,
+    "Courageous": 50,
+    "Inspiring": 364,
+    "Unconvincing": 37,
+    "Obnoxious": 11,
+    "Beautiful": 45,
+    "OK": 40,
+    "Longwinded": 10,
+    "Funny": 7,
+    "Confusing": 12
+  },
+  "slug": "andras_forgacs_leather_and_meat_without_killing_animals",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/d20f6935ce0acb743a8caa4130d9a703815d7a55_1600x1200.jpg?quality=89&w=600",
+  "title": "Leather and meat without killing animals",
+  "url": "https://www.ted.com/talks/andras_forgacs_leather_and_meat_without_killing_animals",
+  "video": {
+    "low": "http://download.ted.com/talks/AndrasForgacs_2013G-light.mp4",
+    "medium": "http://download.ted.com/talks/AndrasForgacs_2013G.mp4",
+    "high": "http://download.ted.com/talks/AndrasForgacs_2013G-480p.mp4"
+  },
+  "viewCount": 1051596,
+  "year": "2013"
+}

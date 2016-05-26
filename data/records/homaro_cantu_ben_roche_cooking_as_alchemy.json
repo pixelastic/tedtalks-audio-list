@@ -1,0 +1,51 @@
+{
+  "audio": "http://download.ted.com/talks/HomaroCantu_2011.mp3",
+  "author": "Homaro Cantu + Ben Roche",
+  "dateFilmed": 1298937600,
+  "datePublished": 1323966429,
+  "description": "Homaro Cantu and Ben Roche come from Moto, a Chicago restaurant that plays with new ways to cook and eat food. But beyond the fun and flavor-tripping, there's a serious intent: Can we use new food technology for good?",
+  "duration": 574,
+  "event": "TED2011",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8153376c38c0f00cba30625963c393b1755994a1_800x600.jpg",
+  "keywords": [
+    "TED Conference",
+    "agriculture",
+    "business",
+    "creativity",
+    "culture",
+    "food"
+  ],
+  "mainLanguage": null,
+  "objectID": 1304,
+  "otherLanguages": {
+    "ja": "Japanese",
+    "sr": "Serbian"
+  },
+  "ratings": {
+    "Jaw-dropping": 170,
+    "Ingenious": 340,
+    "Fascinating": 271,
+    "OK": 36,
+    "Unconvincing": 51,
+    "Informative": 87,
+    "Funny": 62,
+    "Persuasive": 30,
+    "Longwinded": 10,
+    "Inspiring": 125,
+    "Courageous": 31,
+    "Obnoxious": 38,
+    "Confusing": 26,
+    "Beautiful": 17
+  },
+  "slug": "homaro_cantu_ben_roche_cooking_as_alchemy",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8153376c38c0f00cba30625963c393b1755994a1_800x600.jpg?quality=89&w=600",
+  "title": "Cooking as alchemy",
+  "url": "https://www.ted.com/talks/homaro_cantu_ben_roche_cooking_as_alchemy",
+  "video": {
+    "low": "http://download.ted.com/talks/HomaroCantu_2011-light.mp4",
+    "medium": "http://download.ted.com/talks/HomaroCantu_2011.mp4",
+    "high": "http://download.ted.com/talks/HomaroCantu_2011-480p.mp4"
+  },
+  "viewCount": 811352,
+  "year": "2011"
+}

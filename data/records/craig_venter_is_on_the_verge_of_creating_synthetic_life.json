@@ -1,0 +1,58 @@
+{
+  "audio": "http://download.ted.com/talks/CraigVenter_2008.mp3",
+  "author": "Craig Venter",
+  "dateFilmed": 1204156800,
+  "datePublished": 1204767480,
+  "description": "\"Can we create new life out of our digital universe?\" Craig Venter asks. His answer is \"yes\" -- and pretty soon. He walks through his latest research and promises that we'll soon be able to build and boot up a synthetic chromosome.",
+  "duration": 954,
+  "event": "TED2008",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/32772_480x360.jpg",
+  "keywords": [
+    "TED Conference",
+    "alternative energy",
+    "creativity",
+    "energy",
+    "genetics",
+    "global issues",
+    "invention",
+    "science",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 227,
+  "otherLanguages": {
+    "nl": "Dutch",
+    "he": "Hebrew",
+    "fa": "Persian",
+    "pt-br": "Portuguese, Brazilian",
+    "es": "Spanish",
+    "tr": "Turkish"
+  },
+  "ratings": {
+    "Jaw-dropping": 678,
+    "Informative": 390,
+    "Fascinating": 577,
+    "Inspiring": 237,
+    "Ingenious": 286,
+    "Persuasive": 73,
+    "Courageous": 71,
+    "Beautiful": 33,
+    "Longwinded": 34,
+    "Confusing": 33,
+    "OK": 30,
+    "Funny": 9,
+    "Obnoxious": 14,
+    "Unconvincing": 14
+  },
+  "slug": "craig_venter_is_on_the_verge_of_creating_synthetic_life",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/32772_480x360.jpg?quality=89&w=600",
+  "title": "On the verge of creating synthetic life",
+  "url": "https://www.ted.com/talks/craig_venter_is_on_the_verge_of_creating_synthetic_life",
+  "video": {
+    "low": "http://download.ted.com/talks/CraigVenter_2008-light.mp4",
+    "medium": "http://download.ted.com/talks/CraigVenter_2008.mp4",
+    "high": "http://download.ted.com/talks/CraigVenter_2008-480p.mp4"
+  },
+  "viewCount": 940765,
+  "year": "2008"
+}

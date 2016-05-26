@@ -1,0 +1,46 @@
+{
+  "audio": "http://download.ted.com/talks/UriAlon_2013G.mp3",
+  "author": "Uri Alon",
+  "dateFilmed": 1371081600,
+  "datePublished": 1402585526,
+  "description": "While studying for his PhD in physics, Uri Alon thought he was a failure because all his research paths led to dead ends. But, with the help of improv theater, he came to realize that there could be joy in getting lost. A call for scientists to stop thinking of research as a direct line from question to answer, but as something more creative. It's a message that will resonate, no matter what your field. ",
+  "duration": 952,
+  "event": "TEDGlobal 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/cf7d29a98470c8576d76fb122b9433596d3495b8_2400x1800.jpg",
+  "keywords": [
+    "creativity",
+    "science",
+    "theater"
+  ],
+  "mainLanguage": null,
+  "objectID": 2020,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Inspiring": 471,
+    "Funny": 84,
+    "Persuasive": 113,
+    "Ingenious": 96,
+    "Longwinded": 17,
+    "Courageous": 93,
+    "Fascinating": 109,
+    "Informative": 102,
+    "Confusing": 10,
+    "Unconvincing": 21,
+    "OK": 49,
+    "Beautiful": 45,
+    "Jaw-dropping": 9,
+    "Obnoxious": 10
+  },
+  "slug": "uri_alon_why_truly_innovative_science_demands_a_leap_into_the_unknown",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/cf7d29a98470c8576d76fb122b9433596d3495b8_2400x1800.jpg?quality=89&w=600",
+  "title": "Why truly innovative science demands a leap into the unknown",
+  "url": "https://www.ted.com/talks/uri_alon_why_truly_innovative_science_demands_a_leap_into_the_unknown",
+  "video": {
+    "low": "http://download.ted.com/talks/UriAlon_2013G-light.mp4",
+    "medium": "http://download.ted.com/talks/UriAlon_2013G.mp4",
+    "high": "http://download.ted.com/talks/UriAlon_2013G-480p.mp4"
+  },
+  "viewCount": 928733,
+  "year": "2013"
+}

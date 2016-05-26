@@ -1,0 +1,54 @@
+{
+  "audio": "http://download.ted.com/talks/MaysoonZayid_2013W.mp3",
+  "author": "Maysoon Zayid",
+  "dateFilmed": 1386115200,
+  "datePublished": 1388764833,
+  "description": "\"I have cerebral palsy. I shake all the time,\" Maysoon Zayid announces at the beginning of this exhilarating, hilarious talk. (Really, it's hilarious.) \"I'm like Shakira meets Muhammad Ali.\" With grace and wit, the Arab-American comedian takes us on a whistle-stop tour of her adventures as an actress, stand-up comic, philanthropist and advocate for the disabled.",
+  "duration": 853,
+  "event": "TEDWomen 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/20901029a2b8ff751fbdf23cabb736b82cadf55e_1600x1200.jpg",
+  "keywords": [
+    "comedy",
+    "entertainment",
+    "women"
+  ],
+  "mainLanguage": null,
+  "objectID": 1898,
+  "otherLanguages": {
+    "sq": "Albanian",
+    "ca": "Catalan",
+    "zh-cn": "Chinese, Simplified",
+    "hr": "Croatian",
+    "nl": "Dutch",
+    "sl": "Slovenian",
+    "tr": "Turkish",
+    "uk": "Ukrainian"
+  },
+  "ratings": {
+    "Courageous": 1877,
+    "Funny": 2491,
+    "Inspiring": 3080,
+    "Beautiful": 973,
+    "Jaw-dropping": 230,
+    "Persuasive": 160,
+    "Fascinating": 508,
+    "Informative": 149,
+    "Ingenious": 84,
+    "OK": 50,
+    "Obnoxious": 22,
+    "Longwinded": 14,
+    "Unconvincing": 9,
+    "Confusing": 5
+  },
+  "slug": "maysoon_zayid_i_got_99_problems_palsy_is_just_one",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/20901029a2b8ff751fbdf23cabb736b82cadf55e_1600x1200.jpg?quality=89&w=600",
+  "title": "I got 99 problems ... palsy is just one",
+  "url": "https://www.ted.com/talks/maysoon_zayid_i_got_99_problems_palsy_is_just_one",
+  "video": {
+    "low": "http://download.ted.com/talks/MaysoonZayid_2013W-light.mp4",
+    "medium": "http://download.ted.com/talks/MaysoonZayid_2013W.mp4",
+    "high": "http://download.ted.com/talks/MaysoonZayid_2013W-480p.mp4"
+  },
+  "viewCount": 7646813,
+  "year": "2013"
+}

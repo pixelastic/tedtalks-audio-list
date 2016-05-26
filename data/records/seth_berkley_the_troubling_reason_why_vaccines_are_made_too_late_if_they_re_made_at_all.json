@@ -1,0 +1,51 @@
+{
+  "audio": "http://download.ted.com/talks/SethBerkley_2015.mp3",
+  "author": "Seth Berkley",
+  "dateFilmed": 1426636800,
+  "datePublished": 1440514588,
+  "description": "It seems like we wait for a disastrous disease outbreak before we get serious about making a vaccine for it. Seth Berkley lays out the market realities and unbalanced risks behind why we aren't making vaccines for the world's biggest diseases.",
+  "duration": 437,
+  "event": "TED2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b226ce62a4f4e1442f252df8481a8930f02d4205_2880x1620.jpg",
+  "keywords": [
+    "Vaccines",
+    "ebola",
+    "economics",
+    "global issues",
+    "health",
+    "medicine",
+    "public health",
+    "science"
+  ],
+  "mainLanguage": null,
+  "objectID": 2317,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 231,
+    "Inspiring": 33,
+    "Courageous": 35,
+    "Persuasive": 69,
+    "OK": 46,
+    "Unconvincing": 9,
+    "Fascinating": 17,
+    "Beautiful": 7,
+    "Longwinded": 3,
+    "Obnoxious": 2,
+    "Confusing": 1,
+    "Funny": 5,
+    "Ingenious": 10,
+    "Jaw-dropping": 9
+  },
+  "slug": "seth_berkley_the_troubling_reason_why_vaccines_are_made_too_late_if_they_re_made_at_all",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b226ce62a4f4e1442f252df8481a8930f02d4205_2880x1620.jpg?quality=89&w=600",
+  "title": "The troubling reason why vaccines are made too late ... if they're made at all",
+  "url": "https://www.ted.com/talks/seth_berkley_the_troubling_reason_why_vaccines_are_made_too_late_if_they_re_made_at_all",
+  "video": {
+    "low": "http://download.ted.com/talks/SethBerkley_2015-light.mp4",
+    "medium": "http://download.ted.com/talks/SethBerkley_2015.mp4",
+    "high": "http://download.ted.com/talks/SethBerkley_2015-480p.mp4"
+  },
+  "viewCount": 924805,
+  "year": "2015"
+}

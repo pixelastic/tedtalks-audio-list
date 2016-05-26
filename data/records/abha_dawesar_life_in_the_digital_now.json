@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/AbhaDawesar_2013G.mp3",
+  "author": "Abha Dawesar",
+  "dateFilmed": 1371168000,
+  "datePublished": 1383146179,
+  "description": "One year ago, Abha Dawesar was living in blacked-out Manhattan post-Sandy, scrounging for power to connect. As a novelist, she was struck by this metaphor: Have our lives now become fixated on the drive to digitally connect, while we miss out on what's real?",
+  "duration": 721,
+  "event": "TEDGlobal 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/16a8cfdf316611be69401016332dc6b2c137c243_1600x1200.jpg",
+  "keywords": [
+    "communication",
+    "culture",
+    "entertainment",
+    "storytelling",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 1856,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Persuasive": 173,
+    "Inspiring": 266,
+    "Jaw-dropping": 15,
+    "Beautiful": 100,
+    "Fascinating": 128,
+    "Informative": 74,
+    "Unconvincing": 82,
+    "OK": 87,
+    "Longwinded": 60,
+    "Ingenious": 26,
+    "Confusing": 48,
+    "Courageous": 35,
+    "Obnoxious": 17,
+    "Funny": 2
+  },
+  "slug": "abha_dawesar_life_in_the_digital_now",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/16a8cfdf316611be69401016332dc6b2c137c243_1600x1200.jpg?quality=89&w=600",
+  "title": "Life in the \"digital now\"",
+  "url": "https://www.ted.com/talks/abha_dawesar_life_in_the_digital_now",
+  "video": {
+    "low": "http://download.ted.com/talks/AbhaDawesar_2013G-light.mp4",
+    "medium": "http://download.ted.com/talks/AbhaDawesar_2013G.mp4",
+    "high": "http://download.ted.com/talks/AbhaDawesar_2013G-480p.mp4"
+  },
+  "viewCount": 1157790,
+  "year": "2013"
+}

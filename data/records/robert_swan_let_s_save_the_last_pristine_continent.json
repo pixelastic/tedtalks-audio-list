@@ -1,0 +1,46 @@
+{
+  "audio": "http://download.ted.com/talks/RobertSwan_2014G.mp3",
+  "author": "Robert Swan",
+  "dateFilmed": 1412899200,
+  "datePublished": 1421164766,
+  "description": "2041 will be a pivotal year for our planet. That year will mark the end of a 50-year agreement to keep Antarctica, the Earth’s last pristine continent, free of exploitation. Explorer Robert Swan — the first person to walk both the North and South Poles — is on a mission to ensure that we extend that treaty. With passion and vigor, he pleads with us to choose the preservation of the Antarctic for our own survival.",
+  "duration": 962,
+  "event": "TEDGlobal 2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/90685a6e5a6f5c4df098ee2b9b869a686101fd86_2880x1620.jpg",
+  "keywords": [
+    "climate change",
+    "environment",
+    "exploration"
+  ],
+  "mainLanguage": null,
+  "objectID": 2165,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 98,
+    "Courageous": 95,
+    "Jaw-dropping": 35,
+    "Inspiring": 223,
+    "Longwinded": 16,
+    "OK": 22,
+    "Unconvincing": 16,
+    "Obnoxious": 10,
+    "Fascinating": 63,
+    "Persuasive": 61,
+    "Ingenious": 2,
+    "Informative": 75,
+    "Confusing": 7,
+    "Funny": 15
+  },
+  "slug": "robert_swan_let_s_save_the_last_pristine_continent",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/90685a6e5a6f5c4df098ee2b9b869a686101fd86_2880x1620.jpg?quality=89&w=600",
+  "title": "Let's save the last pristine continent",
+  "url": "https://www.ted.com/talks/robert_swan_let_s_save_the_last_pristine_continent",
+  "video": {
+    "low": "http://download.ted.com/talks/RobertSwan_2014G-light.mp4",
+    "medium": "http://download.ted.com/talks/RobertSwan_2014G.mp4",
+    "high": "http://download.ted.com/talks/RobertSwan_2014G-480p.mp4"
+  },
+  "viewCount": 927158,
+  "year": "2014"
+}

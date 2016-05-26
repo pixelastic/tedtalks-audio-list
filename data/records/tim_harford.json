@@ -1,0 +1,59 @@
+{
+  "audio": "http://download.ted.com/talks/TimHarford_2011G.mp3",
+  "author": "Tim Harford",
+  "dateFilmed": 1310515200,
+  "datePublished": 1310725320,
+  "description": "Economics writer Tim Harford studies complex systems -- and finds a surprising link among the successful ones: they were built through trial and error. In this sparkling talk from TEDGlobal 2011, he asks us to embrace our randomness and start making better mistakes.",
+  "duration": 1087,
+  "event": "TEDGlobal 2011",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/836105f5cd7e91d654d0c6ebbf963cb0eaf84c3e_1600x1200.jpg",
+  "keywords": [
+    "business",
+    "creativity",
+    "culture",
+    "society"
+  ],
+  "mainLanguage": null,
+  "objectID": 1190,
+  "otherLanguages": {
+    "hy": "Armenian",
+    "bg": "Bulgarian",
+    "hr": "Croatian",
+    "nl": "Dutch",
+    "en": "English",
+    "it": "Italian",
+    "ko": "Korean",
+    "lv": "Latvian",
+    "pt": "Portuguese",
+    "sk": "Slovak",
+    "tr": "Turkish",
+    "vi": "Vietnamese"
+  },
+  "ratings": {
+    "Jaw-dropping": 120,
+    "Inspiring": 835,
+    "Persuasive": 711,
+    "Courageous": 225,
+    "Informative": 407,
+    "Longwinded": 75,
+    "OK": 79,
+    "Ingenious": 197,
+    "Fascinating": 406,
+    "Unconvincing": 66,
+    "Funny": 48,
+    "Beautiful": 78,
+    "Confusing": 28,
+    "Obnoxious": 28
+  },
+  "slug": "tim_harford",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/836105f5cd7e91d654d0c6ebbf963cb0eaf84c3e_1600x1200.jpg?quality=89&w=600",
+  "title": "Trial, error and the God complex",
+  "url": "https://www.ted.com/talks/tim_harford",
+  "video": {
+    "low": "http://download.ted.com/talks/TimHarford_2011G-light.mp4",
+    "medium": "http://download.ted.com/talks/TimHarford_2011G.mp4",
+    "high": "http://download.ted.com/talks/TimHarford_2011G-480p.mp4"
+  },
+  "viewCount": 1551161,
+  "year": "2011"
+}

@@ -1,0 +1,46 @@
+{
+  "audio": "http://download.ted.com/talks/RodneyBrooks_2013.mp3",
+  "author": "Rodney Brooks",
+  "dateFilmed": 1361836800,
+  "datePublished": 1372431668,
+  "description": "Scaremongers play on the idea that robots will simply replace people on the job. In fact, they can become our essential collaborators, freeing us up to spend time on less mundane and mechanical challenges. Rodney Brooks points out how valuable this could be as the number of working-age adults drops and the number of retirees swells. He introduces us to Baxter, the robot with eyes that move and arms that react to touch, which could work alongside an aging population -- and learn to help them at home, too.",
+  "duration": 596,
+  "event": "TED2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/c9928d59974a7d5b8f8889794634cbded07ff266_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "robots",
+    "work"
+  ],
+  "mainLanguage": null,
+  "objectID": 1762,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 18,
+    "Ingenious": 72,
+    "Jaw-dropping": 10,
+    "Longwinded": 12,
+    "Fascinating": 84,
+    "Inspiring": 58,
+    "Persuasive": 71,
+    "Informative": 117,
+    "Unconvincing": 20,
+    "OK": 52,
+    "Funny": 7,
+    "Obnoxious": 5,
+    "Confusing": 13,
+    "Courageous": 8
+  },
+  "slug": "rodney_brooks_why_we_will_rely_on_robots",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/c9928d59974a7d5b8f8889794634cbded07ff266_1600x1200.jpg?quality=89&w=600",
+  "title": "Why we will rely on robots",
+  "url": "https://www.ted.com/talks/rodney_brooks_why_we_will_rely_on_robots",
+  "video": {
+    "low": "http://download.ted.com/talks/RodneyBrooks_2013-light.mp4",
+    "medium": "http://download.ted.com/talks/RodneyBrooks_2013.mp4",
+    "high": "http://download.ted.com/talks/RodneyBrooks_2013-480p.mp4"
+  },
+  "viewCount": 1284574,
+  "year": "2013"
+}

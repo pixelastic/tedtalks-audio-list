@@ -1,0 +1,46 @@
+{
+  "audio": "http://download.ted.com/talks/SanjayDastoor_2013.mp3",
+  "author": "Sanjay Dastoor",
+  "dateFilmed": 1361923200,
+  "datePublished": 1364915205,
+  "description": "Imagine an electric vehicle that can get you to work -- or anywhere in a six-mile radius -- quickly, without traffic frustrations or gasoline. Now imagine you can pick it up and carry it with you. Yes, this souped-up skateboard could change the face of morning commutes.",
+  "duration": 260,
+  "event": "TED2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/f08363105a3a1102149c998c7ceed09aeb1c2766_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "technology",
+    "transportation"
+  ],
+  "mainLanguage": null,
+  "objectID": 1704,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Ingenious": 304,
+    "Fascinating": 145,
+    "Inspiring": 183,
+    "Informative": 82,
+    "Jaw-dropping": 73,
+    "Courageous": 27,
+    "Unconvincing": 49,
+    "OK": 48,
+    "Persuasive": 79,
+    "Funny": 11,
+    "Obnoxious": 15,
+    "Beautiful": 23,
+    "Longwinded": 4,
+    "Confusing": 3
+  },
+  "slug": "sanjay_dastoor_a_skateboard_with_a_boost",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/f08363105a3a1102149c998c7ceed09aeb1c2766_1600x1200.jpg?quality=89&w=600",
+  "title": "A skateboard, with a boost",
+  "url": "https://www.ted.com/talks/sanjay_dastoor_a_skateboard_with_a_boost",
+  "video": {
+    "low": "http://download.ted.com/talks/SanjayDastoor_2013-light.mp4",
+    "medium": "http://download.ted.com/talks/SanjayDastoor_2013.mp4",
+    "high": "http://download.ted.com/talks/SanjayDastoor_2013-480p.mp4"
+  },
+  "viewCount": 1577313,
+  "year": "2013"
+}

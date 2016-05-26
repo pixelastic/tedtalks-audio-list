@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/AlessandroAcquisti_2013G.mp3",
+  "author": "Alessandro Acquisti",
+  "dateFilmed": 1371168000,
+  "datePublished": 1382022014,
+  "description": "The line between public and private has blurred in the past decade, both online and in real life, and Alessandro Acquisti is here to explain what this means and why it matters. In this thought-provoking, slightly chilling talk, he shares details of recent and ongoing research -- including a project that shows how easy it is to match a photograph of a stranger with their sensitive personal information.",
+  "duration": 900,
+  "event": "TEDGlobal 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/455ebe6c262d8f567e288fcda788a28def875400_1600x1200.jpg",
+  "keywords": [
+    "business",
+    "policy",
+    "privacy",
+    "social media",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 1848,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 581,
+    "Fascinating": 192,
+    "Persuasive": 315,
+    "Funny": 17,
+    "Jaw-dropping": 96,
+    "Ingenious": 39,
+    "Inspiring": 92,
+    "Longwinded": 18,
+    "Courageous": 67,
+    "Beautiful": 6,
+    "Unconvincing": 16,
+    "Obnoxious": 9,
+    "OK": 39,
+    "Confusing": 19
+  },
+  "slug": "alessandro_acquisti_why_privacy_matters",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/455ebe6c262d8f567e288fcda788a28def875400_1600x1200.jpg?quality=89&w=600",
+  "title": "What will a future without secrets look like?",
+  "url": "https://www.ted.com/talks/alessandro_acquisti_why_privacy_matters",
+  "video": {
+    "low": "http://download.ted.com/talks/AlessandroAcquisti_2013G-light.mp4",
+    "medium": "http://download.ted.com/talks/AlessandroAcquisti_2013G.mp4",
+    "high": "http://download.ted.com/talks/AlessandroAcquisti_2013G-480p.mp4"
+  },
+  "viewCount": 1193563,
+  "year": "2013"
+}

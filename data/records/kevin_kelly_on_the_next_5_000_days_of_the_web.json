@@ -1,0 +1,57 @@
+{
+  "audio": null,
+  "author": "Kevin Kelly",
+  "dateFilmed": 1197417600,
+  "datePublished": 1217253660,
+  "description": "At the 2007 EG conference, Kevin Kelly shares a fun stat: The World Wide Web, as we know it, is only 5,000 days old. Now, Kelly asks, how can we predict what's coming in the next 5,000 days?",
+  "duration": 1174,
+  "event": "EG 2007",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/84760000a82ad48289066aeca95e7a776e8f39ef_1200x900.jpg",
+  "keywords": [
+    "communication",
+    "complexity",
+    "future",
+    "technology",
+    "web"
+  ],
+  "mainLanguage": null,
+  "objectID": 319,
+  "otherLanguages": {
+    "eu": "Basque",
+    "nl": "Dutch",
+    "it": "Italian",
+    "nb": "Norwegian Bokmal",
+    "fa": "Persian",
+    "pl": "Polish",
+    "ro": "Romanian",
+    "ru": "Russian",
+    "tr": "Turkish"
+  },
+  "ratings": {
+    "Ingenious": 171,
+    "Persuasive": 197,
+    "Informative": 529,
+    "OK": 171,
+    "Fascinating": 642,
+    "Inspiring": 354,
+    "Jaw-dropping": 216,
+    "Longwinded": 96,
+    "Unconvincing": 116,
+    "Obnoxious": 28,
+    "Courageous": 65,
+    "Funny": 27,
+    "Confusing": 43,
+    "Beautiful": 34
+  },
+  "slug": "kevin_kelly_on_the_next_5_000_days_of_the_web",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/84760000a82ad48289066aeca95e7a776e8f39ef_1200x900.jpg?quality=89&w=600",
+  "title": "The next 5,000 days of the web",
+  "url": "https://www.ted.com/talks/kevin_kelly_on_the_next_5_000_days_of_the_web",
+  "video": {
+    "low": "http://download.ted.com/talks/KevinKelly_2007P-light.mp4",
+    "medium": "http://download.ted.com/talks/KevinKelly_2007P.mp4",
+    "high": "http://download.ted.com/talks/KevinKelly_2007P-480p.mp4"
+  },
+  "viewCount": 1201088,
+  "year": "2007"
+}

@@ -1,0 +1,50 @@
+{
+  "audio": "http://download.ted.com/talks/BruceFeiler_2013S.mp3",
+  "author": "Bruce Feiler",
+  "dateFilmed": 1360540800,
+  "datePublished": 1361808003,
+  "description": "Bruce Feiler has a radical idea: To deal with the stress of modern family life, go agile. Inspired by agile software programming, Feiler introduces family practices which encourage flexibility, bottom-up idea flow, constant feedback and accountability. One surprising feature: Kids pick their own punishments.",
+  "duration": 1080,
+  "event": "TEDSalon NY2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7aed686b1c4e05799de15c6bd292be90cf9e049c_1920x1080.jpg",
+  "keywords": [
+    "children",
+    "culture",
+    "engineering",
+    "family",
+    "parenting",
+    "software",
+    "youth"
+  ],
+  "mainLanguage": null,
+  "objectID": 1675,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Ingenious": 157,
+    "Inspiring": 528,
+    "Fascinating": 166,
+    "Persuasive": 210,
+    "Informative": 244,
+    "Beautiful": 52,
+    "OK": 41,
+    "Longwinded": 25,
+    "Courageous": 29,
+    "Obnoxious": 14,
+    "Unconvincing": 33,
+    "Funny": 36,
+    "Jaw-dropping": 24,
+    "Confusing": 4
+  },
+  "slug": "bruce_feiler_agile_programming_for_your_family",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7aed686b1c4e05799de15c6bd292be90cf9e049c_1920x1080.jpg?quality=89&w=600",
+  "title": "Agile programming -- for your family",
+  "url": "https://www.ted.com/talks/bruce_feiler_agile_programming_for_your_family",
+  "video": {
+    "low": "http://download.ted.com/talks/BruceFeiler_2013S-light.mp4",
+    "medium": "http://download.ted.com/talks/BruceFeiler_2013S.mp4",
+    "high": "http://download.ted.com/talks/BruceFeiler_2013S-480p.mp4"
+  },
+  "viewCount": 1272895,
+  "year": "2013"
+}

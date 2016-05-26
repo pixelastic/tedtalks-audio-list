@@ -1,0 +1,49 @@
+{
+  "audio": null,
+  "author": "Jeff Bezos",
+  "dateFilmed": 1273881600,
+  "datePublished": 1280234580,
+  "description": "In this Princeton University graduation address, Amazon founder Jeff Bezos makes the case that our character is reflected not in the gifts we're endowed with at birth, but by the choices we make over the course of a lifetime.",
+  "duration": 1124,
+  "event": "Princeton University",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/186345_800x600.jpg",
+  "keywords": [
+    "TED Brain Trust",
+    "business",
+    "creativity",
+    "intelligence",
+    "self"
+  ],
+  "mainLanguage": null,
+  "objectID": 923,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 265,
+    "Jaw-dropping": 46,
+    "Longwinded": 138,
+    "Unconvincing": 81,
+    "OK": 189,
+    "Persuasive": 219,
+    "Funny": 46,
+    "Courageous": 148,
+    "Fascinating": 84,
+    "Informative": 91,
+    "Ingenious": 41,
+    "Obnoxious": 28,
+    "Confusing": 12,
+    "Inspiring": 967
+  },
+  "slug": "jeff_bezos_gifts_vs_choices",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/186345_800x600.jpg?quality=89&w=600",
+  "title": "What matters more than your talents",
+  "url": "https://www.ted.com/talks/jeff_bezos_gifts_vs_choices",
+  "video": {
+    "youtube": {
+      "id": "vBmavNoChZc",
+      "url": "http://www.youtube.com/watch?v=vBmavNoChZc#t=6m25s"
+    }
+  },
+  "viewCount": 613702,
+  "year": "2010"
+}

@@ -1,0 +1,54 @@
+{
+  "audio": "http://download.ted.com/talks/NonnydelaPena_2015W.mp3",
+  "author": "Nonny de la Peña",
+  "dateFilmed": 1432684800,
+  "datePublished": 1447777202,
+  "description": "What if you could experience a story with your entire body, not just with your mind? Nonny de la Peña is working on a new form of journalism that combines traditional reporting with emerging virtual reality technology to put the audience inside the story. The result is an evocative experience that de la Peña hopes will help people understand the news in a brand new way.",
+  "duration": 567,
+  "event": "TEDWomen 2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ddaf3e1ce01e2c3ee875970d3c7bf8bb4e9e92c3_2880x1620.jpg",
+  "keywords": [
+    "future",
+    "innovation",
+    "invention",
+    "journalism",
+    "media",
+    "news",
+    "storytelling",
+    "virtual reality",
+    "visualizations"
+  ],
+  "mainLanguage": null,
+  "objectID": 2376,
+  "otherLanguages": {
+    "el": "Greek",
+    "id": "Indonesian"
+  },
+  "ratings": {
+    "Informative": 129,
+    "Ingenious": 40,
+    "Jaw-dropping": 15,
+    "Fascinating": 59,
+    "Persuasive": 42,
+    "Unconvincing": 34,
+    "Courageous": 22,
+    "Inspiring": 53,
+    "Confusing": 7,
+    "OK": 44,
+    "Beautiful": 13,
+    "Longwinded": 6,
+    "Obnoxious": 6,
+    "Funny": 3
+  },
+  "slug": "nonny_de_la_pena_the_future_of_news_virtual_reality",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ddaf3e1ce01e2c3ee875970d3c7bf8bb4e9e92c3_2880x1620.jpg?quality=89&w=600",
+  "title": "The future of news? Virtual reality",
+  "url": "https://www.ted.com/talks/nonny_de_la_pena_the_future_of_news_virtual_reality",
+  "video": {
+    "low": "http://download.ted.com/talks/NonnydelaPena_2015W-light.mp4",
+    "medium": "http://download.ted.com/talks/NonnydelaPena_2015W.mp4",
+    "high": "http://download.ted.com/talks/NonnydelaPena_2015W-480p.mp4"
+  },
+  "viewCount": 1066762,
+  "year": "2015"
+}

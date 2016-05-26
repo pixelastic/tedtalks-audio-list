@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/PaulaJohnson_2013W.mp3",
+  "author": "Paula Johnson",
+  "dateFilmed": 1386201600,
+  "datePublished": 1390406834,
+  "description": "Every cell in the human body has a sex, which means that men and women are different right down to the cellular level. Yet too often, research and medicine ignore this insight -- and the often startlingly different ways in which the two sexes respond to disease or treatment. As pioneering doctor Paula Johnson describes in this thought-provoking talk, lumping everyone in together means we essentially leave women's health to chance. It's time to rethink.",
+  "duration": 882,
+  "event": "TEDWomen 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/c0695fc0aa70c576b970a4d205d2fa22aed16415_1600x1200.jpg",
+  "keywords": [
+    "depression",
+    "health",
+    "heart health",
+    "women"
+  ],
+  "mainLanguage": null,
+  "objectID": 1910,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified"
+  },
+  "ratings": {
+    "Persuasive": 108,
+    "Informative": 172,
+    "Inspiring": 99,
+    "Jaw-dropping": 16,
+    "Fascinating": 55,
+    "Courageous": 22,
+    "Longwinded": 8,
+    "OK": 20,
+    "Beautiful": 13,
+    "Obnoxious": 6,
+    "Ingenious": 10,
+    "Confusing": 10,
+    "Unconvincing": 33,
+    "Funny": 3
+  },
+  "slug": "paula_johnson_his_and_hers_healthcare",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/c0695fc0aa70c576b970a4d205d2fa22aed16415_1600x1200.jpg?quality=89&w=600",
+  "title": "His and hers … healthcare",
+  "url": "https://www.ted.com/talks/paula_johnson_his_and_hers_healthcare",
+  "video": {
+    "low": "http://download.ted.com/talks/PaulaJohnson_2013W-light.mp4",
+    "medium": "http://download.ted.com/talks/PaulaJohnson_2013W.mp4",
+    "high": "http://download.ted.com/talks/PaulaJohnson_2013W-480p.mp4"
+  },
+  "viewCount": 1030931,
+  "year": "2013"
+}

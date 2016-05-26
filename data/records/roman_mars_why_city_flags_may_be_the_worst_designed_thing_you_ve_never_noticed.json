@@ -1,0 +1,49 @@
+{
+  "audio": "http://download.ted.com/talks/RomanMars_2015.mp3",
+  "author": "Roman Mars",
+  "dateFilmed": 1427241600,
+  "datePublished": 1431616374,
+  "description": "Roman Mars is obsessed with flags -- and after you watch this talk, you might be, too. These ubiquitous symbols of civic pride are often designed, well, pretty terribly. But they don't have to be. In this surprising and hilarious talk about vexillology -- the study of flags -- Mars reveals the five basic principles of flag design and shows why he believes they can be applied to just about anything.",
+  "duration": 1098,
+  "event": "TED2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/cf60edde3cb4303d421107d7bbce32e58f8ab9f3_2880x1620.jpg",
+  "keywords": [
+    "cities",
+    "design",
+    "government",
+    "humor",
+    "product design"
+  ],
+  "mainLanguage": null,
+  "objectID": 2253,
+  "otherLanguages": {
+    "pt-br": "Portuguese, Brazilian"
+  },
+  "ratings": {
+    "OK": 112,
+    "Funny": 593,
+    "Informative": 463,
+    "Inspiring": 266,
+    "Fascinating": 336,
+    "Ingenious": 92,
+    "Beautiful": 120,
+    "Persuasive": 164,
+    "Courageous": 9,
+    "Confusing": 11,
+    "Longwinded": 30,
+    "Unconvincing": 19,
+    "Jaw-dropping": 20,
+    "Obnoxious": 20
+  },
+  "slug": "roman_mars_why_city_flags_may_be_the_worst_designed_thing_you_ve_never_noticed",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/cf60edde3cb4303d421107d7bbce32e58f8ab9f3_2880x1620.jpg?quality=89&w=600",
+  "title": "Why city flags may be the worst-designed thing you've never noticed",
+  "url": "https://www.ted.com/talks/roman_mars_why_city_flags_may_be_the_worst_designed_thing_you_ve_never_noticed",
+  "video": {
+    "low": "http://download.ted.com/talks/RomanMars_2015-light.mp4",
+    "medium": "http://download.ted.com/talks/RomanMars_2015.mp4",
+    "high": "http://download.ted.com/talks/RomanMars_2015-480p.mp4"
+  },
+  "viewCount": 3171744,
+  "year": "2015"
+}

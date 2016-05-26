@@ -1,0 +1,61 @@
+{
+  "audio": "http://download.ted.com/talks/SarahBergbreiter_2014Y.mp3",
+  "author": "Sarah Bergbreiter",
+  "dateFilmed": 1416009600,
+  "datePublished": 1421858949,
+  "description": "By studying the movement and bodies of insects such as ants, Sarah Bergbreiter and her team build incredibly robust, super teeny, mechanical versions of creepy crawlies … and then they add rockets. See their jaw-dropping developments in micro-robotics, and hear about three ways we might use these little helpers in the future.",
+  "duration": 366,
+  "event": "TEDYouth 2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/9d04978903c66e24b46aa67af8a9ecd448332a48_2880x1620.jpg",
+  "keywords": [
+    "TEDYouth",
+    "engineering",
+    "robots",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 2170,
+  "otherLanguages": {
+    "ar": "Arabic",
+    "zh-cn": "Chinese, Simplified",
+    "nl": "Dutch",
+    "fr": "French",
+    "de": "German",
+    "el": "Greek",
+    "hu": "Hungarian",
+    "ja": "Japanese",
+    "ko": "Korean",
+    "pt-br": "Portuguese, Brazilian",
+    "es": "Spanish",
+    "th": "Thai",
+    "uk": "Ukrainian",
+    "vi": "Vietnamese"
+  },
+  "ratings": {
+    "Informative": 264,
+    "Inspiring": 136,
+    "Jaw-dropping": 48,
+    "Ingenious": 153,
+    "Fascinating": 216,
+    "OK": 47,
+    "Unconvincing": 26,
+    "Beautiful": 21,
+    "Longwinded": 14,
+    "Funny": 11,
+    "Persuasive": 10,
+    "Confusing": 3,
+    "Obnoxious": 5,
+    "Courageous": 3
+  },
+  "slug": "sarah_bergbreiter_why_i_make_robots_the_size_of_a_grain_of_rice",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/9d04978903c66e24b46aa67af8a9ecd448332a48_2880x1620.jpg?quality=89&w=600",
+  "title": "Why I make robots the size of a grain of rice",
+  "url": "https://www.ted.com/talks/sarah_bergbreiter_why_i_make_robots_the_size_of_a_grain_of_rice",
+  "video": {
+    "low": "http://download.ted.com/talks/SarahBergbreiter_2014Y-light.mp4",
+    "medium": "http://download.ted.com/talks/SarahBergbreiter_2014Y.mp4",
+    "high": "http://download.ted.com/talks/SarahBergbreiter_2014Y-480p.mp4"
+  },
+  "viewCount": 1392287,
+  "year": "2014"
+}

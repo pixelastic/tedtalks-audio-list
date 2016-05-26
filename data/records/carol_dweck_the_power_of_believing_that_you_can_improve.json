@@ -1,0 +1,54 @@
+{
+  "audio": "http://download.ted.com/talks/CarolDweck_2014X.mp3",
+  "author": "Carol Dweck",
+  "dateFilmed": 1415664000,
+  "datePublished": 1418832726,
+  "description": "Carol Dweck researches “growth mindset” — the idea that we can grow our brain's capacity to learn and to solve problems. In this talk, she describes two ways to think about a problem that’s slightly too hard for you to solve. Are you not smart enough to solve it … or have you just not solved it yet? A great introduction to this influential field.\r\n",
+  "duration": 620,
+  "event": "TEDxNorrkoping",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/85582d553035da22504c315ba5ec7ed727f16354_2880x1620.jpg",
+  "keywords": [
+    "TEDx",
+    "brain",
+    "business",
+    "education",
+    "intelligence",
+    "personal growth",
+    "psychology"
+  ],
+  "mainLanguage": null,
+  "objectID": 2156,
+  "otherLanguages": {
+    "hr": "Croatian",
+    "nl": "Dutch",
+    "fi": "Finnish",
+    "pt": "Portuguese"
+  },
+  "ratings": {
+    "Beautiful": 664,
+    "Informative": 1130,
+    "Inspiring": 2160,
+    "Persuasive": 579,
+    "Ingenious": 172,
+    "Longwinded": 99,
+    "Jaw-dropping": 49,
+    "Fascinating": 428,
+    "OK": 250,
+    "Courageous": 134,
+    "Unconvincing": 66,
+    "Obnoxious": 54,
+    "Funny": 32,
+    "Confusing": 28
+  },
+  "slug": "carol_dweck_the_power_of_believing_that_you_can_improve",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/85582d553035da22504c315ba5ec7ed727f16354_2880x1620.jpg?quality=89&w=600",
+  "title": "The power of believing that you can improve",
+  "url": "https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve",
+  "video": {
+    "low": "http://download.ted.com/talks/CarolDweck_2014X-light.mp4",
+    "medium": "http://download.ted.com/talks/CarolDweck_2014X.mp4",
+    "high": "http://download.ted.com/talks/CarolDweck_2014X-480p.mp4"
+  },
+  "viewCount": 4311858,
+  "year": "2014"
+}

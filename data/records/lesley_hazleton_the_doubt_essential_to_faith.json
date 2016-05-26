@@ -1,0 +1,49 @@
+{
+  "audio": "http://download.ted.com/talks/LesleyHazleton_2013G.mp3",
+  "author": "Lesley Hazleton",
+  "dateFilmed": 1370995200,
+  "datePublished": 1372087795,
+  "description": "When Lesley Hazleton was writing a biography of Muhammad, she was struck by something: The night he received the revelation of the Koran, according to early accounts, his first reaction was doubt, awe, even fear. And yet this experience became the bedrock of his belief. Hazleton calls for a new appreciation of doubt and questioning as the foundation of faith -- and an end to fundamentalism of all kinds.",
+  "duration": 825,
+  "event": "TEDGlobal 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8d7573e4831ee55e15c81a1786041de0487a3e00_1600x1200.jpg",
+  "keywords": [
+    "Islam",
+    "culture",
+    "faith",
+    "global issues",
+    "peace",
+    "religion"
+  ],
+  "mainLanguage": null,
+  "objectID": 1772,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Fascinating": 399,
+    "Inspiring": 637,
+    "Courageous": 311,
+    "Beautiful": 292,
+    "Obnoxious": 44,
+    "Unconvincing": 119,
+    "Confusing": 27,
+    "Persuasive": 290,
+    "Jaw-dropping": 99,
+    "Informative": 206,
+    "Longwinded": 55,
+    "Ingenious": 65,
+    "OK": 48,
+    "Funny": 12
+  },
+  "slug": "lesley_hazleton_the_doubt_essential_to_faith",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8d7573e4831ee55e15c81a1786041de0487a3e00_1600x1200.jpg?quality=89&w=600",
+  "title": "The doubt essential to faith",
+  "url": "https://www.ted.com/talks/lesley_hazleton_the_doubt_essential_to_faith",
+  "video": {
+    "low": "http://download.ted.com/talks/LesleyHazleton_2013G-light.mp4",
+    "medium": "http://download.ted.com/talks/LesleyHazleton_2013G.mp4",
+    "high": "http://download.ted.com/talks/LesleyHazleton_2013G-480p.mp4"
+  },
+  "viewCount": 1246369,
+  "year": "2013"
+}

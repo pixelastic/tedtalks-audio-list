@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/JeffIliff_2014P.mp3",
+  "author": "Jeff Iliff",
+  "dateFilmed": 1410998400,
+  "datePublished": 1413212791,
+  "description": "The brain uses a quarter of the body's entire energy supply, yet only accounts for about two percent of the body's mass. So how does this unique organ receive and, perhaps more importantly, rid itself of vital nutrients? New research suggests it has to do with sleep.",
+  "duration": 701,
+  "event": "TEDMED 2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/1cbfdce0ca5068cf453cb0747ea49d669d84dd62_2880x1620.jpg",
+  "keywords": [
+    "brain",
+    "mind",
+    "neuroscience",
+    "science"
+  ],
+  "mainLanguage": null,
+  "objectID": 2103,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 2323,
+    "Ingenious": 332,
+    "Fascinating": 1484,
+    "Courageous": 31,
+    "Beautiful": 215,
+    "Jaw-dropping": 123,
+    "OK": 174,
+    "Inspiring": 266,
+    "Persuasive": 387,
+    "Longwinded": 24,
+    "Obnoxious": 7,
+    "Confusing": 19,
+    "Unconvincing": 5,
+    "Funny": 23
+  },
+  "slug": "jeff_iliff_one_more_reason_to_get_a_good_night_s_sleep",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/1cbfdce0ca5068cf453cb0747ea49d669d84dd62_2880x1620.jpg?quality=89&w=600",
+  "title": "One more reason to get a good night’s sleep",
+  "url": "https://www.ted.com/talks/jeff_iliff_one_more_reason_to_get_a_good_night_s_sleep",
+  "video": {
+    "low": "http://download.ted.com/talks/JeffIliff_2014P-light.mp4",
+    "medium": "http://download.ted.com/talks/JeffIliff_2014P.mp4",
+    "high": "http://download.ted.com/talks/JeffIliff_2014P-480p.mp4"
+  },
+  "viewCount": 3212537,
+  "year": "2014"
+}

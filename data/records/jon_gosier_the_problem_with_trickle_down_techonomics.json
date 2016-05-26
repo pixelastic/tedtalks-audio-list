@@ -1,0 +1,46 @@
+{
+  "audio": null,
+  "author": "Jon Gosier",
+  "dateFilmed": 1413417600,
+  "datePublished": 1425313762,
+  "description": "Hooray for technology! It makes everything better for everyone!! Right? Well, no. When a new technology, like ebooks or health trackers, is only available to some people, it has unintended consequences for all of us. Jon Gosier, a TED Fellow and tech investor, calls out the idea of \"trickle-down techonomics,\" and shares powerful examples of how new tech can make things actually worse if it's not equally distributed. As he says, \"the real innovation is in finding ways to include everyone.\"",
+  "duration": 364,
+  "event": "TEDGlobal 2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ef8d3eec5a58b4e62fa2bcc37b3081c8b9622a13_2880x1620.jpg",
+  "keywords": [
+    "TED Fellows",
+    "inequality",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 2202,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 175,
+    "Persuasive": 107,
+    "Inspiring": 70,
+    "OK": 60,
+    "Beautiful": 5,
+    "Courageous": 22,
+    "Longwinded": 5,
+    "Unconvincing": 31,
+    "Ingenious": 6,
+    "Fascinating": 28,
+    "Obnoxious": 3,
+    "Funny": 3,
+    "Confusing": 7,
+    "Jaw-dropping": 5
+  },
+  "slug": "jon_gosier_the_problem_with_trickle_down_techonomics",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ef8d3eec5a58b4e62fa2bcc37b3081c8b9622a13_2880x1620.jpg?quality=89&w=600",
+  "title": "The problem with \"trickle-down techonomics\"",
+  "url": "https://www.ted.com/talks/jon_gosier_the_problem_with_trickle_down_techonomics",
+  "video": {
+    "low": "http://download.ted.com/talks/JonGosier_2014U-light.mp4",
+    "medium": "http://download.ted.com/talks/JonGosier_2014U.mp4",
+    "high": "http://download.ted.com/talks/JonGosier_2014U-480p.mp4"
+  },
+  "viewCount": 665488,
+  "year": "2014"
+}

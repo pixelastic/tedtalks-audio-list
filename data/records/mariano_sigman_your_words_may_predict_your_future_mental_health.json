@@ -1,0 +1,58 @@
+{
+  "audio": null,
+  "author": "Mariano Sigman",
+  "dateFilmed": 1455753600,
+  "datePublished": 1464102638,
+  "description": "Can the way you speak and write today predict your future mental state, even the onset of psychosis? In this fascinating talk, neuroscientist Mariano Sigman reflects on ancient Greece and the origins of introspection to investigate how our words hint at our inner lives and details a word-mapping algorithm that could predict the development of schizophrenia. \"We may be seeing in the future a very different form of mental health,\" Sigman says, \"based on objective, quantitative and automated analysis of the words we write, of the words we say.\"",
+  "duration": 734,
+  "event": "TED2016",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2eea2e8d1e96d595fea04ba72f63185b05f30307_2880x1620.jpg",
+  "keywords": [
+    "brain",
+    "cognitive science",
+    "communication",
+    "future",
+    "health",
+    "identity",
+    "language",
+    "mental health",
+    "mind",
+    "neuroscience",
+    "science",
+    "self",
+    "speech",
+    "writing"
+  ],
+  "mainLanguage": null,
+  "objectID": 2510,
+  "otherLanguages": {
+    "en": "English"
+  },
+  "ratings": {
+    "Ingenious": 50,
+    "Inspiring": 42,
+    "Fascinating": 131,
+    "Informative": 88,
+    "Longwinded": 6,
+    "Persuasive": 11,
+    "Beautiful": 10,
+    "Unconvincing": 11,
+    "OK": 27,
+    "Jaw-dropping": 9,
+    "Courageous": 8,
+    "Obnoxious": 2,
+    "Confusing": 6,
+    "Funny": 0
+  },
+  "slug": "mariano_sigman_your_words_may_predict_your_future_mental_health",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2eea2e8d1e96d595fea04ba72f63185b05f30307_2880x1620.jpg?quality=89&w=600",
+  "title": "Your words may predict your future mental health",
+  "url": "https://www.ted.com/talks/mariano_sigman_your_words_may_predict_your_future_mental_health",
+  "video": {
+    "low": "http://download.ted.com/talks/MarianoSigman_2016-light.mp4",
+    "medium": "http://download.ted.com/talks/MarianoSigman_2016.mp4",
+    "high": "http://download.ted.com/talks/MarianoSigman_2016-480p.mp4"
+  },
+  "viewCount": 247039,
+  "year": "2016"
+}

@@ -1,0 +1,49 @@
+{
+  "audio": "http://download.ted.com/talks/TomWujec_2013G.mp3",
+  "author": "Tom Wujec",
+  "dateFilmed": 1370822400,
+  "datePublished": 1423152086,
+  "description": "Making toast doesn’t sound very complicated -- until someone asks you to draw the process, step by step. Tom Wujec loves asking people and teams to draw how they make toast, because the process reveals unexpected truths about how we can solve our biggest, most complicated problems at work. Learn how to run this exercise yourself, and hear Wujec’s surprising insights from watching thousands of people draw toast.",
+  "duration": 541,
+  "event": "TEDGlobal 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/4c6dfc9fa9e4e7b966a9cb04791be03a9b3eb359_2880x1620.jpg",
+  "keywords": [
+    "business",
+    "collaboration",
+    "creativity",
+    "design",
+    "leadership"
+  ],
+  "mainLanguage": null,
+  "objectID": 2179,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified"
+  },
+  "ratings": {
+    "Ingenious": 367,
+    "Fascinating": 344,
+    "Jaw-dropping": 33,
+    "Funny": 156,
+    "Informative": 653,
+    "Courageous": 17,
+    "Inspiring": 435,
+    "Persuasive": 208,
+    "OK": 133,
+    "Confusing": 10,
+    "Longwinded": 31,
+    "Beautiful": 29,
+    "Unconvincing": 42,
+    "Obnoxious": 2
+  },
+  "slug": "tom_wujec_got_a_wicked_problem_first_tell_me_how_you_make_toast",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/4c6dfc9fa9e4e7b966a9cb04791be03a9b3eb359_2880x1620.jpg?quality=89&w=600",
+  "title": "Got a wicked problem? First, tell me how you make toast",
+  "url": "https://www.ted.com/talks/tom_wujec_got_a_wicked_problem_first_tell_me_how_you_make_toast",
+  "video": {
+    "low": "http://download.ted.com/talks/TomWujec_2013G-light.mp4",
+    "medium": "http://download.ted.com/talks/TomWujec_2013G.mp4",
+    "high": "http://download.ted.com/talks/TomWujec_2013G-480p.mp4"
+  },
+  "viewCount": 2147042,
+  "year": "2013"
+}

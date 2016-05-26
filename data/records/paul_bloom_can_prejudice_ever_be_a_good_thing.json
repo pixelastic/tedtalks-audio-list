@@ -1,0 +1,46 @@
+{
+  "audio": "http://download.ted.com/talks/PaulBloom_2014S.mp3",
+  "author": "Paul Bloom",
+  "dateFilmed": 1389744000,
+  "datePublished": 1404399605,
+  "description": "We often think of bias and prejudice as rooted in ignorance. But as psychologist Paul Bloom seeks to show, prejudice is often natural, rational ... even moral. The key, says Bloom, is to understand how our own biases work -- so we can take control when they go wrong.",
+  "duration": 983,
+  "event": "TEDSalon NY2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/0016e3bc1c1e5c27eb62914fe925a357824a6999_2400x1800.jpg",
+  "keywords": [
+    "behavioral economics",
+    "mind",
+    "psychology"
+  ],
+  "mainLanguage": null,
+  "objectID": 2037,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Longwinded": 32,
+    "Unconvincing": 35,
+    "Obnoxious": 10,
+    "Fascinating": 154,
+    "Informative": 292,
+    "OK": 69,
+    "Beautiful": 40,
+    "Inspiring": 143,
+    "Persuasive": 205,
+    "Confusing": 35,
+    "Courageous": 54,
+    "Funny": 32,
+    "Ingenious": 18,
+    "Jaw-dropping": 10
+  },
+  "slug": "paul_bloom_can_prejudice_ever_be_a_good_thing",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/0016e3bc1c1e5c27eb62914fe925a357824a6999_2400x1800.jpg?quality=89&w=600",
+  "title": "Can prejudice ever be a good thing?",
+  "url": "https://www.ted.com/talks/paul_bloom_can_prejudice_ever_be_a_good_thing",
+  "video": {
+    "low": "http://download.ted.com/talks/PaulBloom_2014S-light.mp4",
+    "medium": "http://download.ted.com/talks/PaulBloom_2014S.mp4",
+    "high": "http://download.ted.com/talks/PaulBloom_2014S-480p.mp4"
+  },
+  "viewCount": 972287,
+  "year": "2014"
+}

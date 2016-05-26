@@ -1,0 +1,46 @@
+{
+  "audio": "http://download.ted.com/talks/HollyMorris_2013G.mp3",
+  "author": "Holly Morris",
+  "dateFilmed": 1370995200,
+  "datePublished": 1383231495,
+  "description": "Chernobyl was the site of the world's worst nuclear accident and, for the past 27 years, the area around the plant has been known as the Exclusion Zone. And yet, a community of about 200 people live there -- almost all of them elderly women. These proud grandmas defied orders to relocate because their connection to their homeland and to their community are \"forces that rival even radiation.\" ",
+  "duration": 531,
+  "event": "TEDGlobal 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/0a171bdca14ddd15b93272a730c83719a1ac5c53_1600x1200.jpg",
+  "keywords": [
+    "adventure",
+    "disaster relief",
+    "nuclear energy"
+  ],
+  "mainLanguage": null,
+  "objectID": 1857,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 139,
+    "Inspiring": 112,
+    "Persuasive": 40,
+    "Courageous": 75,
+    "Beautiful": 64,
+    "Fascinating": 146,
+    "OK": 36,
+    "Unconvincing": 28,
+    "Confusing": 7,
+    "Jaw-dropping": 25,
+    "Ingenious": 5,
+    "Obnoxious": 17,
+    "Longwinded": 10,
+    "Funny": 2
+  },
+  "slug": "holly_morris_why_stay_in_chernobyl_because_it_s_home",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/0a171bdca14ddd15b93272a730c83719a1ac5c53_1600x1200.jpg?quality=89&w=600",
+  "title": "Why stay in Chernobyl? Because it's home.",
+  "url": "https://www.ted.com/talks/holly_morris_why_stay_in_chernobyl_because_it_s_home",
+  "video": {
+    "low": "http://download.ted.com/talks/HollyMorris_2013G-light.mp4",
+    "medium": "http://download.ted.com/talks/HollyMorris_2013G.mp4",
+    "high": "http://download.ted.com/talks/HollyMorris_2013G-480p.mp4"
+  },
+  "viewCount": 1061391,
+  "year": "2013"
+}

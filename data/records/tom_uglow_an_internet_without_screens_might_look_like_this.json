@@ -1,0 +1,50 @@
+{
+  "audio": "http://download.ted.com/talks/TomUglow_2015X.mp3",
+  "author": "Tom Uglow",
+  "dateFilmed": 1432080000,
+  "datePublished": 1445524730,
+  "description": "Designer Tom Uglow is creating a future in which humanity's love for natural solutions and simple tools can coexist with our need for information and the devices that provide us with it. \"Reality is richer than screens,\" he says. \"We can have a happy place filled with the information we love that feels as natural as switching on lightbulb.\"",
+  "duration": 503,
+  "event": "TEDxSydney",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/04210e05cfb511bd0cec7a4ae49ec98a8f233c4b_2880x1620.jpg",
+  "keywords": [
+    "TEDx",
+    "design",
+    "future",
+    "happiness",
+    "humanity",
+    "invention",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 2356,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Inspiring": 232,
+    "Informative": 222,
+    "OK": 104,
+    "Beautiful": 61,
+    "Longwinded": 45,
+    "Unconvincing": 81,
+    "Fascinating": 99,
+    "Ingenious": 69,
+    "Persuasive": 37,
+    "Funny": 48,
+    "Confusing": 24,
+    "Obnoxious": 15,
+    "Jaw-dropping": 16,
+    "Courageous": 2
+  },
+  "slug": "tom_uglow_an_internet_without_screens_might_look_like_this",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/04210e05cfb511bd0cec7a4ae49ec98a8f233c4b_2880x1620.jpg?quality=89&w=600",
+  "title": "An Internet without screens might look like this",
+  "url": "https://www.ted.com/talks/tom_uglow_an_internet_without_screens_might_look_like_this",
+  "video": {
+    "low": "http://download.ted.com/talks/TomUglow_2015X-light.mp4",
+    "medium": "http://download.ted.com/talks/TomUglow_2015X.mp4",
+    "high": "http://download.ted.com/talks/TomUglow_2015X-480p.mp4"
+  },
+  "viewCount": 1466444,
+  "year": "2015"
+}

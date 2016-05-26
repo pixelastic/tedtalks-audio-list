@@ -1,0 +1,57 @@
+{
+  "audio": null,
+  "author": "Paul Rothemund",
+  "dateFilmed": 1201910400,
+  "datePublished": 1220317200,
+  "description": "In 2007, Paul Rothemund gave TED a short summary of his specialty, DNA folding. Now he lays out in clear, abundant detail the immense promise of this field -- to create tiny machines that assemble themselves.",
+  "duration": 984,
+  "event": "TED2008",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/52117_480x360.jpg",
+  "keywords": [
+    "DNA",
+    "MacArthur grant",
+    "TED Conference",
+    "creativity",
+    "nanoscale",
+    "physics",
+    "science",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 331,
+  "otherLanguages": {
+    "da": "Danish",
+    "de": "German",
+    "he": "Hebrew",
+    "it": "Italian",
+    "fa": "Persian",
+    "ro": "Romanian"
+  },
+  "ratings": {
+    "Confusing": 46,
+    "Informative": 135,
+    "Fascinating": 236,
+    "Inspiring": 68,
+    "Ingenious": 172,
+    "Jaw-dropping": 145,
+    "Longwinded": 22,
+    "OK": 19,
+    "Persuasive": 13,
+    "Funny": 7,
+    "Courageous": 10,
+    "Obnoxious": 7,
+    "Beautiful": 16,
+    "Unconvincing": 8
+  },
+  "slug": "paul_rothemund_details_dna_folding",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/52117_480x360.jpg?quality=89&w=600",
+  "title": "DNA folding, in detail",
+  "url": "https://www.ted.com/talks/paul_rothemund_details_dna_folding",
+  "video": {
+    "low": "http://download.ted.com/talks/PaulRothemund_2008-light.mp4",
+    "medium": "http://download.ted.com/talks/PaulRothemund_2008.mp4",
+    "high": "http://download.ted.com/talks/PaulRothemund_2008-480p.mp4"
+  },
+  "viewCount": 440228,
+  "year": "2008"
+}

@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/DavidChalmers_2014.mp3",
+  "author": "David Chalmers",
+  "dateFilmed": 1395100800,
+  "datePublished": 1405350484,
+  "description": "Our consciousness is a fundamental aspect of our existence, says philosopher David Chalmers: “There’s nothing we know about more directly…. but at the same time it’s the most mysterious phenomenon in the universe.” He shares some ways to think about the movie playing in our heads.",
+  "duration": 1117,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/6dafa56cbeb9703054e1d9e06c49d48609e8d954_2400x1800.jpg",
+  "keywords": [
+    "TED Conference",
+    "brain",
+    "consciousness",
+    "neuroscience",
+    "philosophy"
+  ],
+  "mainLanguage": null,
+  "objectID": 2045,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "OK": 256,
+    "Confusing": 81,
+    "Longwinded": 210,
+    "Unconvincing": 171,
+    "Informative": 345,
+    "Inspiring": 222,
+    "Fascinating": 822,
+    "Persuasive": 110,
+    "Obnoxious": 22,
+    "Courageous": 80,
+    "Ingenious": 130,
+    "Beautiful": 80,
+    "Funny": 16,
+    "Jaw-dropping": 41
+  },
+  "slug": "david_chalmers_how_do_you_explain_consciousness",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/6dafa56cbeb9703054e1d9e06c49d48609e8d954_2400x1800.jpg?quality=89&w=600",
+  "title": "How do you explain consciousness?",
+  "url": "https://www.ted.com/talks/david_chalmers_how_do_you_explain_consciousness",
+  "video": {
+    "low": "http://download.ted.com/talks/DavidChalmers_2014-light.mp4",
+    "medium": "http://download.ted.com/talks/DavidChalmers_2014.mp4",
+    "high": "http://download.ted.com/talks/DavidChalmers_2014-480p.mp4"
+  },
+  "viewCount": 1856653,
+  "year": "2014"
+}

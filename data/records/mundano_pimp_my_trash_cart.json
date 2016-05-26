@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/Mundano_2014U.mp3",
+  "author": "Mundano",
+  "dateFilmed": 1412553600,
+  "datePublished": 1419005928,
+  "description": "In Brazil, \"catadores\" collect junk and recyclables. But while they provide a vital service that benefits all, they are nearly invisible as they roam the streets. Enter graffiti artist Mundano, a TED Fellow. In a spirited talk, he describes his project \"Pimp My Carroça,\" which has transformed these heroic workers' carts into things of beauty and infused them with a sense of humor. It's a movement that is going global.",
+  "duration": 322,
+  "event": "TEDGlobal 2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/86d93453d447a4be0c499897094a9580380c1911_2880x1620.jpg",
+  "keywords": [
+    "Brazil",
+    "TED Fellows",
+    "art",
+    "social change",
+    "street art"
+  ],
+  "mainLanguage": null,
+  "objectID": 2157,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Courageous": 120,
+    "Beautiful": 134,
+    "Informative": 106,
+    "Fascinating": 90,
+    "Ingenious": 99,
+    "Inspiring": 232,
+    "Jaw-dropping": 12,
+    "OK": 51,
+    "Funny": 61,
+    "Persuasive": 25,
+    "Longwinded": 4,
+    "Obnoxious": 1,
+    "Unconvincing": 16,
+    "Confusing": 0
+  },
+  "slug": "mundano_pimp_my_trash_cart",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/86d93453d447a4be0c499897094a9580380c1911_2880x1620.jpg?quality=89&w=600",
+  "title": "Pimp my ... trash cart?",
+  "url": "https://www.ted.com/talks/mundano_pimp_my_trash_cart",
+  "video": {
+    "low": "http://download.ted.com/talks/Mundano_2014U-light.mp4",
+    "medium": "http://download.ted.com/talks/Mundano_2014U.mp4",
+    "high": "http://download.ted.com/talks/Mundano_2014U-480p.mp4"
+  },
+  "viewCount": 922176,
+  "year": "2014"
+}

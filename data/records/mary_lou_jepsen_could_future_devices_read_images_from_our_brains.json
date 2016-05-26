@@ -1,0 +1,49 @@
+{
+  "audio": "http://download.ted.com/talks/MaryJepsen_2013.mp3",
+  "author": "Mary Lou Jepsen",
+  "dateFilmed": 1363046400,
+  "datePublished": 1393863338,
+  "description": "As an expert on cutting-edge digital displays, Mary Lou Jepsen studies how to show our most creative ideas on screens. And as a brain surgery patient herself, she is driven to know more about the neural activity that underlies invention, creativity, thought. She meshes these two passions in a rather mind-blowing talk on two cutting-edge brain studies that might point to a new frontier in understanding how (and what) we think. ",
+  "duration": 626,
+  "event": "TED2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8021616e2a77849f493da0bcf410afe18071b929_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "brain",
+    "creativity",
+    "neuroscience",
+    "science"
+  ],
+  "mainLanguage": null,
+  "objectID": 1939,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified"
+  },
+  "ratings": {
+    "Courageous": 39,
+    "Inspiring": 99,
+    "Jaw-dropping": 153,
+    "Informative": 129,
+    "Beautiful": 29,
+    "Ingenious": 61,
+    "Fascinating": 189,
+    "Persuasive": 26,
+    "Longwinded": 12,
+    "Unconvincing": 15,
+    "OK": 32,
+    "Obnoxious": 5,
+    "Confusing": 9,
+    "Funny": 8
+  },
+  "slug": "mary_lou_jepsen_could_future_devices_read_images_from_our_brains",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8021616e2a77849f493da0bcf410afe18071b929_1600x1200.jpg?quality=89&w=600",
+  "title": "Could future devices read images from our brains?",
+  "url": "https://www.ted.com/talks/mary_lou_jepsen_could_future_devices_read_images_from_our_brains",
+  "video": {
+    "low": "http://download.ted.com/talks/MaryJepsen_2013-light.mp4",
+    "medium": "http://download.ted.com/talks/MaryJepsen_2013.mp4",
+    "high": "http://download.ted.com/talks/MaryJepsen_2013-480p.mp4"
+  },
+  "viewCount": 858185,
+  "year": "2013"
+}

@@ -1,0 +1,46 @@
+{
+  "audio": "http://download.ted.com/talks/PaulPiff_2013X.mp3",
+  "author": "Paul Piff",
+  "dateFilmed": 1380672000,
+  "datePublished": 1387555222,
+  "description": "It's amazing what a rigged game of Monopoly can reveal. In this entertaining but sobering talk, social psychologist Paul Piff shares his research into how people behave when they feel wealthy. (Hint: badly.) But while the problem of inequality is a complex and daunting challenge, there's good news too. (Filmed at TEDxMarin.)",
+  "duration": 995,
+  "event": "TEDxMarin",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/6306acdec9c120286bec64b6514715f16ee5516d_1600x1200.jpg",
+  "keywords": [
+    "TEDx",
+    "behavioral economics",
+    "psychology"
+  ],
+  "mainLanguage": null,
+  "objectID": 1897,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Jaw-dropping": 216,
+    "Informative": 1011,
+    "Inspiring": 742,
+    "Fascinating": 525,
+    "Persuasive": 616,
+    "Beautiful": 78,
+    "Courageous": 102,
+    "Funny": 88,
+    "Unconvincing": 120,
+    "OK": 130,
+    "Ingenious": 81,
+    "Obnoxious": 38,
+    "Confusing": 20,
+    "Longwinded": 32
+  },
+  "slug": "paul_piff_does_money_make_you_mean",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/6306acdec9c120286bec64b6514715f16ee5516d_1600x1200.jpg?quality=89&w=600",
+  "title": "Does money make you mean?",
+  "url": "https://www.ted.com/talks/paul_piff_does_money_make_you_mean",
+  "video": {
+    "low": "http://download.ted.com/talks/PaulPiff_2013X-light.mp4",
+    "medium": "http://download.ted.com/talks/PaulPiff_2013X.mp4",
+    "high": "http://download.ted.com/talks/PaulPiff_2013X-480p.mp4"
+  },
+  "viewCount": 2944223,
+  "year": "2013"
+}

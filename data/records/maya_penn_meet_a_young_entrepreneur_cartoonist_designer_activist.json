@@ -1,0 +1,45 @@
+{
+  "audio": "http://download.ted.com/talks/MayaPenn_2013W.mp3",
+  "author": "Maya Penn",
+  "dateFilmed": 1386201600,
+  "datePublished": 1391184166,
+  "description": "Maya Penn started her first company when she was 8 years old, and thinks deeply about how to be responsible both to her customers and to the planet. She shares her story -- and some animations, and some designs, and some infectious energy -- in this charming talk.",
+  "duration": 436,
+  "event": "TEDWomen 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7ce545be0d778c2e6715188bccc255dae8072bde_1600x1200.jpg",
+  "keywords": [
+    "creativity",
+    "entrepreneur"
+  ],
+  "mainLanguage": null,
+  "objectID": 1917,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Inspiring": 500,
+    "Fascinating": 145,
+    "Beautiful": 163,
+    "Informative": 38,
+    "Funny": 29,
+    "Ingenious": 59,
+    "Jaw-dropping": 64,
+    "Persuasive": 31,
+    "Longwinded": 5,
+    "Obnoxious": 24,
+    "Courageous": 74,
+    "OK": 42,
+    "Confusing": 6,
+    "Unconvincing": 24
+  },
+  "slug": "maya_penn_meet_a_young_entrepreneur_cartoonist_designer_activist",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7ce545be0d778c2e6715188bccc255dae8072bde_1600x1200.jpg?quality=89&w=600",
+  "title": "Meet a young entrepreneur, cartoonist, designer, activist …",
+  "url": "https://www.ted.com/talks/maya_penn_meet_a_young_entrepreneur_cartoonist_designer_activist",
+  "video": {
+    "low": "http://download.ted.com/talks/MayaPenn_2013W-light.mp4",
+    "medium": "http://download.ted.com/talks/MayaPenn_2013W.mp4",
+    "high": "http://download.ted.com/talks/MayaPenn_2013W-480p.mp4"
+  },
+  "viewCount": 1342066,
+  "year": "2013"
+}

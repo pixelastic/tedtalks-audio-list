@@ -1,0 +1,49 @@
+{
+  "audio": "http://download.ted.com/talks/ChrisDowney_2013Z.mp3",
+  "author": "Chris Downey",
+  "dateFilmed": 1381449600,
+  "datePublished": 1384272989,
+  "description": "What would a city designed for the blind be like? Chris Downey is an architect who went suddenly blind in 2008; he contrasts life in his beloved San Francisco before and after -- and shows how the thoughtful designs that enhance his life now might actually make everyone's life better, sighted or not.",
+  "duration": 700,
+  "event": "TEDCity2.0",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/83148057e84211fc75f109bbfe2beeb0376e3a84_1600x1200.jpg",
+  "keywords": [
+    "Senses",
+    "agriculture",
+    "design",
+    "sight",
+    "urban planning"
+  ],
+  "mainLanguage": null,
+  "objectID": 1863,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified"
+  },
+  "ratings": {
+    "Beautiful": 110,
+    "Courageous": 102,
+    "Inspiring": 313,
+    "Fascinating": 68,
+    "Ingenious": 26,
+    "Informative": 63,
+    "OK": 22,
+    "Funny": 45,
+    "Persuasive": 58,
+    "Jaw-dropping": 6,
+    "Unconvincing": 12,
+    "Longwinded": 3,
+    "Obnoxious": 2,
+    "Confusing": 3
+  },
+  "slug": "chris_downey_design_with_the_blind_in_mind",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/83148057e84211fc75f109bbfe2beeb0376e3a84_1600x1200.jpg?quality=89&w=600",
+  "title": "Design with the blind in mind",
+  "url": "https://www.ted.com/talks/chris_downey_design_with_the_blind_in_mind",
+  "video": {
+    "low": "http://download.ted.com/talks/ChrisDowney_2013Z-light.mp4",
+    "medium": "http://download.ted.com/talks/ChrisDowney_2013Z.mp4",
+    "high": "http://download.ted.com/talks/ChrisDowney_2013Z-480p.mp4"
+  },
+  "viewCount": 912898,
+  "year": "2013"
+}

@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/GavinSchmidt_2014.mp3",
+  "author": "Gavin Schmidt",
+  "dateFilmed": 1394582400,
+  "datePublished": 1398956538,
+  "description": "You can't understand climate change in pieces, says climate scientist Gavin Schmidt. It's the whole, or it's nothing. In this illuminating talk, he explains how he studies the big picture of climate change with mesmerizing models that illustrate the endlessly complex interactions of small-scale environmental events.",
+  "duration": 730,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7359de0af0e5ad26395051692c0b04a66b33188f_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "climate change",
+    "environment",
+    "science"
+  ],
+  "mainLanguage": null,
+  "objectID": 1988,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 470,
+    "Ingenious": 39,
+    "Fascinating": 186,
+    "Beautiful": 52,
+    "Courageous": 28,
+    "Inspiring": 106,
+    "Persuasive": 230,
+    "OK": 56,
+    "Unconvincing": 15,
+    "Longwinded": 21,
+    "Obnoxious": 13,
+    "Funny": 1,
+    "Jaw-dropping": 26,
+    "Confusing": 16
+  },
+  "slug": "gavin_schmidt_the_emergent_patterns_of_climate_change",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7359de0af0e5ad26395051692c0b04a66b33188f_1600x1200.jpg?quality=89&w=600",
+  "title": "The emergent patterns of climate change",
+  "url": "https://www.ted.com/talks/gavin_schmidt_the_emergent_patterns_of_climate_change",
+  "video": {
+    "low": "http://download.ted.com/talks/GavinSchmidt_2014-light.mp4",
+    "medium": "http://download.ted.com/talks/GavinSchmidt_2014.mp4",
+    "high": "http://download.ted.com/talks/GavinSchmidt_2014-480p.mp4"
+  },
+  "viewCount": 1075215,
+  "year": "2014"
+}

@@ -1,0 +1,49 @@
+{
+  "audio": "http://download.ted.com/talks/PeterAttia_2013P.mp3",
+  "author": "Peter Attia",
+  "dateFilmed": 1365120000,
+  "datePublished": 1372172562,
+  "description": "As a young surgeon, Peter Attia felt contempt for a patient with diabetes. She was overweight, he thought, and thus responsible for the fact that she needed a foot amputation. But years later, Attia received an unpleasant medical surprise that led him to wonder: is our understanding of diabetes right? Could the precursors to diabetes cause obesity, and not the other way around? A look at how assumptions may be leading us to wage the wrong medical war.",
+  "duration": 958,
+  "event": "TEDMED 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/f81ef998b59f12f96e47df1a95577d9b2f3ce745_1600x1200.jpg",
+  "keywords": [
+    "health",
+    "health care",
+    "medical research",
+    "medicine",
+    "obesity",
+    "public health"
+  ],
+  "mainLanguage": null,
+  "objectID": 1774,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Jaw-dropping": 301,
+    "Fascinating": 433,
+    "Beautiful": 311,
+    "Persuasive": 537,
+    "Courageous": 1094,
+    "Informative": 740,
+    "Ingenious": 130,
+    "Inspiring": 826,
+    "Longwinded": 36,
+    "Unconvincing": 63,
+    "OK": 48,
+    "Confusing": 15,
+    "Obnoxious": 22,
+    "Funny": 7
+  },
+  "slug": "peter_attia_what_if_we_re_wrong_about_diabetes",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/f81ef998b59f12f96e47df1a95577d9b2f3ce745_1600x1200.jpg?quality=89&w=600",
+  "title": "Is the obesity crisis hiding a bigger problem?",
+  "url": "https://www.ted.com/talks/peter_attia_what_if_we_re_wrong_about_diabetes",
+  "video": {
+    "low": "http://download.ted.com/talks/PeterAttia_2013P-light.mp4",
+    "medium": "http://download.ted.com/talks/PeterAttia_2013P.mp4",
+    "high": "http://download.ted.com/talks/PeterAttia_2013P-480p.mp4"
+  },
+  "viewCount": 2249149,
+  "year": "2013"
+}

@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/RyanHolladay_2013S.mp3",
+  "author": "Ryan Holladay",
+  "dateFilmed": 1383091200,
+  "datePublished": 1389369735,
+  "description": "The music industry has sometimes struggled to find its feet in the digital world. In this lovely talk, TED Fellow Ryan Holladay tells us why he is experimenting with what he describes as \"location-aware music.\" This programming and musical feat involves hundreds of geotagged segments of sounds that only play when a listener is physically nearby. (Filmed at TED@BCG.)",
+  "duration": 389,
+  "event": "TED@BCG San Francisco",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/d98c17773da6f84e9f915895c270c7ffd2de3778_1600x1200.jpg",
+  "keywords": [
+    "TED Fellows",
+    "entertainment",
+    "music",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 1903,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 205,
+    "Ingenious": 208,
+    "Inspiring": 159,
+    "Fascinating": 220,
+    "Jaw-dropping": 43,
+    "OK": 58,
+    "Obnoxious": 11,
+    "Unconvincing": 38,
+    "Informative": 46,
+    "Funny": 11,
+    "Courageous": 9,
+    "Persuasive": 13,
+    "Longwinded": 2,
+    "Confusing": 5
+  },
+  "slug": "ryan_holladay_to_hear_this_music_you_have_to_be_there_literally",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/d98c17773da6f84e9f915895c270c7ffd2de3778_1600x1200.jpg?quality=89&w=600",
+  "title": "To hear this music you have to be there. Literally",
+  "url": "https://www.ted.com/talks/ryan_holladay_to_hear_this_music_you_have_to_be_there_literally",
+  "video": {
+    "low": "http://download.ted.com/talks/RyanHolladay_2013S-light.mp4",
+    "medium": "http://download.ted.com/talks/RyanHolladay_2013S.mp4",
+    "high": "http://download.ted.com/talks/RyanHolladay_2013S-480p.mp4"
+  },
+  "viewCount": 1239658,
+  "year": "2013"
+}

@@ -1,0 +1,50 @@
+{
+  "audio": "http://download.ted.com/talks/DanielSuarez_2013G.mp3",
+  "author": "Daniel Suarez",
+  "dateFilmed": 1370908800,
+  "datePublished": 1371120496,
+  "description": "As a novelist, Daniel Suarez spins dystopian tales of the future. But on the TEDGlobal stage, he talks us through a real-life scenario we all need to know more about: the rise of autonomous robotic weapons of war. Advanced drones, automated weapons and AI-powered intelligence-gathering tools, he suggests, could take the decision to make war out of the hands of humans.",
+  "duration": 800,
+  "event": "TEDGlobal 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b15f33c6694783ada082bb6afc53b762cd014d2f_1600x1200.jpg",
+  "keywords": [
+    "drones",
+    "entertainment",
+    "robots",
+    "technology",
+    "war",
+    "writing"
+  ],
+  "mainLanguage": null,
+  "objectID": 1766,
+  "otherLanguages": {
+    "zh-tw": "Chinese, Traditional"
+  },
+  "ratings": {
+    "Fascinating": 77,
+    "Informative": 187,
+    "Persuasive": 190,
+    "Courageous": 32,
+    "Jaw-dropping": 54,
+    "Inspiring": 36,
+    "Longwinded": 4,
+    "Obnoxious": 10,
+    "Unconvincing": 25,
+    "OK": 9,
+    "Ingenious": 16,
+    "Confusing": 5,
+    "Funny": 2,
+    "Beautiful": 6
+  },
+  "slug": "daniel_suarez_the_kill_decision_shouldn_t_belong_to_a_robot",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b15f33c6694783ada082bb6afc53b762cd014d2f_1600x1200.jpg?quality=89&w=600",
+  "title": "The kill decision shouldn't belong to a robot",
+  "url": "https://www.ted.com/talks/daniel_suarez_the_kill_decision_shouldn_t_belong_to_a_robot",
+  "video": {
+    "low": "http://download.ted.com/talks/DanielSuarez_2013G-light.mp4",
+    "medium": "http://download.ted.com/talks/DanielSuarez_2013G.mp4",
+    "high": "http://download.ted.com/talks/DanielSuarez_2013G-480p.mp4"
+  },
+  "viewCount": 1885885,
+  "year": "2013"
+}

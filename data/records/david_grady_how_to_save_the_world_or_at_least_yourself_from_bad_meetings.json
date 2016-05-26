@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/DavidGrady_2013S.mp3",
+  "author": "David Grady",
+  "dateFilmed": 1381968000,
+  "datePublished": 1416240355,
+  "description": "An epidemic of bad, inefficient, overcrowded meetings is plaguing the world’s businesses — and making workers miserable. David Grady has some ideas on how to stop it.",
+  "duration": 394,
+  "event": "TED@State Street Boston",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e57e596f267a44dece4313ca7a8c6e7eb0afe487_2880x1620.jpg",
+  "keywords": [
+    "business",
+    "communication",
+    "productivity",
+    "work"
+  ],
+  "mainLanguage": null,
+  "objectID": 2135,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "OK": 236,
+    "Beautiful": 54,
+    "Funny": 566,
+    "Persuasive": 156,
+    "Informative": 205,
+    "Inspiring": 169,
+    "Ingenious": 84,
+    "Longwinded": 18,
+    "Unconvincing": 16,
+    "Obnoxious": 14,
+    "Fascinating": 47,
+    "Confusing": 14,
+    "Courageous": 13,
+    "Jaw-dropping": 6
+  },
+  "slug": "david_grady_how_to_save_the_world_or_at_least_yourself_from_bad_meetings",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e57e596f267a44dece4313ca7a8c6e7eb0afe487_2880x1620.jpg?quality=89&w=600",
+  "title": "How to save the world (or at least yourself) from bad meetings",
+  "url": "https://www.ted.com/talks/david_grady_how_to_save_the_world_or_at_least_yourself_from_bad_meetings",
+  "video": {
+    "low": "http://download.ted.com/talks/DavidGrady_2013S-light.mp4",
+    "medium": "http://download.ted.com/talks/DavidGrady_2013S.mp4",
+    "high": "http://download.ted.com/talks/DavidGrady_2013S-480p.mp4"
+  },
+  "viewCount": 1858445,
+  "year": "2013"
+}

@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/JulianaRotich_2013G.mp3",
+  "author": "Juliana Rotich",
+  "dateFilmed": 1370908800,
+  "datePublished": 1371567734,
+  "description": "Tech communities are booming all over Africa, says Nairobi-based Juliana Rotich, cofounder of the open-source software Ushahidi. But it remains challenging to get and stay connected in a region with frequent blackouts and spotty Internet hookups. So Rotich and friends developed BRCK, offering resilient connectivity for the developing world. \r\n",
+  "duration": 573,
+  "event": "TEDGlobal 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b2dc8e60a1f11d3138c4943b91756f2bb6703ff9_1600x1200.jpg",
+  "keywords": [
+    "Africa",
+    "TED Fellows",
+    "business",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 1770,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Inspiring": 99,
+    "Ingenious": 95,
+    "Fascinating": 42,
+    "Informative": 89,
+    "OK": 22,
+    "Longwinded": 9,
+    "Courageous": 17,
+    "Persuasive": 20,
+    "Jaw-dropping": 7,
+    "Beautiful": 5,
+    "Confusing": 8,
+    "Obnoxious": 1,
+    "Unconvincing": 4,
+    "Funny": 1
+  },
+  "slug": "juliana_rotich_meet_brck_internet_access_built_for_africa",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b2dc8e60a1f11d3138c4943b91756f2bb6703ff9_1600x1200.jpg?quality=89&w=600",
+  "title": "Meet BRCK, Internet access built for Africa",
+  "url": "https://www.ted.com/talks/juliana_rotich_meet_brck_internet_access_built_for_africa",
+  "video": {
+    "low": "http://download.ted.com/talks/JulianaRotich_2013G-light.mp4",
+    "medium": "http://download.ted.com/talks/JulianaRotich_2013G.mp4",
+    "high": "http://download.ted.com/talks/JulianaRotich_2013G-480p.mp4"
+  },
+  "viewCount": 603498,
+  "year": "2013"
+}

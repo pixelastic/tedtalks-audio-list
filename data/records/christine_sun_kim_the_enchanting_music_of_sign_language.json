@@ -1,0 +1,50 @@
+{
+  "audio": "http://download.ted.com/talks/ChristineSunKim_2015F.mp3",
+  "author": "Christine Sun Kim",
+  "dateFilmed": 1440720000,
+  "datePublished": 1446046304,
+  "description": "Artist and TED Fellow Christine Sun Kim was born deaf, and she was taught to believe that sound wasn't a part of her life, that it was a hearing person's thing. Through her art, she discovered similarities between American Sign Language and music, and she realized that sound doesn't have to be known solely through the ears -- it can be felt, seen and experienced as an idea. In this endearing talk, she invites us to open our eyes and ears and participate in the rich treasure of visual language.",
+  "duration": 917,
+  "event": "TED Fellows Retreat 2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2f0d8f23511830353514f7bb7a31c0dbd8a70dd1_2880x1620.jpg",
+  "keywords": [
+    "TED Fellows",
+    "art",
+    "communication",
+    "composing",
+    "language",
+    "music",
+    "sound"
+  ],
+  "mainLanguage": null,
+  "objectID": 2357,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 268,
+    "Inspiring": 240,
+    "Funny": 53,
+    "OK": 14,
+    "Informative": 132,
+    "Fascinating": 142,
+    "Courageous": 39,
+    "Persuasive": 23,
+    "Confusing": 7,
+    "Ingenious": 20,
+    "Jaw-dropping": 15,
+    "Longwinded": 2,
+    "Unconvincing": 0,
+    "Obnoxious": 0
+  },
+  "slug": "christine_sun_kim_the_enchanting_music_of_sign_language",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2f0d8f23511830353514f7bb7a31c0dbd8a70dd1_2880x1620.jpg?quality=89&w=600",
+  "title": "The enchanting music of sign language",
+  "url": "https://www.ted.com/talks/christine_sun_kim_the_enchanting_music_of_sign_language",
+  "video": {
+    "low": "http://download.ted.com/talks/ChristineSunKim_2015F-light.mp4",
+    "medium": "http://download.ted.com/talks/ChristineSunKim_2015F.mp4",
+    "high": "http://download.ted.com/talks/ChristineSunKim_2015F-480p.mp4"
+  },
+  "viewCount": 1020253,
+  "year": "2015"
+}

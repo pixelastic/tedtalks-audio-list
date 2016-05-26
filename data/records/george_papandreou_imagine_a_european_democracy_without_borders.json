@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/GeorgePapandreou_2013G.mp3",
+  "author": "George Papandreou",
+  "dateFilmed": 1370908800,
+  "datePublished": 1371024976,
+  "description": "Greece has been the poster child for European economic crisis, but former Prime Minister George Papandreou wonders if it's just a preview of what's to come. “Our democracies,\" he says, \"are trapped by systems that are too big to fail, or more accurately, too big to control” -- while \"politicians like me have lost the trust of their peoples.\" How to solve it? Have citizens re-engage more directly in a new democratic bargain.",
+  "duration": 1206,
+  "event": "TEDGlobal 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/6ab9ce5c2009cf34e38f8876dbe94e7b81ab74e4_1600x1200.jpg",
+  "keywords": [
+    "Europe",
+    "democracy",
+    "economics",
+    "global issues",
+    "politics"
+  ],
+  "mainLanguage": null,
+  "objectID": 1765,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Obnoxious": 59,
+    "Courageous": 113,
+    "Unconvincing": 94,
+    "Informative": 124,
+    "Fascinating": 52,
+    "Persuasive": 91,
+    "Inspiring": 138,
+    "OK": 27,
+    "Longwinded": 27,
+    "Jaw-dropping": 9,
+    "Confusing": 14,
+    "Ingenious": 14,
+    "Funny": 8,
+    "Beautiful": 11
+  },
+  "slug": "george_papandreou_imagine_a_european_democracy_without_borders",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/6ab9ce5c2009cf34e38f8876dbe94e7b81ab74e4_1600x1200.jpg?quality=89&w=600",
+  "title": "Imagine a European democracy without borders",
+  "url": "https://www.ted.com/talks/george_papandreou_imagine_a_european_democracy_without_borders",
+  "video": {
+    "low": "http://download.ted.com/talks/GeorgePapandreou_2013G-light.mp4",
+    "medium": "http://download.ted.com/talks/GeorgePapandreou_2013G.mp4",
+    "high": "http://download.ted.com/talks/GeorgePapandreou_2013G-480p.mp4"
+  },
+  "viewCount": 651963,
+  "year": "2013"
+}

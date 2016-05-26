@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/BobMankoff_2013S.mp3",
+  "author": "Bob Mankoff",
+  "dateFilmed": 1368662400,
+  "datePublished": 1372258804,
+  "description": "The New Yorker receives around 1,000 cartoons each week; it only publishes about 17 of them. In this hilarious, fast-paced, and insightful talk, the magazine's longstanding cartoon editor and self-proclaimed \"humor analyst\" Bob Mankoff dissects the comedy within just some of the \"idea drawings\" featured in the magazine, explaining what works, what doesn't, and why.",
+  "duration": 1259,
+  "event": "TEDSalon NY2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/923234dff1a7a0c6e9c58e3bec627d15098fbc9d_1600x1200.jpg",
+  "keywords": [
+    "arts",
+    "design",
+    "humor"
+  ],
+  "mainLanguage": null,
+  "objectID": 1776,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified"
+  },
+  "ratings": {
+    "Funny": 570,
+    "Informative": 204,
+    "Fascinating": 112,
+    "OK": 41,
+    "Ingenious": 64,
+    "Beautiful": 6,
+    "Inspiring": 42,
+    "Longwinded": 16,
+    "Jaw-dropping": 11,
+    "Obnoxious": 12,
+    "Unconvincing": 6,
+    "Persuasive": 17,
+    "Courageous": 1,
+    "Confusing": 3
+  },
+  "slug": "bob_mankoff_anatomy_of_a_new_yorker_cartoon",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/923234dff1a7a0c6e9c58e3bec627d15098fbc9d_1600x1200.jpg?quality=89&w=600",
+  "title": "Anatomy of a New Yorker cartoon",
+  "url": "https://www.ted.com/talks/bob_mankoff_anatomy_of_a_new_yorker_cartoon",
+  "video": {
+    "low": "http://download.ted.com/talks/BobMankoff_2013S-light.mp4",
+    "medium": "http://download.ted.com/talks/BobMankoff_2013S.mp4",
+    "high": "http://download.ted.com/talks/BobMankoff_2013S-480p.mp4"
+  },
+  "viewCount": 990945,
+  "year": "2013"
+}

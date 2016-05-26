@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/DanAriely_2015U.mp3",
+  "author": "Dan Ariely",
+  "dateFilmed": 1426550400,
+  "datePublished": 1428505205,
+  "description": "The news of society's growing inequality makes all of us uneasy. But why? Dan Ariely reveals some new, surprising research on what we think is fair, as far as how wealth is distributed over societies ... then shows how it stacks up to the real stats.",
+  "duration": 533,
+  "event": "TED2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/5bbf3caa1481cb088563f07cd670376e4cf032f6_2880x1620.jpg",
+  "keywords": [
+    "behavioral economics",
+    "economics",
+    "inequality",
+    "psychology"
+  ],
+  "mainLanguage": null,
+  "objectID": 2229,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 607,
+    "Persuasive": 217,
+    "Jaw-dropping": 43,
+    "Unconvincing": 48,
+    "OK": 171,
+    "Beautiful": 14,
+    "Fascinating": 167,
+    "Courageous": 14,
+    "Confusing": 37,
+    "Ingenious": 40,
+    "Inspiring": 101,
+    "Obnoxious": 7,
+    "Longwinded": 13,
+    "Funny": 14
+  },
+  "slug": "dan_ariely_how_equal_do_we_want_the_world_to_be_you_d_be_surprised",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/5bbf3caa1481cb088563f07cd670376e4cf032f6_2880x1620.jpg?quality=89&w=600",
+  "title": "How equal do we want the world to be? You'd be surprised",
+  "url": "https://www.ted.com/talks/dan_ariely_how_equal_do_we_want_the_world_to_be_you_d_be_surprised",
+  "video": {
+    "low": "http://download.ted.com/talks/DanAriely_2015U-light.mp4",
+    "medium": "http://download.ted.com/talks/DanAriely_2015U.mp4",
+    "high": "http://download.ted.com/talks/DanAriely_2015U-480p.mp4"
+  },
+  "viewCount": 1569335,
+  "year": "2015"
+}

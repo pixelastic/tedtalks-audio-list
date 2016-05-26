@@ -1,0 +1,50 @@
+{
+  "audio": "http://download.ted.com/talks/MirandaWang_2013.mp3",
+  "author": "Miranda Wang and Jeanny Yao",
+  "dateFilmed": 1362009600,
+  "datePublished": 1374160566,
+  "description": "Once it's created, plastic (almost) never dies. While in 12th grade Miranda Wang and Jeanny Yao went in search of a new bacteria to biodegrade plastic -- specifically by breaking down phthalates, a harmful plasticizer. They found an answer surprisingly close to home.",
+  "duration": 560,
+  "event": "TED2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/fc5fbcd3093744b20934fba2622d6c159f16a750_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "bacteria",
+    "biology",
+    "plastic",
+    "pollution",
+    "science",
+    "youth"
+  ],
+  "mainLanguage": null,
+  "objectID": 1722,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Ingenious": 158,
+    "Inspiring": 201,
+    "Informative": 167,
+    "Fascinating": 132,
+    "OK": 59,
+    "Persuasive": 43,
+    "Confusing": 16,
+    "Courageous": 49,
+    "Longwinded": 21,
+    "Funny": 20,
+    "Jaw-dropping": 27,
+    "Obnoxious": 9,
+    "Unconvincing": 12,
+    "Beautiful": 29
+  },
+  "slug": "two_young_scientists_break_down_plastics_with_bacteria",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/fc5fbcd3093744b20934fba2622d6c159f16a750_1600x1200.jpg?quality=89&w=600",
+  "title": "Two young scientists break down plastics with bacteria",
+  "url": "https://www.ted.com/talks/two_young_scientists_break_down_plastics_with_bacteria",
+  "video": {
+    "low": "http://download.ted.com/talks/MirandaWang_2013-light.mp4",
+    "medium": "http://download.ted.com/talks/MirandaWang_2013.mp4",
+    "high": "http://download.ted.com/talks/MirandaWang_2013-480p.mp4"
+  },
+  "viewCount": 1044770,
+  "year": "2013"
+}

@@ -1,0 +1,62 @@
+{
+  "audio": null,
+  "author": "John Wooden",
+  "dateFilmed": 980985600,
+  "datePublished": 1238029200,
+  "description": "With profound simplicity, Coach John Wooden redefines success and urges us all to pursue the best in ourselves. In this inspiring talk he shares the advice he gave his players at UCLA, quotes poetry and remembers his father's wisdom.",
+  "duration": 1056,
+  "event": "TED2001",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/de520d723845a5c5448da5c1e84db8f022b70e5e_2880x1620.jpg",
+  "keywords": [
+    "TED Conference",
+    "culture",
+    "education",
+    "leadership",
+    "life",
+    "poetry",
+    "sports",
+    "work"
+  ],
+  "mainLanguage": null,
+  "objectID": 498,
+  "otherLanguages": {
+    "en": "English",
+    "fr": "French",
+    "el": "Greek",
+    "ko": "Korean",
+    "fa": "Persian",
+    "pt": "Portuguese",
+    "pt-br": "Portuguese, Brazilian",
+    "sk": "Slovak",
+    "es": "Spanish",
+    "uk": "Ukrainian",
+    "vi": "Vietnamese"
+  },
+  "ratings": {
+    "Inspiring": 3068,
+    "Beautiful": 675,
+    "Courageous": 243,
+    "Fascinating": 464,
+    "Longwinded": 202,
+    "OK": 215,
+    "Informative": 328,
+    "Funny": 281,
+    "Confusing": 56,
+    "Jaw-dropping": 132,
+    "Unconvincing": 61,
+    "Ingenious": 149,
+    "Obnoxious": 18,
+    "Persuasive": 466
+  },
+  "slug": "john_wooden_on_the_difference_between_winning_and_success",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/de520d723845a5c5448da5c1e84db8f022b70e5e_2880x1620.jpg?quality=89&w=600",
+  "title": "The difference between winning and succeeding",
+  "url": "https://www.ted.com/talks/john_wooden_on_the_difference_between_winning_and_success",
+  "video": {
+    "low": "http://download.ted.com/talks/JohnWooden_2001-light.mp4",
+    "medium": "http://download.ted.com/talks/JohnWooden_2001.mp4",
+    "high": "http://download.ted.com/talks/JohnWooden_2001-480p.mp4"
+  },
+  "viewCount": 4370158,
+  "year": "2001"
+}

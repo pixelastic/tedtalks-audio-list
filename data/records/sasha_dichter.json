@@ -1,0 +1,47 @@
+{
+  "audio": null,
+  "author": "Sasha Dichter",
+  "dateFilmed": 1289865600,
+  "datePublished": 1316271935,
+  "description": "In this inspiring talk at the NextGen:Charity conference, Sasha Dichter of the Acumen Fund shares the results of his month-long \"Generosity Experiment\" where he said \"yes\" to every request for help.",
+  "duration": 1177,
+  "event": "NextGen:Charity",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e9b95bba2094f022ab7207a3c19473c9af8dbca6_800x600.jpg",
+  "keywords": [
+    "business",
+    "global issues",
+    "philanthropy"
+  ],
+  "mainLanguage": null,
+  "objectID": 1225,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Jaw-dropping": 46,
+    "Inspiring": 457,
+    "Persuasive": 250,
+    "Beautiful": 55,
+    "Courageous": 153,
+    "Informative": 150,
+    "Ingenious": 57,
+    "Fascinating": 67,
+    "Unconvincing": 37,
+    "Funny": 19,
+    "Longwinded": 33,
+    "OK": 53,
+    "Obnoxious": 7,
+    "Confusing": 12
+  },
+  "slug": "sasha_dichter",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e9b95bba2094f022ab7207a3c19473c9af8dbca6_800x600.jpg?quality=89&w=600",
+  "title": "The Generosity Experiment",
+  "url": "https://www.ted.com/talks/sasha_dichter",
+  "video": {
+    "youtube": {
+      "id": "dhEc5biZOrg",
+      "url": "http://vimeo.com/29140232"
+    }
+  },
+  "viewCount": 288635,
+  "year": "2010"
+}

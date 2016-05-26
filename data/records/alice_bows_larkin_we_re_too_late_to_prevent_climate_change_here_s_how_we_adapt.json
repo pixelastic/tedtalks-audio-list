@@ -1,0 +1,51 @@
+{
+  "audio": "http://download.ted.com/talks/AliceBowsLarkin_2015G.mp3",
+  "author": "Alice Bows-Larkin",
+  "dateFilmed": 1434412800,
+  "datePublished": 1444057200,
+  "description": "Imagine the hottest day you've ever experienced. Now imagine it's six, 10 or 12 degrees hotter. According to climate researcher Alice Bows-Larkin, that's the type of future in store for us if we don't significantly cut our greenhouse gas emissions now. She suggests that it's time we do things differently—a whole system change, in fact—and seriously consider trading economic growth for climate stability.",
+  "duration": 863,
+  "event": "TEDGlobalLondon",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/f6879e1c78d4a069735bf745ecfede71ccf4a352_2880x1620.jpg",
+  "keywords": [
+    "climate change",
+    "energy",
+    "green",
+    "infrastructure",
+    "policy",
+    "pollution",
+    "science",
+    "sustainability"
+  ],
+  "mainLanguage": null,
+  "objectID": 2339,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 242,
+    "Persuasive": 121,
+    "Courageous": 36,
+    "Inspiring": 58,
+    "Obnoxious": 20,
+    "Longwinded": 19,
+    "Ingenious": 13,
+    "Fascinating": 22,
+    "Jaw-dropping": 17,
+    "Funny": 5,
+    "Unconvincing": 44,
+    "OK": 48,
+    "Confusing": 16,
+    "Beautiful": 31
+  },
+  "slug": "alice_bows_larkin_we_re_too_late_to_prevent_climate_change_here_s_how_we_adapt",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/f6879e1c78d4a069735bf745ecfede71ccf4a352_2880x1620.jpg?quality=89&w=600",
+  "title": "Climate change is happening. Here's how we adapt",
+  "url": "https://www.ted.com/talks/alice_bows_larkin_we_re_too_late_to_prevent_climate_change_here_s_how_we_adapt",
+  "video": {
+    "low": "http://download.ted.com/talks/AliceBowsLarkin_2015G-light.mp4",
+    "medium": "http://download.ted.com/talks/AliceBowsLarkin_2015G.mp4",
+    "high": "http://download.ted.com/talks/AliceBowsLarkin_2015G-480p.mp4"
+  },
+  "viewCount": 1071348,
+  "year": "2015"
+}

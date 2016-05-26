@@ -1,0 +1,53 @@
+{
+  "audio": "http://download.ted.com/talks/CarlHonore_2005G.mp3",
+  "author": "Carl Honoré",
+  "dateFilmed": 1120694400,
+  "datePublished": 1172621460,
+  "description": "Journalist Carl Honore believes the Western world's emphasis on speed erodes health, productivity and quality of life. But there's a backlash brewing, as everyday people start putting the brakes on their all-too-modern lives.",
+  "duration": 1155,
+  "event": "TEDGlobal 2005",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/622a405a92b41bfebb4804b7217708a6381222a7_1600x1200.jpg",
+  "keywords": [
+    "choice",
+    "culture",
+    "happiness",
+    "health",
+    "parenting",
+    "personal growth",
+    "potential",
+    "psychology"
+  ],
+  "mainLanguage": null,
+  "objectID": 73,
+  "otherLanguages": {
+    "pl": "Polish",
+    "tr": "Turkish"
+  },
+  "ratings": {
+    "Funny": 160,
+    "Beautiful": 267,
+    "Courageous": 140,
+    "Informative": 349,
+    "Inspiring": 1080,
+    "Fascinating": 210,
+    "Ingenious": 83,
+    "Longwinded": 67,
+    "Jaw-dropping": 31,
+    "Persuasive": 523,
+    "Unconvincing": 51,
+    "Obnoxious": 19,
+    "Confusing": 25,
+    "OK": 129
+  },
+  "slug": "carl_honore_praises_slowness",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/622a405a92b41bfebb4804b7217708a6381222a7_1600x1200.jpg?quality=89&w=600",
+  "title": "In praise of slowness",
+  "url": "https://www.ted.com/talks/carl_honore_praises_slowness",
+  "video": {
+    "low": "http://download.ted.com/talks/CarlHonore_2005G-light.mp4",
+    "medium": "http://download.ted.com/talks/CarlHonore_2005G.mp4",
+    "high": "http://download.ted.com/talks/CarlHonore_2005G-480p.mp4"
+  },
+  "viewCount": 1934059,
+  "year": "2005"
+}

@@ -1,0 +1,56 @@
+{
+  "audio": "http://download.ted.com/talks/TabethaBoyajian_2016.mp3",
+  "author": "Tabetha Boyajian",
+  "dateFilmed": 1455580800,
+  "datePublished": 1460041392,
+  "description": "Something massive, with roughly 1,000 times the area of Earth, is blocking the light coming from a distant star known as KIC 8462852, and nobody is quite sure what it is. As astronomer Tabetha Boyajian investigated this perplexing celestial object, a colleague suggested something unusual: Could it be an alien-built megastructure? Such an extraordinary idea would require extraordinary evidence. In this talk, Boyajian gives us a look at how scientists search for and test hypotheses when faced with the unknown.",
+  "duration": 826,
+  "event": "TED2016",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/46f2b597b2b54cc7c61fd74adb9e2d5648664e29_2880x1620.jpg",
+  "keywords": [
+    "NASA",
+    "Planets",
+    "astronomy",
+    "exploration",
+    "extraterrestrial life",
+    "nature",
+    "science",
+    "technology",
+    "universe"
+  ],
+  "mainLanguage": null,
+  "objectID": 2468,
+  "otherLanguages": {
+    "ja": "Japanese",
+    "ko": "Korean",
+    "pt-br": "Portuguese, Brazilian",
+    "uk": "Ukrainian"
+  },
+  "ratings": {
+    "Informative": 233,
+    "Fascinating": 296,
+    "Jaw-dropping": 88,
+    "Beautiful": 20,
+    "Inspiring": 77,
+    "Unconvincing": 30,
+    "OK": 34,
+    "Ingenious": 21,
+    "Courageous": 6,
+    "Longwinded": 14,
+    "Persuasive": 23,
+    "Obnoxious": 12,
+    "Funny": 26,
+    "Confusing": 11
+  },
+  "slug": "tabetha_boyajian_the_most_mysterious_star_in_the_universe",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/46f2b597b2b54cc7c61fd74adb9e2d5648664e29_2880x1620.jpg?quality=89&w=600",
+  "title": "The most mysterious star in the universe",
+  "url": "https://www.ted.com/talks/tabetha_boyajian_the_most_mysterious_star_in_the_universe",
+  "video": {
+    "low": "http://download.ted.com/talks/TabethaBoyajian_2016-light.mp4",
+    "medium": "http://download.ted.com/talks/TabethaBoyajian_2016.mp4",
+    "high": "http://download.ted.com/talks/TabethaBoyajian_2016-480p.mp4"
+  },
+  "viewCount": 1423691,
+  "year": "2016"
+}

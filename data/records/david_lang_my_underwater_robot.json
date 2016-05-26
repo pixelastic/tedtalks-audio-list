@@ -1,0 +1,55 @@
+{
+  "audio": "http://download.ted.com/talks/DavidLang_2013U.mp3",
+  "author": "David Lang",
+  "dateFilmed": 1361750400,
+  "datePublished": 1386259198,
+  "description": "David Lang is a maker who taught himself to become an amateur oceanographer -- or, he taught a robot to be one for him. In a charming talk Lang, a TED Fellow, shows how he and a network of ocean lovers teamed up to build open-sourced, low-cost underwater explorers.",
+  "duration": 268,
+  "event": "TED2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/53efbe404e47ce753a7b40b14bda55a740949628_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "TED Fellows",
+    "adventure",
+    "exploration",
+    "oceans",
+    "open-source",
+    "robots",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 1885,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified",
+    "de": "German",
+    "ja": "Japanese",
+    "uk": "Ukrainian"
+  },
+  "ratings": {
+    "Ingenious": 121,
+    "Inspiring": 138,
+    "OK": 58,
+    "Fascinating": 67,
+    "Persuasive": 15,
+    "Informative": 55,
+    "Jaw-dropping": 16,
+    "Funny": 10,
+    "Courageous": 18,
+    "Beautiful": 17,
+    "Confusing": 2,
+    "Longwinded": 3,
+    "Unconvincing": 10,
+    "Obnoxious": 0
+  },
+  "slug": "david_lang_my_underwater_robot",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/53efbe404e47ce753a7b40b14bda55a740949628_1600x1200.jpg?quality=89&w=600",
+  "title": "My underwater robot",
+  "url": "https://www.ted.com/talks/david_lang_my_underwater_robot",
+  "video": {
+    "low": "http://download.ted.com/talks/DavidLang_2013U-light.mp4",
+    "medium": "http://download.ted.com/talks/DavidLang_2013U.mp4",
+    "high": "http://download.ted.com/talks/DavidLang_2013U-480p.mp4"
+  },
+  "viewCount": 1173372,
+  "year": "2013"
+}

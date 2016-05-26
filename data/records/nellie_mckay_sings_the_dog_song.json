@@ -1,0 +1,63 @@
+{
+  "audio": null,
+  "author": "Nellie McKay",
+  "dateFilmed": 1201910400,
+  "datePublished": 1219366800,
+  "description": "Animal fan Nellie McKay sings a sparkling tribute to her dear dog. She suggests we all do the same: \"Just go right to the pound/ And find yourself a hound/ And make that doggie proud/ 'cause that's what it's all about.\"",
+  "duration": 213,
+  "event": "TED2008",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/48020_480x360.jpg",
+  "keywords": [
+    "TED Conference",
+    "animals",
+    "entertainment",
+    "live music",
+    "music",
+    "piano"
+  ],
+  "mainLanguage": null,
+  "objectID": 325,
+  "otherLanguages": {
+    "ar": "Arabic",
+    "bg": "Bulgarian",
+    "zh-cn": "Chinese, Simplified",
+    "en": "English",
+    "fr": "French",
+    "el": "Greek",
+    "ja": "Japanese",
+    "ko": "Korean",
+    "fa": "Persian",
+    "pt-br": "Portuguese, Brazilian",
+    "ro": "Romanian",
+    "ru": "Russian",
+    "es": "Spanish",
+    "vi": "Vietnamese"
+  },
+  "ratings": {
+    "Funny": 232,
+    "Beautiful": 286,
+    "OK": 75,
+    "Inspiring": 93,
+    "Courageous": 21,
+    "Obnoxious": 35,
+    "Ingenious": 56,
+    "Persuasive": 11,
+    "Jaw-dropping": 20,
+    "Fascinating": 40,
+    "Confusing": 4,
+    "Unconvincing": 8,
+    "Longwinded": 5,
+    "Informative": 5
+  },
+  "slug": "nellie_mckay_sings_the_dog_song",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/48020_480x360.jpg?quality=89&w=600",
+  "title": "\"The Dog Song\"",
+  "url": "https://www.ted.com/talks/nellie_mckay_sings_the_dog_song",
+  "video": {
+    "low": "http://download.ted.com/talks/NellieMcKay_TheDogSong_2008-light.mp4",
+    "medium": "http://download.ted.com/talks/NellieMcKay_TheDogSong_2008.mp4",
+    "high": "http://download.ted.com/talks/NellieMcKay_TheDogSong_2008-480p.mp4"
+  },
+  "viewCount": 615911,
+  "year": "2008"
+}

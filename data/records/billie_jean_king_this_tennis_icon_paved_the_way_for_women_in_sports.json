@@ -1,0 +1,51 @@
+{
+  "audio": "http://download.ted.com/talks/BillieJeanKing_2015W.mp3",
+  "author": "Billie Jean King",
+  "dateFilmed": 1432771200,
+  "datePublished": 1441985216,
+  "description": "Tennis legend Billie Jean King isn't just a pioneer of women's tennis -- she's a pioneer for women getting paid. In this freewheeling conversation, she talks about identity, the role of sports in social justice and the famous Battle of the Sexes match against Bobby Riggs.",
+  "duration": 965,
+  "event": "TEDWomen 2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/732cabad586eff7d800fc211e97ce16bee3d7fa8_2880x1620.jpg",
+  "keywords": [
+    "LGBT",
+    "feminism",
+    "inequality",
+    "interview",
+    "leadership",
+    "social change",
+    "sports",
+    "women"
+  ],
+  "mainLanguage": null,
+  "objectID": 2327,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Courageous": 49,
+    "Funny": 42,
+    "Inspiring": 90,
+    "Informative": 22,
+    "Fascinating": 17,
+    "Persuasive": 16,
+    "OK": 22,
+    "Beautiful": 10,
+    "Obnoxious": 4,
+    "Unconvincing": 1,
+    "Longwinded": 1,
+    "Ingenious": 6,
+    "Confusing": 0,
+    "Jaw-dropping": 0
+  },
+  "slug": "billie_jean_king_this_tennis_icon_paved_the_way_for_women_in_sports",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/732cabad586eff7d800fc211e97ce16bee3d7fa8_2880x1620.jpg?quality=89&w=600",
+  "title": "This tennis icon paved the way for women in sports",
+  "url": "https://www.ted.com/talks/billie_jean_king_this_tennis_icon_paved_the_way_for_women_in_sports",
+  "video": {
+    "low": "http://download.ted.com/talks/BillieJeanKing_2015W-light.mp4",
+    "medium": "http://download.ted.com/talks/BillieJeanKing_2015W.mp4",
+    "high": "http://download.ted.com/talks/BillieJeanKing_2015W-480p.mp4"
+  },
+  "viewCount": 846602,
+  "year": "2015"
+}

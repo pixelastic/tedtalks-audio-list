@@ -1,0 +1,247 @@
+#!/usr/bin/env ruby
+require 'rubygems'
+require 'awesome_print'
+require 'uri'
+require_relative '../lib/helper_download'
+require_relative '../lib/helper_extract'
+require_relative '../lib/helper_selector'
+
+# Custom selector set to get all the record data from the HTML page
+class TEDSelector
+  include HelperSelector
+
+  def initialize
+    @website = 'www.ted.com'
+    @metadata = {}
+  end
+
+  # MANDATORY
+  # The filename is a sanitized version of the url, without prefix and protocol
+  def filename(data)
+    data['slug'] || ''
+  end
+
+  # OPTIONAL
+  # Custom check of the data to see if we should save the save the record on
+  # disk or just skip it
+  def save_record?(data, _file)
+    if data['slug'].nil?
+      puts 'No slug'
+      return false
+    end
+    true
+    # if data['publishedDate'].nil?
+    #   puts 'No publishedDate'
+    #   return false
+    # end
+    # if data['title'].nil?
+    #   puts 'No title'
+    #   return false
+    # end
+    # if data['url'] !~ %r{^https?://#{@website}}
+    #   puts 'Not on smashingmagazine.com'
+    #   return false
+    # end
+    # true
+  end
+
+  # The page url
+  def record_url(doc)
+    attribute(doc, 'link[rel="canonical"]', 'href')
+  end
+
+  # The talk description
+  def record_description(doc)
+    attribute(doc, 'meta[name="description"]', 'content')
+  end
+
+  # View count
+  def record_view_count(doc)
+    doc.css('.talk-sharing__value').text.delete(',').to_i
+  end
+
+  # Keywords
+  def record_keywords(doc)
+    talk = metadata_talk(doc)
+    return [] if talk.nil?
+    talk['targeting']['tag'].split(',')
+    # attribute(doc, 'meta[name="keywords"]', 'content').split(', ')
+  end
+
+  # Author
+  def record_author(doc)
+    attribute(doc, 'meta[name="author"]', 'content')
+  end
+
+  # Title
+  def record_title(doc)
+    attribute(doc, 'meta[property="og:title"]', 'content')
+  end
+
+  # Image
+  # Note: Images can be resized by adding ?width=120
+  def record_image(doc)
+    url = attribute(doc, 'meta[property="og:image"]', 'content')
+    strip_querystring(url)
+  end
+
+  # Talk duration
+  def record_duration(doc)
+    attribute(doc, 'meta[property="video:duration"]', 'content').to_i
+  end
+
+  def record_main_language(doc)
+    talk = metadata_talk(doc)
+    return nil if talk.nil?
+    talk['language']
+  end
+
+  def record_ratings(doc)
+    ratings = {}
+    data = metadata(doc)
+    return ratings if data.nil?
+
+    json_ratings = data['ratings']
+    json_ratings.each do |rating|
+      count = rating['count']
+      name = rating['name']
+      ratings[name] = count
+    end
+    ratings
+  end
+
+  def record_event(doc)
+    talk = metadata_talk(doc)
+    return nil if talk.nil?
+    talk['event']
+  end
+
+  def record_year(doc)
+    talk = metadata_talk(doc)
+    return nil if talk.nil?
+    talk['targeting']['year']
+  end
+
+  def record_thumbnail(doc)
+    talk = metadata_talk(doc)
+    return nil if talk.nil?
+    talk['thumb']
+  end
+
+  def record_audio(doc)
+    talk = metadata_talk(doc)
+    return nil if talk.nil?
+    strip_querystring(talk['audioDownload'])
+  end
+
+  def record_date_filmed(doc)
+    talk = metadata_talk(doc)
+    return nil if talk.nil?
+    talk['filmed']
+  end
+
+  def record_date_published(doc)
+    talk = metadata_talk(doc)
+    return nil if talk.nil?
+    talk['published']
+  end
+
+  def record_object_id(doc)
+    talk = metadata_talk(doc)
+    return nil if talk.nil?
+    talk['id']
+  end
+
+  def record_video(doc)
+    talk = metadata_talk(doc)
+    videos = {}
+    return videos if talk.nil?
+
+    # Official TED videos have their own nativeDownload key
+    native_downloads = talk['nativeDownloads']
+    unless native_downloads.nil?
+      native_downloads.each do |type, url|
+        # Skipping empty urls
+        next if url.nil?
+        videos[type] = strip_querystring(url)
+      end
+    end
+
+    # We can also try the external formats
+    external = talk['external']
+    unless external.nil?
+      type = external['service'].downcase
+      videos[type] = {
+        id: external['code'],
+        url: external['uri']
+      }
+    end
+    videos
+  end
+
+  def record_slug(doc)
+    talk = metadata_talk(doc)
+    return nil if talk.nil?
+    talk['slug']
+  end
+
+  def record_other_languages(doc)
+    other_languages = {}
+    talk = metadata_talk(doc)
+    return other_languages if talk.nil?
+
+    subtitled_downloads = talk['subtitledDownloads']
+
+    # No other languages
+    return other_languages if subtitled_downloads.nil?
+
+    subtitled_downloads.each do |code, value|
+      other_languages[code] = value['name']
+    end
+    other_languages
+  end
+
+  # # Grab the page metadata, in a big JSON object in the page
+  # def record_metadata(doc)
+  #   metadata(doc)
+  # end
+
+  def strip_querystring(url)
+    return nil if url.nil?
+    parsed = URI.parse(url)
+    parsed.fragment = parsed.query = nil
+    parsed.to_s
+  end
+
+  # Get data from the current talk from the whole metadata object
+  def metadata_talk(doc)
+    talk = metadata(doc)
+    return nil if talk.nil?
+    talk['talks'][0]
+  end
+
+  def metadata(doc)
+    uuid = record_url(doc)
+    return @metadata[uuid] unless @metadata[uuid].nil?
+
+    prefix = 'q("talkPage.init",'
+    suffix = ')'
+
+    # Finding the correct javascript node
+    javascript = doc.css('script').find do |script|
+      script.text.start_with?(prefix)
+    end
+
+    return nil if javascript.nil?
+    json = javascript.text.gsub(/^#{Regexp.quote(prefix)}/, '')
+                     .gsub(/#{Regexp.quote(suffix)}$/, '')
+
+    @metadata[uuid] = JSON.parse(json)
+  end
+
+  # Transcript available on /transcript
+  # Subtitles availables on https://www.ted.com/talks/subtitles/id/1136/lang/fr
+end
+
+files = HelperDownload.all_files
+HelperExtract.new(TEDSelector.new).extract(files)

@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/ElizabethLoftus_2013G.mp3",
+  "author": "Elizabeth Loftus",
+  "dateFilmed": 1370908800,
+  "datePublished": 1379948415,
+  "description": "Psychologist Elizabeth Loftus studies memories. More precisely, she studies false memories, when people either remember things that didn't happen or remember them differently from the way they really were. It's more common than you might think, and Loftus shares some startling stories and statistics --  and raises some important ethical questions.",
+  "duration": 1056,
+  "event": "TEDGlobal 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/dc329a10500b9d309ad41cfd6f43e417a472b4c5_1600x1200.jpg",
+  "keywords": [
+    "memory",
+    "psychology",
+    "science"
+  ],
+  "mainLanguage": null,
+  "objectID": 1826,
+  "otherLanguages": {
+    "bg": "Bulgarian"
+  },
+  "ratings": {
+    "Fascinating": 1031,
+    "Jaw-dropping": 244,
+    "Informative": 1213,
+    "Courageous": 350,
+    "OK": 120,
+    "Persuasive": 499,
+    "Inspiring": 235,
+    "Ingenious": 82,
+    "Confusing": 22,
+    "Unconvincing": 45,
+    "Beautiful": 30,
+    "Obnoxious": 41,
+    "Longwinded": 54,
+    "Funny": 31
+  },
+  "slug": "elizabeth_loftus_the_fiction_of_memory",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/dc329a10500b9d309ad41cfd6f43e417a472b4c5_1600x1200.jpg?quality=89&w=600",
+  "title": "How reliable is your memory?",
+  "url": "https://www.ted.com/talks/elizabeth_loftus_the_fiction_of_memory",
+  "video": {
+    "low": "http://download.ted.com/talks/ElizabethLoftus_2013G-light.mp4",
+    "medium": "http://download.ted.com/talks/ElizabethLoftus_2013G.mp4",
+    "high": "http://download.ted.com/talks/ElizabethLoftus_2013G-480p.mp4"
+  },
+  "viewCount": 2814775,
+  "year": "2013"
+}

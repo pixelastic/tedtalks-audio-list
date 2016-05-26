@@ -1,0 +1,46 @@
+{
+  "audio": "http://download.ted.com/talks/JeremyHeimans_2014S.mp3",
+  "author": "Jeremy Heimans",
+  "dateFilmed": 1403481600,
+  "datePublished": 1414768529,
+  "description": "We can see the power of distributed, crowd-sourced business models every day — witness Uber, Kickstarter, Airbnb. But veteran online activist Jeremy Heimans asks: When does that kind of \"new power\" start to work in politics? His surprising answer: Sooner than you think. It’s a bold argument about the future of politics and power; watch and see if you agree.",
+  "duration": 908,
+  "event": "TEDSalon Berlin 2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/89afe044196c7a874b6d87a780b45219d81476ce_2880x1620.jpg",
+  "keywords": [
+    "activism",
+    "politics",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 2121,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "OK": 141,
+    "Informative": 258,
+    "Fascinating": 134,
+    "Inspiring": 198,
+    "Persuasive": 110,
+    "Unconvincing": 58,
+    "Obnoxious": 19,
+    "Longwinded": 33,
+    "Ingenious": 53,
+    "Courageous": 20,
+    "Confusing": 29,
+    "Funny": 20,
+    "Beautiful": 31,
+    "Jaw-dropping": 10
+  },
+  "slug": "jeremy_heimans_what_new_power_looks_like",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/89afe044196c7a874b6d87a780b45219d81476ce_2880x1620.jpg?quality=89&w=600",
+  "title": "What new power looks like",
+  "url": "https://www.ted.com/talks/jeremy_heimans_what_new_power_looks_like",
+  "video": {
+    "low": "http://download.ted.com/talks/JeremyHeimans_2014S-light.mp4",
+    "medium": "http://download.ted.com/talks/JeremyHeimans_2014S.mp4",
+    "high": "http://download.ted.com/talks/JeremyHeimans_2014S-480p.mp4"
+  },
+  "viewCount": 1281842,
+  "year": "2014"
+}

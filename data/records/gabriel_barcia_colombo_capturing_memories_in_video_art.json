@@ -1,0 +1,56 @@
+{
+  "audio": "http://download.ted.com/talks/GabrielBarciaColombo_2012.mp3",
+  "author": "Gabriel Barcia-Colombo",
+  "dateFilmed": 1330300800,
+  "datePublished": 1342365152,
+  "description": "Using video mapping and projection, artist Gabriel Barcia-Colombo captures and shares his memories and friendships. At TED Fellow Talks, he shows his charming, thoughtful work -- which appears to preserve the people in his life in jars, suitcases, blenders ...",
+  "duration": 285,
+  "event": "TED2012",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/5d3d054b9af0a13e57d7b4294735acb6463854a1_800x600.jpg",
+  "keywords": [
+    "TED Conference",
+    "TED Fellows",
+    "arts",
+    "design",
+    "history",
+    "memory",
+    "online video",
+    "storytelling"
+  ],
+  "mainLanguage": null,
+  "objectID": 1508,
+  "otherLanguages": {
+    "zh-tw": "Chinese, Traditional",
+    "fr-ca": "French (Canada)",
+    "pt": "Portuguese",
+    "pt-br": "Portuguese, Brazilian",
+    "ro": "Romanian"
+  },
+  "ratings": {
+    "Unconvincing": 18,
+    "Fascinating": 85,
+    "Beautiful": 54,
+    "Funny": 127,
+    "Inspiring": 40,
+    "Ingenious": 102,
+    "Informative": 5,
+    "Courageous": 3,
+    "OK": 46,
+    "Jaw-dropping": 17,
+    "Obnoxious": 7,
+    "Persuasive": 2,
+    "Longwinded": 5,
+    "Confusing": 14
+  },
+  "slug": "gabriel_barcia_colombo_capturing_memories_in_video_art",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/5d3d054b9af0a13e57d7b4294735acb6463854a1_800x600.jpg?quality=89&w=600",
+  "title": "Capturing memories in video art",
+  "url": "https://www.ted.com/talks/gabriel_barcia_colombo_capturing_memories_in_video_art",
+  "video": {
+    "low": "http://download.ted.com/talks/GabrielBarciaColombo_2012-light.mp4",
+    "medium": "http://download.ted.com/talks/GabrielBarciaColombo_2012.mp4",
+    "high": "http://download.ted.com/talks/GabrielBarciaColombo_2012-480p.mp4"
+  },
+  "viewCount": 651418,
+  "year": "2012"
+}

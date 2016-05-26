@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/MichaelPorter_2013G.mp3",
+  "author": "Michael Porter",
+  "dateFilmed": 1371168000,
+  "datePublished": 1381158304,
+  "description": "Why do we turn to nonprofits, NGOs and governments to solve society's biggest problems? Michael Porter admits he's biased, as a business school professor, but he wants you to hear his case for letting business try to solve massive problems like climate change and access to water. Why? Because when business solves a problem, it makes a profit -- which lets that solution grow.",
+  "duration": 988,
+  "event": "TEDGlobal 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/fb16b86971a2bdf895982b509fc7b8187677046b_1600x1200.jpg",
+  "keywords": [
+    "Debate",
+    "big problems",
+    "business",
+    "social change"
+  ],
+  "mainLanguage": null,
+  "objectID": 1837,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified"
+  },
+  "ratings": {
+    "Informative": 194,
+    "Persuasive": 258,
+    "Courageous": 49,
+    "Inspiring": 356,
+    "Longwinded": 95,
+    "Unconvincing": 206,
+    "OK": 83,
+    "Obnoxious": 33,
+    "Ingenious": 36,
+    "Fascinating": 56,
+    "Confusing": 26,
+    "Beautiful": 13,
+    "Jaw-dropping": 9,
+    "Funny": 6
+  },
+  "slug": "michael_porter_why_business_can_be_good_at_solving_social_problems",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/fb16b86971a2bdf895982b509fc7b8187677046b_1600x1200.jpg?quality=89&w=600",
+  "title": "The case for letting business solve social problems",
+  "url": "https://www.ted.com/talks/michael_porter_why_business_can_be_good_at_solving_social_problems",
+  "video": {
+    "low": "http://download.ted.com/talks/MichaelPorter_2013G-light.mp4",
+    "medium": "http://download.ted.com/talks/MichaelPorter_2013G.mp4",
+    "high": "http://download.ted.com/talks/MichaelPorter_2013G-480p.mp4"
+  },
+  "viewCount": 1349931,
+  "year": "2013"
+}

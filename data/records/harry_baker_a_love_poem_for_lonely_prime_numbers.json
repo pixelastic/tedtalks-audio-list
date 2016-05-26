@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/HarryBaker_2014X.mp3",
+  "author": "Harry Baker",
+  "dateFilmed": 1392076800,
+  "datePublished": 1425485425,
+  "description": "Performance poet (and math student) Harry Baker spins a love poem about his favorite kind of numbers -- the lonely, love-lorn prime. Stay on for two more lively, inspiring poems from this charming performer.",
+  "duration": 838,
+  "event": "TEDxExeter",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/d831aeed76d34f85b4f53116a7ea56ab3d2726a7_2880x1620.jpg",
+  "keywords": [
+    "humor",
+    "math",
+    "poetry",
+    "spoken word"
+  ],
+  "mainLanguage": null,
+  "objectID": 2209,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 472,
+    "Courageous": 39,
+    "Inspiring": 268,
+    "Funny": 354,
+    "Fascinating": 191,
+    "Ingenious": 168,
+    "Jaw-dropping": 81,
+    "OK": 33,
+    "Informative": 7,
+    "Longwinded": 4,
+    "Unconvincing": 2,
+    "Confusing": 9,
+    "Persuasive": 4,
+    "Obnoxious": 12
+  },
+  "slug": "harry_baker_a_love_poem_for_lonely_prime_numbers",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/d831aeed76d34f85b4f53116a7ea56ab3d2726a7_2880x1620.jpg?quality=89&w=600",
+  "title": "A love poem for lonely prime numbers",
+  "url": "https://www.ted.com/talks/harry_baker_a_love_poem_for_lonely_prime_numbers",
+  "video": {
+    "low": "http://download.ted.com/talks/HarryBaker_2014X-light.mp4",
+    "medium": "http://download.ted.com/talks/HarryBaker_2014X.mp4",
+    "high": "http://download.ted.com/talks/HarryBaker_2014X-480p.mp4"
+  },
+  "viewCount": 1177475,
+  "year": "2014"
+}

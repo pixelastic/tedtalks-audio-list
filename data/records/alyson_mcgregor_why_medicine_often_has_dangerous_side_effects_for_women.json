@@ -1,0 +1,51 @@
+{
+  "audio": "http://download.ted.com/talks/AlysonMcGregor_2014X.mp3",
+  "author": "Alyson McGregor",
+  "dateFilmed": 1411171200,
+  "datePublished": 1444834800,
+  "description": "You might not know this: Many of the medicines we take -- common drugs like Ambien and everyday aspirin -- were only ever tested on men. And the unknown side effects for women can be dangerous, even deadly. Alyson McGregor studies the differences between male and female patients; in this fascinating talk she explains how the male model became our framework for medical research ... and what women and men need to ask their doctors to get the right care for their bodies.",
+  "duration": 929,
+  "event": "TEDxProvidence",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/1b1a683e5ebe9dcb2fdde87144516ce3aa0e025d_2880x1620.jpg",
+  "keywords": [
+    "TEDx",
+    "disease",
+    "health",
+    "health care",
+    "heart health",
+    "medical research",
+    "medicine",
+    "women"
+  ],
+  "mainLanguage": null,
+  "objectID": 2349,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 580,
+    "Ingenious": 34,
+    "Persuasive": 198,
+    "Confusing": 7,
+    "Unconvincing": 19,
+    "Obnoxious": 9,
+    "Fascinating": 152,
+    "Jaw-dropping": 46,
+    "Inspiring": 134,
+    "OK": 40,
+    "Courageous": 49,
+    "Longwinded": 34,
+    "Beautiful": 28,
+    "Funny": 7
+  },
+  "slug": "alyson_mcgregor_why_medicine_often_has_dangerous_side_effects_for_women",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/1b1a683e5ebe9dcb2fdde87144516ce3aa0e025d_2880x1620.jpg?quality=89&w=600",
+  "title": "Why medicine often has dangerous side effects for women",
+  "url": "https://www.ted.com/talks/alyson_mcgregor_why_medicine_often_has_dangerous_side_effects_for_women",
+  "video": {
+    "low": "http://download.ted.com/talks/AlysonMcGregor_2014X-light.mp4",
+    "medium": "http://download.ted.com/talks/AlysonMcGregor_2014X.mp4",
+    "high": "http://download.ted.com/talks/AlysonMcGregor_2014X-480p.mp4"
+  },
+  "viewCount": 1261891,
+  "year": "2014"
+}

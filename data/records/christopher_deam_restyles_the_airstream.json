@@ -1,0 +1,58 @@
+{
+  "audio": null,
+  "author": "Christopher C. Deam",
+  "dateFilmed": 1012608000,
+  "datePublished": 1238634000,
+  "description": "In this low-key, image-packed talk from 2002, designer Christopher C. Deam talks about his makeover of an American classic: the Airstream travel trailer.",
+  "duration": 381,
+  "event": "TED2002",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/81668_800x600.jpg",
+  "keywords": [
+    "TED Conference",
+    "creativity",
+    "design",
+    "exploration",
+    "materials",
+    "transportation"
+  ],
+  "mainLanguage": null,
+  "objectID": 503,
+  "otherLanguages": {
+    "ar": "Arabic",
+    "zh-tw": "Chinese, Traditional",
+    "he": "Hebrew",
+    "it": "Italian",
+    "pt-br": "Portuguese, Brazilian",
+    "ro": "Romanian",
+    "ru": "Russian",
+    "tr": "Turkish",
+    "vi": "Vietnamese"
+  },
+  "ratings": {
+    "Longwinded": 12,
+    "Unconvincing": 23,
+    "OK": 44,
+    "Beautiful": 43,
+    "Informative": 48,
+    "Fascinating": 15,
+    "Ingenious": 43,
+    "Obnoxious": 6,
+    "Inspiring": 21,
+    "Persuasive": 5,
+    "Funny": 2,
+    "Courageous": 4,
+    "Jaw-dropping": 1,
+    "Confusing": 0
+  },
+  "slug": "christopher_deam_restyles_the_airstream",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/81668_800x600.jpg?quality=89&w=600",
+  "title": "The Airstream, restyled",
+  "url": "https://www.ted.com/talks/christopher_deam_restyles_the_airstream",
+  "video": {
+    "low": "http://download.ted.com/talks/ChristopherDeam_2002-light.mp4",
+    "medium": "http://download.ted.com/talks/ChristopherDeam_2002.mp4",
+    "high": "http://download.ted.com/talks/ChristopherDeam_2002-480p.mp4"
+  },
+  "viewCount": 294200,
+  "year": "2002"
+}

@@ -1,0 +1,61 @@
+{
+  "audio": null,
+  "author": "Emily Levine",
+  "dateFilmed": 1012608000,
+  "datePublished": 1239238800,
+  "description": "Philosopher-comedian Emily Levine talks (hilariously) about science, math, society and the way everything connects. She's a brilliant trickster, poking holes in our fixed ideas and bringing hidden truths to light. Settle in and let her ping your brain.",
+  "duration": 1372,
+  "event": "TED2002",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/82833_800x600.jpg",
+  "keywords": [
+    "TED Conference",
+    "cognitive science",
+    "comedy",
+    "entertainment",
+    "humor",
+    "philosophy",
+    "science",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 510,
+  "otherLanguages": {
+    "bg": "Bulgarian",
+    "he": "Hebrew",
+    "pl": "Polish",
+    "pt": "Portuguese",
+    "ro": "Romanian",
+    "ru": "Russian",
+    "sr": "Serbian",
+    "es": "Spanish",
+    "tr": "Turkish",
+    "vi": "Vietnamese"
+  },
+  "ratings": {
+    "Funny": 1078,
+    "Ingenious": 295,
+    "Inspiring": 197,
+    "Fascinating": 200,
+    "Confusing": 73,
+    "OK": 139,
+    "Beautiful": 88,
+    "Longwinded": 114,
+    "Courageous": 79,
+    "Obnoxious": 88,
+    "Unconvincing": 60,
+    "Informative": 78,
+    "Persuasive": 63,
+    "Jaw-dropping": 32
+  },
+  "slug": "emily_levine_s_theory_of_everything",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/82833_800x600.jpg?quality=89&w=600",
+  "title": "A theory of everything",
+  "url": "https://www.ted.com/talks/emily_levine_s_theory_of_everything",
+  "video": {
+    "low": "http://download.ted.com/talks/EmilyLevine_2002-light.mp4",
+    "medium": "http://download.ted.com/talks/EmilyLevine_2002.mp4",
+    "high": "http://download.ted.com/talks/EmilyLevine_2002-480p.mp4"
+  },
+  "viewCount": 1732459,
+  "year": "2002"
+}

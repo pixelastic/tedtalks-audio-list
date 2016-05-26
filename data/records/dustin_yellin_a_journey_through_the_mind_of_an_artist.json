@@ -1,0 +1,60 @@
+{
+  "audio": "http://download.ted.com/talks/DustinYellin_2014S.mp3",
+  "author": "Dustin Yellin",
+  "dateFilmed": 1412899200,
+  "datePublished": 1440169435,
+  "description": "Dustin Yellin makes mesmerizing artwork that tells complex, myth-inspired stories. How did he develop his style? In this disarming talk, he shares the journey of an artist -- starting from age 8 -- and his idiosyncratic way of thinking and seeing. Follow the path that leads him up to his latest major work (or two).",
+  "duration": 452,
+  "event": "TED@NYC",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b0596d030276a7fe4991b7ebdd97e74d24fe5222_2880x1620.jpg",
+  "keywords": [
+    "art",
+    "collaboration",
+    "creativity"
+  ],
+  "mainLanguage": null,
+  "objectID": 2319,
+  "otherLanguages": {
+    "ar": "Arabic",
+    "ca": "Catalan",
+    "hr": "Croatian",
+    "cs": "Czech",
+    "en": "English",
+    "de": "German",
+    "ko": "Korean",
+    "fa": "Persian",
+    "pt-br": "Portuguese, Brazilian",
+    "ro": "Romanian",
+    "sr": "Serbian",
+    "es": "Spanish",
+    "uk": "Ukrainian",
+    "vi": "Vietnamese"
+  },
+  "ratings": {
+    "Fascinating": 261,
+    "Confusing": 45,
+    "Funny": 150,
+    "Informative": 32,
+    "Ingenious": 95,
+    "OK": 91,
+    "Unconvincing": 31,
+    "Inspiring": 132,
+    "Beautiful": 144,
+    "Obnoxious": 26,
+    "Longwinded": 14,
+    "Courageous": 7,
+    "Jaw-dropping": 22,
+    "Persuasive": 6
+  },
+  "slug": "dustin_yellin_a_journey_through_the_mind_of_an_artist",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b0596d030276a7fe4991b7ebdd97e74d24fe5222_2880x1620.jpg?quality=89&w=600",
+  "title": "A journey through the mind of an artist",
+  "url": "https://www.ted.com/talks/dustin_yellin_a_journey_through_the_mind_of_an_artist",
+  "video": {
+    "low": "http://download.ted.com/talks/DustinYellin_2014S-light.mp4",
+    "medium": "http://download.ted.com/talks/DustinYellin_2014S.mp4",
+    "high": "http://download.ted.com/talks/DustinYellin_2014S-480p.mp4"
+  },
+  "viewCount": 1251098,
+  "year": "2014"
+}

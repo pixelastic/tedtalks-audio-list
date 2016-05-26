@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/AshBeckham_2013X.mp3",
+  "author": "Ash Beckham",
+  "dateFilmed": 1379030400,
+  "datePublished": 1392997406,
+  "description": "In this touching talk, Ash Beckham offers a fresh approach to empathy and openness. It starts with understanding that everyone, at some point in their life, has experienced hardship. The only way out, says Beckham, is to open the door and step out of your closet. ",
+  "duration": 562,
+  "event": "TEDxBoulder",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8615dfe1be88cc3698fd1547eda6e138dd56cda3_1600x1200.jpg",
+  "keywords": [
+    "TEDx",
+    "culture",
+    "empathy",
+    "happiness"
+  ],
+  "mainLanguage": null,
+  "objectID": 1932,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified"
+  },
+  "ratings": {
+    "Persuasive": 300,
+    "Courageous": 909,
+    "Fascinating": 113,
+    "Beautiful": 457,
+    "Inspiring": 1144,
+    "Informative": 90,
+    "Funny": 296,
+    "OK": 79,
+    "Obnoxious": 38,
+    "Ingenious": 31,
+    "Unconvincing": 56,
+    "Confusing": 16,
+    "Longwinded": 32,
+    "Jaw-dropping": 25
+  },
+  "slug": "ash_beckham_we_re_all_hiding_something_let_s_find_the_courage_to_open_up",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8615dfe1be88cc3698fd1547eda6e138dd56cda3_1600x1200.jpg?quality=89&w=600",
+  "title": " We're all hiding something. Let's find the courage to open up",
+  "url": "https://www.ted.com/talks/ash_beckham_we_re_all_hiding_something_let_s_find_the_courage_to_open_up",
+  "video": {
+    "low": "http://download.ted.com/talks/AshBeckham_2013X-light.mp4",
+    "medium": "http://download.ted.com/talks/AshBeckham_2013X.mp4",
+    "high": "http://download.ted.com/talks/AshBeckham_2013X-480p.mp4"
+  },
+  "viewCount": 2445979,
+  "year": "2013"
+}

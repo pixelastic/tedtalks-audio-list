@@ -1,0 +1,52 @@
+{
+  "audio": "http://download.ted.com/talks/PeterWard_2008.mp3",
+  "author": "Peter Ward",
+  "dateFilmed": 1204070400,
+  "datePublished": 1233018000,
+  "description": "Asteroid strikes get all the coverage, but \"Medea Hypothesis\" author Peter Ward argues that most of Earth's mass extinctions were caused by lowly bacteria. The culprit, a poison called hydrogen sulfide, may have an interesting application in medicine.",
+  "duration": 1181,
+  "event": "TED2008",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/67420_800x600.jpg",
+  "keywords": [
+    "dinosaurs",
+    "disease",
+    "environment",
+    "history",
+    "life",
+    "science",
+    "space"
+  ],
+  "mainLanguage": null,
+  "objectID": 440,
+  "otherLanguages": {
+    "ar": "Arabic",
+    "pt-br": "Portuguese, Brazilian"
+  },
+  "ratings": {
+    "Fascinating": 165,
+    "Informative": 168,
+    "Jaw-dropping": 55,
+    "Confusing": 42,
+    "OK": 20,
+    "Persuasive": 63,
+    "Ingenious": 31,
+    "Courageous": 16,
+    "Inspiring": 29,
+    "Unconvincing": 45,
+    "Obnoxious": 9,
+    "Longwinded": 16,
+    "Funny": 13,
+    "Beautiful": 1
+  },
+  "slug": "peter_ward_on_mass_extinctions",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/67420_800x600.jpg?quality=89&w=600",
+  "title": "A theory of Earth's mass extinctions",
+  "url": "https://www.ted.com/talks/peter_ward_on_mass_extinctions",
+  "video": {
+    "low": "http://download.ted.com/talks/PeterWard_2008-light.mp4",
+    "medium": "http://download.ted.com/talks/PeterWard_2008.mp4",
+    "high": "http://download.ted.com/talks/PeterWard_2008-480p.mp4"
+  },
+  "viewCount": 783117,
+  "year": "2008"
+}

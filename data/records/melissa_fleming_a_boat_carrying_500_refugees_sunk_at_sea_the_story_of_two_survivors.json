@@ -1,0 +1,56 @@
+{
+  "audio": "http://download.ted.com/talks/MelissaFleming_2015X.mp3",
+  "author": "Melissa Fleming",
+  "dateFilmed": 1432339200,
+  "datePublished": 1446567911,
+  "description": "Aboard an overloaded ship carrying more than 500 refugees, a young woman becomes an unlikely hero. This single, powerful story, told by Melissa Fleming of the UN's refugee agency, gives a human face to the sheer numbers of human beings trying to escape to better lives ... as the refugee ships keep coming ...",
+  "duration": 1155,
+  "event": "TEDxThessaloniki",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/d7978ab526f1922c090ced88497e7f80c1f6174c_2880x1620.jpg",
+  "keywords": [
+    "Middle East",
+    "TEDx",
+    "global issues",
+    "government",
+    "humanity",
+    "immigration",
+    "policy",
+    "politics",
+    "poverty",
+    "social change",
+    "society",
+    "trafficking",
+    "war"
+  ],
+  "mainLanguage": null,
+  "objectID": 2358,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 255,
+    "Unconvincing": 11,
+    "Persuasive": 124,
+    "Informative": 125,
+    "Inspiring": 356,
+    "Courageous": 153,
+    "OK": 25,
+    "Obnoxious": 9,
+    "Longwinded": 15,
+    "Fascinating": 49,
+    "Jaw-dropping": 33,
+    "Funny": 12,
+    "Ingenious": 6,
+    "Confusing": 9
+  },
+  "slug": "melissa_fleming_a_boat_carrying_500_refugees_sunk_at_sea_the_story_of_two_survivors",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/d7978ab526f1922c090ced88497e7f80c1f6174c_2880x1620.jpg?quality=89&w=600",
+  "title": "A boat carrying 500 refugees sunk at sea. The story of two survivors",
+  "url": "https://www.ted.com/talks/melissa_fleming_a_boat_carrying_500_refugees_sunk_at_sea_the_story_of_two_survivors",
+  "video": {
+    "low": "http://download.ted.com/talks/MelissaFleming_2015X-light.mp4",
+    "medium": "http://download.ted.com/talks/MelissaFleming_2015X.mp4",
+    "high": "http://download.ted.com/talks/MelissaFleming_2015X-480p.mp4"
+  },
+  "viewCount": 1302075,
+  "year": "2015"
+}

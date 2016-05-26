@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/MickCornett_2013P.mp3",
+  "author": "Mick Cornett",
+  "dateFilmed": 1365379200,
+  "datePublished": 1388679718,
+  "description": "Oklahoma City is a midsized town that had a big problem: It was among the most obese towns in America. Mayor Mick Cornett realized that, to make his city a great place to work and live, it had to become healthier too. In this charming talk, he walks us through the interlocking changes that helped OKC drop a collective million pounds (450,000 kilos).",
+  "duration": 915,
+  "event": "TEDMED 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/34113888f29018d7f07a3c7f10ab2915c50f6b96_1600x1200.jpg",
+  "keywords": [
+    "cities",
+    "health",
+    "obesity"
+  ],
+  "mainLanguage": null,
+  "objectID": 1865,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified"
+  },
+  "ratings": {
+    "Courageous": 49,
+    "Ingenious": 66,
+    "Inspiring": 290,
+    "Funny": 109,
+    "Longwinded": 21,
+    "Jaw-dropping": 14,
+    "Persuasive": 101,
+    "Fascinating": 67,
+    "Informative": 131,
+    "OK": 23,
+    "Unconvincing": 5,
+    "Obnoxious": 8,
+    "Beautiful": 3,
+    "Confusing": 0
+  },
+  "slug": "mick_cornett_how_an_obese_town_lost_a_million_pounds",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/34113888f29018d7f07a3c7f10ab2915c50f6b96_1600x1200.jpg?quality=89&w=600",
+  "title": "How an obese town lost a million pounds",
+  "url": "https://www.ted.com/talks/mick_cornett_how_an_obese_town_lost_a_million_pounds",
+  "video": {
+    "low": "http://download.ted.com/talks/MickCornett_2013P-light.mp4",
+    "medium": "http://download.ted.com/talks/MickCornett_2013P.mp4",
+    "high": "http://download.ted.com/talks/MickCornett_2013P-480p.mp4"
+  },
+  "viewCount": 1436355,
+  "year": "2013"
+}

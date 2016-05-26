@@ -1,0 +1,49 @@
+{
+  "audio": "http://download.ted.com/talks/MarkShaw_2013.mp3",
+  "author": "Mark Shaw",
+  "dateFilmed": 1362009600,
+  "datePublished": 1364310023,
+  "description": "Mark Shaw demos Ultra-Ever Dry, a liquid-repellent coating that acts as an astonishingly powerful shield against water and water-based materials. At the nano level, the spray covers a surface with an umbrella of air so that water bounces right off. Watch for an exciting two-minute kicker.",
+  "duration": 331,
+  "event": "TED2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a0704cc7e0668d894420fe5ae0f7fe9deba13429_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "demo",
+    "invention",
+    "nanoscale",
+    "technology",
+    "water"
+  ],
+  "mainLanguage": null,
+  "objectID": 1700,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Jaw-dropping": 258,
+    "Ingenious": 274,
+    "Fascinating": 266,
+    "Persuasive": 59,
+    "Informative": 133,
+    "Beautiful": 19,
+    "Inspiring": 49,
+    "Funny": 18,
+    "OK": 44,
+    "Courageous": 5,
+    "Unconvincing": 13,
+    "Obnoxious": 12,
+    "Longwinded": 4,
+    "Confusing": 3
+  },
+  "slug": "mark_shaw_one_very_dry_demo",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a0704cc7e0668d894420fe5ae0f7fe9deba13429_1600x1200.jpg?quality=89&w=600",
+  "title": "One very dry demo",
+  "url": "https://www.ted.com/talks/mark_shaw_one_very_dry_demo",
+  "video": {
+    "low": "http://download.ted.com/talks/MarkShaw_2013-light.mp4",
+    "medium": "http://download.ted.com/talks/MarkShaw_2013.mp4",
+    "high": "http://download.ted.com/talks/MarkShaw_2013-480p.mp4"
+  },
+  "viewCount": 1406494,
+  "year": "2013"
+}

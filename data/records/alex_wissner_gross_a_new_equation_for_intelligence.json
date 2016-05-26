@@ -1,0 +1,49 @@
+{
+  "audio": "http://download.ted.com/talks/AlexWissnerGross_2013X.mp3",
+  "author": "Alex Wissner-Gross",
+  "dateFilmed": 1385424000,
+  "datePublished": 1391702734,
+  "description": "Is there an equation for intelligence? Yes. It’s F = T ∇ Sτ. In a fascinating and informative talk, physicist and computer scientist Alex Wissner-Gross explains what in the world that means. (Filmed at TEDxBeaconStreet.)",
+  "duration": 708,
+  "event": "TEDxBeaconStreet",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/15af4df75aba589bfcd57c1e72b572e24067bc29_1600x1200.jpg",
+  "keywords": [
+    "TEDx",
+    "intelligence",
+    "mind",
+    "physics",
+    "science"
+  ],
+  "mainLanguage": null,
+  "objectID": 1922,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified"
+  },
+  "ratings": {
+    "Confusing": 184,
+    "Longwinded": 138,
+    "Unconvincing": 360,
+    "Ingenious": 255,
+    "Fascinating": 448,
+    "OK": 159,
+    "Informative": 427,
+    "Jaw-dropping": 117,
+    "Persuasive": 96,
+    "Inspiring": 181,
+    "Beautiful": 28,
+    "Obnoxious": 47,
+    "Courageous": 32,
+    "Funny": 7
+  },
+  "slug": "alex_wissner_gross_a_new_equation_for_intelligence",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/15af4df75aba589bfcd57c1e72b572e24067bc29_1600x1200.jpg?quality=89&w=600",
+  "title": "A new equation for intelligence",
+  "url": "https://www.ted.com/talks/alex_wissner_gross_a_new_equation_for_intelligence",
+  "video": {
+    "low": "http://download.ted.com/talks/AlexWissnerGross_2013X-light.mp4",
+    "medium": "http://download.ted.com/talks/AlexWissnerGross_2013X.mp4",
+    "high": "http://download.ted.com/talks/AlexWissnerGross_2013X-480p.mp4"
+  },
+  "viewCount": 1877290,
+  "year": "2013"
+}

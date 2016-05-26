@@ -1,0 +1,46 @@
+{
+  "audio": "http://download.ted.com/talks/BernieKrause_2013G.mp3",
+  "author": "Bernie Krause",
+  "dateFilmed": 1370995200,
+  "datePublished": 1373900562,
+  "description": "Bernie Krause has been recording wild soundscapes -- the wind in the trees, the chirping of birds, the subtle sounds of insect larvae -- for 45 years. In that time, he has seen many environments radically altered by humans, sometimes even by practices thought to be environmentally safe. A surprising look at what we can learn through nature's symphonies, from the grunting of a sea anemone to the sad calls of a beaver in mourning.",
+  "duration": 888,
+  "event": "TEDGlobal 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/53937b515a5d5513f666b40da146f365a612ca7c_1600x1200.jpg",
+  "keywords": [
+    "animals",
+    "nature",
+    "sound"
+  ],
+  "mainLanguage": null,
+  "objectID": 1788,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Inspiring": 229,
+    "Beautiful": 268,
+    "Jaw-dropping": 60,
+    "Fascinating": 251,
+    "Informative": 181,
+    "OK": 20,
+    "Longwinded": 6,
+    "Obnoxious": 4,
+    "Persuasive": 121,
+    "Courageous": 15,
+    "Ingenious": 33,
+    "Funny": 9,
+    "Unconvincing": 4,
+    "Confusing": 3
+  },
+  "slug": "bernie_krause_the_voice_of_the_natural_world",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/53937b515a5d5513f666b40da146f365a612ca7c_1600x1200.jpg?quality=89&w=600",
+  "title": "The voice of the natural world",
+  "url": "https://www.ted.com/talks/bernie_krause_the_voice_of_the_natural_world",
+  "video": {
+    "low": "http://download.ted.com/talks/BernieKrause_2013G-light.mp4",
+    "medium": "http://download.ted.com/talks/BernieKrause_2013G.mp4",
+    "high": "http://download.ted.com/talks/BernieKrause_2013G-480p.mp4"
+  },
+  "viewCount": 927835,
+  "year": "2013"
+}

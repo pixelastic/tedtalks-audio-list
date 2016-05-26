@@ -1,0 +1,45 @@
+{
+  "audio": "http://download.ted.com/talks/PhilipEvans_2013S.mp3",
+  "author": "Philip Evans",
+  "dateFilmed": 1384128000,
+  "datePublished": 1393951821,
+  "description": "What does the future of business look like? In an informative talk, Philip Evans gives a quick primer on two long-standing theories in strategy -- and explains why he thinks they are essentially invalid.",
+  "duration": 837,
+  "event": "TED@BCG San Francisco",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/9ba1a6e04055da62e0efcd23254cc3e960b94517_1600x1200.jpg",
+  "keywords": [
+    "business",
+    "economics"
+  ],
+  "mainLanguage": null,
+  "objectID": 1938,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 509,
+    "Inspiring": 184,
+    "Fascinating": 211,
+    "Persuasive": 94,
+    "Ingenious": 72,
+    "Beautiful": 18,
+    "Courageous": 18,
+    "Funny": 9,
+    "Jaw-dropping": 10,
+    "Unconvincing": 44,
+    "Confusing": 58,
+    "OK": 44,
+    "Longwinded": 57,
+    "Obnoxious": 12
+  },
+  "slug": "philip_evans_how_data_will_transform_business",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/9ba1a6e04055da62e0efcd23254cc3e960b94517_1600x1200.jpg?quality=89&w=600",
+  "title": "How data will transform business",
+  "url": "https://www.ted.com/talks/philip_evans_how_data_will_transform_business",
+  "video": {
+    "low": "http://download.ted.com/talks/PhilipEvans_2013S-light.mp4",
+    "medium": "http://download.ted.com/talks/PhilipEvans_2013S.mp4",
+    "high": "http://download.ted.com/talks/PhilipEvans_2013S-480p.mp4"
+  },
+  "viewCount": 1234098,
+  "year": "2013"
+}

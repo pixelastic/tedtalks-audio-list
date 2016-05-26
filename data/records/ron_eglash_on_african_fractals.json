@@ -1,0 +1,56 @@
+{
+  "audio": null,
+  "author": "Ron Eglash",
+  "dateFilmed": 1181088000,
+  "datePublished": 1196312400,
+  "description": "'I am a mathematician, and I would like to stand on your roof.' That is how Ron Eglash greeted many African families he met while researching the fractal patterns he’d noticed in villages across the continent.",
+  "duration": 1017,
+  "event": "TEDGlobal 2007",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/989c14d1c30d89f74f42a8dacba9d471f0472065_1600x1200.jpg",
+  "keywords": [
+    "Africa",
+    "architecture",
+    "culture",
+    "design",
+    "education",
+    "math",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 198,
+  "otherLanguages": {
+    "bg": "Bulgarian",
+    "el": "Greek",
+    "hu": "Hungarian",
+    "pl": "Polish",
+    "ru": "Russian",
+    "tr": "Turkish"
+  },
+  "ratings": {
+    "Fascinating": 1089,
+    "Ingenious": 399,
+    "Informative": 625,
+    "Unconvincing": 35,
+    "Longwinded": 16,
+    "Inspiring": 353,
+    "Beautiful": 309,
+    "Funny": 69,
+    "Confusing": 44,
+    "Courageous": 39,
+    "Jaw-dropping": 945,
+    "Persuasive": 100,
+    "OK": 51,
+    "Obnoxious": 15
+  },
+  "slug": "ron_eglash_on_african_fractals",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/989c14d1c30d89f74f42a8dacba9d471f0472065_1600x1200.jpg?quality=89&w=600",
+  "title": "The fractals at the heart of African designs",
+  "url": "https://www.ted.com/talks/ron_eglash_on_african_fractals",
+  "video": {
+    "low": "http://download.ted.com/talks/RonEglash_2007G-light.mp4",
+    "medium": "http://download.ted.com/talks/RonEglash_2007G.mp4",
+    "high": "http://download.ted.com/talks/RonEglash_2007G-480p.mp4"
+  },
+  "viewCount": 1330767,
+  "year": "2007"
+}

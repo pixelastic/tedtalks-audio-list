@@ -1,0 +1,54 @@
+{
+  "audio": "http://download.ted.com/talks/MoranCerf_2016.mp3",
+  "author": "Moran Cerf",
+  "dateFilmed": 1455753600,
+  "datePublished": 1463410104,
+  "description": "What if we could peek inside our brains and see our dreams -- or even shape them? Studying memory-specific brain cells, neuroscientist (and ex-hacker) Moran Cerf found that our sleeping brains retain some of the content we encounter when we're awake and that our dreams can influence our waking actions. Where could this lead us? \"Neuroscientists are now giving us a new tool to control our dreams,\" Cerf says, \"a new canvas that flickers to life when we fall asleep.\"",
+  "duration": 1080,
+  "event": "TED2016",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7bcfd719dd7b6c9c0550fcc5d4d63ea875969e5a_2880x1620.jpg",
+  "keywords": [
+    "brain",
+    "communication",
+    "future",
+    "hack",
+    "identity",
+    "intelligence",
+    "life",
+    "mind",
+    "science",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 2503,
+  "otherLanguages": {
+    "en": "English"
+  },
+  "ratings": {
+    "Informative": 231,
+    "Beautiful": 50,
+    "Funny": 81,
+    "Ingenious": 114,
+    "Fascinating": 287,
+    "Inspiring": 151,
+    "OK": 35,
+    "Unconvincing": 3,
+    "Persuasive": 17,
+    "Jaw-dropping": 42,
+    "Longwinded": 1,
+    "Courageous": 10,
+    "Confusing": 5,
+    "Obnoxious": 3
+  },
+  "slug": "moran_cerf_this_scientist_can_hack_your_dreams",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7bcfd719dd7b6c9c0550fcc5d4d63ea875969e5a_2880x1620.jpg?quality=89&w=600",
+  "title": "This scientist can hack your dreams",
+  "url": "https://www.ted.com/talks/moran_cerf_this_scientist_can_hack_your_dreams",
+  "video": {
+    "low": "http://download.ted.com/talks/MoranCerf_2016-light.mp4",
+    "medium": "http://download.ted.com/talks/MoranCerf_2016.mp4",
+    "high": "http://download.ted.com/talks/MoranCerf_2016-480p.mp4"
+  },
+  "viewCount": 535267,
+  "year": "2016"
+}

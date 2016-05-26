@@ -1,0 +1,55 @@
+{
+  "audio": "http://download.ted.com/talks/DavidHolt_2004.mp3",
+  "author": "David Holt",
+  "dateFilmed": 1078182600,
+  "datePublished": 1228687260,
+  "description": "Folk musician and storyteller David Holt plays the banjo and shares photographs and old wisdom from the Appalachian Mountains. He also demonstrates some unusual instruments like the mouth bow -- and a surprising electric drum kit he calls \"thunderwear.\"",
+  "duration": 1517,
+  "event": "TED2004",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/61166_800x600.jpg",
+  "keywords": [
+    "TED Conference",
+    "arts",
+    "culture",
+    "entertainment",
+    "invention",
+    "music",
+    "storytelling"
+  ],
+  "mainLanguage": null,
+  "objectID": 413,
+  "otherLanguages": {
+    "zh-tw": "Chinese, Traditional",
+    "fr": "French",
+    "ru": "Russian",
+    "es": "Spanish",
+    "vi": "Vietnamese"
+  },
+  "ratings": {
+    "Fascinating": 113,
+    "Courageous": 5,
+    "Funny": 108,
+    "Inspiring": 114,
+    "Beautiful": 138,
+    "Jaw-dropping": 26,
+    "OK": 16,
+    "Ingenious": 74,
+    "Confusing": 2,
+    "Informative": 36,
+    "Longwinded": 4,
+    "Obnoxious": 2,
+    "Persuasive": 5,
+    "Unconvincing": 0
+  },
+  "slug": "david_holt_plays_mountain_music",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/61166_800x600.jpg?quality=89&w=600",
+  "title": "The joyful tradition of mountain music",
+  "url": "https://www.ted.com/talks/david_holt_plays_mountain_music",
+  "video": {
+    "low": "http://download.ted.com/talks/DavidHolt_2004-light.mp4",
+    "medium": "http://download.ted.com/talks/DavidHolt_2004.mp4",
+    "high": "http://download.ted.com/talks/DavidHolt_2004-480p.mp4"
+  },
+  "viewCount": 450955,
+  "year": "2004"
+}

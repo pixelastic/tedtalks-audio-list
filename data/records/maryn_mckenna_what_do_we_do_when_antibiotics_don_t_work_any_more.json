@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/MarynMcKenna_2015.mp3",
+  "author": "Maryn McKenna",
+  "dateFilmed": 1427241600,
+  "datePublished": 1435244008,
+  "description": "Penicillin changed everything. Infections that had previously killed were suddenly quickly curable. Yet as Maryn McKenna shares in this sobering talk, we've squandered the advantages afforded us by that and later antibiotics. Drug-resistant bacteria mean we're entering a post-antibiotic world -- and it won't be pretty. There are, however, things we can do ... if we start right now.",
+  "duration": 1019,
+  "event": "TED2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ea09f8ab1a3f70d0cb3199683a32acbc7e45faa7_2880x1620.jpg",
+  "keywords": [
+    "disease",
+    "health",
+    "medicine",
+    "public health"
+  ],
+  "mainLanguage": null,
+  "objectID": 2289,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 922,
+    "Fascinating": 215,
+    "Ingenious": 35,
+    "OK": 67,
+    "Inspiring": 226,
+    "Longwinded": 47,
+    "Unconvincing": 34,
+    "Obnoxious": 31,
+    "Persuasive": 397,
+    "Beautiful": 20,
+    "Courageous": 75,
+    "Jaw-dropping": 110,
+    "Funny": 8,
+    "Confusing": 22
+  },
+  "slug": "maryn_mckenna_what_do_we_do_when_antibiotics_don_t_work_any_more",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ea09f8ab1a3f70d0cb3199683a32acbc7e45faa7_2880x1620.jpg?quality=89&w=600",
+  "title": "What do we do when antibiotics don’t work any more?",
+  "url": "https://www.ted.com/talks/maryn_mckenna_what_do_we_do_when_antibiotics_don_t_work_any_more",
+  "video": {
+    "low": "http://download.ted.com/talks/MarynMcKenna_2015-light.mp4",
+    "medium": "http://download.ted.com/talks/MarynMcKenna_2015.mp4",
+    "high": "http://download.ted.com/talks/MarynMcKenna_2015-480p.mp4"
+  },
+  "viewCount": 1342084,
+  "year": "2015"
+}

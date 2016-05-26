@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/RosieKing_2014P.mp3",
+  "author": "Rosie King",
+  "dateFilmed": 1410220800,
+  "datePublished": 1416585618,
+  "description": "“People are so afraid of variety that they try to fit everything into a tiny little box with a specific label,” says 16-year-old Rosie King, who is bold, brash and autistic. She wants to know: Why is everyone so worried about being normal? She sounds a clarion call for every kid, parent, teacher and person to celebrate uniqueness. It’s a soaring testament to the potential of human diversity.",
+  "duration": 368,
+  "event": "TEDMED 2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/92b5d0860d0450e5bad9f4aba68031ebb35430c4_2880x1620.jpg",
+  "keywords": [
+    "Autism spectrum disorder",
+    "activism",
+    "disability",
+    "mind",
+    "youth"
+  ],
+  "mainLanguage": null,
+  "objectID": 2136,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Courageous": 592,
+    "Informative": 337,
+    "Inspiring": 797,
+    "Beautiful": 369,
+    "Funny": 140,
+    "Unconvincing": 46,
+    "Fascinating": 192,
+    "OK": 70,
+    "Obnoxious": 12,
+    "Jaw-dropping": 25,
+    "Ingenious": 26,
+    "Persuasive": 60,
+    "Confusing": 18,
+    "Longwinded": 42
+  },
+  "slug": "rosie_king_how_autism_freed_me_to_be_myself",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/92b5d0860d0450e5bad9f4aba68031ebb35430c4_2880x1620.jpg?quality=89&w=600",
+  "title": "How autism freed me to be myself",
+  "url": "https://www.ted.com/talks/rosie_king_how_autism_freed_me_to_be_myself",
+  "video": {
+    "low": "http://download.ted.com/talks/RosieKing_2014P-light.mp4",
+    "medium": "http://download.ted.com/talks/RosieKing_2014P.mp4",
+    "high": "http://download.ted.com/talks/RosieKing_2014P-480p.mp4"
+  },
+  "viewCount": 1860497,
+  "year": "2014"
+}

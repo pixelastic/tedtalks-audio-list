@@ -1,0 +1,53 @@
+{
+  "audio": "http://download.ted.com/talks/DavidRothkopf_2015.mp3",
+  "author": "David Rothkopf",
+  "dateFilmed": 1426464000,
+  "datePublished": 1442244720,
+  "description": "Does it seem like Washington has no new ideas? Instead of looking to build the future, it sometimes feels like the US political establishment happily retreats into fear and willful ignorance. Journalist David Rothkopf lays out a few of the major issues that US leadership is failing to address -- from cybercrime to world-shaking new tech to the reality of modern total war -- and calls for a new vision that sets fear aside.",
+  "duration": 1080,
+  "event": "TED2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e3382f47e4b18ba1fa1905aa685e2cd8c7747f81_2880x1620.jpg",
+  "keywords": [
+    "Foreign Policy",
+    "United States",
+    "democracy",
+    "fear",
+    "global issues",
+    "government",
+    "politics",
+    "security",
+    "terrorism",
+    "war"
+  ],
+  "mainLanguage": null,
+  "objectID": 2326,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "OK": 83,
+    "Unconvincing": 40,
+    "Informative": 279,
+    "Ingenious": 17,
+    "Persuasive": 200,
+    "Courageous": 66,
+    "Funny": 11,
+    "Obnoxious": 10,
+    "Inspiring": 142,
+    "Longwinded": 8,
+    "Fascinating": 88,
+    "Jaw-dropping": 26,
+    "Beautiful": 19,
+    "Confusing": 9
+  },
+  "slug": "david_rothkopf_how_fear_drives_american_politics",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e3382f47e4b18ba1fa1905aa685e2cd8c7747f81_2880x1620.jpg?quality=89&w=600",
+  "title": "How fear drives American politics",
+  "url": "https://www.ted.com/talks/david_rothkopf_how_fear_drives_american_politics",
+  "video": {
+    "low": "http://download.ted.com/talks/DavidRothkopf_2015-light.mp4",
+    "medium": "http://download.ted.com/talks/DavidRothkopf_2015.mp4",
+    "high": "http://download.ted.com/talks/DavidRothkopf_2015-480p.mp4"
+  },
+  "viewCount": 1113256,
+  "year": "2015"
+}

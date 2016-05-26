@@ -1,0 +1,54 @@
+{
+  "audio": "http://download.ted.com/talks/GenevievevonPetzinger_2015F.mp3",
+  "author": "Genevieve von Petzinger",
+  "dateFilmed": 1440547200,
+  "datePublished": 1448037106,
+  "description": "Written language, the hallmark of human civilization, didn't just suddenly appear one day. Thousands of years before the first fully developed writing systems, our ancestors scrawled geometric signs across the walls of the caves they sheltered in. Paleoanthropologist, rock art researcher and TED Senior Fellow Genevieve von Petzinger has studied and codified these ancient markings in caves across Europe. The uniformity of her findings suggest that graphic communication, and the ability to preserve and transmit messages beyond a single moment in time, may be much older than we think.",
+  "duration": 725,
+  "event": "TED Fellows Retreat 2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/f90e60dda1de661c95eeb11775c76d30568cd3d5_2880x1620.jpg",
+  "keywords": [
+    "Europe",
+    "TED Fellows",
+    "ancient world",
+    "anthropology",
+    "art",
+    "history",
+    "humanity",
+    "invention",
+    "language",
+    "science",
+    "writing"
+  ],
+  "mainLanguage": null,
+  "objectID": 2377,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 159,
+    "Longwinded": 50,
+    "OK": 150,
+    "Informative": 371,
+    "Fascinating": 359,
+    "Persuasive": 53,
+    "Ingenious": 38,
+    "Inspiring": 90,
+    "Confusing": 21,
+    "Unconvincing": 25,
+    "Obnoxious": 13,
+    "Jaw-dropping": 14,
+    "Courageous": 10,
+    "Funny": 11
+  },
+  "slug": "genevieve_von_petzinger_why_are_these_32_symbols_found_in_ancient_caves_all_over_europe",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/f90e60dda1de661c95eeb11775c76d30568cd3d5_2880x1620.jpg?quality=89&w=600",
+  "title": "Why are these 32 symbols found in ancient caves all over Europe?",
+  "url": "https://www.ted.com/talks/genevieve_von_petzinger_why_are_these_32_symbols_found_in_ancient_caves_all_over_europe",
+  "video": {
+    "low": "http://download.ted.com/talks/GenevievevonPetzinger_2015F-light.mp4",
+    "medium": "http://download.ted.com/talks/GenevievevonPetzinger_2015F.mp4",
+    "high": "http://download.ted.com/talks/GenevievevonPetzinger_2015F-480p.mp4"
+  },
+  "viewCount": 2143226,
+  "year": "2015"
+}

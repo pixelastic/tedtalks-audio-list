@@ -1,0 +1,46 @@
+{
+  "audio": "http://download.ted.com/talks/RupalPatel_2013W.mp3",
+  "author": "Rupal Patel",
+  "dateFilmed": 1386201600,
+  "datePublished": 1392307205,
+  "description": "Many of those with severe speech disorders use a computerized device to communicate. Yet they choose between only a few voice options. That's why Stephen Hawking has an American accent, and why many people end up with the same voice, often to incongruous effect. Speech scientist Rupal Patel wanted to do something about this, and in this wonderful talk she shares her work to engineer unique voices for the voiceless.",
+  "duration": 704,
+  "event": "TEDWomen 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/41c926d7412d2fedb89a90a55dafa00759ccf259_1600x1200.jpg",
+  "keywords": [
+    "science",
+    "speech",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 1928,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Jaw-dropping": 66,
+    "Beautiful": 144,
+    "Ingenious": 130,
+    "Inspiring": 216,
+    "Fascinating": 151,
+    "Persuasive": 26,
+    "Informative": 89,
+    "OK": 34,
+    "Confusing": 1,
+    "Obnoxious": 3,
+    "Courageous": 14,
+    "Longwinded": 5,
+    "Funny": 8,
+    "Unconvincing": 3
+  },
+  "slug": "rupal_patel_synthetic_voices_as_unique_as_fingerprints",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/41c926d7412d2fedb89a90a55dafa00759ccf259_1600x1200.jpg?quality=89&w=600",
+  "title": "Synthetic voices, as unique as fingerprints ",
+  "url": "https://www.ted.com/talks/rupal_patel_synthetic_voices_as_unique_as_fingerprints",
+  "video": {
+    "low": "http://download.ted.com/talks/RupalPatel_2013W-light.mp4",
+    "medium": "http://download.ted.com/talks/RupalPatel_2013W.mp4",
+    "high": "http://download.ted.com/talks/RupalPatel_2013W-480p.mp4"
+  },
+  "viewCount": 805555,
+  "year": "2013"
+}

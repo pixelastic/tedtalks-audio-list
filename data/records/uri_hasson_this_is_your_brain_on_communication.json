@@ -1,0 +1,56 @@
+{
+  "audio": "http://download.ted.com/talks/UriHasson_2016.mp3",
+  "author": "Uri Hasson",
+  "dateFilmed": 1455753600,
+  "datePublished": 1462892747,
+  "description": "Neuroscientist Uri Hasson researches the basis of human communication, and experiments from his lab reveal that even across different languages, our brains show similar activity, or become \"aligned,\" when we hear the same idea or story. This amazing neural mechanism allows us to transmit brain patterns, sharing memories and knowledge. \"We can communicate because we have a common code that presents meaning,\" Hasson says.",
+  "duration": 891,
+  "event": "TED2016",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/353545d58703d32d2bd05323faa35b2cfc389e42_2880x1620.jpg",
+  "keywords": [
+    "brain",
+    "cognitive science",
+    "collaboration",
+    "communication",
+    "language",
+    "mind",
+    "neuroscience",
+    "relationships",
+    "science",
+    "speech"
+  ],
+  "mainLanguage": null,
+  "objectID": 2495,
+  "otherLanguages": {
+    "ar": "Arabic",
+    "en": "English",
+    "es": "Spanish"
+  },
+  "ratings": {
+    "Informative": 184,
+    "Fascinating": 124,
+    "Jaw-dropping": 13,
+    "Persuasive": 50,
+    "OK": 24,
+    "Inspiring": 50,
+    "Confusing": 12,
+    "Unconvincing": 7,
+    "Ingenious": 20,
+    "Obnoxious": 5,
+    "Funny": 7,
+    "Beautiful": 17,
+    "Courageous": 8,
+    "Longwinded": 4
+  },
+  "slug": "uri_hasson_this_is_your_brain_on_communication",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/353545d58703d32d2bd05323faa35b2cfc389e42_2880x1620.jpg?quality=89&w=600",
+  "title": "This is your brain on communication",
+  "url": "https://www.ted.com/talks/uri_hasson_this_is_your_brain_on_communication",
+  "video": {
+    "low": "http://download.ted.com/talks/UriHasson_2016-light.mp4",
+    "medium": "http://download.ted.com/talks/UriHasson_2016.mp4",
+    "high": "http://download.ted.com/talks/UriHasson_2016-480p.mp4"
+  },
+  "viewCount": 603556,
+  "year": "2016"
+}

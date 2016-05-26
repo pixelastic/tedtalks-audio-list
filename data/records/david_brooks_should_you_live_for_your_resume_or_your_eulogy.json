@@ -1,0 +1,49 @@
+{
+  "audio": "http://download.ted.com/talks/DavidBrooks_2014U.mp3",
+  "author": "David Brooks",
+  "dateFilmed": 1395187200,
+  "datePublished": 1397488146,
+  "description": "Within each of us are two selves, suggests David Brooks in this meditative short talk: the self who craves success, who builds a résumé, and the self who seeks connection, community, love -- the values that make for a great eulogy. (Joseph Soloveitchik has called these selves \"Adam I\" and \"Adam II.\") Brooks asks: Can we balance these two selves?",
+  "duration": 301,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/5961b0d9b494a3ad7e3f248eb03ca4a7712394cb_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "philosophy",
+    "psychology",
+    "self",
+    "success"
+  ],
+  "mainLanguage": null,
+  "objectID": 1973,
+  "otherLanguages": {
+    "zh-tw": "Chinese, Traditional"
+  },
+  "ratings": {
+    "Fascinating": 334,
+    "Longwinded": 49,
+    "OK": 290,
+    "Persuasive": 172,
+    "Unconvincing": 171,
+    "Inspiring": 737,
+    "Confusing": 51,
+    "Informative": 143,
+    "Beautiful": 311,
+    "Courageous": 107,
+    "Ingenious": 39,
+    "Obnoxious": 32,
+    "Funny": 3,
+    "Jaw-dropping": 17
+  },
+  "slug": "david_brooks_should_you_live_for_your_resume_or_your_eulogy",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/5961b0d9b494a3ad7e3f248eb03ca4a7712394cb_1600x1200.jpg?quality=89&w=600",
+  "title": "Should you live for your résumé ... or your eulogy?",
+  "url": "https://www.ted.com/talks/david_brooks_should_you_live_for_your_resume_or_your_eulogy",
+  "video": {
+    "low": "http://download.ted.com/talks/DavidBrooks_2014U-light.mp4",
+    "medium": "http://download.ted.com/talks/DavidBrooks_2014U.mp4",
+    "high": "http://download.ted.com/talks/DavidBrooks_2014U-480p.mp4"
+  },
+  "viewCount": 1963706,
+  "year": "2014"
+}

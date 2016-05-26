@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/BillGates_2013S.mp3",
+  "author": "Bill Gates",
+  "dateFilmed": 1367884800,
+  "datePublished": 1368025280,
+  "description": "Until recently, many teachers only got one word of feedback a year: \"satisfactory.\" And with no feedback, no coaching, there's just no way to improve. Bill Gates suggests that even great teachers can get better with smart feedback -- and lays out a program from his foundation to bring it to every classroom.",
+  "duration": 624,
+  "event": "TED Talks Education",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/0a0df8ae49896dfc634c70373ce09f059f1a5f21_1600x1200.jpg",
+  "keywords": [
+    "TED Brain Trust",
+    "culture",
+    "education",
+    "global issues",
+    "teaching"
+  ],
+  "mainLanguage": null,
+  "objectID": 1739,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 271,
+    "Persuasive": 148,
+    "Inspiring": 269,
+    "OK": 86,
+    "Fascinating": 75,
+    "Ingenious": 35,
+    "Unconvincing": 62,
+    "Longwinded": 11,
+    "Obnoxious": 44,
+    "Courageous": 26,
+    "Jaw-dropping": 26,
+    "Confusing": 4,
+    "Beautiful": 38,
+    "Funny": 4
+  },
+  "slug": "bill_gates_teachers_need_real_feedback",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/0a0df8ae49896dfc634c70373ce09f059f1a5f21_1600x1200.jpg?quality=89&w=600",
+  "title": "Teachers need real feedback",
+  "url": "https://www.ted.com/talks/bill_gates_teachers_need_real_feedback",
+  "video": {
+    "low": "http://download.ted.com/talks/BillGates_2013S-light.mp4",
+    "medium": "http://download.ted.com/talks/BillGates_2013S.mp4",
+    "high": "http://download.ted.com/talks/BillGates_2013S-480p.mp4"
+  },
+  "viewCount": 1930950,
+  "year": "2013"
+}

@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/SimonSinek_2014.mp3",
+  "author": "Simon Sinek",
+  "dateFilmed": 1394755200,
+  "datePublished": 1400511643,
+  "description": "What makes a great leader? Management theorist Simon Sinek suggests, it’s someone who makes their employees feel secure, who draws staffers into a circle of trust. But creating trust and safety — especially in an uneven economy — means taking on big responsibility.",
+  "duration": 719,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b6cccc7593928f4861601289b937d19dac95bed9_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "business",
+    "leadership",
+    "military",
+    "work"
+  ],
+  "mainLanguage": null,
+  "objectID": 1998,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Inspiring": 6884,
+    "Informative": 1471,
+    "Ingenious": 525,
+    "Courageous": 608,
+    "Beautiful": 901,
+    "Persuasive": 1389,
+    "Fascinating": 972,
+    "Jaw-dropping": 109,
+    "Longwinded": 40,
+    "Unconvincing": 77,
+    "Obnoxious": 20,
+    "OK": 166,
+    "Funny": 36,
+    "Confusing": 16
+  },
+  "slug": "simon_sinek_why_good_leaders_make_you_feel_safe",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b6cccc7593928f4861601289b937d19dac95bed9_1600x1200.jpg?quality=89&w=600",
+  "title": "Why good leaders make you feel safe",
+  "url": "https://www.ted.com/talks/simon_sinek_why_good_leaders_make_you_feel_safe",
+  "video": {
+    "low": "http://download.ted.com/talks/SimonSinek_2014-light.mp4",
+    "medium": "http://download.ted.com/talks/SimonSinek_2014.mp4",
+    "high": "http://download.ted.com/talks/SimonSinek_2014-480p.mp4"
+  },
+  "viewCount": 4704099,
+  "year": "2014"
+}

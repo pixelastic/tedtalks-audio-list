@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/MorganaBailey_2014S.mp3",
+  "author": "Morgana Bailey",
+  "dateFilmed": 1416441600,
+  "datePublished": 1422027957,
+  "description": "Morgana Bailey has been hiding her true self for 16 years. In a brave talk, she utters four words that might not seem like a big deal to some, but to her have been paralyzing. Why speak up? Because she’s realized that her silence has personal, professional and societal consequences. In front of an audience of her co-workers, she reflects on what it means to fear the judgment of others, and how it makes us judge ourselves.",
+  "duration": 622,
+  "event": "TED@State Street London",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7cabd493e3ea21b4bcae2a00d1d94cff7d57b2d1_2880x1620.jpg",
+  "keywords": [
+    "LGBT",
+    "business",
+    "social change",
+    "work"
+  ],
+  "mainLanguage": null,
+  "objectID": 2171,
+  "otherLanguages": {
+    "zh-tw": "Chinese, Traditional"
+  },
+  "ratings": {
+    "Beautiful": 565,
+    "Courageous": 1033,
+    "Unconvincing": 85,
+    "Obnoxious": 70,
+    "Inspiring": 768,
+    "Persuasive": 126,
+    "Informative": 156,
+    "Confusing": 16,
+    "Funny": 16,
+    "OK": 174,
+    "Fascinating": 59,
+    "Longwinded": 35,
+    "Jaw-dropping": 7,
+    "Ingenious": 6
+  },
+  "slug": "morgana_bailey_the_danger_of_hiding_who_you_are",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7cabd493e3ea21b4bcae2a00d1d94cff7d57b2d1_2880x1620.jpg?quality=89&w=600",
+  "title": "The danger of hiding who you are",
+  "url": "https://www.ted.com/talks/morgana_bailey_the_danger_of_hiding_who_you_are",
+  "video": {
+    "low": "http://download.ted.com/talks/MorganaBailey_2014S-light.mp4",
+    "medium": "http://download.ted.com/talks/MorganaBailey_2014S.mp4",
+    "high": "http://download.ted.com/talks/MorganaBailey_2014S-480p.mp4"
+  },
+  "viewCount": 2419703,
+  "year": "2014"
+}

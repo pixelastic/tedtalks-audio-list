@@ -1,0 +1,50 @@
+{
+  "audio": "http://download.ted.com/talks/KeesMoeliker_2013.mp3",
+  "author": "Kees Moeliker",
+  "dateFilmed": 1362009600,
+  "datePublished": 1364822486,
+  "description": "One afternoon, Kees Moeliker got a research opportunity few ornithologists would wish for: A flying duck slammed into his glass office building, died, and then … what happened next would change his life. [Note: Contains graphic images and descriptions of sexual behavior in animals.]",
+  "duration": 712,
+  "event": "TED2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/19270b766dd041f35e7ffd090935d52b0a8fc305_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "biology",
+    "birds",
+    "humor",
+    "science",
+    "sex"
+  ],
+  "mainLanguage": null,
+  "objectID": 1703,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified"
+  },
+  "ratings": {
+    "Funny": 736,
+    "Obnoxious": 61,
+    "OK": 74,
+    "Informative": 179,
+    "Courageous": 34,
+    "Fascinating": 156,
+    "Longwinded": 20,
+    "Inspiring": 29,
+    "Beautiful": 17,
+    "Confusing": 38,
+    "Ingenious": 34,
+    "Jaw-dropping": 35,
+    "Unconvincing": 27,
+    "Persuasive": 17
+  },
+  "slug": "kees_moeliker_how_a_dead_duck_changed_my_life",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/19270b766dd041f35e7ffd090935d52b0a8fc305_1600x1200.jpg?quality=89&w=600",
+  "title": "How a dead duck changed my life",
+  "url": "https://www.ted.com/talks/kees_moeliker_how_a_dead_duck_changed_my_life",
+  "video": {
+    "low": "http://download.ted.com/talks/KeesMoeliker_2013-light.mp4",
+    "medium": "http://download.ted.com/talks/KeesMoeliker_2013.mp4",
+    "high": "http://download.ted.com/talks/KeesMoeliker_2013-480p.mp4"
+  },
+  "viewCount": 1225513,
+  "year": "2013"
+}

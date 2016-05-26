@@ -1,0 +1,48 @@
+{
+  "audio": null,
+  "author": "Joel Selanikio",
+  "dateFilmed": 1360368000,
+  "datePublished": 1372777274,
+  "description": "Collecting global health data was an imperfect science: Workers tramped through villages to knock on doors and ask questions, wrote the answers on paper forms, then input the data -- and from this gappy information, countries would make huge decisions. Data geek Joel Selanikio talks through the sea change in collecting health data in the past decade -- starting with the PalmPilot and Hotmail, and now moving into the cloud. (Filmed at TEDxAustin.)",
+  "duration": 978,
+  "event": "TEDxAustin",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/f9d59da65530d17cbbc8afe5d431949ab952e118_1600x1200.jpg",
+  "keywords": [
+    "TEDx",
+    "data",
+    "global issues",
+    "health",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 1779,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Inspiring": 86,
+    "Persuasive": 34,
+    "OK": 59,
+    "Informative": 153,
+    "Longwinded": 58,
+    "Unconvincing": 12,
+    "Fascinating": 27,
+    "Ingenious": 41,
+    "Beautiful": 9,
+    "Courageous": 11,
+    "Obnoxious": 5,
+    "Jaw-dropping": 10,
+    "Funny": 1,
+    "Confusing": 0
+  },
+  "slug": "joel_selanikio_the_surprising_seeds_of_a_big_data_revolution_in_healthcare",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/f9d59da65530d17cbbc8afe5d431949ab952e118_1600x1200.jpg?quality=89&w=600",
+  "title": "The surprising seeds of a big-data revolution in healthcare",
+  "url": "https://www.ted.com/talks/joel_selanikio_the_surprising_seeds_of_a_big_data_revolution_in_healthcare",
+  "video": {
+    "low": "http://download.ted.com/talks/JoelSelanikio_2013X-light.mp4",
+    "medium": "http://download.ted.com/talks/JoelSelanikio_2013X.mp4",
+    "high": "http://download.ted.com/talks/JoelSelanikio_2013X-480p.mp4"
+  },
+  "viewCount": 640583,
+  "year": "2013"
+}

@@ -1,0 +1,46 @@
+{
+  "audio": "http://download.ted.com/talks/WesMoore_2014S.mp3",
+  "author": "Wes Moore",
+  "dateFilmed": 1389830400,
+  "datePublished": 1400856454,
+  "description": "Wes Moore joined the US Army to pay for college, but the experience became core to who he is. In this heartfelt talk, the paratrooper and captain—who went on to write \"The Other Wes Moore\"—explains the shock of returning home from Afghanistan. He shares the single phrase he heard from civilians on repeat, and shows why it's just not sufficient. It's a call for all of us to ask veterans to tell their stories — and listen.",
+  "duration": 867,
+  "event": "TEDSalon NY2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/774cc02ff8ca33cc400d461723556487bc9228de_1600x1200.jpg",
+  "keywords": [
+    "peace",
+    "war"
+  ],
+  "mainLanguage": null,
+  "objectID": 2008,
+  "otherLanguages": {
+    "zh-tw": "Chinese, Traditional"
+  },
+  "ratings": {
+    "Courageous": 219,
+    "OK": 30,
+    "Inspiring": 285,
+    "Obnoxious": 24,
+    "Informative": 148,
+    "Persuasive": 53,
+    "Fascinating": 42,
+    "Jaw-dropping": 15,
+    "Ingenious": 13,
+    "Beautiful": 78,
+    "Unconvincing": 13,
+    "Longwinded": 9,
+    "Confusing": 5,
+    "Funny": 6
+  },
+  "slug": "wes_moore_how_to_talk_to_veterans_about_the_war",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/774cc02ff8ca33cc400d461723556487bc9228de_1600x1200.jpg?quality=89&w=600",
+  "title": "How to talk to veterans about the war",
+  "url": "https://www.ted.com/talks/wes_moore_how_to_talk_to_veterans_about_the_war",
+  "video": {
+    "low": "http://download.ted.com/talks/WesMoore_2014S-light.mp4",
+    "medium": "http://download.ted.com/talks/WesMoore_2014S.mp4",
+    "high": "http://download.ted.com/talks/WesMoore_2014S-480p.mp4"
+  },
+  "viewCount": 834052,
+  "year": "2014"
+}

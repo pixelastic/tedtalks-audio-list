@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/BillGross_2015U.mp3",
+  "author": "Bill Gross",
+  "dateFilmed": 1426723200,
+  "datePublished": 1433171625,
+  "description": "Bill Gross has founded a lot of startups, and incubated many others -- and he got curious about why some succeeded and others failed. So he gathered data from hundreds of companies, his own and other people's, and ranked each company on five key factors. He found one factor that stands out from the others -- and surprised even him.",
+  "duration": 400,
+  "event": "TED2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/55c617f514a04f27d3ac75bde232665257c64326_2880x1620.jpg",
+  "keywords": [
+    "business",
+    "creativity",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 2272,
+  "otherLanguages": {
+    "pt-br": "Portuguese, Brazilian"
+  },
+  "ratings": {
+    "Informative": 1467,
+    "Beautiful": 103,
+    "Inspiring": 574,
+    "Ingenious": 71,
+    "Persuasive": 327,
+    "OK": 173,
+    "Fascinating": 174,
+    "Unconvincing": 77,
+    "Confusing": 10,
+    "Longwinded": 7,
+    "Courageous": 27,
+    "Funny": 7,
+    "Jaw-dropping": 12,
+    "Obnoxious": 4
+  },
+  "slug": "bill_gross_the_single_biggest_reason_why_startups_succeed",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/55c617f514a04f27d3ac75bde232665257c64326_2880x1620.jpg?quality=89&w=600",
+  "title": "The single biggest reason why startups succeed",
+  "url": "https://www.ted.com/talks/bill_gross_the_single_biggest_reason_why_startups_succeed",
+  "video": {
+    "low": "http://download.ted.com/talks/BillGross_2015U-light.mp4",
+    "medium": "http://download.ted.com/talks/BillGross_2015U.mp4",
+    "high": "http://download.ted.com/talks/BillGross_2015U-480p.mp4"
+  },
+  "viewCount": 2538126,
+  "year": "2015"
+}

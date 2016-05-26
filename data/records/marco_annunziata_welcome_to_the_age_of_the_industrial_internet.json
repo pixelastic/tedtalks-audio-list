@@ -1,0 +1,46 @@
+{
+  "audio": "http://download.ted.com/talks/MarcoAnnunziata_2013S.mp3",
+  "author": "Marco Annunziata",
+  "dateFilmed": 1383091200,
+  "datePublished": 1387295998,
+  "description": "Everyone's talking about the \"Internet of Things,\" but what exactly does that mean for our future? In this thoughtful talk, economist Marco Annunziata looks at how technology is transforming the industrial sector, creating machines that can see, feel, sense and react -- so they can be operated far more efficiently. Think: airplane parts that send an alert when they need to be serviced, or wind turbines that communicate with one another to generate more electricity. It's a future with exciting implications for us all.",
+  "duration": 756,
+  "event": "TED@BCG San Francisco",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e779a0988892a708baada15e8b75e7557245235b_1600x1200.jpg",
+  "keywords": [
+    "economics",
+    "infrastructure",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 1893,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 258,
+    "Ingenious": 50,
+    "Fascinating": 115,
+    "Unconvincing": 64,
+    "Inspiring": 121,
+    "Persuasive": 59,
+    "OK": 57,
+    "Longwinded": 30,
+    "Courageous": 9,
+    "Confusing": 7,
+    "Obnoxious": 7,
+    "Beautiful": 9,
+    "Jaw-dropping": 8,
+    "Funny": 0
+  },
+  "slug": "marco_annunziata_welcome_to_the_age_of_the_industrial_internet",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e779a0988892a708baada15e8b75e7557245235b_1600x1200.jpg?quality=89&w=600",
+  "title": "Welcome to the age of the industrial internet",
+  "url": "https://www.ted.com/talks/marco_annunziata_welcome_to_the_age_of_the_industrial_internet",
+  "video": {
+    "low": "http://download.ted.com/talks/MarcoAnnunziata_2013S-light.mp4",
+    "medium": "http://download.ted.com/talks/MarcoAnnunziata_2013S.mp4",
+    "high": "http://download.ted.com/talks/MarcoAnnunziata_2013S-480p.mp4"
+  },
+  "viewCount": 1346651,
+  "year": "2013"
+}

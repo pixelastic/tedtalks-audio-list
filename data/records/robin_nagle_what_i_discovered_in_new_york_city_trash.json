@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/RobinNagle_2013Z.mp3",
+  "author": "Robin Nagle",
+  "dateFilmed": 1379635200,
+  "datePublished": 1383667226,
+  "description": "New York City residents produce 11,000 tons of garbage every day. Every day! This astonishing statistic is just one of the reasons Robin Nagle started a research project with the city's Department of Sanitation. She walked the routes, operated mechanical brooms, even drove a garbage truck herself--all so she could answer a simple-sounding but complicated question: who cleans up after us?",
+  "duration": 472,
+  "event": "TEDCity2.0",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8a378e151d8d80ac60c4591be2838157b4fe943c_1600x1200.jpg",
+  "keywords": [
+    "anthropology",
+    "business",
+    "culture",
+    "sanitation"
+  ],
+  "mainLanguage": null,
+  "objectID": 1858,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 263,
+    "Fascinating": 68,
+    "Inspiring": 251,
+    "Persuasive": 168,
+    "OK": 114,
+    "Courageous": 57,
+    "Beautiful": 90,
+    "Jaw-dropping": 9,
+    "Longwinded": 26,
+    "Unconvincing": 27,
+    "Ingenious": 16,
+    "Obnoxious": 16,
+    "Funny": 4,
+    "Confusing": 9
+  },
+  "slug": "robin_nagle_what_i_discovered_in_new_york_city_trash",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8a378e151d8d80ac60c4591be2838157b4fe943c_1600x1200.jpg?quality=89&w=600",
+  "title": "What I discovered in New York City  trash",
+  "url": "https://www.ted.com/talks/robin_nagle_what_i_discovered_in_new_york_city_trash",
+  "video": {
+    "low": "http://download.ted.com/talks/RobinNagle_2013Z-light.mp4",
+    "medium": "http://download.ted.com/talks/RobinNagle_2013Z.mp4",
+    "high": "http://download.ted.com/talks/RobinNagle_2013Z-480p.mp4"
+  },
+  "viewCount": 1571141,
+  "year": "2013"
+}

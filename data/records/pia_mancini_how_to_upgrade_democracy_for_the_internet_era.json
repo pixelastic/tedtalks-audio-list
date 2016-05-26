@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/PiaMancini_2014G.mp3",
+  "author": "Pia Mancini",
+  "dateFilmed": 1412640000,
+  "datePublished": 1412784329,
+  "description": "Pia Mancini and her colleagues want to upgrade democracy in Argentina and beyond. Through their open-source mobile platform they want to bring citizens inside the legislative process, and run candidates who will listen to what they say.",
+  "duration": 804,
+  "event": "TEDGlobal 2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/bbd1220c33566a0cfa339f526b881013a4e9f283_2880x1620.jpg",
+  "keywords": [
+    "government",
+    "open-source",
+    "politics",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 2104,
+  "otherLanguages": {
+    "zh-tw": "Chinese, Traditional"
+  },
+  "ratings": {
+    "Courageous": 301,
+    "Informative": 235,
+    "Inspiring": 668,
+    "Ingenious": 155,
+    "Persuasive": 234,
+    "Longwinded": 13,
+    "OK": 43,
+    "Beautiful": 57,
+    "Fascinating": 153,
+    "Unconvincing": 37,
+    "Jaw-dropping": 21,
+    "Funny": 11,
+    "Confusing": 11,
+    "Obnoxious": 10
+  },
+  "slug": "pia_mancini_how_to_upgrade_democracy_for_the_internet_era",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/bbd1220c33566a0cfa339f526b881013a4e9f283_2880x1620.jpg?quality=89&w=600",
+  "title": "How to upgrade democracy for the Internet era",
+  "url": "https://www.ted.com/talks/pia_mancini_how_to_upgrade_democracy_for_the_internet_era",
+  "video": {
+    "low": "http://download.ted.com/talks/PiaMancini_2014G-light.mp4",
+    "medium": "http://download.ted.com/talks/PiaMancini_2014G.mp4",
+    "high": "http://download.ted.com/talks/PiaMancini_2014G-480p.mp4"
+  },
+  "viewCount": 1137454,
+  "year": "2014"
+}

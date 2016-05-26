@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/UldusBakhtiozina_2014U.mp3",
+  "author": "Uldus Bakhtiozina",
+  "dateFilmed": 1395273600,
+  "datePublished": 1410533943,
+  "description": "Artist Uldus Bakhtiozina uses photographs to poke fun at societal norms in her native Russia. A glimpse into Russian youth culture and a short, fun reminder not to take ourselves too seriously.",
+  "duration": 243,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/dabbc02ae0b7008453faebfc07457f7321a84066_2400x1800.jpg",
+  "keywords": [
+    "TED Conference",
+    "TED Fellows",
+    "art",
+    "humor",
+    "photography"
+  ],
+  "mainLanguage": null,
+  "objectID": 2089,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 235,
+    "Courageous": 101,
+    "Funny": 284,
+    "Inspiring": 161,
+    "Informative": 46,
+    "Ingenious": 57,
+    "OK": 96,
+    "Fascinating": 53,
+    "Confusing": 26,
+    "Obnoxious": 24,
+    "Unconvincing": 68,
+    "Longwinded": 18,
+    "Persuasive": 17,
+    "Jaw-dropping": 1
+  },
+  "slug": "uldus_bakhtiozina_wry_photos_that_turn_stereotypes_upside_down",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/dabbc02ae0b7008453faebfc07457f7321a84066_2400x1800.jpg?quality=89&w=600",
+  "title": "Wry photos that turn stereotypes upside down",
+  "url": "https://www.ted.com/talks/uldus_bakhtiozina_wry_photos_that_turn_stereotypes_upside_down",
+  "video": {
+    "low": "http://download.ted.com/talks/UldusBakhtiozina_2014U-light.mp4",
+    "medium": "http://download.ted.com/talks/UldusBakhtiozina_2014U.mp4",
+    "high": "http://download.ted.com/talks/UldusBakhtiozina_2014U-480p.mp4"
+  },
+  "viewCount": 1363417,
+  "year": "2014"
+}

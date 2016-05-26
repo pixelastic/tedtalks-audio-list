@@ -1,0 +1,50 @@
+{
+  "audio": "http://download.ted.com/talks/WendyChung_2014.mp3",
+  "author": "Wendy Chung",
+  "dateFilmed": 1395273600,
+  "datePublished": 1398697057,
+  "description": "In this factual talk, geneticist Wendy Chung shares what we know about autism spectrum disorder — for example, that autism has multiple, perhaps interlocking, causes. Looking beyond the worry and concern that can surround a diagnosis, Chung and her team look at what we’ve learned through studies, treatments and careful listening.",
+  "duration": 935,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/682f3f12bf88ac224376f8062f828c43416b174d_1600x1200.jpg",
+  "keywords": [
+    "Autism spectrum disorder",
+    "TED Conference",
+    "cognitive science",
+    "genetics",
+    "health",
+    "neuroscience",
+    "science"
+  ],
+  "mainLanguage": null,
+  "objectID": 1985,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 932,
+    "Fascinating": 335,
+    "Unconvincing": 99,
+    "Obnoxious": 31,
+    "Inspiring": 210,
+    "Longwinded": 24,
+    "Persuasive": 191,
+    "Courageous": 27,
+    "OK": 101,
+    "Beautiful": 55,
+    "Ingenious": 35,
+    "Confusing": 11,
+    "Jaw-dropping": 11,
+    "Funny": 9
+  },
+  "slug": "wendy_chung_autism_what_we_know_and_what_we_don_t_know_yet",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/682f3f12bf88ac224376f8062f828c43416b174d_1600x1200.jpg?quality=89&w=600",
+  "title": "Autism — what we know (and what we don’t know yet)",
+  "url": "https://www.ted.com/talks/wendy_chung_autism_what_we_know_and_what_we_don_t_know_yet",
+  "video": {
+    "low": "http://download.ted.com/talks/WendyChung_2014-light.mp4",
+    "medium": "http://download.ted.com/talks/WendyChung_2014.mp4",
+    "high": "http://download.ted.com/talks/WendyChung_2014-480p.mp4"
+  },
+  "viewCount": 1922140,
+  "year": "2014"
+}

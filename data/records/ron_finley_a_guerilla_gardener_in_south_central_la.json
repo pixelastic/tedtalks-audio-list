@@ -1,0 +1,50 @@
+{
+  "audio": "http://download.ted.com/talks/RonFinley_2013.mp3",
+  "author": "Ron Finley",
+  "dateFilmed": 1362009600,
+  "datePublished": 1362586018,
+  "description": "Ron Finley plants vegetable gardens in South Central LA -- in abandoned lots, traffic medians, along the curbs. Why? For fun, for defiance, for beauty and to offer some alternative to fast food in a community where \"the drive-thrus are killing more people than the drive-bys.\"",
+  "duration": 645,
+  "event": "TED2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/6252310a14e8c9ac62c908bdc8cef8f07d0f125b_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "agriculture",
+    "culture",
+    "food",
+    "garden",
+    "health",
+    "social change"
+  ],
+  "mainLanguage": null,
+  "objectID": 1685,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Ingenious": 575,
+    "Fascinating": 276,
+    "Inspiring": 2084,
+    "Courageous": 642,
+    "Beautiful": 410,
+    "Persuasive": 661,
+    "Informative": 246,
+    "Funny": 504,
+    "Jaw-dropping": 204,
+    "Unconvincing": 5,
+    "OK": 26,
+    "Obnoxious": 10,
+    "Confusing": 6,
+    "Longwinded": 5
+  },
+  "slug": "ron_finley_a_guerilla_gardener_in_south_central_la",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/6252310a14e8c9ac62c908bdc8cef8f07d0f125b_1600x1200.jpg?quality=89&w=600",
+  "title": "A guerilla gardener in South Central LA",
+  "url": "https://www.ted.com/talks/ron_finley_a_guerilla_gardener_in_south_central_la",
+  "video": {
+    "low": "http://download.ted.com/talks/RonFinley_2013-light.mp4",
+    "medium": "http://download.ted.com/talks/RonFinley_2013.mp4",
+    "high": "http://download.ted.com/talks/RonFinley_2013-480p.mp4"
+  },
+  "viewCount": 2687416,
+  "year": "2013"
+}

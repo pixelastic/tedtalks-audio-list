@@ -1,0 +1,49 @@
+{
+  "audio": null,
+  "author": "Eric Whitacre",
+  "dateFilmed": 1268237040,
+  "datePublished": 1271429940,
+  "description": "185 voices from 12 countries join a choir that spans the globe: \"Lux Aurumque,\" composed and conducted by Eric Whitacre, merges hundreds of tracks individually recorded and posted to YouTube. It's an astonishing illustration of how technology can connect us.",
+  "duration": 255,
+  "event": "Eric Whitacre's Virtual Choir",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/164505_800x600.jpg",
+  "keywords": [
+    "Internet",
+    "music",
+    "online video",
+    "performance",
+    "web"
+  ],
+  "mainLanguage": null,
+  "objectID": 832,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Jaw-dropping": 274,
+    "Beautiful": 514,
+    "Inspiring": 292,
+    "Ingenious": 199,
+    "OK": 40,
+    "Fascinating": 197,
+    "Courageous": 19,
+    "Persuasive": 17,
+    "Unconvincing": 16,
+    "Longwinded": 11,
+    "Funny": 37,
+    "Informative": 8,
+    "Confusing": 2,
+    "Obnoxious": 9
+  },
+  "slug": "a_choir_as_big_as_the_internet",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/164505_800x600.jpg?quality=89&w=600",
+  "title": "A choir as big as the Internet",
+  "url": "https://www.ted.com/talks/a_choir_as_big_as_the_internet",
+  "video": {
+    "youtube": {
+      "id": "D7o7BrlbaDs",
+      "url": "http://www.youtube.com/watch?v=D7o7BrlbaDs#t=0m20s"
+    }
+  },
+  "viewCount": 395163,
+  "year": "2010"
+}

@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/YassminAbdelMagied_2014X.mp3",
+  "author": "Yassmin Abdel-Magied",
+  "dateFilmed": 1418169600,
+  "datePublished": 1432741591,
+  "description": "What do you think when you look at this speaker? Well, think again. (And then again.) In this funny, honest, empathetic talk, Yassmin Abdel-Magied challenges us to look beyond our initial perceptions, and to open doors to new ways of supporting others. ",
+  "duration": 841,
+  "event": "TEDxSouthBank",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b3c8a767c074d6d211fd7e5a3f3a6fc89ac10d83_2880x1620.jpg",
+  "keywords": [
+    "TEDx",
+    "activism",
+    "culture",
+    "religion",
+    "women"
+  ],
+  "mainLanguage": null,
+  "objectID": 2262,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 475,
+    "Inspiring": 987,
+    "Persuasive": 388,
+    "Beautiful": 278,
+    "Fascinating": 257,
+    "Unconvincing": 70,
+    "Obnoxious": 44,
+    "Funny": 147,
+    "Courageous": 232,
+    "Ingenious": 45,
+    "Longwinded": 42,
+    "OK": 75,
+    "Jaw-dropping": 37,
+    "Confusing": 28
+  },
+  "slug": "yassmin_abdel_magied_what_does_my_headscarf_mean_to_you",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b3c8a767c074d6d211fd7e5a3f3a6fc89ac10d83_2880x1620.jpg?quality=89&w=600",
+  "title": "What does my headscarf mean to you?",
+  "url": "https://www.ted.com/talks/yassmin_abdel_magied_what_does_my_headscarf_mean_to_you",
+  "video": {
+    "low": "http://download.ted.com/talks/YassminAbdelMagied_2014X-light.mp4",
+    "medium": "http://download.ted.com/talks/YassminAbdelMagied_2014X.mp4",
+    "high": "http://download.ted.com/talks/YassminAbdelMagied_2014X-480p.mp4"
+  },
+  "viewCount": 1530585,
+  "year": "2014"
+}

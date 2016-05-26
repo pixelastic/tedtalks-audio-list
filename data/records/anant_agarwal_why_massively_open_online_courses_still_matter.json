@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/AnantAgarwal_2013G.mp3",
+  "author": "Anant Agarwal",
+  "dateFilmed": 1371168000,
+  "datePublished": 1390837420,
+  "description": "2013 was a year of hype for MOOCs (massive open online courses). Great big numbers and great big hopes were followed by some disappointing first results. But the head of edX, Anant Agarwal, makes the case that MOOCs still matter -- as a way to share high-level learning widely and supplement (but perhaps not replace) traditional classrooms. Agarwal shares his vision of blended learning, where teachers create the ideal learning experience for 21st century students.",
+  "duration": 919,
+  "event": "TED2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a26c7c92140aec2d6679d94f7cdd0e7371505c65_1600x1200.jpg",
+  "keywords": [
+    "Internet",
+    "TED Conference",
+    "education",
+    "teaching",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 1913,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Ingenious": 144,
+    "Fascinating": 247,
+    "Inspiring": 432,
+    "Persuasive": 203,
+    "Funny": 65,
+    "Jaw-dropping": 15,
+    "Informative": 289,
+    "Beautiful": 32,
+    "Courageous": 23,
+    "Longwinded": 12,
+    "Unconvincing": 20,
+    "OK": 41,
+    "Obnoxious": 6,
+    "Confusing": 3
+  },
+  "slug": "anant_agarwal_why_massively_open_online_courses_still_matter",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a26c7c92140aec2d6679d94f7cdd0e7371505c65_1600x1200.jpg?quality=89&w=600",
+  "title": "Why massive open online courses (still) matter",
+  "url": "https://www.ted.com/talks/anant_agarwal_why_massively_open_online_courses_still_matter",
+  "video": {
+    "low": "http://download.ted.com/talks/AnantAgarwal_2013G-light.mp4",
+    "medium": "http://download.ted.com/talks/AnantAgarwal_2013G.mp4",
+    "high": "http://download.ted.com/talks/AnantAgarwal_2013G-480p.mp4"
+  },
+  "viewCount": 906238,
+  "year": "2013"
+}

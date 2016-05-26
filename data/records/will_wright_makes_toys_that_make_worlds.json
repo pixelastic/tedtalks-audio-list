@@ -1,0 +1,51 @@
+{
+  "audio": null,
+  "author": "Will Wright",
+  "dateFilmed": 1172880000,
+  "datePublished": 1184667720,
+  "description": "In a friendly, high-speed presentation, Will Wright demos his newest game, Spore, which promises to dazzle users even more than his previous masterpieces.",
+  "duration": 997,
+  "event": "TED2007",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/0aa66122bf487af64e943f4e4c3810fdd4d13c2a_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "demo",
+    "design",
+    "entertainment",
+    "gaming",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 146,
+  "otherLanguages": {
+    "pl": "Polish",
+    "tr": "Turkish"
+  },
+  "ratings": {
+    "Ingenious": 622,
+    "Beautiful": 233,
+    "Longwinded": 68,
+    "Funny": 88,
+    "Confusing": 20,
+    "Informative": 210,
+    "Inspiring": 450,
+    "Fascinating": 577,
+    "Courageous": 35,
+    "Unconvincing": 51,
+    "Jaw-dropping": 1283,
+    "OK": 85,
+    "Persuasive": 91,
+    "Obnoxious": 18
+  },
+  "slug": "will_wright_makes_toys_that_make_worlds",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/0aa66122bf487af64e943f4e4c3810fdd4d13c2a_1600x1200.jpg?quality=89&w=600",
+  "title": "Spore, birth of a game",
+  "url": "https://www.ted.com/talks/will_wright_makes_toys_that_make_worlds",
+  "video": {
+    "low": "http://download.ted.com/talks/WillWright_2007-light.mp4",
+    "medium": "http://download.ted.com/talks/WillWright_2007.mp4",
+    "high": "http://download.ted.com/talks/WillWright_2007-480p.mp4"
+  },
+  "viewCount": 1016830,
+  "year": "2007"
+}

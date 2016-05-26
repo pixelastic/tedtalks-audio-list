@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/SoniaShah_2013G.mp3",
+  "author": "Sonia Shah",
+  "dateFilmed": 1371859200,
+  "datePublished": 1378998085,
+  "description": "We’ve known how to cure malaria since the 1600s, so why does the disease still kill hundreds of thousands every year? It’s more than just a problem of medicine, says journalist Sonia Shah. A look into the history of malaria reveals three big-picture challenges to its eradication. Photos: Adam Nadel.",
+  "duration": 918,
+  "event": "TEDGlobal 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/4a7be98e8b1380e18ee758b3887f250683ba04e9_1600x1200.jpg",
+  "keywords": [
+    "big problems",
+    "disease",
+    "global issues",
+    "history",
+    "insects"
+  ],
+  "mainLanguage": null,
+  "objectID": 1819,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Persuasive": 137,
+    "Informative": 226,
+    "Ingenious": 18,
+    "OK": 29,
+    "Courageous": 17,
+    "Fascinating": 42,
+    "Inspiring": 55,
+    "Unconvincing": 19,
+    "Jaw-dropping": 8,
+    "Longwinded": 12,
+    "Beautiful": 4,
+    "Funny": 4,
+    "Confusing": 2,
+    "Obnoxious": 0
+  },
+  "slug": "sonia_shah_3_reasons_we_still_haven_t_gotten_rid_of_malaria",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/4a7be98e8b1380e18ee758b3887f250683ba04e9_1600x1200.jpg?quality=89&w=600",
+  "title": "3 reasons we still haven’t gotten rid of malaria",
+  "url": "https://www.ted.com/talks/sonia_shah_3_reasons_we_still_haven_t_gotten_rid_of_malaria",
+  "video": {
+    "low": "http://download.ted.com/talks/SoniaShah_2013G-light.mp4",
+    "medium": "http://download.ted.com/talks/SoniaShah_2013G.mp4",
+    "high": "http://download.ted.com/talks/SoniaShah_2013G-480p.mp4"
+  },
+  "viewCount": 1057322,
+  "year": "2013"
+}

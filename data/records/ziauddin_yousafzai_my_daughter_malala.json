@@ -1,0 +1,49 @@
+{
+  "audio": "http://download.ted.com/talks/ZiauddinYousafzai_2014.mp3",
+  "author": "Ziauddin Yousafzai",
+  "dateFilmed": 1395014400,
+  "datePublished": 1395672542,
+  "description": "Pakistani educator Ziauddin Yousafzai reminds the world of a simple truth that many don’t want to hear: Women and men deserve equal opportunities for education, autonomy, an independent identity. He tells stories from his own life and the life of his daughter, Malala, who was shot by the Taliban in 2012 simply for daring to go to school. \"Why is my daughter so strong?” Yousafzai asks. “Because I didn’t clip her wings.\"",
+  "duration": 996,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/6931272f04ef769dc03f8b9058f0f4930152f4fe_1600x1200.jpg",
+  "keywords": [
+    "education",
+    "family",
+    "feminism",
+    "global issues",
+    "women",
+    "yesallwomen"
+  ],
+  "mainLanguage": null,
+  "objectID": 1954,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 833,
+    "Courageous": 864,
+    "Inspiring": 1440,
+    "Informative": 224,
+    "Persuasive": 118,
+    "Fascinating": 191,
+    "Jaw-dropping": 58,
+    "Longwinded": 22,
+    "Confusing": 14,
+    "Funny": 21,
+    "OK": 62,
+    "Ingenious": 14,
+    "Obnoxious": 17,
+    "Unconvincing": 26
+  },
+  "slug": "ziauddin_yousafzai_my_daughter_malala",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/6931272f04ef769dc03f8b9058f0f4930152f4fe_1600x1200.jpg?quality=89&w=600",
+  "title": "My daughter, Malala",
+  "url": "https://www.ted.com/talks/ziauddin_yousafzai_my_daughter_malala",
+  "video": {
+    "low": "http://download.ted.com/talks/ZiauddinYousafzai_2014-light.mp4",
+    "medium": "http://download.ted.com/talks/ZiauddinYousafzai_2014.mp4",
+    "high": "http://download.ted.com/talks/ZiauddinYousafzai_2014-480p.mp4"
+  },
+  "viewCount": 1816044,
+  "year": "2014"
+}

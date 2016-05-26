@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/PaulKempRobertson_2013G.mp3",
+  "author": "Paul Kemp-Robertson",
+  "dateFilmed": 1371859200,
+  "datePublished": 1374764500,
+  "description": "Currency -- the bills and coins you carry in your wallet and in your bank account -- is founded on marketing, on the belief that banks and governments are trustworthy. Now, Paul Kemp-Robertson walks us through a new generation of currency, supported by that same marketing … but on behalf of a private brand. From Nike Sweat Points to bottles of Tide (which are finding an unexpected use in illegal markets), meet the non-bank future of currencies. ",
+  "duration": 651,
+  "event": "TEDGlobal 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/991a38e61a189f6b8cefd1ad14df7dbc3e5c8114_1600x1200.jpg",
+  "keywords": [
+    "advertising",
+    "business",
+    "marketing",
+    "money"
+  ],
+  "mainLanguage": null,
+  "objectID": 1795,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Unconvincing": 60,
+    "Inspiring": 55,
+    "Informative": 240,
+    "Fascinating": 149,
+    "Persuasive": 62,
+    "Confusing": 24,
+    "Ingenious": 35,
+    "Longwinded": 17,
+    "Funny": 38,
+    "OK": 64,
+    "Jaw-dropping": 14,
+    "Obnoxious": 2,
+    "Courageous": 9,
+    "Beautiful": 1
+  },
+  "slug": "paul_kemp_robertson_bitcoin_sweat_tide_meet_the_future_of_branded_currency",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/991a38e61a189f6b8cefd1ad14df7dbc3e5c8114_1600x1200.jpg?quality=89&w=600",
+  "title": "Bitcoin. Sweat. Tide. Meet the future of branded currency.",
+  "url": "https://www.ted.com/talks/paul_kemp_robertson_bitcoin_sweat_tide_meet_the_future_of_branded_currency",
+  "video": {
+    "low": "http://download.ted.com/talks/PaulKempRobertson_2013G-light.mp4",
+    "medium": "http://download.ted.com/talks/PaulKempRobertson_2013G.mp4",
+    "high": "http://download.ted.com/talks/PaulKempRobertson_2013G-480p.mp4"
+  },
+  "viewCount": 961137,
+  "year": "2013"
+}

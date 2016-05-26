@@ -1,0 +1,47 @@
+{
+  "audio": null,
+  "author": "David Pogue",
+  "dateFilmed": 1229040000,
+  "datePublished": 1237942800,
+  "description": "In this engaging talk from the EG'08 conference, New York Times tech columnist David Pogue rounds up some handy cell phone tools and services that can boost your productivity and lower your bills (and your blood pressure).",
+  "duration": 1623,
+  "event": "EG 2008",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/79912_800x600.jpg",
+  "keywords": [
+    "culture",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 495,
+  "otherLanguages": {
+    "en": "English",
+    "tr": "Turkish"
+  },
+  "ratings": {
+    "Funny": 561,
+    "Informative": 454,
+    "Fascinating": 178,
+    "Obnoxious": 200,
+    "Jaw-dropping": 63,
+    "Unconvincing": 34,
+    "Longwinded": 97,
+    "Ingenious": 98,
+    "OK": 87,
+    "Persuasive": 60,
+    "Courageous": 27,
+    "Inspiring": 54,
+    "Confusing": 21,
+    "Beautiful": 22
+  },
+  "slug": "david_pogue_on_cool_phone_tricks",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/79912_800x600.jpg?quality=89&w=600",
+  "title": "Cool tricks your phone can do",
+  "url": "https://www.ted.com/talks/david_pogue_on_cool_phone_tricks",
+  "video": {
+    "low": "http://download.ted.com/talks/DavidPogue_2008P-light.mp4",
+    "medium": "http://download.ted.com/talks/DavidPogue_2008P.mp4",
+    "high": "http://download.ted.com/talks/DavidPogue_2008P-480p.mp4"
+  },
+  "viewCount": 691103,
+  "year": "2008"
+}

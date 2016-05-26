@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/RitaPierson_2013S.mp3",
+  "author": "Rita Pierson",
+  "dateFilmed": 1367884800,
+  "datePublished": 1367589737,
+  "description": "Rita Pierson, a teacher for 40 years, once heard a colleague say, \"They don't pay me to like the kids.\" Her response: \"Kids don't learn from people they don't like.'\" A rousing call to educators to believe in their students and actually connect with them on a real, human, personal level.",
+  "duration": 468,
+  "event": "TED Talks Education",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/25a5bc18d2472308c8ed2bb401b4a497f49a0265_1600x1200.jpg",
+  "keywords": [
+    "children",
+    "education",
+    "motivation",
+    "teaching"
+  ],
+  "mainLanguage": null,
+  "objectID": 1728,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Inspiring": 4692,
+    "Courageous": 756,
+    "Persuasive": 927,
+    "Beautiful": 1272,
+    "Funny": 1001,
+    "Informative": 316,
+    "Jaw-dropping": 187,
+    "Fascinating": 495,
+    "OK": 77,
+    "Ingenious": 122,
+    "Confusing": 12,
+    "Longwinded": 22,
+    "Unconvincing": 16,
+    "Obnoxious": 8
+  },
+  "slug": "rita_pierson_every_kid_needs_a_champion",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/25a5bc18d2472308c8ed2bb401b4a497f49a0265_1600x1200.jpg?quality=89&w=600",
+  "title": "Every kid needs a champion",
+  "url": "https://www.ted.com/talks/rita_pierson_every_kid_needs_a_champion",
+  "video": {
+    "low": "http://download.ted.com/talks/RitaPierson_2013S-light.mp4",
+    "medium": "http://download.ted.com/talks/RitaPierson_2013S.mp4",
+    "high": "http://download.ted.com/talks/RitaPierson_2013S-480p.mp4"
+  },
+  "viewCount": 5624057,
+  "year": "2013"
+}

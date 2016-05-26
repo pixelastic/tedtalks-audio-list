@@ -1,0 +1,50 @@
+{
+  "audio": "http://download.ted.com/talks/ChrisDomas_2013X.mp3",
+  "author": "Chris Domas",
+  "dateFilmed": 1381363200,
+  "datePublished": 1404141526,
+  "description": "Chris Domas is a cybersecurity researcher, operating on what’s become a new front of war, \"cyber.\" In this engaging talk, he shows how researchers use pattern recognition and reverse engineering (and pull a few all-nighters) to understand a chunk of binary code whose purpose and contents they don't know.",
+  "duration": 1005,
+  "event": "TEDxColumbus",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/dfa9208099b4ccc394db436eb4ff2fc0fd18e911_2400x1800.jpg",
+  "keywords": [
+    "TEDx",
+    "security",
+    "software",
+    "technology",
+    "terrorism",
+    "war"
+  ],
+  "mainLanguage": null,
+  "objectID": 2035,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified"
+  },
+  "ratings": {
+    "Ingenious": 133,
+    "Fascinating": 168,
+    "Funny": 31,
+    "Informative": 184,
+    "Confusing": 36,
+    "Unconvincing": 80,
+    "Obnoxious": 50,
+    "Beautiful": 13,
+    "Jaw-dropping": 26,
+    "Inspiring": 38,
+    "Persuasive": 15,
+    "Longwinded": 52,
+    "Courageous": 6,
+    "OK": 63
+  },
+  "slug": "chris_domas_the_1s_and_0s_behind_cyber_warfare",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/dfa9208099b4ccc394db436eb4ff2fc0fd18e911_2400x1800.jpg?quality=89&w=600",
+  "title": "The 1s and 0s behind cyber warfare",
+  "url": "https://www.ted.com/talks/chris_domas_the_1s_and_0s_behind_cyber_warfare",
+  "video": {
+    "low": "http://download.ted.com/talks/ChrisDomas_2013X-light.mp4",
+    "medium": "http://download.ted.com/talks/ChrisDomas_2013X.mp4",
+    "high": "http://download.ted.com/talks/ChrisDomas_2013X-480p.mp4"
+  },
+  "viewCount": 936412,
+  "year": "2013"
+}

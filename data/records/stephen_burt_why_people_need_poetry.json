@@ -1,0 +1,46 @@
+{
+  "audio": "http://download.ted.com/talks/StephenBurt_2013G.mp3",
+  "author": "Stephen Burt",
+  "dateFilmed": 1371686400,
+  "datePublished": 1401894589,
+  "description": "\"We're all going to die -- and poems can help us live with that.\" In a charming and funny talk, literary critic Stephen Burt takes us on a lyrical journey with some of his favorite poets, all the way down to a line break and back up to the human urge to imagine. ",
+  "duration": 792,
+  "event": "TEDGlobal 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/82cc87f2ed862ee45d928c19046ee042d5eec0c9_2400x1800.jpg",
+  "keywords": [
+    "culture",
+    "language",
+    "poetry"
+  ],
+  "mainLanguage": null,
+  "objectID": 2013,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 212,
+    "OK": 109,
+    "Fascinating": 173,
+    "Persuasive": 61,
+    "Funny": 23,
+    "Informative": 87,
+    "Unconvincing": 41,
+    "Inspiring": 121,
+    "Ingenious": 25,
+    "Confusing": 24,
+    "Longwinded": 37,
+    "Obnoxious": 27,
+    "Courageous": 9,
+    "Jaw-dropping": 9
+  },
+  "slug": "stephen_burt_why_people_need_poetry",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/82cc87f2ed862ee45d928c19046ee042d5eec0c9_2400x1800.jpg?quality=89&w=600",
+  "title": "Why people need poetry",
+  "url": "https://www.ted.com/talks/stephen_burt_why_people_need_poetry",
+  "video": {
+    "low": "http://download.ted.com/talks/StephenBurt_2013G-light.mp4",
+    "medium": "http://download.ted.com/talks/StephenBurt_2013G.mp4",
+    "high": "http://download.ted.com/talks/StephenBurt_2013G-480p.mp4"
+  },
+  "viewCount": 1006017,
+  "year": "2013"
+}

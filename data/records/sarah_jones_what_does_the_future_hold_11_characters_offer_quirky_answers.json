@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/SarahJones_2014.mp3",
+  "author": "Sarah Jones",
+  "dateFilmed": 1395360000,
+  "datePublished": 1399042580,
+  "description": "Sarah Jones changes personas with the simplest of wardrobe swaps. In a laugh-out-loud improvisation, she invites 11 \"friends\" from the future on stage—from a fast-talking Latina to an outspoken police officer—to ask them questions supplied by the TED2014 audience. \r\n",
+  "duration": 1116,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/974f4028e20390247c51cca4cbe5fbdbc3eab9e0_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "future",
+    "humor",
+    "performance",
+    "theater"
+  ],
+  "mainLanguage": null,
+  "objectID": 1989,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Funny": 463,
+    "Beautiful": 136,
+    "Longwinded": 72,
+    "OK": 118,
+    "Inspiring": 131,
+    "Fascinating": 89,
+    "Informative": 31,
+    "Ingenious": 124,
+    "Confusing": 42,
+    "Unconvincing": 36,
+    "Courageous": 79,
+    "Jaw-dropping": 46,
+    "Obnoxious": 58,
+    "Persuasive": 9
+  },
+  "slug": "sarah_jones_what_does_the_future_hold_11_characters_offer_quirky_answers",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/974f4028e20390247c51cca4cbe5fbdbc3eab9e0_1600x1200.jpg?quality=89&w=600",
+  "title": "What does the future hold? 11 characters offer quirky answers",
+  "url": "https://www.ted.com/talks/sarah_jones_what_does_the_future_hold_11_characters_offer_quirky_answers",
+  "video": {
+    "low": "http://download.ted.com/talks/SarahJones_2014-light.mp4",
+    "medium": "http://download.ted.com/talks/SarahJones_2014.mp4",
+    "high": "http://download.ted.com/talks/SarahJones_2014-480p.mp4"
+  },
+  "viewCount": 1384477,
+  "year": "2014"
+}

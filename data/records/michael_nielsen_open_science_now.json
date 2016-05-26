@@ -1,0 +1,50 @@
+{
+  "audio": null,
+  "author": "Michael Nielsen",
+  "dateFilmed": 1299110400,
+  "datePublished": 1321196864,
+  "description": "What if every scientist could share their data as easily as they tweet about their lunch? Michael Nielsen calls for scientists to embrace new tools for collaboration that will enable discoveries to happen at the speed of Twitter.",
+  "duration": 995,
+  "event": "TEDxWaterloo",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/d1dae0235bca76fb5f1dc939638a0062acf12f93_800x600.jpg",
+  "keywords": [
+    "Internet",
+    "TEDx",
+    "collaboration",
+    "open-source",
+    "science",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 1245,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Persuasive": 167,
+    "Inspiring": 160,
+    "Courageous": 62,
+    "Ingenious": 39,
+    "Informative": 99,
+    "Unconvincing": 50,
+    "Longwinded": 40,
+    "OK": 37,
+    "Beautiful": 10,
+    "Confusing": 4,
+    "Fascinating": 46,
+    "Jaw-dropping": 24,
+    "Funny": 12,
+    "Obnoxious": 0
+  },
+  "slug": "michael_nielsen_open_science_now",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/d1dae0235bca76fb5f1dc939638a0062acf12f93_800x600.jpg?quality=89&w=600",
+  "title": "Open science now!",
+  "url": "https://www.ted.com/talks/michael_nielsen_open_science_now",
+  "video": {
+    "youtube": {
+      "id": "DnWocYKqvhw",
+      "url": "http://www.ted.com/tedx/events/2392"
+    }
+  },
+  "viewCount": 130078,
+  "year": "2011"
+}

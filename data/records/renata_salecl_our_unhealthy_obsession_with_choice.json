@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/RenataSalecl_2013G.mp3",
+  "author": "Renata Salecl",
+  "dateFilmed": 1371081600,
+  "datePublished": 1404917495,
+  "description": "We face an endless string of choices, which leads us to feel anxiety, guilt and pangs of inadequacy that we are perhaps making the wrong ones. But philosopher Renata Salecl asks: Could individual choices be distracting us from something bigger—our power as social thinkers? A bold call for us to stop taking personal choice so seriously and focus on the choices we're making collectively.",
+  "duration": 902,
+  "event": "TEDGlobal 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/42df3420fcc0c4055fe6e8447d0ab64f81135241_2400x1800.jpg",
+  "keywords": [
+    "choice",
+    "culture",
+    "social change"
+  ],
+  "mainLanguage": null,
+  "objectID": 2044,
+  "otherLanguages": {
+    "fr": "French"
+  },
+  "ratings": {
+    "Confusing": 84,
+    "Unconvincing": 88,
+    "OK": 148,
+    "Inspiring": 244,
+    "Fascinating": 126,
+    "Obnoxious": 18,
+    "Informative": 265,
+    "Beautiful": 53,
+    "Funny": 28,
+    "Persuasive": 125,
+    "Courageous": 53,
+    "Longwinded": 56,
+    "Ingenious": 36,
+    "Jaw-dropping": 14
+  },
+  "slug": "renata_salecl_our_unhealthy_obsession_with_choice",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/42df3420fcc0c4055fe6e8447d0ab64f81135241_2400x1800.jpg?quality=89&w=600",
+  "title": "Our unhealthy obsession with choice",
+  "url": "https://www.ted.com/talks/renata_salecl_our_unhealthy_obsession_with_choice",
+  "video": {
+    "low": "http://download.ted.com/talks/RenataSalecl_2013G-light.mp4",
+    "medium": "http://download.ted.com/talks/RenataSalecl_2013G.mp4",
+    "high": "http://download.ted.com/talks/RenataSalecl_2013G-480p.mp4"
+  },
+  "viewCount": 1349452,
+  "year": "2013"
+}

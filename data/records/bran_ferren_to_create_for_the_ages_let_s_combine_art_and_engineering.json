@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/BranFerren_2014.mp3",
+  "author": "Bran Ferren",
+  "dateFilmed": 1395100800,
+  "datePublished": 1395758915,
+  "description": "When Bran Ferren was just 9, his parents took him to see the Pantheon in Rome — and it changed everything. In that moment, he began to understand how the tools of science and engineering become more powerful when combined with art, with design and beauty. Ever since, he's been searching for a convincing modern-day equivalent to Rome's masterpiece. Stay tuned to the end of the talk for his unexpected suggestion.",
+  "duration": 1212,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ceb16769de03f490a413d9ad33ddde36f9c5deaf_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "ancient world",
+    "architecture",
+    "design",
+    "engineering"
+  ],
+  "mainLanguage": null,
+  "objectID": 1956,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 249,
+    "Inspiring": 428,
+    "Fascinating": 252,
+    "Beautiful": 101,
+    "Ingenious": 97,
+    "Longwinded": 64,
+    "Persuasive": 88,
+    "OK": 75,
+    "Confusing": 8,
+    "Unconvincing": 39,
+    "Courageous": 31,
+    "Funny": 26,
+    "Jaw-dropping": 32,
+    "Obnoxious": 10
+  },
+  "slug": "bran_ferren_to_create_for_the_ages_let_s_combine_art_and_engineering",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ceb16769de03f490a413d9ad33ddde36f9c5deaf_1600x1200.jpg?quality=89&w=600",
+  "title": "To create for the ages, let's combine art and engineering",
+  "url": "https://www.ted.com/talks/bran_ferren_to_create_for_the_ages_let_s_combine_art_and_engineering",
+  "video": {
+    "low": "http://download.ted.com/talks/BranFerren_2014-light.mp4",
+    "medium": "http://download.ted.com/talks/BranFerren_2014.mp4",
+    "high": "http://download.ted.com/talks/BranFerren_2014-480p.mp4"
+  },
+  "viewCount": 982773,
+  "year": "2014"
+}

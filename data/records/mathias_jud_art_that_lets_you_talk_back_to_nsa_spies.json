@@ -1,0 +1,63 @@
+{
+  "audio": "http://download.ted.com/talks/MathiasJud_2015G.mp3",
+  "author": "Mathias Jud",
+  "dateFilmed": 1443484800,
+  "datePublished": 1446130361,
+  "description": "In 2013, the world learned that the NSA and its UK equivalent, GCHQ, routinely spied on the German government. Amid the outrage, artists Mathias Jud and Christoph Wachter thought: Well, if they're listening ... let's talk to them. With antennas mounted on the roof of the Swiss Embassy in Berlin's government district, they set up an open network that let the world send messages to US and UK spies listening nearby. It's one of three bold, often funny, and frankly subversive works detailed in this talk, which highlights the world's growing discontent with surveillance and closed networks.",
+  "duration": 776,
+  "event": "TEDGlobal>London",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/86d74020299b5fce92e47bf9a9d9ee7a4a1a9c7b_2880x1620.jpg",
+  "keywords": [
+    "Europe",
+    "Internet",
+    "art",
+    "communication",
+    "democracy",
+    "government",
+    "intelligence",
+    "politics",
+    "security",
+    "technology",
+    "telecom"
+  ],
+  "mainLanguage": null,
+  "objectID": 2365,
+  "otherLanguages": {
+    "en": "English",
+    "fr": "French",
+    "ko": "Korean",
+    "pl": "Polish",
+    "pt-br": "Portuguese, Brazilian",
+    "ru": "Russian",
+    "sr": "Serbian",
+    "es": "Spanish",
+    "vi": "Vietnamese"
+  },
+  "ratings": {
+    "Funny": 58,
+    "Ingenious": 56,
+    "Informative": 86,
+    "Courageous": 75,
+    "Inspiring": 107,
+    "Fascinating": 33,
+    "Beautiful": 13,
+    "Persuasive": 23,
+    "Obnoxious": 10,
+    "Confusing": 11,
+    "Longwinded": 12,
+    "Jaw-dropping": 5,
+    "Unconvincing": 15,
+    "OK": 31
+  },
+  "slug": "mathias_jud_art_that_lets_you_talk_back_to_nsa_spies",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/86d74020299b5fce92e47bf9a9d9ee7a4a1a9c7b_2880x1620.jpg?quality=89&w=600",
+  "title": "Art that lets you talk back to NSA spies",
+  "url": "https://www.ted.com/talks/mathias_jud_art_that_lets_you_talk_back_to_nsa_spies",
+  "video": {
+    "low": "http://download.ted.com/talks/MathiasJud_2015G-light.mp4",
+    "medium": "http://download.ted.com/talks/MathiasJud_2015G.mp4",
+    "high": "http://download.ted.com/talks/MathiasJud_2015G-480p.mp4"
+  },
+  "viewCount": 910068,
+  "year": "2015"
+}

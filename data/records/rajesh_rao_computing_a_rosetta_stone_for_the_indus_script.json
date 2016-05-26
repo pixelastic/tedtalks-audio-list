@@ -1,0 +1,60 @@
+{
+  "audio": "http://download.ted.com/talks/RajeshRao_2011.mp3",
+  "author": "Rajesh Rao",
+  "dateFilmed": 1299024000,
+  "datePublished": 1309219200,
+  "description": "Rajesh Rao is fascinated by \"the mother of all crossword puzzles\": how to decipher the 4000-year-old Indus script. He's enlisting modern computation to try to read this lost language, the key to understanding this ancient civilization.",
+  "duration": 1021,
+  "event": "TED2011",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/981e5675ef884e00e7611a17c6216ed16ab1a12c_800x600.jpg",
+  "keywords": [
+    "TED Conference",
+    "computers",
+    "history",
+    "language",
+    "science"
+  ],
+  "mainLanguage": null,
+  "objectID": 1180,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified",
+    "zh-tw": "Chinese, Traditional",
+    "nl": "Dutch",
+    "de": "German",
+    "he": "Hebrew",
+    "id": "Indonesian",
+    "it": "Italian",
+    "ja": "Japanese",
+    "pl": "Polish",
+    "ro": "Romanian",
+    "tr": "Turkish",
+    "vi": "Vietnamese"
+  },
+  "ratings": {
+    "Fascinating": 617,
+    "Ingenious": 221,
+    "Jaw-dropping": 66,
+    "Informative": 484,
+    "OK": 40,
+    "Beautiful": 44,
+    "Inspiring": 178,
+    "Persuasive": 91,
+    "Confusing": 5,
+    "Longwinded": 17,
+    "Funny": 7,
+    "Obnoxious": 4,
+    "Unconvincing": 18,
+    "Courageous": 27
+  },
+  "slug": "rajesh_rao_computing_a_rosetta_stone_for_the_indus_script",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/981e5675ef884e00e7611a17c6216ed16ab1a12c_800x600.jpg?quality=89&w=600",
+  "title": "A Rosetta Stone for a lost language",
+  "url": "https://www.ted.com/talks/rajesh_rao_computing_a_rosetta_stone_for_the_indus_script",
+  "video": {
+    "low": "http://download.ted.com/talks/RajeshRao_2011-light.mp4",
+    "medium": "http://download.ted.com/talks/RajeshRao_2011.mp4",
+    "high": "http://download.ted.com/talks/RajeshRao_2011-480p.mp4"
+  },
+  "viewCount": 1103637,
+  "year": "2011"
+}

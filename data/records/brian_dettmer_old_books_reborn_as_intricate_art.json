@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/BrianDettmer_2014Y.mp3",
+  "author": "Brian Dettmer",
+  "dateFilmed": 1415059200,
+  "datePublished": 1423238442,
+  "description": "What do you do with an outdated encyclopedia in the information age? With X-Acto knives and an eye for a good remix, artist Brian Dettmer makes beautiful, unexpected sculptures that breathe new life into old books.",
+  "duration": 366,
+  "event": "TEDYouth 2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2ff057a4bb41b2246c65370cf104a8ffa0dfc75a_2880x1620.jpg",
+  "keywords": [
+    "TEDYouth",
+    "art",
+    "books",
+    "creativity"
+  ],
+  "mainLanguage": null,
+  "objectID": 2180,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 332,
+    "Inspiring": 182,
+    "Fascinating": 339,
+    "Ingenious": 182,
+    "Informative": 60,
+    "Jaw-dropping": 74,
+    "OK": 41,
+    "Persuasive": 9,
+    "Obnoxious": 18,
+    "Unconvincing": 12,
+    "Confusing": 5,
+    "Courageous": 8,
+    "Longwinded": 7,
+    "Funny": 11
+  },
+  "slug": "brian_dettmer_old_books_reborn_as_intricate_art",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2ff057a4bb41b2246c65370cf104a8ffa0dfc75a_2880x1620.jpg?quality=89&w=600",
+  "title": "Old books reborn as art",
+  "url": "https://www.ted.com/talks/brian_dettmer_old_books_reborn_as_intricate_art",
+  "video": {
+    "low": "http://download.ted.com/talks/BrianDettmer_2014Y-light.mp4",
+    "medium": "http://download.ted.com/talks/BrianDettmer_2014Y.mp4",
+    "high": "http://download.ted.com/talks/BrianDettmer_2014Y-480p.mp4"
+  },
+  "viewCount": 1070836,
+  "year": "2014"
+}

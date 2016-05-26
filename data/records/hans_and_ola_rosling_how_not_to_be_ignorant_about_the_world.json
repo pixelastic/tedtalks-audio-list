@@ -1,0 +1,46 @@
+{
+  "audio": "http://download.ted.com/talks/HansRosling_2014S.mp3",
+  "author": "Hans and Ola Rosling",
+  "dateFilmed": 1403481600,
+  "datePublished": 1410449403,
+  "description": "How much do you know about the world? Hans Rosling, with his famous charts of global population, health and income data (and an extra-extra-long pointer), demonstrates that you have a high statistical chance of being quite wrong about what you think you know. Play along with his audience quiz — then, from Hans’ son Ola, learn 4 ways to quickly get less ignorant.",
+  "duration": 1145,
+  "event": "TEDSalon Berlin 2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/5a950989e5d388e85fb0f0363789268aab3c3c43_2400x1800.jpg",
+  "keywords": [
+    "global issues",
+    "health",
+    "statistics"
+  ],
+  "mainLanguage": null,
+  "objectID": 2090,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "OK": 199,
+    "Funny": 594,
+    "Inspiring": 459,
+    "Persuasive": 344,
+    "Informative": 1063,
+    "Ingenious": 214,
+    "Beautiful": 63,
+    "Jaw-dropping": 47,
+    "Fascinating": 401,
+    "Confusing": 18,
+    "Obnoxious": 23,
+    "Longwinded": 21,
+    "Unconvincing": 70,
+    "Courageous": 23
+  },
+  "slug": "hans_and_ola_rosling_how_not_to_be_ignorant_about_the_world",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/5a950989e5d388e85fb0f0363789268aab3c3c43_2400x1800.jpg?quality=89&w=600",
+  "title": "How not to be ignorant about the world",
+  "url": "https://www.ted.com/talks/hans_and_ola_rosling_how_not_to_be_ignorant_about_the_world",
+  "video": {
+    "low": "http://download.ted.com/talks/HansRosling_2014S-light.mp4",
+    "medium": "http://download.ted.com/talks/HansRosling_2014S.mp4",
+    "high": "http://download.ted.com/talks/HansRosling_2014S-480p.mp4"
+  },
+  "viewCount": 2891686,
+  "year": "2014"
+}

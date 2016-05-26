@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/LeanaWen_2014P.mp3",
+  "author": "Leana Wen",
+  "dateFilmed": 1410998400,
+  "datePublished": 1415894749,
+  "description": "Wouldn’t you want to know if your doctor was a paid spokesman for a drug company? Or held personal beliefs incompatible with the treatment you want? Right now, in the US at least, your doctor simply doesn’t have to tell you about that. And when physician Leana Wen asked her fellow doctors to open up, the reaction she got was … unsettling.",
+  "duration": 942,
+  "event": "TEDMED 2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a70b7d2f7b312db6e4fb29341b0631eaefdfac2a_2880x1620.jpg",
+  "keywords": [
+    "business",
+    "health care",
+    "medicine",
+    "morality"
+  ],
+  "mainLanguage": null,
+  "objectID": 2133,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 320,
+    "Courageous": 970,
+    "Fascinating": 219,
+    "Inspiring": 679,
+    "Persuasive": 412,
+    "Informative": 506,
+    "OK": 59,
+    "Longwinded": 23,
+    "Unconvincing": 71,
+    "Jaw-dropping": 27,
+    "Ingenious": 47,
+    "Obnoxious": 123,
+    "Confusing": 28,
+    "Funny": 9
+  },
+  "slug": "leana_wen_what_your_doctor_won_t_disclose",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a70b7d2f7b312db6e4fb29341b0631eaefdfac2a_2880x1620.jpg?quality=89&w=600",
+  "title": "What your doctor won’t disclose",
+  "url": "https://www.ted.com/talks/leana_wen_what_your_doctor_won_t_disclose",
+  "video": {
+    "low": "http://download.ted.com/talks/LeanaWen_2014P-light.mp4",
+    "medium": "http://download.ted.com/talks/LeanaWen_2014P.mp4",
+    "high": "http://download.ted.com/talks/LeanaWen_2014P-480p.mp4"
+  },
+  "viewCount": 1536349,
+  "year": "2014"
+}

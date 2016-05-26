@@ -1,0 +1,55 @@
+{
+  "audio": "http://download.ted.com/talks/PeterGabriel_2006.mp3",
+  "author": "Peter Gabriel",
+  "dateFilmed": 1140652800,
+  "datePublished": 1165363860,
+  "description": "Musician and activist Peter Gabriel shares his very personal motivation for standing up for human rights with the watchdog group WITNESS -- and tells stories of citizen journalists in action.",
+  "duration": 848,
+  "event": "TED2006",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/17_480x360.jpg",
+  "keywords": [
+    "TED Brain Trust",
+    "activism",
+    "arts",
+    "collaboration",
+    "culture",
+    "film",
+    "global issues",
+    "music",
+    "social change",
+    "storytelling"
+  ],
+  "mainLanguage": null,
+  "objectID": 23,
+  "otherLanguages": {
+    "el": "Greek",
+    "tr": "Turkish"
+  },
+  "ratings": {
+    "Courageous": 169,
+    "Ingenious": 33,
+    "Funny": 5,
+    "Beautiful": 23,
+    "Informative": 139,
+    "Inspiring": 212,
+    "Longwinded": 25,
+    "Unconvincing": 13,
+    "Fascinating": 26,
+    "Persuasive": 90,
+    "Jaw-dropping": 32,
+    "Confusing": 7,
+    "OK": 34,
+    "Obnoxious": 3
+  },
+  "slug": "peter_gabriel_fights_injustice_with_video",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/17_480x360.jpg?quality=89&w=600",
+  "title": "Fight injustice with raw video",
+  "url": "https://www.ted.com/talks/peter_gabriel_fights_injustice_with_video",
+  "video": {
+    "low": "http://download.ted.com/talks/PeterGabriel_2006-light.mp4",
+    "medium": "http://download.ted.com/talks/PeterGabriel_2006.mp4",
+    "high": "http://download.ted.com/talks/PeterGabriel_2006-480p.mp4"
+  },
+  "viewCount": 756378,
+  "year": "2006"
+}

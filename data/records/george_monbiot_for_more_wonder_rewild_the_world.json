@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/GeorgeMonbiot_2013G.mp3",
+  "author": "George Monbiot",
+  "dateFilmed": 1373241600,
+  "datePublished": 1378739698,
+  "description": "Wolves were once native to the US' Yellowstone National Park -- until hunting wiped them out. But when, in 1995, the wolves began to come back (thanks to an aggressive management program), something interesting happened: the rest of the park began to find a new, more healthful balance. In a bold thought experiment, George Monbiot imagines a wilder world in which humans work to restore the complex, lost natural food chains that once surrounded us.",
+  "duration": 910,
+  "event": "TEDGlobal 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b4a648817c1a2102dc53dc2147bb1af2785067f0_1600x1200.jpg",
+  "keywords": [
+    "animals",
+    "biodiversity",
+    "deextinction",
+    "science"
+  ],
+  "mainLanguage": null,
+  "objectID": 1816,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Funny": 14,
+    "Informative": 218,
+    "Fascinating": 300,
+    "Persuasive": 186,
+    "Inspiring": 357,
+    "Beautiful": 97,
+    "Longwinded": 16,
+    "Courageous": 32,
+    "Jaw-dropping": 55,
+    "Ingenious": 39,
+    "Unconvincing": 22,
+    "OK": 9,
+    "Obnoxious": 4,
+    "Confusing": 1
+  },
+  "slug": "george_monbiot_for_more_wonder_rewild_the_world",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b4a648817c1a2102dc53dc2147bb1af2785067f0_1600x1200.jpg?quality=89&w=600",
+  "title": "For more wonder, rewild the world",
+  "url": "https://www.ted.com/talks/george_monbiot_for_more_wonder_rewild_the_world",
+  "video": {
+    "low": "http://download.ted.com/talks/GeorgeMonbiot_2013G-light.mp4",
+    "medium": "http://download.ted.com/talks/GeorgeMonbiot_2013G.mp4",
+    "high": "http://download.ted.com/talks/GeorgeMonbiot_2013G-480p.mp4"
+  },
+  "viewCount": 798924,
+  "year": "2013"
+}

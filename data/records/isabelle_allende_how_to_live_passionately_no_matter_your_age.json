@@ -1,0 +1,46 @@
+{
+  "audio": "http://download.ted.com/talks/IsabelAllende_2014.mp3",
+  "author": "Isabel Allende",
+  "dateFilmed": 1395273600,
+  "datePublished": 1409756073,
+  "description": "Author Isabel Allende is 71. Yes, she has a few wrinkles—but she has incredible perspective too. In this candid talk, meant for viewers of all ages, she talks about her fears as she gets older and shares how she plans to keep on living passionately.",
+  "duration": 496,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e0c5f16398b3cc1c8b3cb53f528ffc3ba22e27fb_2400x1800.jpg",
+  "keywords": [
+    "TED Conference",
+    "aging",
+    "storytelling"
+  ],
+  "mainLanguage": null,
+  "objectID": 2070,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Ingenious": 101,
+    "Beautiful": 610,
+    "Courageous": 349,
+    "Funny": 557,
+    "Fascinating": 247,
+    "Informative": 61,
+    "Inspiring": 1017,
+    "Persuasive": 89,
+    "OK": 172,
+    "Jaw-dropping": 11,
+    "Confusing": 9,
+    "Longwinded": 15,
+    "Unconvincing": 61,
+    "Obnoxious": 11
+  },
+  "slug": "isabelle_allende_how_to_live_passionately_no_matter_your_age",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e0c5f16398b3cc1c8b3cb53f528ffc3ba22e27fb_2400x1800.jpg?quality=89&w=600",
+  "title": "How to live passionately—no matter your age",
+  "url": "https://www.ted.com/talks/isabelle_allende_how_to_live_passionately_no_matter_your_age",
+  "video": {
+    "low": "http://download.ted.com/talks/IsabelAllende_2014-light.mp4",
+    "medium": "http://download.ted.com/talks/IsabelAllende_2014.mp4",
+    "high": "http://download.ted.com/talks/IsabelAllende_2014-480p.mp4"
+  },
+  "viewCount": 2766640,
+  "year": "2014"
+}

@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/PamelaRonald_2015.mp3",
+  "author": "Pamela Ronald",
+  "dateFilmed": 1426636800,
+  "datePublished": 1430747997,
+  "description": "Pamela Ronald studies the genes that make plants more resistant to disease and stress. In an eye-opening talk, she describes her decade-long quest to isolate a gene that allows rice to survive prolonged flooding. She shows how the genetic improvement of seeds saved the Hawaiian papaya crop in the 1990s — and makes the case that modern genetics is sometimes the most effective method to advance sustainable agriculture and enhance food security for our planet’s growing population.",
+  "duration": 1069,
+  "event": "TED2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/1187e590c8653aa20f17350504097220cdf286d1_2880x1620.jpg",
+  "keywords": [
+    "agriculture",
+    "food",
+    "global issues",
+    "sustainability"
+  ],
+  "mainLanguage": null,
+  "objectID": 2241,
+  "otherLanguages": {
+    "pt-br": "Portuguese, Brazilian"
+  },
+  "ratings": {
+    "Informative": 502,
+    "Longwinded": 20,
+    "Persuasive": 256,
+    "OK": 41,
+    "Inspiring": 163,
+    "Unconvincing": 168,
+    "Fascinating": 133,
+    "Obnoxious": 37,
+    "Confusing": 16,
+    "Courageous": 70,
+    "Ingenious": 41,
+    "Beautiful": 32,
+    "Jaw-dropping": 7,
+    "Funny": 14
+  },
+  "slug": "pamela_ronald_the_case_for_engineering_our_food",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/1187e590c8653aa20f17350504097220cdf286d1_2880x1620.jpg?quality=89&w=600",
+  "title": "The case for engineering our food",
+  "url": "https://www.ted.com/talks/pamela_ronald_the_case_for_engineering_our_food",
+  "video": {
+    "low": "http://download.ted.com/talks/PamelaRonald_2015-light.mp4",
+    "medium": "http://download.ted.com/talks/PamelaRonald_2015.mp4",
+    "high": "http://download.ted.com/talks/PamelaRonald_2015-480p.mp4"
+  },
+  "viewCount": 1368280,
+  "year": "2015"
+}

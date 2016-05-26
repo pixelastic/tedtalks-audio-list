@@ -1,0 +1,49 @@
+{
+  "audio": "http://download.ted.com/talks/AndrewSolomon_2014.mp3",
+  "author": "Andrew Solomon",
+  "dateFilmed": 1394582400,
+  "datePublished": 1400684635,
+  "description": "Writer Andrew Solomon has spent his career telling stories of the hardships of others. Now he turns inward, bringing us into a childhood of adversity, while also spinning tales of the courageous people he's met in the years since. In a moving, heartfelt and at times downright funny talk, Solomon gives a powerful call to action to forge meaning from our biggest struggles.",
+  "duration": 1227,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b461c894fded8e980e3d7ce3ca206b059d431c05_1600x1200.jpg",
+  "keywords": [
+    "LGBT",
+    "TED Conference",
+    "culture",
+    "depression",
+    "identity",
+    "pain"
+  ],
+  "mainLanguage": null,
+  "objectID": 2005,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 1709,
+    "Courageous": 1305,
+    "Inspiring": 2274,
+    "Ingenious": 74,
+    "Funny": 147,
+    "OK": 110,
+    "Informative": 191,
+    "Fascinating": 232,
+    "Jaw-dropping": 80,
+    "Persuasive": 143,
+    "Longwinded": 80,
+    "Unconvincing": 48,
+    "Obnoxious": 29,
+    "Confusing": 28
+  },
+  "slug": "andrew_solomon_how_the_worst_moments_in_our_lives_make_us_who_we_are",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b461c894fded8e980e3d7ce3ca206b059d431c05_1600x1200.jpg?quality=89&w=600",
+  "title": "How the worst moments in our lives make us who we are",
+  "url": "https://www.ted.com/talks/andrew_solomon_how_the_worst_moments_in_our_lives_make_us_who_we_are",
+  "video": {
+    "low": "http://download.ted.com/talks/AndrewSolomon_2014-light.mp4",
+    "medium": "http://download.ted.com/talks/AndrewSolomon_2014.mp4",
+    "high": "http://download.ted.com/talks/AndrewSolomon_2014-480p.mp4"
+  },
+  "viewCount": 3719153,
+  "year": "2014"
+}

@@ -1,0 +1,58 @@
+{
+  "audio": null,
+  "author": "Brewster Kahle",
+  "dateFilmed": 1197417600,
+  "datePublished": 1221008400,
+  "description": "Brewster Kahle is building a truly huge digital library -- every book ever published, every movie ever released, all the strata of web history ... It's all free to the public -- unless someone else gets to it first.",
+  "duration": 1206,
+  "event": "EG 2007",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/53153_480x360.jpg",
+  "keywords": [
+    "books",
+    "design",
+    "entertainment",
+    "film",
+    "history",
+    "library",
+    "media",
+    "music",
+    "technology",
+    "web"
+  ],
+  "mainLanguage": null,
+  "objectID": 346,
+  "otherLanguages": {
+    "ko": "Korean",
+    "pl": "Polish",
+    "ro": "Romanian",
+    "es": "Spanish",
+    "uk": "Ukrainian"
+  },
+  "ratings": {
+    "Courageous": 65,
+    "Inspiring": 175,
+    "Informative": 189,
+    "Ingenious": 71,
+    "Fascinating": 99,
+    "Persuasive": 57,
+    "Confusing": 10,
+    "Longwinded": 39,
+    "OK": 43,
+    "Unconvincing": 25,
+    "Jaw-dropping": 26,
+    "Obnoxious": 10,
+    "Beautiful": 8,
+    "Funny": 2
+  },
+  "slug": "brewster_kahle_builds_a_free_digital_library",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/53153_480x360.jpg?quality=89&w=600",
+  "title": "A free digital library",
+  "url": "https://www.ted.com/talks/brewster_kahle_builds_a_free_digital_library",
+  "video": {
+    "low": "http://download.ted.com/talks/BrewsterKahle_2007P-light.mp4",
+    "medium": "http://download.ted.com/talks/BrewsterKahle_2007P.mp4",
+    "high": "http://download.ted.com/talks/BrewsterKahle_2007P-480p.mp4"
+  },
+  "viewCount": 413895,
+  "year": "2007"
+}

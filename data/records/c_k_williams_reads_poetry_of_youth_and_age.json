@@ -1,0 +1,57 @@
+{
+  "audio": null,
+  "author": "C.K. Williams",
+  "dateFilmed": 981676800,
+  "datePublished": 1238374800,
+  "description": "Poet C.K. Williams reads his work at TED2001. As he colors scenes of childhood resentments, college loves, odd neighbors and the literal death of youth, he reminds us of the unique challenges of living.",
+  "duration": 1397,
+  "event": "TED2001",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/81132_800x600.jpg",
+  "keywords": [
+    "TED Conference",
+    "arts",
+    "culture",
+    "entertainment",
+    "literature",
+    "poetry",
+    "society",
+    "storytelling"
+  ],
+  "mainLanguage": null,
+  "objectID": 500,
+  "otherLanguages": {
+    "ar": "Arabic",
+    "fr": "French",
+    "de": "German",
+    "fa": "Persian",
+    "ru": "Russian",
+    "es": "Spanish"
+  },
+  "ratings": {
+    "Longwinded": 26,
+    "Unconvincing": 7,
+    "Obnoxious": 4,
+    "Beautiful": 76,
+    "Jaw-dropping": 12,
+    "Inspiring": 34,
+    "Fascinating": 12,
+    "Funny": 5,
+    "OK": 10,
+    "Ingenious": 4,
+    "Persuasive": 3,
+    "Courageous": 5,
+    "Informative": 4,
+    "Confusing": 3
+  },
+  "slug": "c_k_williams_reads_poetry_of_youth_and_age",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/81132_800x600.jpg?quality=89&w=600",
+  "title": "Poetry of youth and age",
+  "url": "https://www.ted.com/talks/c_k_williams_reads_poetry_of_youth_and_age",
+  "video": {
+    "low": "http://download.ted.com/talks/CKWilliams_2001-light.mp4",
+    "medium": "http://download.ted.com/talks/CKWilliams_2001.mp4",
+    "high": "http://download.ted.com/talks/CKWilliams_2001-480p.mp4"
+  },
+  "viewCount": 223970,
+  "year": "2001"
+}

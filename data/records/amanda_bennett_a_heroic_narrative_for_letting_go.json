@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/AmandaBennett_2013P.mp3",
+  "author": "Amanda Bennett",
+  "dateFilmed": 1366243200,
+  "datePublished": 1381849202,
+  "description": "Amanda Bennett and her husband were passionate and full of life all throughout their lives together -- and up until the final days, too. Bennett gives a sweet yet powerful talk on why, for the loved ones of the dying, having hope for a happy ending shouldn't warrant a diagnosis of \"denial.\" She calls for a more heroic narrative for death -- to match the ones we have in life.",
+  "duration": 924,
+  "event": "TEDMED 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/6424d8b5b65f1ec11a5c05956186b4a39c77e207_1600x1200.jpg",
+  "keywords": [
+    "culture",
+    "death",
+    "health care",
+    "life"
+  ],
+  "mainLanguage": null,
+  "objectID": 1847,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Inspiring": 189,
+    "Beautiful": 131,
+    "Courageous": 147,
+    "Fascinating": 25,
+    "Obnoxious": 5,
+    "OK": 40,
+    "Persuasive": 32,
+    "Informative": 17,
+    "Ingenious": 11,
+    "Unconvincing": 28,
+    "Longwinded": 25,
+    "Jaw-dropping": 7,
+    "Confusing": 7,
+    "Funny": 7
+  },
+  "slug": "amanda_bennett_a_heroic_narrative_for_letting_go",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/6424d8b5b65f1ec11a5c05956186b4a39c77e207_1600x1200.jpg?quality=89&w=600",
+  "title": "We need a heroic narrative for death",
+  "url": "https://www.ted.com/talks/amanda_bennett_a_heroic_narrative_for_letting_go",
+  "video": {
+    "low": "http://download.ted.com/talks/AmandaBennett_2013P-light.mp4",
+    "medium": "http://download.ted.com/talks/AmandaBennett_2013P.mp4",
+    "high": "http://download.ted.com/talks/AmandaBennett_2013P-480p.mp4"
+  },
+  "viewCount": 893452,
+  "year": "2013"
+}

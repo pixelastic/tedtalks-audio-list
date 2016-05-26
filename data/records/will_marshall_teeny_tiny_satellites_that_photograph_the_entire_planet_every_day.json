@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/WillMarshall_2014.mp3",
+  "author": "Will Marshall",
+  "dateFilmed": 1395273600,
+  "datePublished": 1416326426,
+  "description": "Satellite imaging has revolutionized our knowledge of the Earth, with detailed images of nearly every street corner readily available online. But Planet Labs' Will Marshall says we can do better and go faster -- by getting smaller. He introduces his tiny satellites -- no bigger than 10 by 10 by 30 centimeters -- that, when launched in a cluster, provide high-res images of the entire planet, updated daily.",
+  "duration": 481,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/67d7f2aea88544ae4a18367cf997ea4f487b54ac_2880x1620.jpg",
+  "keywords": [
+    "TED Conference",
+    "astronomy",
+    "space",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 1982,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 177,
+    "Courageous": 66,
+    "Informative": 374,
+    "Inspiring": 377,
+    "Jaw-dropping": 180,
+    "Ingenious": 296,
+    "Fascinating": 370,
+    "Persuasive": 33,
+    "OK": 34,
+    "Funny": 8,
+    "Unconvincing": 5,
+    "Obnoxious": 6,
+    "Confusing": 6,
+    "Longwinded": 0
+  },
+  "slug": "will_marshall_teeny_tiny_satellites_that_photograph_the_entire_planet_every_day",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/67d7f2aea88544ae4a18367cf997ea4f487b54ac_2880x1620.jpg?quality=89&w=600",
+  "title": "Tiny satellites show us the Earth as it changes in near-real-time",
+  "url": "https://www.ted.com/talks/will_marshall_teeny_tiny_satellites_that_photograph_the_entire_planet_every_day",
+  "video": {
+    "low": "http://download.ted.com/talks/WillMarshall_2014-light.mp4",
+    "medium": "http://download.ted.com/talks/WillMarshall_2014.mp4",
+    "high": "http://download.ted.com/talks/WillMarshall_2014-480p.mp4"
+  },
+  "viewCount": 1620911,
+  "year": "2014"
+}

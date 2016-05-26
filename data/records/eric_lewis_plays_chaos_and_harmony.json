@@ -1,0 +1,49 @@
+{
+  "audio": null,
+  "author": "Eric Lewis",
+  "dateFilmed": 1233792000,
+  "datePublished": 1242090000,
+  "description": "Eric Lewis explores the piano's expressive power as he pounds and caresses the keys (and the strings) in a performance during the 2009 TED Prize session. He plays an original song, a tribute to ocean and sky and the vision of the TED Prize winners.",
+  "duration": 294,
+  "event": "TED2009",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/88401_800x600.jpg",
+  "keywords": [
+    "TED Conference",
+    "art",
+    "entertainment",
+    "live music",
+    "music",
+    "piano"
+  ],
+  "mainLanguage": null,
+  "objectID": 541,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Obnoxious": 84,
+    "Jaw-dropping": 53,
+    "Unconvincing": 24,
+    "OK": 32,
+    "Longwinded": 11,
+    "Beautiful": 106,
+    "Fascinating": 53,
+    "Courageous": 17,
+    "Inspiring": 38,
+    "Ingenious": 34,
+    "Funny": 7,
+    "Confusing": 25,
+    "Persuasive": 5,
+    "Informative": 1
+  },
+  "slug": "eric_lewis_plays_chaos_and_harmony",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/88401_800x600.jpg?quality=89&w=600",
+  "title": "Chaos and harmony on piano",
+  "url": "https://www.ted.com/talks/eric_lewis_plays_chaos_and_harmony",
+  "video": {
+    "low": "http://download.ted.com/talks/EricLewis_TEDPRIZE_2009-light.mp4",
+    "medium": "http://download.ted.com/talks/EricLewis_TEDPRIZE_2009.mp4",
+    "high": "http://download.ted.com/talks/EricLewis_TEDPRIZE_2009-480p.mp4"
+  },
+  "viewCount": 372484,
+  "year": "2009"
+}

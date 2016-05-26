@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/BelPesce_2014U.mp3",
+  "author": "Bel Pesce",
+  "dateFilmed": 1412640000,
+  "datePublished": 1428332362,
+  "description": "All of us want to invent that game-changing product, launch that successful company, write that best-selling book. And yet so few of us actually do it. TED Fellow and Brazilian entrepreneur Bel Pesce breaks down five easy-to-believe myths that ensure your dream projects will never come to fruition.",
+  "duration": 371,
+  "event": "TEDGlobal 2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/54a297f5353f48e9826999bf7ae3cd163b952053_2880x1620.jpg",
+  "keywords": [
+    "TED Fellows",
+    "entrepreneur",
+    "innovation",
+    "life"
+  ],
+  "mainLanguage": null,
+  "objectID": 2200,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 857,
+    "Funny": 545,
+    "Inspiring": 2784,
+    "OK": 486,
+    "Longwinded": 43,
+    "Unconvincing": 115,
+    "Obnoxious": 36,
+    "Persuasive": 463,
+    "Informative": 437,
+    "Courageous": 224,
+    "Fascinating": 374,
+    "Ingenious": 115,
+    "Jaw-dropping": 16,
+    "Confusing": 31
+  },
+  "slug": "bel_pesce_5_ways_to_kill_your_dreams",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/54a297f5353f48e9826999bf7ae3cd163b952053_2880x1620.jpg?quality=89&w=600",
+  "title": "5 ways to kill your dreams",
+  "url": "https://www.ted.com/talks/bel_pesce_5_ways_to_kill_your_dreams",
+  "video": {
+    "low": "http://download.ted.com/talks/BelPesce_2014U-light.mp4",
+    "medium": "http://download.ted.com/talks/BelPesce_2014U.mp4",
+    "high": "http://download.ted.com/talks/BelPesce_2014U-480p.mp4"
+  },
+  "viewCount": 4111769,
+  "year": "2014"
+}

@@ -1,0 +1,49 @@
+{
+  "audio": "http://download.ted.com/talks/RobertMuggah_2014G.mp3",
+  "author": "Robert Muggah",
+  "dateFilmed": 1413158400,
+  "datePublished": 1421337411,
+  "description": "Worldwide, violence is on the decline, but in the crowded cities of the global south — cities like Aleppo, Bamako and Caracas — violence is actually accelerating, fueled by the drug trade, mass unemployment and civil unrest. Security researcher Robert Muggah turns our attention toward these \"fragile cities,\" super-fast-growing places where infrastructure is weak and government often ineffective. He shows us the four big risks we face, and offers a way to change course.",
+  "duration": 888,
+  "event": "TEDGlobal 2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8cba1467d7011da819a9ea1860eaef66d79c8a41_2880x1620.jpg",
+  "keywords": [
+    "cities",
+    "global issues",
+    "infrastructure",
+    "violence",
+    "war",
+    "youth"
+  ],
+  "mainLanguage": null,
+  "objectID": 2139,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Funny": 26,
+    "Informative": 181,
+    "Courageous": 79,
+    "Persuasive": 132,
+    "Fascinating": 175,
+    "Confusing": 10,
+    "Unconvincing": 17,
+    "Inspiring": 223,
+    "Ingenious": 230,
+    "Beautiful": 45,
+    "OK": 41,
+    "Longwinded": 8,
+    "Obnoxious": 2,
+    "Jaw-dropping": 168
+  },
+  "slug": "robert_muggah_how_to_protect_fast_growing_cities_from_failing",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8cba1467d7011da819a9ea1860eaef66d79c8a41_2880x1620.jpg?quality=89&w=600",
+  "title": "How to protect fast-growing cities from failing",
+  "url": "https://www.ted.com/talks/robert_muggah_how_to_protect_fast_growing_cities_from_failing",
+  "video": {
+    "low": "http://download.ted.com/talks/RobertMuggah_2014G-light.mp4",
+    "medium": "http://download.ted.com/talks/RobertMuggah_2014G.mp4",
+    "high": "http://download.ted.com/talks/RobertMuggah_2014G-480p.mp4"
+  },
+  "viewCount": 871211,
+  "year": "2014"
+}

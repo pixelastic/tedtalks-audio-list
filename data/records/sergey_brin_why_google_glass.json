@@ -1,0 +1,49 @@
+{
+  "audio": "http://download.ted.com/talks/SergeyBrin_2013.mp3",
+  "author": "Sergey Brin",
+  "dateFilmed": 1361923200,
+  "datePublished": 1368803009,
+  "description": "It's not a demo, more of a philosophical argument: Why did Sergey Brin and his team at Google want to build an eye-mounted camera/computer, codenamed Glass? Onstage at TED2013, Brin calls for a new way of seeing our relationship with our mobile computers -- not hunched over a screen but meeting the world heads-up.",
+  "duration": 435,
+  "event": "TED2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/142996e7349ef0bc181e7e637d4c9f70407aea02_1600x1200.jpg",
+  "keywords": [
+    "TED Brain Trust",
+    "TED Conference",
+    "culture",
+    "design",
+    "interface design",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 1745,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Unconvincing": 344,
+    "Fascinating": 136,
+    "Ingenious": 128,
+    "Informative": 143,
+    "Beautiful": 80,
+    "Jaw-dropping": 53,
+    "OK": 232,
+    "Inspiring": 98,
+    "Confusing": 54,
+    "Persuasive": 20,
+    "Longwinded": 60,
+    "Obnoxious": 114,
+    "Funny": 23,
+    "Courageous": 14
+  },
+  "slug": "sergey_brin_why_google_glass",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/142996e7349ef0bc181e7e637d4c9f70407aea02_1600x1200.jpg?quality=89&w=600",
+  "title": "Why Google Glass?",
+  "url": "https://www.ted.com/talks/sergey_brin_why_google_glass",
+  "video": {
+    "low": "http://download.ted.com/talks/SergeyBrin_2013-light.mp4",
+    "medium": "http://download.ted.com/talks/SergeyBrin_2013.mp4",
+    "high": "http://download.ted.com/talks/SergeyBrin_2013-480p.mp4"
+  },
+  "viewCount": 1953617,
+  "year": "2013"
+}

@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/TrevorAaronson_2015U.mp3",
+  "author": "Trevor Aaronson",
+  "dateFilmed": 1426464000,
+  "datePublished": 1433430720,
+  "description": "There's an organization responsible for more terrorism plots in the United States than al-Qaeda, al-Shabaab and ISIS combined: The FBI. How? Why? In an eye-opening talk, investigative journalist Trevor Aaronson reveals a disturbing FBI practice that breeds terrorist plots by exploiting Muslim-Americans with mental health problems.",
+  "duration": 562,
+  "event": "TED2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/5ea4b18e50b4a7c33dd2259240b64fe623fa2c7e_2880x1620.jpg",
+  "keywords": [
+    "TED Fellows",
+    "United States",
+    "government",
+    "terrorism",
+    "violence"
+  ],
+  "mainLanguage": null,
+  "objectID": 2263,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 441,
+    "Fascinating": 125,
+    "Jaw-dropping": 185,
+    "Unconvincing": 58,
+    "Courageous": 237,
+    "Obnoxious": 17,
+    "Persuasive": 82,
+    "Ingenious": 10,
+    "OK": 39,
+    "Funny": 10,
+    "Confusing": 12,
+    "Longwinded": 1,
+    "Beautiful": 13,
+    "Inspiring": 3
+  },
+  "slug": "trevor_aaronson_how_this_fbi_strategy_is_actually_creating_us_based_terrorists",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/5ea4b18e50b4a7c33dd2259240b64fe623fa2c7e_2880x1620.jpg?quality=89&w=600",
+  "title": "How this FBI strategy is actually creating US-based terrorists",
+  "url": "https://www.ted.com/talks/trevor_aaronson_how_this_fbi_strategy_is_actually_creating_us_based_terrorists",
+  "video": {
+    "low": "http://download.ted.com/talks/TrevorAaronson_2015U-light.mp4",
+    "medium": "http://download.ted.com/talks/TrevorAaronson_2015U.mp4",
+    "high": "http://download.ted.com/talks/TrevorAaronson_2015U-480p.mp4"
+  },
+  "viewCount": 1151013,
+  "year": "2015"
+}

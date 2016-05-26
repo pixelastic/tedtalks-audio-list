@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/KevinBriggs_2014.mp3",
+  "author": "Kevin Briggs",
+  "dateFilmed": 1395100800,
+  "datePublished": 1400080253,
+  "description": "For many years Sergeant Kevin Briggs had a dark, unusual, at times strangely rewarding job: He patrolled the southern end of San Francisco’s Golden Gate Bridge, a popular site for suicide attempts. In a sobering, deeply personal talk Briggs shares stories from those he’s spoken — and listened — to standing on the edge of life. He gives a powerful piece of advice to those with loved ones who might be contemplating suicide.",
+  "duration": 853,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/1cd8f07dca7ced00881a7739af63f107473d4dd8_1600x1200.jpg",
+  "keywords": [
+    "culture",
+    "depression",
+    "mental health",
+    "suicide"
+  ],
+  "mainLanguage": null,
+  "objectID": 1997,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Courageous": 930,
+    "Informative": 650,
+    "Inspiring": 1361,
+    "OK": 93,
+    "Fascinating": 246,
+    "Beautiful": 347,
+    "Persuasive": 342,
+    "Funny": 28,
+    "Jaw-dropping": 73,
+    "Longwinded": 21,
+    "Obnoxious": 7,
+    "Unconvincing": 23,
+    "Ingenious": 12,
+    "Confusing": 12
+  },
+  "slug": "kevin_briggs_the_bridge_between_suicide_and_life",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/1cd8f07dca7ced00881a7739af63f107473d4dd8_1600x1200.jpg?quality=89&w=600",
+  "title": "The bridge between suicide and life",
+  "url": "https://www.ted.com/talks/kevin_briggs_the_bridge_between_suicide_and_life",
+  "video": {
+    "low": "http://download.ted.com/talks/KevinBriggs_2014-light.mp4",
+    "medium": "http://download.ted.com/talks/KevinBriggs_2014.mp4",
+    "high": "http://download.ted.com/talks/KevinBriggs_2014-480p.mp4"
+  },
+  "viewCount": 2213614,
+  "year": "2014"
+}

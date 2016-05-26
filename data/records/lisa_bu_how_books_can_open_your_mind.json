@@ -1,0 +1,49 @@
+{
+  "audio": "http://download.ted.com/talks/LisaBu_2013.mp3",
+  "author": "Lisa Bu",
+  "dateFilmed": 1362009600,
+  "datePublished": 1370012957,
+  "description": "What happens when a dream you've held since childhood … doesn't come true? As Lisa Bu adjusted to a new life in the United States, she turned to books to expand her mind and create a new path for herself. She shares her unique approach to reading in this lovely, personal talk about the magic of books.\r\n",
+  "duration": 376,
+  "event": "TED2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/58f8fe6385ba674c98c3db95b474fd87450e1f9d_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "creativity",
+    "culture",
+    "entertainment",
+    "library",
+    "literature"
+  ],
+  "mainLanguage": null,
+  "objectID": 1755,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Fascinating": 357,
+    "Inspiring": 1137,
+    "Beautiful": 554,
+    "Courageous": 240,
+    "OK": 216,
+    "Unconvincing": 51,
+    "Longwinded": 15,
+    "Informative": 174,
+    "Funny": 164,
+    "Persuasive": 183,
+    "Ingenious": 58,
+    "Obnoxious": 13,
+    "Confusing": 23,
+    "Jaw-dropping": 18
+  },
+  "slug": "lisa_bu_how_books_can_open_your_mind",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/58f8fe6385ba674c98c3db95b474fd87450e1f9d_1600x1200.jpg?quality=89&w=600",
+  "title": "How books can open your mind",
+  "url": "https://www.ted.com/talks/lisa_bu_how_books_can_open_your_mind",
+  "video": {
+    "low": "http://download.ted.com/talks/LisaBu_2013-light.mp4",
+    "medium": "http://download.ted.com/talks/LisaBu_2013.mp4",
+    "high": "http://download.ted.com/talks/LisaBu_2013-480p.mp4"
+  },
+  "viewCount": 2644833,
+  "year": "2013"
+}

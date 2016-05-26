@@ -1,0 +1,61 @@
+{
+  "audio": null,
+  "author": "Paul Sereno",
+  "dateFilmed": 1109548800,
+  "datePublished": 1231290000,
+  "description": "Strange landscapes, scorching heat and (sometimes) mad crocodiles await scientists seeking clues to evolution's genius. Paleontologist Paul Sereno talks about his surprising encounters with prehistory -- and a new way to help students join the adventure.",
+  "duration": 1306,
+  "event": "TED2005",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/65346_800x600.jpg",
+  "keywords": [
+    "Africa",
+    "animals",
+    "biology",
+    "dinosaurs",
+    "education",
+    "evolution",
+    "exploration",
+    "history",
+    "life",
+    "paleontology"
+  ],
+  "mainLanguage": null,
+  "objectID": 428,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified",
+    "da": "Danish",
+    "fr": "French",
+    "de": "German",
+    "it": "Italian",
+    "ko": "Korean",
+    "ro": "Romanian",
+    "ru": "Russian"
+  },
+  "ratings": {
+    "Fascinating": 106,
+    "Inspiring": 112,
+    "Informative": 108,
+    "Jaw-dropping": 17,
+    "Courageous": 28,
+    "OK": 25,
+    "Confusing": 10,
+    "Beautiful": 18,
+    "Persuasive": 24,
+    "Longwinded": 17,
+    "Obnoxious": 6,
+    "Funny": 6,
+    "Ingenious": 14,
+    "Unconvincing": 6
+  },
+  "slug": "paul_sereno_digs_up_dinosaurs",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/65346_800x600.jpg?quality=89&w=600",
+  "title": "Digging up dinosaurs",
+  "url": "https://www.ted.com/talks/paul_sereno_digs_up_dinosaurs",
+  "video": {
+    "low": "http://download.ted.com/talks/PaulSereno_2005-light.mp4",
+    "medium": "http://download.ted.com/talks/PaulSereno_2005.mp4",
+    "high": "http://download.ted.com/talks/PaulSereno_2005-480p.mp4"
+  },
+  "viewCount": 704909,
+  "year": "2005"
+}

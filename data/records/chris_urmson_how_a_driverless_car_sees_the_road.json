@@ -1,0 +1,46 @@
+{
+  "audio": "http://download.ted.com/talks/ChrisUrmson_2015.mp3",
+  "author": "Chris Urmson",
+  "dateFilmed": 1426464000,
+  "datePublished": 1435331640,
+  "description": "Statistically, the least reliable part of the car is ... the driver. Chris Urmson heads up Google's driverless car program, one of several efforts to remove humans from the driver's seat. He talks about where his program is right now, and shares fascinating footage that shows how the car sees the road and makes autonomous decisions about what to do next.",
+  "duration": 929,
+  "event": "TED2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8a1523f43703309c29b372a29981afc7c5f2977b_2880x1620.jpg",
+  "keywords": [
+    "cars",
+    "technology",
+    "transportation"
+  ],
+  "mainLanguage": null,
+  "objectID": 2291,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 514,
+    "Beautiful": 76,
+    "Fascinating": 391,
+    "Inspiring": 166,
+    "Jaw-dropping": 80,
+    "Persuasive": 87,
+    "Ingenious": 145,
+    "Funny": 33,
+    "Unconvincing": 18,
+    "Longwinded": 14,
+    "OK": 61,
+    "Courageous": 13,
+    "Obnoxious": 1,
+    "Confusing": 10
+  },
+  "slug": "chris_urmson_how_a_driverless_car_sees_the_road",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8a1523f43703309c29b372a29981afc7c5f2977b_2880x1620.jpg?quality=89&w=600",
+  "title": "How a driverless car sees the road",
+  "url": "https://www.ted.com/talks/chris_urmson_how_a_driverless_car_sees_the_road",
+  "video": {
+    "low": "http://download.ted.com/talks/ChrisUrmson_2015-light.mp4",
+    "medium": "http://download.ted.com/talks/ChrisUrmson_2015.mp4",
+    "high": "http://download.ted.com/talks/ChrisUrmson_2015-480p.mp4"
+  },
+  "viewCount": 1734363,
+  "year": "2015"
+}

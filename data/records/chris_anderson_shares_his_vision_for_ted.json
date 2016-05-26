@@ -1,0 +1,51 @@
+{
+  "audio": null,
+  "author": "Chris Anderson",
+  "dateFilmed": 1012608000,
+  "datePublished": 1201658220,
+  "description": "Chris Anderson gave this talk in 2002, prior to taking over leadership of TED. Co-founder Richard Saul Wurman was leaving, and TED's future was in the balance. He seeks to persuade TEDsters that what was then a for-profit conference had a secure future as an idea-based nonprofit endeavor.",
+  "duration": 775,
+  "event": "TED2002",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/27581_480x360.jpg",
+  "keywords": [
+    "TED Conference",
+    "business",
+    "community",
+    "culture",
+    "global issues",
+    "philanthropy",
+    "philosophy",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 211,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Courageous": 131,
+    "Persuasive": 102,
+    "Inspiring": 252,
+    "Fascinating": 41,
+    "Funny": 36,
+    "Informative": 101,
+    "Beautiful": 43,
+    "OK": 61,
+    "Ingenious": 21,
+    "Unconvincing": 11,
+    "Confusing": 11,
+    "Longwinded": 18,
+    "Jaw-dropping": 20,
+    "Obnoxious": 10
+  },
+  "slug": "chris_anderson_shares_his_vision_for_ted",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/27581_480x360.jpg?quality=89&w=600",
+  "title": "TED's nonprofit transition",
+  "url": "https://www.ted.com/talks/chris_anderson_shares_his_vision_for_ted",
+  "video": {
+    "low": "http://download.ted.com/talks/ChrisAnderson_2002-light.mp4",
+    "medium": "http://download.ted.com/talks/ChrisAnderson_2002.mp4",
+    "high": "http://download.ted.com/talks/ChrisAnderson_2002-480p.mp4"
+  },
+  "viewCount": 298292,
+  "year": "2002"
+}

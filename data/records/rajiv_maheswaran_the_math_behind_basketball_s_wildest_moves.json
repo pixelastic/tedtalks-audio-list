@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/RajivMaheswaran_2015.mp3",
+  "author": "Rajiv Maheswaran",
+  "dateFilmed": 1426550400,
+  "datePublished": 1436195771,
+  "description": "Basketball is a fast-moving game of improvisation, contact and, ahem, spatio-temporal pattern recognition. Rajiv Maheswaran and his colleagues are analyzing the movements behind the key plays of the game, to help coaches and players combine intuition with new data. Bonus: What they're learning could help us understand how humans move everywhere. ",
+  "duration": 728,
+  "event": "TED2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8c6cef77bf64df600aaac31793780058965ad47a_2880x1620.jpg",
+  "keywords": [
+    "math",
+    "sports",
+    "technology",
+    "visualizations"
+  ],
+  "mainLanguage": null,
+  "objectID": 2294,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Fascinating": 209,
+    "Jaw-dropping": 22,
+    "Informative": 213,
+    "Ingenious": 69,
+    "Confusing": 22,
+    "Funny": 36,
+    "Inspiring": 49,
+    "Beautiful": 13,
+    "Courageous": 7,
+    "Unconvincing": 19,
+    "OK": 63,
+    "Longwinded": 9,
+    "Persuasive": 19,
+    "Obnoxious": 3
+  },
+  "slug": "rajiv_maheswaran_the_math_behind_basketball_s_wildest_moves",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8c6cef77bf64df600aaac31793780058965ad47a_2880x1620.jpg?quality=89&w=600",
+  "title": "The math behind basketball's wildest moves",
+  "url": "https://www.ted.com/talks/rajiv_maheswaran_the_math_behind_basketball_s_wildest_moves",
+  "video": {
+    "low": "http://download.ted.com/talks/RajivMaheswaran_2015-light.mp4",
+    "medium": "http://download.ted.com/talks/RajivMaheswaran_2015.mp4",
+    "high": "http://download.ted.com/talks/RajivMaheswaran_2015-480p.mp4"
+  },
+  "viewCount": 1654011,
+  "year": "2015"
+}

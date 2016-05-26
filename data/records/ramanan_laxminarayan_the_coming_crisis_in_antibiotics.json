@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/RamananLaxminarayan_2014P.mp3",
+  "author": "Ramanan Laxminarayan",
+  "dateFilmed": 1410998400,
+  "datePublished": 1415636221,
+  "description": "Antibiotic drugs save lives. But we simply use them too much — and often for non-lifesaving purposes, like treating the flu and even raising cheaper chickens. The result, says researcher Ramanan Laxminarayan, is that the drugs will stop working for everyone, as the bacteria they target grow more and more resistant. He calls on all of us (patients and  doctors alike) to think of antibiotics -- and their ongoing effectiveness -- as a finite resource, and to think twice before we tap into it. It’s a sobering look at how global medical trends can strike home.",
+  "duration": 882,
+  "event": "TEDMED 2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/aeed56a0675cbe2cd820e08088d4f33cb85c6308_2880x1620.jpg",
+  "keywords": [
+    "economics",
+    "global issues",
+    "health",
+    "medical research",
+    "medicine"
+  ],
+  "mainLanguage": null,
+  "objectID": 2132,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 361,
+    "Fascinating": 72,
+    "Persuasive": 130,
+    "Ingenious": 12,
+    "Inspiring": 39,
+    "OK": 49,
+    "Unconvincing": 13,
+    "Courageous": 16,
+    "Confusing": 11,
+    "Longwinded": 15,
+    "Jaw-dropping": 5,
+    "Obnoxious": 5,
+    "Beautiful": 7,
+    "Funny": 6
+  },
+  "slug": "ramanan_laxminarayan_the_coming_crisis_in_antibiotics",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/aeed56a0675cbe2cd820e08088d4f33cb85c6308_2880x1620.jpg?quality=89&w=600",
+  "title": "The coming crisis in antibiotics",
+  "url": "https://www.ted.com/talks/ramanan_laxminarayan_the_coming_crisis_in_antibiotics",
+  "video": {
+    "low": "http://download.ted.com/talks/RamananLaxminarayan_2014P-light.mp4",
+    "medium": "http://download.ted.com/talks/RamananLaxminarayan_2014P.mp4",
+    "high": "http://download.ted.com/talks/RamananLaxminarayan_2014P-480p.mp4"
+  },
+  "viewCount": 874052,
+  "year": "2014"
+}

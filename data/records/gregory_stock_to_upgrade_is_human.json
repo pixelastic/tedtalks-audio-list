@@ -1,0 +1,63 @@
+{
+  "audio": null,
+  "author": "Gregory Stock",
+  "dateFilmed": 1044228960,
+  "datePublished": 1239670800,
+  "description": "In this prophetic 2003 talk -- just days before Dolly the sheep was stuffed -- biotech ethicist Gregory Stock looked forward to new, more meaningful (and controversial) technologies, like customizable babies, whose adoption might drive human evolution.",
+  "duration": 1071,
+  "event": "TED2003",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/83713_800x600.jpg",
+  "keywords": [
+    "TED Conference",
+    "biology",
+    "biotech",
+    "children",
+    "evolution",
+    "genetics",
+    "science",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 515,
+  "otherLanguages": {
+    "ar": "Arabic",
+    "bg": "Bulgarian",
+    "zh-tw": "Chinese, Traditional",
+    "nl": "Dutch",
+    "en": "English",
+    "he": "Hebrew",
+    "it": "Italian",
+    "ja": "Japanese",
+    "pl": "Polish",
+    "pt-br": "Portuguese, Brazilian",
+    "ru": "Russian",
+    "vi": "Vietnamese"
+  },
+  "ratings": {
+    "Jaw-dropping": 38,
+    "Fascinating": 127,
+    "Informative": 81,
+    "Persuasive": 97,
+    "Inspiring": 128,
+    "Longwinded": 65,
+    "Obnoxious": 13,
+    "Unconvincing": 46,
+    "Courageous": 48,
+    "OK": 45,
+    "Beautiful": 21,
+    "Confusing": 17,
+    "Ingenious": 25,
+    "Funny": 0
+  },
+  "slug": "gregory_stock_to_upgrade_is_human",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/83713_800x600.jpg?quality=89&w=600",
+  "title": "To upgrade is human",
+  "url": "https://www.ted.com/talks/gregory_stock_to_upgrade_is_human",
+  "video": {
+    "low": "http://download.ted.com/talks/GregoryStock_2003-light.mp4",
+    "medium": "http://download.ted.com/talks/GregoryStock_2003.mp4",
+    "high": "http://download.ted.com/talks/GregoryStock_2003-480p.mp4"
+  },
+  "viewCount": 471267,
+  "year": "2003"
+}

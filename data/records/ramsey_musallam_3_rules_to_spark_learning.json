@@ -1,0 +1,49 @@
+{
+  "audio": "http://download.ted.com/talks/RamseyMusallam_2013S.mp3",
+  "author": "Ramsey Musallam",
+  "dateFilmed": 1366156800,
+  "datePublished": 1368025434,
+  "description": "It took a life-threatening condition to jolt chemistry teacher Ramsey Musallam out of ten years of \"pseudo-teaching\" to understand the true role of the educator: to cultivate curiosity. In a fun and personal talk, Musallam gives 3 rules to spark imagination and learning, and get students excited about how the world works.",
+  "duration": 389,
+  "event": "TED Talks Education",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2e8290a67420cb343a885d088ddd8a40b2716e29_1600x1200.jpg",
+  "keywords": [
+    "chemistry",
+    "education",
+    "science",
+    "student",
+    "teaching",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 1731,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Inspiring": 748,
+    "Fascinating": 143,
+    "Informative": 244,
+    "Persuasive": 204,
+    "Unconvincing": 30,
+    "Funny": 102,
+    "OK": 175,
+    "Longwinded": 22,
+    "Beautiful": 75,
+    "Courageous": 49,
+    "Jaw-dropping": 6,
+    "Ingenious": 40,
+    "Confusing": 6,
+    "Obnoxious": 3
+  },
+  "slug": "ramsey_musallam_3_rules_to_spark_learning",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2e8290a67420cb343a885d088ddd8a40b2716e29_1600x1200.jpg?quality=89&w=600",
+  "title": "3 rules to spark learning",
+  "url": "https://www.ted.com/talks/ramsey_musallam_3_rules_to_spark_learning",
+  "video": {
+    "low": "http://download.ted.com/talks/RamseyMusallam_2013S-light.mp4",
+    "medium": "http://download.ted.com/talks/RamseyMusallam_2013S.mp4",
+    "high": "http://download.ted.com/talks/RamseyMusallam_2013S-480p.mp4"
+  },
+  "viewCount": 2151538,
+  "year": "2013"
+}

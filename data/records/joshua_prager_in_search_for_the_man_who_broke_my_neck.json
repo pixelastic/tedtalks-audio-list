@@ -1,0 +1,57 @@
+{
+  "audio": null,
+  "author": "Joshua Prager",
+  "dateFilmed": 1362096000,
+  "datePublished": 1366210858,
+  "description": "When Joshua Prager was 19, a devastating bus accident left him a hemiplegic. He returned to Israel twenty years later to find the driver who turned his world upside down. In this mesmerizing tale of their meeting, Prager probes deep questions of nature, nurture, self-deception and identity.",
+  "duration": 1110,
+  "event": "TED2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/82aa2bf0d3752c17ded8b44f2e3cf5d607fc36de_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "anthropology",
+    "disability",
+    "storytelling",
+    "writing"
+  ],
+  "mainLanguage": null,
+  "objectID": 1715,
+  "otherLanguages": {
+    "bg": "Bulgarian",
+    "zh-cn": "Chinese, Simplified",
+    "cs": "Czech",
+    "de": "German",
+    "el": "Greek",
+    "it": "Italian",
+    "pt-br": "Portuguese, Brazilian",
+    "ro": "Romanian",
+    "th": "Thai"
+  },
+  "ratings": {
+    "Courageous": 523,
+    "Inspiring": 699,
+    "Fascinating": 125,
+    "Beautiful": 287,
+    "OK": 36,
+    "Persuasive": 31,
+    "Jaw-dropping": 79,
+    "Informative": 20,
+    "Longwinded": 38,
+    "Unconvincing": 19,
+    "Ingenious": 7,
+    "Obnoxious": 19,
+    "Confusing": 14,
+    "Funny": 11
+  },
+  "slug": "joshua_prager_in_search_for_the_man_who_broke_my_neck",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/82aa2bf0d3752c17ded8b44f2e3cf5d607fc36de_1600x1200.jpg?quality=89&w=600",
+  "title": "In search of the man who broke my neck",
+  "url": "https://www.ted.com/talks/joshua_prager_in_search_for_the_man_who_broke_my_neck",
+  "video": {
+    "low": "http://download.ted.com/talks/JoshuaPrager_2013-light.mp4",
+    "medium": "http://download.ted.com/talks/JoshuaPrager_2013.mp4",
+    "high": "http://download.ted.com/talks/JoshuaPrager_2013-480p.mp4"
+  },
+  "viewCount": 1209492,
+  "year": "2013"
+}

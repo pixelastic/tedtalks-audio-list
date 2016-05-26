@@ -1,0 +1,49 @@
+{
+  "audio": "http://download.ted.com/talks/AmandaPalmer_2013.mp3",
+  "author": "Amanda Palmer",
+  "dateFilmed": 1361923200,
+  "datePublished": 1362158807,
+  "description": "Don't make people pay for music, says Amanda Palmer: Let them. In a passionate talk that begins in her days as a street performer (drop a dollar in the hat for the Eight-Foot Bride!), she examines the new relationship between artist and fan.",
+  "duration": 827,
+  "event": "TED2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b16537922d8c4547e298fa8c6d5ea50f5dcda21b_1600x1200.jpg",
+  "keywords": [
+    "TED Brain Trust",
+    "TED Conference",
+    "business",
+    "entertainment",
+    "music",
+    "performance art"
+  ],
+  "mainLanguage": null,
+  "objectID": 1682,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Persuasive": 693,
+    "Courageous": 1504,
+    "Beautiful": 1475,
+    "Inspiring": 2748,
+    "Fascinating": 654,
+    "Funny": 183,
+    "Jaw-dropping": 249,
+    "Informative": 157,
+    "Ingenious": 340,
+    "Unconvincing": 76,
+    "OK": 108,
+    "Obnoxious": 70,
+    "Longwinded": 37,
+    "Confusing": 21
+  },
+  "slug": "amanda_palmer_the_art_of_asking",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b16537922d8c4547e298fa8c6d5ea50f5dcda21b_1600x1200.jpg?quality=89&w=600",
+  "title": "The art of asking",
+  "url": "https://www.ted.com/talks/amanda_palmer_the_art_of_asking",
+  "video": {
+    "low": "http://download.ted.com/talks/AmandaPalmer_2013-light.mp4",
+    "medium": "http://download.ted.com/talks/AmandaPalmer_2013.mp4",
+    "high": "http://download.ted.com/talks/AmandaPalmer_2013-480p.mp4"
+  },
+  "viewCount": 7967353,
+  "year": "2013"
+}

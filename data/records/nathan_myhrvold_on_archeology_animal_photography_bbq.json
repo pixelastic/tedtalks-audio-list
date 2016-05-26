@@ -1,0 +1,51 @@
+{
+  "audio": "http://download.ted.com/talks/NathanMyhrvold_2007.mp3",
+  "author": "Nathan Myhrvold",
+  "dateFilmed": 1172880000,
+  "datePublished": 1212541200,
+  "description": "Nathan Myhrvold talks about a few of his latest fascinations -- animal photography, archeology, BBQ and generally being an eccentric genius multimillionaire. Listen for wild stories from the (somewhat raunchy) edge of the animal world.",
+  "duration": 1034,
+  "event": "TED2007",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/43651_480x360.jpg",
+  "keywords": [
+    "TED Brain Trust",
+    "animals",
+    "dinosaurs",
+    "entertainment",
+    "exploration",
+    "fish",
+    "humor",
+    "photography"
+  ],
+  "mainLanguage": null,
+  "objectID": 271,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 81,
+    "Funny": 272,
+    "Inspiring": 170,
+    "Beautiful": 22,
+    "Fascinating": 157,
+    "OK": 70,
+    "Unconvincing": 27,
+    "Persuasive": 9,
+    "Ingenious": 45,
+    "Obnoxious": 115,
+    "Longwinded": 31,
+    "Confusing": 10,
+    "Courageous": 23,
+    "Jaw-dropping": 23
+  },
+  "slug": "nathan_myhrvold_on_archeology_animal_photography_bbq",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/43651_480x360.jpg?quality=89&w=600",
+  "title": "Archeology, animal photography, BBQ ...",
+  "url": "https://www.ted.com/talks/nathan_myhrvold_on_archeology_animal_photography_bbq",
+  "video": {
+    "low": "http://download.ted.com/talks/NathanMyhrvold_2007-light.mp4",
+    "medium": "http://download.ted.com/talks/NathanMyhrvold_2007.mp4",
+    "high": "http://download.ted.com/talks/NathanMyhrvold_2007-480p.mp4"
+  },
+  "viewCount": 385765,
+  "year": "2007"
+}

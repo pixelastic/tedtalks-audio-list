@@ -1,0 +1,46 @@
+{
+  "audio": "http://download.ted.com/talks/JillShargaa_2014S.mp3",
+  "author": "Jill Shargaa",
+  "dateFilmed": 1404864000,
+  "datePublished": 1409324272,
+  "description": "Which of the following is awesome: your lunch or the Great Pyramid of Giza? Comedian Jill Shargaa sounds a hilarious call for us to save the word \"awesome\" for things that truly inspire awe.",
+  "duration": 373,
+  "event": "TED@NYC",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/c55ba9a4a9590e09f2bf3b5422712e453557a385_2400x1800.jpg",
+  "keywords": [
+    "comedy",
+    "humor",
+    "language"
+  ],
+  "mainLanguage": null,
+  "objectID": 2071,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Funny": 743,
+    "Informative": 123,
+    "Beautiful": 31,
+    "Fascinating": 39,
+    "Obnoxious": 109,
+    "Persuasive": 151,
+    "Ingenious": 80,
+    "Unconvincing": 62,
+    "Inspiring": 79,
+    "Jaw-dropping": 6,
+    "OK": 141,
+    "Longwinded": 36,
+    "Confusing": 16,
+    "Courageous": 18
+  },
+  "slug": "jill_shargaa_please_please_people_let_s_put_the_awe_back_in_awesome",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/c55ba9a4a9590e09f2bf3b5422712e453557a385_2400x1800.jpg?quality=89&w=600",
+  "title": "Please, please, people. Let's put the 'awe' back in 'awesome'",
+  "url": "https://www.ted.com/talks/jill_shargaa_please_please_people_let_s_put_the_awe_back_in_awesome",
+  "video": {
+    "low": "http://download.ted.com/talks/JillShargaa_2014S-light.mp4",
+    "medium": "http://download.ted.com/talks/JillShargaa_2014S.mp4",
+    "high": "http://download.ted.com/talks/JillShargaa_2014S-480p.mp4"
+  },
+  "viewCount": 1399756,
+  "year": "2014"
+}

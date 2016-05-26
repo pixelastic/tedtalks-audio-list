@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/NikolaiBegg_2013X.mp3",
+  "author": "Nikolai Begg",
+  "dateFilmed": 1384214400,
+  "datePublished": 1405436498,
+  "description": "Surgeons are required every day to puncture human skin before procedures — with the risk of damaging what's on the other side. In a fascinating talk, find out how mechanical engineer Nikolai Begg is using physics to update an important medical device, called the trocar, and improve one of the most dangerous moments in many common surgeries.",
+  "duration": 561,
+  "event": "TEDxBeaconStreet",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/885c7429ef539771f949b2c700bf5bec320570d9_2400x1800.jpg",
+  "keywords": [
+    "Surgery",
+    "engineering",
+    "invention",
+    "medicine",
+    "product design"
+  ],
+  "mainLanguage": null,
+  "objectID": 2046,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 485,
+    "Inspiring": 343,
+    "Fascinating": 387,
+    "Persuasive": 80,
+    "Ingenious": 480,
+    "Funny": 38,
+    "Jaw-dropping": 50,
+    "Courageous": 32,
+    "Unconvincing": 18,
+    "Beautiful": 12,
+    "OK": 15,
+    "Longwinded": 3,
+    "Obnoxious": 9,
+    "Confusing": 2
+  },
+  "slug": "nikolai_begg_a_tool_to_fix_one_of_the_most_dangerous_moments_in_surgery",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/885c7429ef539771f949b2c700bf5bec320570d9_2400x1800.jpg?quality=89&w=600",
+  "title": "A tool to fix one of the most dangerous moments in surgery",
+  "url": "https://www.ted.com/talks/nikolai_begg_a_tool_to_fix_one_of_the_most_dangerous_moments_in_surgery",
+  "video": {
+    "low": "http://download.ted.com/talks/NikolaiBegg_2013X-light.mp4",
+    "medium": "http://download.ted.com/talks/NikolaiBegg_2013X.mp4",
+    "high": "http://download.ted.com/talks/NikolaiBegg_2013X-480p.mp4"
+  },
+  "viewCount": 1278255,
+  "year": "2013"
+}

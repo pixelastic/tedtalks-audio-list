@@ -1,0 +1,63 @@
+{
+  "audio": null,
+  "author": "Caleb Chung",
+  "dateFilmed": 1197417600,
+  "datePublished": 1222304400,
+  "description": "Pleo the robot dinosaur acts like a living pet -- exploring, cuddling, playing, reacting and learning. Inventor Caleb Chung talks about Pleo and his wild toy career at EG07, on the week that Pleo shipped to stores for the first time.",
+  "duration": 1107,
+  "event": "EG 2007",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/67af888458ee73293dfb5c92d5624ae56db851db_2880x1620.jpg",
+  "keywords": [
+    "children",
+    "design",
+    "dinosaurs",
+    "entertainment",
+    "happiness",
+    "invention",
+    "play",
+    "technology",
+    "toy"
+  ],
+  "mainLanguage": null,
+  "objectID": 350,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified",
+    "zh-tw": "Chinese, Traditional",
+    "en": "English",
+    "fr": "French",
+    "he": "Hebrew",
+    "it": "Italian",
+    "ja": "Japanese",
+    "ko": "Korean",
+    "pt-br": "Portuguese, Brazilian",
+    "es": "Spanish",
+    "tr": "Turkish"
+  },
+  "ratings": {
+    "Inspiring": 91,
+    "Ingenious": 151,
+    "Funny": 98,
+    "Fascinating": 136,
+    "Informative": 58,
+    "Unconvincing": 30,
+    "OK": 71,
+    "Beautiful": 48,
+    "Longwinded": 73,
+    "Courageous": 10,
+    "Obnoxious": 25,
+    "Persuasive": 5,
+    "Jaw-dropping": 27,
+    "Confusing": 16
+  },
+  "slug": "caleb_chung_plays_with_pleo",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/67af888458ee73293dfb5c92d5624ae56db851db_2880x1620.jpg?quality=89&w=600",
+  "title": "Playtime with Pleo, your robotic dinosaur friend",
+  "url": "https://www.ted.com/talks/caleb_chung_plays_with_pleo",
+  "video": {
+    "low": "http://download.ted.com/talks/CalebChung_2007P-light.mp4",
+    "medium": "http://download.ted.com/talks/CalebChung_2007P.mp4",
+    "high": "http://download.ted.com/talks/CalebChung_2007P-480p.mp4"
+  },
+  "viewCount": 393423,
+  "year": "2007"
+}

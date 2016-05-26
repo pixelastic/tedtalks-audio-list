@@ -1,0 +1,58 @@
+{
+  "audio": "http://download.ted.com/talks/DanPacholke_2014X.mp3",
+  "author": "Dan Pacholke",
+  "dateFilmed": 1394841600,
+  "datePublished": 1407941262,
+  "description": "In the United States, the agencies that govern prisons are often called ‘Department of Corrections.’ And yet, their focus is on containing and controlling inmates. Dan Pacholke, Deputy Secretary for the Washington State Department of Corrections, shares a different vision: of prisons that provide humane living conditions as well as opportunities for meaningful work and learning. ",
+  "duration": 632,
+  "event": "TEDxMonroeCorrectionalComplex",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/69e4f4f5e656aa0f9d1ea4ab6accd8a7fd05b2a7_2400x1800.jpg",
+  "keywords": [
+    "TEDx",
+    "crime",
+    "culture",
+    "global issues",
+    "prison",
+    "social change"
+  ],
+  "mainLanguage": null,
+  "objectID": 2057,
+  "otherLanguages": {
+    "ar": "Arabic",
+    "zh-tw": "Chinese, Traditional",
+    "en": "English",
+    "fa": "Persian",
+    "pl": "Polish",
+    "pt": "Portuguese",
+    "sr": "Serbian",
+    "th": "Thai",
+    "vi": "Vietnamese"
+  },
+  "ratings": {
+    "Inspiring": 302,
+    "Beautiful": 39,
+    "Courageous": 86,
+    "Informative": 221,
+    "Fascinating": 84,
+    "Persuasive": 122,
+    "Ingenious": 48,
+    "Obnoxious": 4,
+    "OK": 41,
+    "Confusing": 1,
+    "Unconvincing": 1,
+    "Jaw-dropping": 3,
+    "Funny": 4,
+    "Longwinded": 0
+  },
+  "slug": "dan_pacholke_how_prisons_can_help_inmates_live_meaningful_lives",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/69e4f4f5e656aa0f9d1ea4ab6accd8a7fd05b2a7_2400x1800.jpg?quality=89&w=600",
+  "title": "How prisons can help inmates live meaningful lives",
+  "url": "https://www.ted.com/talks/dan_pacholke_how_prisons_can_help_inmates_live_meaningful_lives",
+  "video": {
+    "low": "http://download.ted.com/talks/DanPacholke_2014X-light.mp4",
+    "medium": "http://download.ted.com/talks/DanPacholke_2014X.mp4",
+    "high": "http://download.ted.com/talks/DanPacholke_2014X-480p.mp4"
+  },
+  "viewCount": 772669,
+  "year": "2014"
+}

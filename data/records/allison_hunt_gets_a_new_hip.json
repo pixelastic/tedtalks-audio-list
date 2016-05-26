@@ -1,0 +1,53 @@
+{
+  "audio": null,
+  "author": "Allison Hunt",
+  "dateFilmed": 1172880000,
+  "datePublished": 1185287940,
+  "description": "When Allison Hunt found out that she needed a new hip -- and that Canada’s national health care system would require her to spend nearly 2 years on a waiting list (and in pain) -- she took matters into her own hands.",
+  "duration": 288,
+  "event": "TED2007",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/13731_480x360.jpg",
+  "keywords": [
+    "TED Conference",
+    "culture",
+    "health care",
+    "marketing",
+    "medicine"
+  ],
+  "mainLanguage": null,
+  "objectID": 149,
+  "otherLanguages": {
+    "bg": "Bulgarian",
+    "zh-tw": "Chinese, Traditional",
+    "it": "Italian",
+    "ja": "Japanese",
+    "tr": "Turkish"
+  },
+  "ratings": {
+    "Courageous": 51,
+    "Inspiring": 91,
+    "Funny": 406,
+    "Beautiful": 36,
+    "Ingenious": 99,
+    "Informative": 41,
+    "Unconvincing": 44,
+    "Confusing": 10,
+    "Persuasive": 25,
+    "Fascinating": 11,
+    "OK": 65,
+    "Longwinded": 8,
+    "Obnoxious": 49,
+    "Jaw-dropping": 5
+  },
+  "slug": "allison_hunt_gets_a_new_hip",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/13731_480x360.jpg?quality=89&w=600",
+  "title": "How to get (a new) hip",
+  "url": "https://www.ted.com/talks/allison_hunt_gets_a_new_hip",
+  "video": {
+    "low": "http://download.ted.com/talks/AllisonHunt_2007-light.mp4",
+    "medium": "http://download.ted.com/talks/AllisonHunt_2007.mp4",
+    "high": "http://download.ted.com/talks/AllisonHunt_2007-480p.mp4"
+  },
+  "viewCount": 504786,
+  "year": "2007"
+}

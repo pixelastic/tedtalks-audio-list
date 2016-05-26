@@ -1,0 +1,56 @@
+{
+  "audio": "http://download.ted.com/talks/SebastianWernicke_2010A.mp3",
+  "author": "Sebastian Wernicke",
+  "dateFilmed": 1265760000,
+  "datePublished": 1272617940,
+  "description": "In a brilliantly tongue-in-cheek analysis, Sebastian Wernicke turns the tools of statistical analysis on TEDTalks, to come up with a metric for creating \"the optimum TEDTalk\" based on user ratings. How do you rate it? \"Jaw-dropping\"? \"Unconvincing\"? Or just plain \"Funny\"?",
+  "duration": 359,
+  "event": "TED2010",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/167464_800x600.jpg",
+  "keywords": [
+    "TED Conference",
+    "comedy",
+    "entertainment",
+    "statistics"
+  ],
+  "mainLanguage": null,
+  "objectID": 846,
+  "otherLanguages": {
+    "ar": "Arabic",
+    "nl": "Dutch",
+    "fr": "French",
+    "ja": "Japanese",
+    "pt-br": "Portuguese, Brazilian",
+    "sl": "Slovenian",
+    "es": "Spanish",
+    "th": "Thai",
+    "uk": "Ukrainian"
+  },
+  "ratings": {
+    "Funny": 5341,
+    "Ingenious": 1684,
+    "Informative": 901,
+    "Fascinating": 727,
+    "Courageous": 192,
+    "Jaw-dropping": 211,
+    "Persuasive": 238,
+    "Obnoxious": 76,
+    "Longwinded": 31,
+    "OK": 267,
+    "Confusing": 25,
+    "Inspiring": 245,
+    "Unconvincing": 89,
+    "Beautiful": 109
+  },
+  "slug": "lies_damned_lies_and_statistics_about_tedtalks",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/167464_800x600.jpg?quality=89&w=600",
+  "title": "Lies, damned lies and statistics (about TEDTalks)",
+  "url": "https://www.ted.com/talks/lies_damned_lies_and_statistics_about_tedtalks",
+  "video": {
+    "low": "http://download.ted.com/talks/SebastianWernicke_2010A-light.mp4",
+    "medium": "http://download.ted.com/talks/SebastianWernicke_2010A.mp4",
+    "high": "http://download.ted.com/talks/SebastianWernicke_2010A-480p.mp4"
+  },
+  "viewCount": 2051692,
+  "year": "2010"
+}

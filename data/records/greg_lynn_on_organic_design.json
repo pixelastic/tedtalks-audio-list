@@ -1,0 +1,51 @@
+{
+  "audio": null,
+  "author": "Greg Lynn",
+  "dateFilmed": 1107302400,
+  "datePublished": 1231488000,
+  "description": "Greg Lynn talks about the mathematical roots of architecture -- and how calculus and digital tools allow modern designers to move beyond the traditional building forms. A glorious church in Queens (and a titanium tea set) illustrate his theory.",
+  "duration": 1134,
+  "event": "TED2005",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/65297_800x600.jpg",
+  "keywords": [
+    "TED Conference",
+    "design"
+  ],
+  "mainLanguage": null,
+  "objectID": 430,
+  "otherLanguages": {
+    "en": "English",
+    "fr": "French",
+    "pl": "Polish",
+    "ru": "Russian",
+    "tr": "Turkish",
+    "vi": "Vietnamese"
+  },
+  "ratings": {
+    "Unconvincing": 33,
+    "Longwinded": 46,
+    "Informative": 83,
+    "Fascinating": 58,
+    "Inspiring": 36,
+    "Beautiful": 36,
+    "OK": 49,
+    "Persuasive": 11,
+    "Confusing": 13,
+    "Ingenious": 33,
+    "Obnoxious": 10,
+    "Jaw-dropping": 9,
+    "Courageous": 1,
+    "Funny": 0
+  },
+  "slug": "greg_lynn_on_organic_design",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/65297_800x600.jpg?quality=89&w=600",
+  "title": "Organic algorithms in architecture",
+  "url": "https://www.ted.com/talks/greg_lynn_on_organic_design",
+  "video": {
+    "low": "http://download.ted.com/talks/GregLynn_2005-light.mp4",
+    "medium": "http://download.ted.com/talks/GregLynn_2005.mp4",
+    "high": "http://download.ted.com/talks/GregLynn_2005-480p.mp4"
+  },
+  "viewCount": 310804,
+  "year": "2005"
+}

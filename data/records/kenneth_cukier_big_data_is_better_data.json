@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/KennethCukier_2014S.mp3",
+  "author": "Kenneth Cukier",
+  "dateFilmed": 1403481600,
+  "datePublished": 1411486918,
+  "description": "Self-driving cars were just the start. What's the future of big data-driven technology and design? In a thrilling science talk, Kenneth Cukier looks at what's next for machine learning -- and human knowledge.",
+  "duration": 951,
+  "event": "TEDSalon Berlin 2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/c08e045faca0cd007e468e7950e6ef5433c3f44c_2880x1620.jpg",
+  "keywords": [
+    "data",
+    "future",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 2094,
+  "otherLanguages": {
+    "zh-tw": "Chinese, Traditional"
+  },
+  "ratings": {
+    "Informative": 550,
+    "Inspiring": 180,
+    "Fascinating": 213,
+    "Persuasive": 113,
+    "Longwinded": 55,
+    "Unconvincing": 33,
+    "Obnoxious": 23,
+    "Jaw-dropping": 20,
+    "Confusing": 12,
+    "OK": 88,
+    "Ingenious": 32,
+    "Funny": 8,
+    "Beautiful": 20,
+    "Courageous": 9
+  },
+  "slug": "kenneth_cukier_big_data_is_better_data",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/c08e045faca0cd007e468e7950e6ef5433c3f44c_2880x1620.jpg?quality=89&w=600",
+  "title": "Big data is better data",
+  "url": "https://www.ted.com/talks/kenneth_cukier_big_data_is_better_data",
+  "video": {
+    "low": "http://download.ted.com/talks/KennethCukier_2014S-light.mp4",
+    "medium": "http://download.ted.com/talks/KennethCukier_2014S.mp4",
+    "high": "http://download.ted.com/talks/KennethCukier_2014S-480p.mp4"
+  },
+  "viewCount": 1093931,
+  "year": "2014"
+}

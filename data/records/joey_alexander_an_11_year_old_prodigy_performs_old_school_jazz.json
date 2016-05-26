@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/JoeyAlexander_2015.mp3",
+  "author": "Joey Alexander",
+  "dateFilmed": 1427241600,
+  "datePublished": 1434726087,
+  "description": "Raised listening to his dad's old records, Joey Alexander plays a brand of sharp, modern piano jazz that you likely wouldn't expect to hear from a pre-teenager. Listen as the 11-year-old delights the TED crowd with his very special performance of a Thelonious Monk classic.",
+  "duration": 388,
+  "event": "TED2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ef5ead6c24bf79ac3417b3c7a10b4c08594e2bcc_2880x1620.jpg",
+  "keywords": [
+    "entertainment",
+    "jazz",
+    "live music",
+    "music",
+    "performance"
+  ],
+  "mainLanguage": null,
+  "objectID": 2273,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 611,
+    "Fascinating": 312,
+    "Inspiring": 293,
+    "Informative": 6,
+    "Jaw-dropping": 280,
+    "OK": 82,
+    "Longwinded": 20,
+    "Confusing": 7,
+    "Ingenious": 43,
+    "Courageous": 9,
+    "Persuasive": 2,
+    "Funny": 8,
+    "Unconvincing": 7,
+    "Obnoxious": 3
+  },
+  "slug": "joey_alexander_an_11_year_old_prodigy_performs_old_school_jazz",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ef5ead6c24bf79ac3417b3c7a10b4c08594e2bcc_2880x1620.jpg?quality=89&w=600",
+  "title": "An 11-year-old prodigy performs old-school jazz ",
+  "url": "https://www.ted.com/talks/joey_alexander_an_11_year_old_prodigy_performs_old_school_jazz",
+  "video": {
+    "low": "http://download.ted.com/talks/JoeyAlexander_2015-light.mp4",
+    "medium": "http://download.ted.com/talks/JoeyAlexander_2015.mp4",
+    "high": "http://download.ted.com/talks/JoeyAlexander_2015-480p.mp4"
+  },
+  "viewCount": 1794066,
+  "year": "2015"
+}

@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/DaveTroy_2014U.mp3",
+  "author": "Dave Troy",
+  "dateFilmed": 1413158400,
+  "datePublished": 1418400642,
+  "description": "Every city has its neighborhoods, cliques and clubs, the hidden lines that join and divide people in the same town. What can we learn about cities by looking at what people share online? Starting with his own home town of Baltimore, Dave Troy has been visualizing what the tweets of city dwellers reveal about who lives there, who they talk to — and who they don’t.",
+  "duration": 328,
+  "event": "TEDGlobal 2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/665a3617d807d1eb836006fb2bf5a6b4c7687c7b_2880x1620.jpg",
+  "keywords": [
+    "cities",
+    "culture",
+    "social media",
+    "visualizations"
+  ],
+  "mainLanguage": null,
+  "objectID": 2150,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "OK": 93,
+    "Confusing": 31,
+    "Unconvincing": 35,
+    "Informative": 168,
+    "Inspiring": 58,
+    "Fascinating": 77,
+    "Persuasive": 29,
+    "Obnoxious": 5,
+    "Longwinded": 3,
+    "Ingenious": 23,
+    "Beautiful": 17,
+    "Jaw-dropping": 3,
+    "Courageous": 5,
+    "Funny": 13
+  },
+  "slug": "dave_troy_social_maps_that_reveal_a_city_s_intersections_and_separations",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/665a3617d807d1eb836006fb2bf5a6b4c7687c7b_2880x1620.jpg?quality=89&w=600",
+  "title": "Social maps that reveal a city's intersections — and separations",
+  "url": "https://www.ted.com/talks/dave_troy_social_maps_that_reveal_a_city_s_intersections_and_separations",
+  "video": {
+    "low": "http://download.ted.com/talks/DaveTroy_2014U-light.mp4",
+    "medium": "http://download.ted.com/talks/DaveTroy_2014U.mp4",
+    "high": "http://download.ted.com/talks/DaveTroy_2014U-480p.mp4"
+  },
+  "viewCount": 1233441,
+  "year": "2014"
+}

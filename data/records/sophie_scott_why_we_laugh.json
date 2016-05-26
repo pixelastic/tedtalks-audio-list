@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/SophieScott_2015.mp3",
+  "author": "Sophie Scott",
+  "dateFilmed": 1426809600,
+  "datePublished": 1430406030,
+  "description": "Did you know that you're 30 times more likely to laugh if you're with somebody else than if you're alone? Cognitive neuroscientist Sophie Scott shares this and other surprising facts about laughter in this fast-paced, action-packed and, yes, hilarious dash through the science of cracking up.",
+  "duration": 1024,
+  "event": "TED2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b37fddd0ff22525d9ed1c9bde56f170221cbce31_2880x1620.jpg",
+  "keywords": [
+    "cognitive science",
+    "humor",
+    "neuroscience",
+    "science"
+  ],
+  "mainLanguage": null,
+  "objectID": 2236,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Obnoxious": 31,
+    "Funny": 652,
+    "Informative": 415,
+    "Fascinating": 288,
+    "Ingenious": 51,
+    "Inspiring": 118,
+    "OK": 103,
+    "Longwinded": 41,
+    "Jaw-dropping": 16,
+    "Persuasive": 33,
+    "Beautiful": 82,
+    "Confusing": 10,
+    "Courageous": 8,
+    "Unconvincing": 9
+  },
+  "slug": "sophie_scott_why_we_laugh",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b37fddd0ff22525d9ed1c9bde56f170221cbce31_2880x1620.jpg?quality=89&w=600",
+  "title": "Why we laugh",
+  "url": "https://www.ted.com/talks/sophie_scott_why_we_laugh",
+  "video": {
+    "low": "http://download.ted.com/talks/SophieScott_2015-light.mp4",
+    "medium": "http://download.ted.com/talks/SophieScott_2015.mp4",
+    "high": "http://download.ted.com/talks/SophieScott_2015-480p.mp4"
+  },
+  "viewCount": 2117728,
+  "year": "2015"
+}

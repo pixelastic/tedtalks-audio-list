@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/SeverineAutesserre_2014G.mp3",
+  "author": "Severine Autesserre",
+  "dateFilmed": 1413417600,
+  "datePublished": 1422374796,
+  "description": "Severine Autesserre studies the Democratic Republic of Congo, which is in the middle of the deadliest conflict since World War II; it's been called \"the largest ongoing humanitarian crisis in the world.” The conflict seems hopelessly, unsolvably large. But her insight from decades of listening and engaging: The conflicts are often locally based. And instead of focusing on solutions that scale to a national level, leaders and aid groups might be better served solving local crises before they ignite.",
+  "duration": 961,
+  "event": "TEDGlobal 2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/0939d58b9f2069b4415736c8c49e3b721546d859_2880x1620.jpg",
+  "keywords": [
+    "government",
+    "peace",
+    "war"
+  ],
+  "mainLanguage": null,
+  "objectID": 2174,
+  "otherLanguages": {
+    "zh-tw": "Chinese, Traditional"
+  },
+  "ratings": {
+    "Confusing": 40,
+    "Unconvincing": 15,
+    "Obnoxious": 6,
+    "Ingenious": 27,
+    "Inspiring": 271,
+    "Persuasive": 155,
+    "Informative": 145,
+    "Fascinating": 151,
+    "Courageous": 59,
+    "Longwinded": 28,
+    "Beautiful": 25,
+    "Funny": 7,
+    "OK": 36,
+    "Jaw-dropping": 8
+  },
+  "slug": "severine_autesserre_to_solve_mass_violence_look_to_locals",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/0939d58b9f2069b4415736c8c49e3b721546d859_2880x1620.jpg?quality=89&w=600",
+  "title": "To solve mass violence, look to locals",
+  "url": "https://www.ted.com/talks/severine_autesserre_to_solve_mass_violence_look_to_locals",
+  "video": {
+    "low": "http://download.ted.com/talks/SeverineAutesserre_2014G-light.mp4",
+    "medium": "http://download.ted.com/talks/SeverineAutesserre_2014G.mp4",
+    "high": "http://download.ted.com/talks/SeverineAutesserre_2014G-480p.mp4"
+  },
+  "viewCount": 728603,
+  "year": "2014"
+}

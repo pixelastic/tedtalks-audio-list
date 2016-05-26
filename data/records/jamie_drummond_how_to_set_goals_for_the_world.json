@@ -1,0 +1,51 @@
+{
+  "audio": "http://download.ted.com/talks/JamieDrummond_2012G.mp3",
+  "author": "Jamie Drummond",
+  "dateFilmed": 1340755200,
+  "datePublished": 1342537652,
+  "description": "In 2000, the UN laid out 8 goals to make the world better by reducing poverty and disease -- with a deadline of 2015. As that deadline approaches, Jamie Drummond of ONE.org runs down the surprising successes of the 8 Millennium Development Goals, and suggests a crowdsourced reboot for the next 15 years.",
+  "duration": 730,
+  "event": "TEDGlobal 2012",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8a2d1681d687b0ccb065b08d2f153af19258b2b5_800x600.jpg",
+  "keywords": [
+    "development",
+    "global issues",
+    "goal-setting",
+    "health care",
+    "poverty"
+  ],
+  "mainLanguage": null,
+  "objectID": 1510,
+  "otherLanguages": {
+    "bg": "Bulgarian",
+    "pt-br": "Portuguese, Brazilian",
+    "vi": "Vietnamese"
+  },
+  "ratings": {
+    "Inspiring": 111,
+    "Informative": 62,
+    "Persuasive": 66,
+    "Ingenious": 14,
+    "Jaw-dropping": 11,
+    "Beautiful": 9,
+    "Unconvincing": 44,
+    "OK": 26,
+    "Longwinded": 10,
+    "Courageous": 24,
+    "Confusing": 11,
+    "Obnoxious": 6,
+    "Fascinating": 17,
+    "Funny": 2
+  },
+  "slug": "jamie_drummond_how_to_set_goals_for_the_world",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8a2d1681d687b0ccb065b08d2f153af19258b2b5_800x600.jpg?quality=89&w=600",
+  "title": "Let's crowdsource the world's goals",
+  "url": "https://www.ted.com/talks/jamie_drummond_how_to_set_goals_for_the_world",
+  "video": {
+    "low": "http://download.ted.com/talks/JamieDrummond_2012G-light.mp4",
+    "medium": "http://download.ted.com/talks/JamieDrummond_2012G.mp4",
+    "high": "http://download.ted.com/talks/JamieDrummond_2012G-480p.mp4"
+  },
+  "viewCount": 481528,
+  "year": "2012"
+}

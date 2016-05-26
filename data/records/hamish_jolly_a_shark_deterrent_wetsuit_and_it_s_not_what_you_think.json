@@ -1,0 +1,49 @@
+{
+  "audio": "http://download.ted.com/talks/HamishJolly_2013X.mp3",
+  "author": "Hamish Jolly",
+  "dateFilmed": 1381708800,
+  "datePublished": 1398266041,
+  "description": "Hamish Jolly, an ocean swimmer in Australia, wanted a wetsuit that would deter a curious shark from mistaking him for a potential source of nourishment. (Which, statistically, is rare, but certainly a fate worth avoiding.) Working with a team of scientists, he and his friends came up with a fresh approach — not a shark cage, not a suit of chain-mail, but a sleek suit that taps our growing understanding of shark vision. ",
+  "duration": 752,
+  "event": "TEDxPerth",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/237e4fca4c363833ba519b6e806122b0295d3ac1_1600x1200.jpg",
+  "keywords": [
+    "TEDx",
+    "biomimicry",
+    "design",
+    "oceans",
+    "sports"
+  ],
+  "mainLanguage": null,
+  "objectID": 1981,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified"
+  },
+  "ratings": {
+    "Ingenious": 365,
+    "Informative": 419,
+    "Funny": 23,
+    "Fascinating": 293,
+    "Persuasive": 108,
+    "Longwinded": 23,
+    "Unconvincing": 13,
+    "OK": 53,
+    "Inspiring": 99,
+    "Jaw-dropping": 44,
+    "Beautiful": 26,
+    "Courageous": 27,
+    "Confusing": 18,
+    "Obnoxious": 13
+  },
+  "slug": "hamish_jolly_a_shark_deterrent_wetsuit_and_it_s_not_what_you_think",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/237e4fca4c363833ba519b6e806122b0295d3ac1_1600x1200.jpg?quality=89&w=600",
+  "title": "A shark-deterrent wetsuit (and it's not what you think)",
+  "url": "https://www.ted.com/talks/hamish_jolly_a_shark_deterrent_wetsuit_and_it_s_not_what_you_think",
+  "video": {
+    "low": "http://download.ted.com/talks/HamishJolly_2013X-light.mp4",
+    "medium": "http://download.ted.com/talks/HamishJolly_2013X.mp4",
+    "high": "http://download.ted.com/talks/HamishJolly_2013X-480p.mp4"
+  },
+  "viewCount": 2328315,
+  "year": "2013"
+}

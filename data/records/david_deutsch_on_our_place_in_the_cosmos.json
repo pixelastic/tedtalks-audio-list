@@ -1,0 +1,59 @@
+{
+  "audio": "http://download.ted.com/talks/DavidDeutsch_2005G.mp3",
+  "author": "David Deutsch",
+  "dateFilmed": 1121299200,
+  "datePublished": 1158019860,
+  "description": "Legendary scientist David Deutsch puts theoretical physics on the back burner to discuss a more urgent matter: the survival of our species. The first step toward solving global warming, he says, is to admit that we have a problem.",
+  "duration": 1140,
+  "event": "TEDGlobal 2005",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/9d9412aa005dabb66c735c369677e258defe5deb_1920x1080.jpg",
+  "keywords": [
+    "climate change",
+    "cosmos",
+    "culture",
+    "environment",
+    "global issues",
+    "physics",
+    "science",
+    "technology",
+    "universe"
+  ],
+  "mainLanguage": null,
+  "objectID": 47,
+  "otherLanguages": {
+    "en": "English",
+    "de": "German",
+    "he": "Hebrew",
+    "ja": "Japanese",
+    "pt": "Portuguese",
+    "tr": "Turkish",
+    "vi": "Vietnamese"
+  },
+  "ratings": {
+    "Ingenious": 252,
+    "Courageous": 86,
+    "Funny": 118,
+    "Confusing": 38,
+    "Beautiful": 89,
+    "Informative": 412,
+    "Inspiring": 372,
+    "Fascinating": 486,
+    "Longwinded": 44,
+    "Unconvincing": 47,
+    "Persuasive": 1216,
+    "OK": 64,
+    "Jaw-dropping": 129,
+    "Obnoxious": 18
+  },
+  "slug": "david_deutsch_on_our_place_in_the_cosmos",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/9d9412aa005dabb66c735c369677e258defe5deb_1920x1080.jpg?quality=89&w=600",
+  "title": "Chemical scum that dream of distant quasars",
+  "url": "https://www.ted.com/talks/david_deutsch_on_our_place_in_the_cosmos",
+  "video": {
+    "low": "http://download.ted.com/talks/DavidDeutsch_2005G-light.mp4",
+    "medium": "http://download.ted.com/talks/DavidDeutsch_2005G.mp4",
+    "high": "http://download.ted.com/talks/DavidDeutsch_2005G-480p.mp4"
+  },
+  "viewCount": 959510,
+  "year": "2005"
+}

@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/GlennGreenwald_2014G.mp3",
+  "author": "Glenn Greenwald",
+  "dateFilmed": 1412208000,
+  "datePublished": 1412946663,
+  "description": "Glenn Greenwald was one of the first reporters to see -- and write about -- the Edward Snowden files, with their revelations about the United States' extensive surveillance of private citizens. In this searing talk, Greenwald makes the case for why you need to care about privacy, even if you’re “not doing anything you need to hide.\"",
+  "duration": 1237,
+  "event": "TEDGlobal 2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/6992aa456af79721f493686c804324356781ddea_2880x1620.jpg",
+  "keywords": [
+    "Internet",
+    "government",
+    "intelligence",
+    "journalism",
+    "privacy"
+  ],
+  "mainLanguage": null,
+  "objectID": 2106,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Courageous": 993,
+    "Informative": 1321,
+    "Persuasive": 1095,
+    "Inspiring": 718,
+    "Beautiful": 103,
+    "Jaw-dropping": 62,
+    "Fascinating": 363,
+    "Longwinded": 48,
+    "OK": 187,
+    "Ingenious": 74,
+    "Unconvincing": 58,
+    "Confusing": 37,
+    "Obnoxious": 28,
+    "Funny": 35
+  },
+  "slug": "glenn_greenwald_why_privacy_matters",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/6992aa456af79721f493686c804324356781ddea_2880x1620.jpg?quality=89&w=600",
+  "title": "Why privacy matters",
+  "url": "https://www.ted.com/talks/glenn_greenwald_why_privacy_matters",
+  "video": {
+    "low": "http://download.ted.com/talks/GlennGreenwald_2014G-light.mp4",
+    "medium": "http://download.ted.com/talks/GlennGreenwald_2014G.mp4",
+    "high": "http://download.ted.com/talks/GlennGreenwald_2014G-480p.mp4"
+  },
+  "viewCount": 1723883,
+  "year": "2014"
+}

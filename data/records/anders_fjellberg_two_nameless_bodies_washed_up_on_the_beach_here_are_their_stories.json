@@ -1,0 +1,50 @@
+{
+  "audio": "http://download.ted.com/talks/AndersFjellberg_2015G.mp3",
+  "author": "Anders Fjellberg",
+  "dateFilmed": 1443484800,
+  "datePublished": 1444924965,
+  "description": "When two bodies wearing identical wetsuits washed ashore in Norway and the Netherlands, journalist Anders Fjellberg and photographer Tomm Christiansen started a search to answer the question: who were these people? What they found and reported in Norway’s “Dagbladet” is that everybody has a name, everybody has a story and everybody is someone.",
+  "duration": 881,
+  "event": "TEDGlobal>London",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/414f232fce96dc6a85d03cbab4eda2302ebbb675_2880x1620.jpg",
+  "keywords": [
+    "Europe",
+    "Middle East",
+    "death",
+    "global issues",
+    "identity",
+    "journalism",
+    "war"
+  ],
+  "mainLanguage": null,
+  "objectID": 2353,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Courageous": 186,
+    "Informative": 264,
+    "Inspiring": 166,
+    "Fascinating": 62,
+    "Jaw-dropping": 62,
+    "Persuasive": 63,
+    "Beautiful": 30,
+    "OK": 34,
+    "Unconvincing": 8,
+    "Confusing": 2,
+    "Longwinded": 1,
+    "Ingenious": 2,
+    "Obnoxious": 6,
+    "Funny": 6
+  },
+  "slug": "anders_fjellberg_two_nameless_bodies_washed_up_on_the_beach_here_are_their_stories",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/414f232fce96dc6a85d03cbab4eda2302ebbb675_2880x1620.jpg?quality=89&w=600",
+  "title": "Two nameless bodies washed up on the beach. Here are their stories",
+  "url": "https://www.ted.com/talks/anders_fjellberg_two_nameless_bodies_washed_up_on_the_beach_here_are_their_stories",
+  "video": {
+    "low": "http://download.ted.com/talks/AndersFjellberg_2015G-light.mp4",
+    "medium": "http://download.ted.com/talks/AndersFjellberg_2015G.mp4",
+    "high": "http://download.ted.com/talks/AndersFjellberg_2015G-480p.mp4"
+  },
+  "viewCount": 1073252,
+  "year": "2015"
+}

@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/AjitNarayanan_2013.mp3",
+  "author": "Ajit Narayanan",
+  "dateFilmed": 1361923200,
+  "datePublished": 1394465004,
+  "description": "While working with kids who have trouble speaking, Ajit Narayanan sketched out a way to think about language in pictures, to relate words and concepts in \"maps.\" The idea now powers the FreeSpeech app, which can help nonverbal people communicate.",
+  "duration": 943,
+  "event": "TED2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/0ed95b9cfeb058fbbf29e2a9ec47c4a40f041617_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "disability",
+    "language",
+    "speech",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 1934,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 393,
+    "Inspiring": 481,
+    "Fascinating": 431,
+    "Ingenious": 380,
+    "Funny": 24,
+    "Jaw-dropping": 62,
+    "Courageous": 31,
+    "Persuasive": 52,
+    "OK": 49,
+    "Beautiful": 102,
+    "Unconvincing": 31,
+    "Longwinded": 17,
+    "Confusing": 25,
+    "Obnoxious": 7
+  },
+  "slug": "ajit_narayanan_a_word_game_to_communicate_in_any_language",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/0ed95b9cfeb058fbbf29e2a9ec47c4a40f041617_1600x1200.jpg?quality=89&w=600",
+  "title": "A word game to communicate in any language",
+  "url": "https://www.ted.com/talks/ajit_narayanan_a_word_game_to_communicate_in_any_language",
+  "video": {
+    "low": "http://download.ted.com/talks/AjitNarayanan_2013-light.mp4",
+    "medium": "http://download.ted.com/talks/AjitNarayanan_2013.mp4",
+    "high": "http://download.ted.com/talks/AjitNarayanan_2013-480p.mp4"
+  },
+  "viewCount": 1190134,
+  "year": "2013"
+}

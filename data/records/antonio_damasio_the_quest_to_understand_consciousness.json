@@ -1,0 +1,56 @@
+{
+  "audio": "http://download.ted.com/talks/AntonioDamasio_2011.mp3",
+  "author": "Antonio Damasio",
+  "dateFilmed": 1299024000,
+  "datePublished": 1324310558,
+  "description": "Every morning we wake up and regain consciousness -- that is a marvelous fact -- but what exactly is it that we regain? Neuroscientist Antonio Damasio uses this simple question to give us a glimpse into how our brains create our sense of self.",
+  "duration": 1122,
+  "event": "TED2011",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/483f84a4cd490b8a4ed1331c489ac04e09bf61b4_800x600.jpg",
+  "keywords": [
+    "TED Conference",
+    "brain",
+    "consciousness",
+    "neuroscience",
+    "science",
+    "self"
+  ],
+  "mainLanguage": null,
+  "objectID": 1308,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified",
+    "zh-tw": "Chinese, Traditional",
+    "cs": "Czech",
+    "pt-br": "Portuguese, Brazilian",
+    "sr": "Serbian",
+    "es": "Spanish",
+    "uk": "Ukrainian"
+  },
+  "ratings": {
+    "Informative": 667,
+    "Fascinating": 545,
+    "Inspiring": 183,
+    "Beautiful": 46,
+    "Persuasive": 163,
+    "Ingenious": 84,
+    "Longwinded": 146,
+    "Confusing": 64,
+    "OK": 113,
+    "Jaw-dropping": 67,
+    "Courageous": 18,
+    "Unconvincing": 81,
+    "Obnoxious": 19,
+    "Funny": 4
+  },
+  "slug": "antonio_damasio_the_quest_to_understand_consciousness",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/483f84a4cd490b8a4ed1331c489ac04e09bf61b4_800x600.jpg?quality=89&w=600",
+  "title": "The quest to understand consciousness",
+  "url": "https://www.ted.com/talks/antonio_damasio_the_quest_to_understand_consciousness",
+  "video": {
+    "low": "http://download.ted.com/talks/AntonioDamasio_2011-light.mp4",
+    "medium": "http://download.ted.com/talks/AntonioDamasio_2011.mp4",
+    "high": "http://download.ted.com/talks/AntonioDamasio_2011-480p.mp4"
+  },
+  "viewCount": 1414475,
+  "year": "2011"
+}

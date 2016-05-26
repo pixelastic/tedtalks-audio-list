@@ -1,0 +1,54 @@
+{
+  "audio": "http://download.ted.com/talks/AndreasEkstrom_2015X.mp3",
+  "author": "Andreas Ekström",
+  "dateFilmed": 1422489600,
+  "datePublished": 1447173342,
+  "description": "Search engines have become our most trusted sources of information and arbiters of truth. But can we ever get an unbiased search result? Swedish author and journalist Andreas Ekström argues that such a thing is a philosophical impossibility. In this thoughtful talk, he calls on us to strengthen the bonds between technology and the humanities, and he reminds us that behind every algorithm is a set of personal beliefs that no code can ever completely eradicate.",
+  "duration": 558,
+  "event": "TEDxOslo",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/90eeddc216ca86ad2fbf99d0823a39fe681e7513_2880x1620.jpg",
+  "keywords": [
+    "Google",
+    "Internet",
+    "TEDx",
+    "algorithm",
+    "communication",
+    "computers",
+    "decision-making",
+    "society",
+    "software",
+    "technology",
+    "web"
+  ],
+  "mainLanguage": null,
+  "objectID": 2369,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Courageous": 69,
+    "Informative": 394,
+    "Inspiring": 132,
+    "Fascinating": 121,
+    "Persuasive": 160,
+    "Jaw-dropping": 27,
+    "OK": 42,
+    "Funny": 4,
+    "Ingenious": 35,
+    "Confusing": 10,
+    "Unconvincing": 20,
+    "Obnoxious": 17,
+    "Beautiful": 12,
+    "Longwinded": 10
+  },
+  "slug": "andreas_ekstrom_the_moral_bias_behind_your_search_results",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/90eeddc216ca86ad2fbf99d0823a39fe681e7513_2880x1620.jpg?quality=89&w=600",
+  "title": "The moral bias behind your search results",
+  "url": "https://www.ted.com/talks/andreas_ekstrom_the_moral_bias_behind_your_search_results",
+  "video": {
+    "low": "http://download.ted.com/talks/AndreasEkstrom_2015X-light.mp4",
+    "medium": "http://download.ted.com/talks/AndreasEkstrom_2015X.mp4",
+    "high": "http://download.ted.com/talks/AndreasEkstrom_2015X-480p.mp4"
+  },
+  "viewCount": 1255130,
+  "year": "2015"
+}

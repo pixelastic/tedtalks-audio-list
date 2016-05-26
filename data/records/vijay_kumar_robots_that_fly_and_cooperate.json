@@ -1,0 +1,59 @@
+{
+  "audio": "http://download.ted.com/talks/VijayKumar_2012.mp3",
+  "author": "Vijay Kumar",
+  "dateFilmed": 1330473600,
+  "datePublished": 1330616091,
+  "description": "In his lab at Penn, Vijay Kumar and his team build flying quadrotors, small, agile robots that swarm, sense each other, and form ad hoc teams -- for construction, surveying disasters and far more.",
+  "duration": 1006,
+  "event": "TED2012",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8aa84e7e5d405e75f19fc51bf6f9918312fff4e5_800x600.jpg",
+  "keywords": [
+    "AI",
+    "TED Conference",
+    "drones",
+    "robots",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 1376,
+  "otherLanguages": {
+    "sq": "Albanian",
+    "he": "Hebrew",
+    "hi": "Hindi",
+    "ko": "Korean",
+    "mn": "Mongolian",
+    "fa": "Persian",
+    "pt-br": "Portuguese, Brazilian",
+    "ro": "Romanian",
+    "sk": "Slovak",
+    "th": "Thai",
+    "uk": "Ukrainian"
+  },
+  "ratings": {
+    "Inspiring": 872,
+    "Informative": 434,
+    "Fascinating": 1263,
+    "Jaw-dropping": 2003,
+    "Beautiful": 176,
+    "Ingenious": 1117,
+    "Funny": 92,
+    "Courageous": 67,
+    "OK": 65,
+    "Persuasive": 94,
+    "Confusing": 18,
+    "Longwinded": 12,
+    "Unconvincing": 10,
+    "Obnoxious": 12
+  },
+  "slug": "vijay_kumar_robots_that_fly_and_cooperate",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8aa84e7e5d405e75f19fc51bf6f9918312fff4e5_800x600.jpg?quality=89&w=600",
+  "title": "Robots that fly ... and cooperate",
+  "url": "https://www.ted.com/talks/vijay_kumar_robots_that_fly_and_cooperate",
+  "video": {
+    "low": "http://download.ted.com/talks/VijayKumar_2012-light.mp4",
+    "medium": "http://download.ted.com/talks/VijayKumar_2012.mp4",
+    "high": "http://download.ted.com/talks/VijayKumar_2012-480p.mp4"
+  },
+  "viewCount": 3919254,
+  "year": "2012"
+}

@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/BoydVarty_2013W.mp3",
+  "author": "Boyd Varty",
+  "dateFilmed": 1386201600,
+  "datePublished": 1386605235,
+  "description": "\"In the cathedral of the wild, we get to see the best parts of ourselves reflected back to us.\" Boyd Varty, a wildlife activist, shares stories of animals, humans and their interrelatedness, or \"ubuntu\" -- defined as, \"I am, because of you.\" And he dedicates the talk to South African leader Nelson Mandela, the human embodiment of that same great-hearted, generous spirit.",
+  "duration": 899,
+  "event": "TEDWomen 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ac94de3c9274db3852ff399f0ecfa459ecc8af18_1600x1200.jpg",
+  "keywords": [
+    "Africa",
+    "culture",
+    "nature"
+  ],
+  "mainLanguage": null,
+  "objectID": 1890,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified"
+  },
+  "ratings": {
+    "OK": 69,
+    "Confusing": 4,
+    "Inspiring": 718,
+    "Beautiful": 523,
+    "Fascinating": 188,
+    "Funny": 63,
+    "Persuasive": 61,
+    "Courageous": 89,
+    "Informative": 60,
+    "Jaw-dropping": 32,
+    "Longwinded": 6,
+    "Unconvincing": 8,
+    "Ingenious": 6,
+    "Obnoxious": 5
+  },
+  "slug": "boyd_varty_what_i_learned_from_nelson_mandela",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ac94de3c9274db3852ff399f0ecfa459ecc8af18_1600x1200.jpg?quality=89&w=600",
+  "title": "What I learned from Nelson Mandela",
+  "url": "https://www.ted.com/talks/boyd_varty_what_i_learned_from_nelson_mandela",
+  "video": {
+    "low": "http://download.ted.com/talks/BoydVarty_2013W-light.mp4",
+    "medium": "http://download.ted.com/talks/BoydVarty_2013W.mp4",
+    "high": "http://download.ted.com/talks/BoydVarty_2013W-480p.mp4"
+  },
+  "viewCount": 1505020,
+  "year": "2013"
+}

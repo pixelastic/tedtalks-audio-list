@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/SaraLewis_2014.mp3",
+  "author": "Sara Lewis",
+  "dateFilmed": 1395273600,
+  "datePublished": 1404226580,
+  "description": "Biologist Sara Lewis has spent the past 20 years getting to the bottom of the magic and wonder of fireflies. In this charming talk, she tells us how and why the beetles produce their silent sparks, what happens when two fireflies have sex, and why one group of females is known as the firefly vampire. (It's not pretty.) Find out more astonishing facts about fireflies in Lewis' footnotes, below.",
+  "duration": 831,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2854d72e190989e1620e6512645f70e83ea67887_2400x1800.jpg",
+  "keywords": [
+    "TED Conference",
+    "biology",
+    "evolution",
+    "insects"
+  ],
+  "mainLanguage": null,
+  "objectID": 2001,
+  "otherLanguages": {
+    "zh-tw": "Chinese, Traditional"
+  },
+  "ratings": {
+    "Informative": 239,
+    "Fascinating": 242,
+    "Beautiful": 191,
+    "Funny": 25,
+    "Longwinded": 18,
+    "Unconvincing": 10,
+    "Obnoxious": 4,
+    "Inspiring": 27,
+    "Jaw-dropping": 9,
+    "OK": 38,
+    "Persuasive": 16,
+    "Ingenious": 6,
+    "Confusing": 2,
+    "Courageous": 3
+  },
+  "slug": "sara_lewis_the_loves_and_lies_of_fireflies",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2854d72e190989e1620e6512645f70e83ea67887_2400x1800.jpg?quality=89&w=600",
+  "title": "The loves and lies of fireflies",
+  "url": "https://www.ted.com/talks/sara_lewis_the_loves_and_lies_of_fireflies",
+  "video": {
+    "low": "http://download.ted.com/talks/SaraLewis_2014-light.mp4",
+    "medium": "http://download.ted.com/talks/SaraLewis_2014.mp4",
+    "high": "http://download.ted.com/talks/SaraLewis_2014-480p.mp4"
+  },
+  "viewCount": 895812,
+  "year": "2014"
+}

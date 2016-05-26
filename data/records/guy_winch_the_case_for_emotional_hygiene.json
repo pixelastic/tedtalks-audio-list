@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/GuyWinch_2014X.mp3",
+  "author": "Guy Winch",
+  "dateFilmed": 1415318400,
+  "datePublished": 1424102895,
+  "description": "We'll go to the doctor when we feel flu-ish or a nagging pain. So why don’t we see a health professional when we feel emotional pain: guilt, loss, loneliness? Too many of us deal with common psychological-health issues on our own, says Guy Winch. But we don’t have to. He makes a compelling case to practice emotional hygiene — taking care of our emotions, our minds, with the same diligence we take care of our bodies.",
+  "duration": 1044,
+  "event": "TEDxLinnaeusUniversity",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b33233cca0742b55981bdc8a9b7c8f17eb919268_2880x1620.jpg",
+  "keywords": [
+    "TEDx",
+    "health",
+    "mental health",
+    "psychology",
+    "self"
+  ],
+  "mainLanguage": null,
+  "objectID": 2193,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 3400,
+    "Inspiring": 9527,
+    "Jaw-dropping": 254,
+    "Fascinating": 1113,
+    "Persuasive": 1491,
+    "Confusing": 11,
+    "Longwinded": 34,
+    "Unconvincing": 14,
+    "Beautiful": 1086,
+    "Courageous": 424,
+    "Ingenious": 244,
+    "Funny": 233,
+    "OK": 107,
+    "Obnoxious": 7
+  },
+  "slug": "guy_winch_the_case_for_emotional_hygiene",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b33233cca0742b55981bdc8a9b7c8f17eb919268_2880x1620.jpg?quality=89&w=600",
+  "title": "Why we all need to practice emotional first aid",
+  "url": "https://www.ted.com/talks/guy_winch_the_case_for_emotional_hygiene",
+  "video": {
+    "low": "http://download.ted.com/talks/GuyWinch_2014X-light.mp4",
+    "medium": "http://download.ted.com/talks/GuyWinch_2014X.mp4",
+    "high": "http://download.ted.com/talks/GuyWinch_2014X-480p.mp4"
+  },
+  "viewCount": 3566533,
+  "year": "2014"
+}

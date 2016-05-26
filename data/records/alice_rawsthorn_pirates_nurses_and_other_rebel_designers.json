@@ -1,0 +1,59 @@
+{
+  "audio": "http://download.ted.com/talks/AliceRawsthorn_2016.mp3",
+  "author": "Alice Rawsthorn",
+  "dateFilmed": 1455753600,
+  "datePublished": 1462288114,
+  "description": "In this ode to design renegades, Alice Rawsthorn highlights the work of unlikely heroes, from Blackbeard to Florence Nightingale. Drawing a line from these bold thinkers to some early modern visionaries like Buckminster Fuller, Rawsthorn shows how the greatest designers are often the most rebellious.",
+  "duration": 704,
+  "event": "TED2016",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/240feb1c3c0af45ef2004be80fe606388dbc8c79_2880x1620.jpg",
+  "keywords": [
+    "communication",
+    "design",
+    "future",
+    "history",
+    "innovation",
+    "journalism",
+    "product design",
+    "public health",
+    "sanitation"
+  ],
+  "mainLanguage": null,
+  "objectID": 2493,
+  "otherLanguages": {
+    "en": "English",
+    "fr": "French",
+    "fa": "Persian",
+    "pl": "Polish",
+    "pt-br": "Portuguese, Brazilian",
+    "sr": "Serbian",
+    "es": "Spanish"
+  },
+  "ratings": {
+    "Persuasive": 18,
+    "OK": 43,
+    "Fascinating": 36,
+    "Ingenious": 11,
+    "Inspiring": 28,
+    "Informative": 46,
+    "Beautiful": 8,
+    "Confusing": 3,
+    "Longwinded": 5,
+    "Unconvincing": 11,
+    "Courageous": 3,
+    "Obnoxious": 3,
+    "Funny": 2,
+    "Jaw-dropping": 1
+  },
+  "slug": "alice_rawsthorn_pirates_nurses_and_other_rebel_designers",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/240feb1c3c0af45ef2004be80fe606388dbc8c79_2880x1620.jpg?quality=89&w=600",
+  "title": "Pirates, nurses and other rebel designers",
+  "url": "https://www.ted.com/talks/alice_rawsthorn_pirates_nurses_and_other_rebel_designers",
+  "video": {
+    "low": "http://download.ted.com/talks/AliceRawsthorn_2016-light.mp4",
+    "medium": "http://download.ted.com/talks/AliceRawsthorn_2016.mp4",
+    "high": "http://download.ted.com/talks/AliceRawsthorn_2016-480p.mp4"
+  },
+  "viewCount": 365436,
+  "year": "2016"
+}

@@ -1,0 +1,51 @@
+{
+  "audio": null,
+  "author": "Scott Rickard",
+  "dateFilmed": 1315872000,
+  "datePublished": 1327077682,
+  "description": "Scott Rickard set out to engineer the ugliest possible piece of music, devoid of repetition, using a mathematical concept known as the Costas Array. In this surprisingly entertaining talk, he shares the math behind musical beauty ... and its opposite.",
+  "duration": 586,
+  "event": "TEDxMIA",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/1cb295d1968bb89323bb95a0d95c1cb969b8f048_800x600.jpg",
+  "keywords": [
+    "TEDx",
+    "arts",
+    "entertainment",
+    "live music",
+    "math",
+    "music",
+    "science"
+  ],
+  "mainLanguage": null,
+  "objectID": 1331,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Jaw-dropping": 32,
+    "Courageous": 19,
+    "Fascinating": 190,
+    "OK": 92,
+    "Unconvincing": 43,
+    "Longwinded": 34,
+    "Ingenious": 105,
+    "Informative": 146,
+    "Funny": 40,
+    "Confusing": 32,
+    "Inspiring": 37,
+    "Beautiful": 43,
+    "Persuasive": 10,
+    "Obnoxious": 23
+  },
+  "slug": "scott_rickard_the_beautiful_math_behind_the_ugliest_music",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/1cb295d1968bb89323bb95a0d95c1cb969b8f048_800x600.jpg?quality=89&w=600",
+  "title": "The beautiful math behind the world's ugliest music",
+  "url": "https://www.ted.com/talks/scott_rickard_the_beautiful_math_behind_the_ugliest_music",
+  "video": {
+    "youtube": {
+      "id": "RENk9PK06AQ",
+      "url": "http://tedxmia.com/"
+    }
+  },
+  "viewCount": 316798,
+  "year": "2011"
+}

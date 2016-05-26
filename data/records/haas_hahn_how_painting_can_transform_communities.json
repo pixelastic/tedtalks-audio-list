@@ -1,0 +1,46 @@
+{
+  "audio": "http://download.ted.com/talks/HaasandHahn_2014G.mp3",
+  "author": "Haas&Hahn",
+  "dateFilmed": 1412726400,
+  "datePublished": 1415377792,
+  "description": "Artists Jeroen Koolhaas and Dre Urhahn create community art by painting entire neighborhoods, and involving those who live there -- from the favelas of Rio to the streets of North Philadelphia. What's made their projects succeed? In this funny and inspiring talk, the artists explain their art-first approach -- and the importance of a neighborhood barbecue.",
+  "duration": 683,
+  "event": "TEDGlobal 2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b67248a881f68a8bc5fc22451ccf2398cc19fa55_2880x1620.jpg",
+  "keywords": [
+    "art",
+    "cities",
+    "community"
+  ],
+  "mainLanguage": null,
+  "objectID": 2129,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 391,
+    "Ingenious": 141,
+    "Inspiring": 550,
+    "Fascinating": 188,
+    "Persuasive": 40,
+    "Informative": 62,
+    "Funny": 112,
+    "Courageous": 67,
+    "Jaw-dropping": 23,
+    "OK": 43,
+    "Longwinded": 3,
+    "Unconvincing": 1,
+    "Confusing": 3,
+    "Obnoxious": 3
+  },
+  "slug": "haas_hahn_how_painting_can_transform_communities",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b67248a881f68a8bc5fc22451ccf2398cc19fa55_2880x1620.jpg?quality=89&w=600",
+  "title": "How painting can transform communities",
+  "url": "https://www.ted.com/talks/haas_hahn_how_painting_can_transform_communities",
+  "video": {
+    "low": "http://download.ted.com/talks/HaasandHahn_2014G-light.mp4",
+    "medium": "http://download.ted.com/talks/HaasandHahn_2014G.mp4",
+    "high": "http://download.ted.com/talks/HaasandHahn_2014G-480p.mp4"
+  },
+  "viewCount": 1528007,
+  "year": "2014"
+}

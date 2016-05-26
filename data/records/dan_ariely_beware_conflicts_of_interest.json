@@ -1,0 +1,52 @@
+{
+  "audio": "http://download.ted.com/talks/DanAriely_2011U.mp3",
+  "author": "Dan Ariely",
+  "dateFilmed": 1298937600,
+  "datePublished": 1314628174,
+  "description": "In this short talk, psychologist Dan Ariely tells two personal stories that explore scientific conflict of interest: How the pursuit of knowledge and insight can be affected, consciously or not, by shortsighted personal goals. When we're thinking about the big questions, he reminds us, let's be aware of our all-too-human brains.",
+  "duration": 335,
+  "event": "TED2011",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/5cc749b53445275b5a404d14ba94bc26231aa556_800x600.jpg",
+  "keywords": [
+    "TED Conference",
+    "cognitive science",
+    "economics",
+    "medical research",
+    "science",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 1212,
+  "otherLanguages": {
+    "en": "English",
+    "de": "German",
+    "pt-br": "Portuguese, Brazilian"
+  },
+  "ratings": {
+    "Persuasive": 183,
+    "Inspiring": 128,
+    "OK": 212,
+    "Informative": 237,
+    "Fascinating": 86,
+    "Courageous": 49,
+    "Unconvincing": 61,
+    "Ingenious": 33,
+    "Longwinded": 17,
+    "Beautiful": 19,
+    "Funny": 85,
+    "Obnoxious": 6,
+    "Confusing": 24,
+    "Jaw-dropping": 7
+  },
+  "slug": "dan_ariely_beware_conflicts_of_interest",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/5cc749b53445275b5a404d14ba94bc26231aa556_800x600.jpg?quality=89&w=600",
+  "title": "Beware conflicts of interest",
+  "url": "https://www.ted.com/talks/dan_ariely_beware_conflicts_of_interest",
+  "video": {
+    "low": "http://download.ted.com/talks/DanAriely_2011U-light.mp4",
+    "medium": "http://download.ted.com/talks/DanAriely_2011U.mp4",
+    "high": "http://download.ted.com/talks/DanAriely_2011U-480p.mp4"
+  },
+  "viewCount": 960701,
+  "year": "2011"
+}

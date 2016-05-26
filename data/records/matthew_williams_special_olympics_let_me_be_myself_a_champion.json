@@ -1,0 +1,57 @@
+{
+  "audio": "http://download.ted.com/talks/MatthewWilliams_2015X.mp3",
+  "author": "Matthew Williams",
+  "dateFilmed": 1447459200,
+  "datePublished": 1454687635,
+  "description": "How much do you know about intellectual disabilities? Special Olympics champion and ambassador Matthew Williams is proof that athletic competition and the camaraderie it fosters can transform lives, both on and off the field. Together with his fellow athletes, he invites you to join him at the next meet -- and challenges you to walk away with your heart unchanged.",
+  "duration": 852,
+  "event": "TEDxVancouver",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/32bfdd38d90748ec90b2e57570ad51da59efb43a_2880x1620.jpg",
+  "keywords": [
+    "TEDx",
+    "bullying",
+    "community",
+    "disability",
+    "health",
+    "identity",
+    "inequality",
+    "motivation",
+    "personal growth",
+    "play",
+    "potential",
+    "self",
+    "social change",
+    "sports"
+  ],
+  "mainLanguage": null,
+  "objectID": 2426,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Courageous": 240,
+    "Inspiring": 301,
+    "Persuasive": 60,
+    "Beautiful": 91,
+    "Informative": 110,
+    "Funny": 2,
+    "Ingenious": 3,
+    "OK": 15,
+    "Longwinded": 7,
+    "Jaw-dropping": 14,
+    "Fascinating": 27,
+    "Confusing": 1,
+    "Unconvincing": 5,
+    "Obnoxious": 1
+  },
+  "slug": "matthew_williams_special_olympics_let_me_be_myself_a_champion",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/32bfdd38d90748ec90b2e57570ad51da59efb43a_2880x1620.jpg?quality=89&w=600",
+  "title": "Special Olympics let me be myself -- a champion",
+  "url": "https://www.ted.com/talks/matthew_williams_special_olympics_let_me_be_myself_a_champion",
+  "video": {
+    "low": "http://download.ted.com/talks/MatthewWilliams_2015X-light.mp4",
+    "medium": "http://download.ted.com/talks/MatthewWilliams_2015X.mp4",
+    "high": "http://download.ted.com/talks/MatthewWilliams_2015X-480p.mp4"
+  },
+  "viewCount": 937666,
+  "year": "2015"
+}

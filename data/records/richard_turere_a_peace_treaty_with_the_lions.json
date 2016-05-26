@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/RichardTurere_2013.mp3",
+  "author": "Richard Turere",
+  "dateFilmed": 1361923200,
+  "datePublished": 1364392769,
+  "description": "In the Maasai community where Richard Turere lives with his family, cattle are all-important. But lion attacks were growing more frequent. In this short, inspiring talk, the young inventor shares the solar-powered solution he designed to safely scare the lions away.",
+  "duration": 440,
+  "event": "TED2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/1d369b73bf27ebdb1450605454d66229bda2ab1c_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "agriculture",
+    "biodiversity",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 1699,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Ingenious": 706,
+    "Funny": 132,
+    "Inspiring": 1086,
+    "Courageous": 215,
+    "Beautiful": 235,
+    "Persuasive": 37,
+    "OK": 30,
+    "Unconvincing": 8,
+    "Fascinating": 250,
+    "Jaw-dropping": 79,
+    "Informative": 104,
+    "Obnoxious": 14,
+    "Longwinded": 13,
+    "Confusing": 9
+  },
+  "slug": "richard_turere_a_peace_treaty_with_the_lions",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/1d369b73bf27ebdb1450605454d66229bda2ab1c_1600x1200.jpg?quality=89&w=600",
+  "title": "My invention that made peace with lions",
+  "url": "https://www.ted.com/talks/richard_turere_a_peace_treaty_with_the_lions",
+  "video": {
+    "low": "http://download.ted.com/talks/RichardTurere_2013-light.mp4",
+    "medium": "http://download.ted.com/talks/RichardTurere_2013.mp4",
+    "high": "http://download.ted.com/talks/RichardTurere_2013-480p.mp4"
+  },
+  "viewCount": 1744655,
+  "year": "2013"
+}

@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/MichaelGreen_2013.mp3",
+  "author": "Michael Green",
+  "dateFilmed": 1361923200,
+  "datePublished": 1373382070,
+  "description": "Building a skyscraper? Forget about steel and concrete, says architect Michael Green, and build it out of … wood. As he details in this intriguing talk, it's not only possible to build safe wooden structures up to 30 stories tall (and, he hopes, higher), it's necessary.",
+  "duration": 742,
+  "event": "TED2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/3940485bcf51c57b5c9740d02f048451fddd58c8_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "architecture",
+    "design",
+    "materials"
+  ],
+  "mainLanguage": null,
+  "objectID": 1785,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified"
+  },
+  "ratings": {
+    "Inspiring": 266,
+    "Ingenious": 189,
+    "Jaw-dropping": 46,
+    "Informative": 209,
+    "Courageous": 63,
+    "Persuasive": 180,
+    "Unconvincing": 72,
+    "OK": 31,
+    "Fascinating": 154,
+    "Beautiful": 48,
+    "Longwinded": 9,
+    "Obnoxious": 3,
+    "Confusing": 8,
+    "Funny": 0
+  },
+  "slug": "michael_green_why_we_should_build_wooden_skyscrapers",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/3940485bcf51c57b5c9740d02f048451fddd58c8_1600x1200.jpg?quality=89&w=600",
+  "title": "Why we should build wooden skyscrapers",
+  "url": "https://www.ted.com/talks/michael_green_why_we_should_build_wooden_skyscrapers",
+  "video": {
+    "low": "http://download.ted.com/talks/MichaelGreen_2013-light.mp4",
+    "medium": "http://download.ted.com/talks/MichaelGreen_2013.mp4",
+    "high": "http://download.ted.com/talks/MichaelGreen_2013-480p.mp4"
+  },
+  "viewCount": 1117055,
+  "year": "2013"
+}

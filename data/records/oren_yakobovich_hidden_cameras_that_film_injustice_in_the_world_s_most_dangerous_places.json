@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/OrenYakobovich_2014G.mp3",
+  "author": "Oren Yakobovich",
+  "dateFilmed": 1413244800,
+  "datePublished": 1417449935,
+  "description": "To see is to believe, says Oren Yakobovich — which is why he helps everyday people use hidden cameras to film dangerous situations of violence, political fraud and abuse. His organization, Videre, uncovers, verifies and publicizes human-rights abuses that the world needs to witness. ",
+  "duration": 875,
+  "event": "TEDGlobal 2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/31bfa924d8eebdea1b8649c3ffedd12e450a45a5_2880x1620.jpg",
+  "keywords": [
+    "activism",
+    "film",
+    "global issues",
+    "online video",
+    "social change"
+  ],
+  "mainLanguage": null,
+  "objectID": 2142,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Courageous": 457,
+    "Inspiring": 279,
+    "Fascinating": 122,
+    "Persuasive": 96,
+    "Informative": 247,
+    "Confusing": 23,
+    "OK": 44,
+    "Unconvincing": 55,
+    "Ingenious": 56,
+    "Longwinded": 15,
+    "Obnoxious": 18,
+    "Jaw-dropping": 31,
+    "Beautiful": 27,
+    "Funny": 1
+  },
+  "slug": "oren_yakobovich_hidden_cameras_that_film_injustice_in_the_world_s_most_dangerous_places",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/31bfa924d8eebdea1b8649c3ffedd12e450a45a5_2880x1620.jpg?quality=89&w=600",
+  "title": "Hidden cameras that film injustice in the world’s most dangerous places",
+  "url": "https://www.ted.com/talks/oren_yakobovich_hidden_cameras_that_film_injustice_in_the_world_s_most_dangerous_places",
+  "video": {
+    "low": "http://download.ted.com/talks/OrenYakobovich_2014G-light.mp4",
+    "medium": "http://download.ted.com/talks/OrenYakobovich_2014G.mp4",
+    "high": "http://download.ted.com/talks/OrenYakobovich_2014G-480p.mp4"
+  },
+  "viewCount": 1051491,
+  "year": "2014"
+}

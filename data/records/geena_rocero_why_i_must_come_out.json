@@ -1,0 +1,52 @@
+{
+  "audio": "http://download.ted.com/talks/GeenaRocero_2014.mp3",
+  "author": "Geena Rocero",
+  "dateFilmed": 1395187200,
+  "datePublished": 1396277332,
+  "description": "When fashion model Geena Rocero first saw a photo of herself in a bikini, \"I thought ... you have arrived!\" As she reveals, that’s because she was born with the gender assignment “boy.” In this moving talk, Rocero tells the story of becoming who she always knew she was.",
+  "duration": 599,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e144118ac42866b5861a03ca4eadda226343e889_1600x1200.jpg",
+  "keywords": [
+    "LGBT",
+    "TED Conference",
+    "Transgender",
+    "activism",
+    "beauty",
+    "fashion",
+    "gender",
+    "identity",
+    "inequality"
+  ],
+  "mainLanguage": null,
+  "objectID": 1961,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 645,
+    "Informative": 212,
+    "Courageous": 896,
+    "Inspiring": 618,
+    "Funny": 21,
+    "Persuasive": 73,
+    "Longwinded": 15,
+    "Unconvincing": 46,
+    "Fascinating": 114,
+    "OK": 106,
+    "Confusing": 20,
+    "Obnoxious": 26,
+    "Ingenious": 16,
+    "Jaw-dropping": 35
+  },
+  "slug": "geena_rocero_why_i_must_come_out",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e144118ac42866b5861a03ca4eadda226343e889_1600x1200.jpg?quality=89&w=600",
+  "title": "Why I must come out",
+  "url": "https://www.ted.com/talks/geena_rocero_why_i_must_come_out",
+  "video": {
+    "low": "http://download.ted.com/talks/GeenaRocero_2014-light.mp4",
+    "medium": "http://download.ted.com/talks/GeenaRocero_2014.mp4",
+    "high": "http://download.ted.com/talks/GeenaRocero_2014-480p.mp4"
+  },
+  "viewCount": 2897718,
+  "year": "2014"
+}

@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/EmilyBalcetis_2014X.mp3",
+  "author": "Emily Balcetis",
+  "dateFilmed": 1414800000,
+  "datePublished": 1416931592,
+  "description": "Why do some people struggle more than others to keep off the pounds? Social psychologist Emily Balcetis shows research that addresses one of the many factors: Vision. In an informative talk, she shows how when it comes to fitness, some people quite literally see the world differently from others -- and offers a surprisingly simple solution to overcome these differences.",
+  "duration": 848,
+  "event": "TEDxNewYork",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/3199d1e2c1c349bde1da77724aae32b21c0dcff4_2880x1620.jpg",
+  "keywords": [
+    "TEDx",
+    "decision-making",
+    "health",
+    "mind",
+    "psychology"
+  ],
+  "mainLanguage": null,
+  "objectID": 2140,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 769,
+    "Inspiring": 523,
+    "Persuasive": 245,
+    "Fascinating": 238,
+    "Jaw-dropping": 24,
+    "Unconvincing": 195,
+    "OK": 286,
+    "Longwinded": 99,
+    "Obnoxious": 29,
+    "Ingenious": 46,
+    "Confusing": 39,
+    "Beautiful": 51,
+    "Courageous": 29,
+    "Funny": 29
+  },
+  "slug": "emily_balcetis_why_some_people_find_exercise_harder_than_others",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/3199d1e2c1c349bde1da77724aae32b21c0dcff4_2880x1620.jpg?quality=89&w=600",
+  "title": "Why some people find exercise harder than others",
+  "url": "https://www.ted.com/talks/emily_balcetis_why_some_people_find_exercise_harder_than_others",
+  "video": {
+    "low": "http://download.ted.com/talks/EmilyBalcetis_2014X-light.mp4",
+    "medium": "http://download.ted.com/talks/EmilyBalcetis_2014X.mp4",
+    "high": "http://download.ted.com/talks/EmilyBalcetis_2014X-480p.mp4"
+  },
+  "viewCount": 2752080,
+  "year": "2014"
+}

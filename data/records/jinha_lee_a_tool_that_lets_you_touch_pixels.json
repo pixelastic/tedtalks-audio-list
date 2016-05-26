@@ -1,0 +1,50 @@
+{
+  "audio": "http://download.ted.com/talks/JinhaLee_2013.mp3",
+  "author": "Jinha Lee",
+  "dateFilmed": 1361923200,
+  "datePublished": 1372863675,
+  "description": "The border between our physical world and the digital information surrounding us has been getting thinner and thinner. Designer and engineer Jinha Lee wants to dissolve it altogether. As he demonstrates in this short, gasp-inducing talk, his ideas include a pen that penetrates into a screen to draw 3D models and SpaceTop, a computer desktop prototype that lets you reach through the screen to manipulate digital objects.",
+  "duration": 307,
+  "event": "TED2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/6bfe8f02c232861849cf6bfe526840bc9de54851_2880x1620.jpg",
+  "keywords": [
+    "TED Conference",
+    "TED Fellows",
+    "computers",
+    "design",
+    "interface design",
+    "technology",
+    "virtual reality"
+  ],
+  "mainLanguage": null,
+  "objectID": 1781,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Jaw-dropping": 417,
+    "Unconvincing": 43,
+    "Obnoxious": 12,
+    "Ingenious": 342,
+    "Fascinating": 451,
+    "Informative": 149,
+    "OK": 84,
+    "Inspiring": 205,
+    "Persuasive": 37,
+    "Beautiful": 29,
+    "Courageous": 16,
+    "Funny": 5,
+    "Longwinded": 2,
+    "Confusing": 7
+  },
+  "slug": "jinha_lee_a_tool_that_lets_you_touch_pixels",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/6bfe8f02c232861849cf6bfe526840bc9de54851_2880x1620.jpg?quality=89&w=600",
+  "title": "Reach into the computer and grab a pixel",
+  "url": "https://www.ted.com/talks/jinha_lee_a_tool_that_lets_you_touch_pixels",
+  "video": {
+    "low": "http://download.ted.com/talks/JinhaLee_2013-light.mp4",
+    "medium": "http://download.ted.com/talks/JinhaLee_2013.mp4",
+    "high": "http://download.ted.com/talks/JinhaLee_2013-480p.mp4"
+  },
+  "viewCount": 1666617,
+  "year": "2013"
+}

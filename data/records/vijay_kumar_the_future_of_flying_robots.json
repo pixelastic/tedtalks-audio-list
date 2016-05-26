@@ -1,0 +1,51 @@
+{
+  "audio": null,
+  "author": "Vijay Kumar",
+  "dateFilmed": 1428796800,
+  "datePublished": 1444750501,
+  "description": "At his lab at the University of Pennsylvania, Vijay Kumar and his team have created autonomous aerial robots inspired by honeybees. Their latest breakthrough: Precision Farming, in which swarms of robots map, reconstruct and analyze every plant and piece of fruit in an orchard, providing vital information to farmers that can help improve yields and make water management smarter.",
+  "duration": 789,
+  "event": "TEDxPenn",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/87f82eddb91d2c806ebb11465d846c47f481902c_2880x1620.jpg",
+  "keywords": [
+    "TEDx",
+    "agriculture",
+    "computers",
+    "design",
+    "engineering",
+    "robots",
+    "science",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 2346,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 102,
+    "Informative": 230,
+    "Inspiring": 211,
+    "Fascinating": 210,
+    "OK": 57,
+    "Ingenious": 135,
+    "Jaw-dropping": 38,
+    "Persuasive": 16,
+    "Funny": 34,
+    "Obnoxious": 4,
+    "Courageous": 7,
+    "Longwinded": 4,
+    "Unconvincing": 8,
+    "Confusing": 3
+  },
+  "slug": "vijay_kumar_the_future_of_flying_robots",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/87f82eddb91d2c806ebb11465d846c47f481902c_2880x1620.jpg?quality=89&w=600",
+  "title": "The future of flying robots",
+  "url": "https://www.ted.com/talks/vijay_kumar_the_future_of_flying_robots",
+  "video": {
+    "low": "http://download.ted.com/talks/VijayKumar_2015X-light.mp4",
+    "medium": "http://download.ted.com/talks/VijayKumar_2015X.mp4",
+    "high": "http://download.ted.com/talks/VijayKumar_2015X-480p.mp4"
+  },
+  "viewCount": 1089204,
+  "year": "2015"
+}

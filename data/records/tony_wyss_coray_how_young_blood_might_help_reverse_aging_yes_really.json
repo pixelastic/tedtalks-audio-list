@@ -1,0 +1,49 @@
+{
+  "audio": "http://download.ted.com/talks/TonyWyssCoray_2015G.mp3",
+  "author": "Tony Wyss-Coray",
+  "dateFilmed": 1434412800,
+  "datePublished": 1439996951,
+  "description": "Tony Wyss-Coray studies the impact of aging on the human body and brain. In this eye-opening talk, he shares new research from his Stanford lab and other teams which shows that a solution for some of the less great aspects of old age might actually lie within us all.",
+  "duration": 815,
+  "event": "TEDGlobalLondon",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7218c06bc138047a2e771b0d9d21ef6b9d2b1ec8_2880x1620.jpg",
+  "keywords": [
+    "Bioethics",
+    "aging",
+    "brain",
+    "medical research",
+    "neuroscience",
+    "science"
+  ],
+  "mainLanguage": null,
+  "objectID": 2315,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Fascinating": 466,
+    "OK": 25,
+    "Inspiring": 143,
+    "Courageous": 18,
+    "Informative": 283,
+    "Ingenious": 100,
+    "Jaw-dropping": 63,
+    "Persuasive": 40,
+    "Beautiful": 14,
+    "Unconvincing": 10,
+    "Obnoxious": 6,
+    "Longwinded": 7,
+    "Funny": 2,
+    "Confusing": 4
+  },
+  "slug": "tony_wyss_coray_how_young_blood_might_help_reverse_aging_yes_really",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7218c06bc138047a2e771b0d9d21ef6b9d2b1ec8_2880x1620.jpg?quality=89&w=600",
+  "title": "How young blood might help reverse aging. Yes, really",
+  "url": "https://www.ted.com/talks/tony_wyss_coray_how_young_blood_might_help_reverse_aging_yes_really",
+  "video": {
+    "low": "http://download.ted.com/talks/TonyWyssCoray_2015G-light.mp4",
+    "medium": "http://download.ted.com/talks/TonyWyssCoray_2015G.mp4",
+    "high": "http://download.ted.com/talks/TonyWyssCoray_2015G-480p.mp4"
+  },
+  "viewCount": 1242626,
+  "year": "2015"
+}

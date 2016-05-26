@@ -1,0 +1,61 @@
+{
+  "audio": null,
+  "author": "Miru Kim",
+  "dateFilmed": 1229040000,
+  "datePublished": 1235613600,
+  "description": "At the 2008 EG Conference, artist Miru Kim talks about her work. Kim explores industrial ruins underneath New York and then photographs herself in them, nude -- to bring these massive, dangerous, hidden spaces into sharp focus.",
+  "duration": 870,
+  "event": "EG 2008",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/74605_800x600.jpg",
+  "keywords": [
+    "art",
+    "arts",
+    "beauty",
+    "cities",
+    "entertainment",
+    "exploration",
+    "photography"
+  ],
+  "mainLanguage": null,
+  "objectID": 472,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified",
+    "zh-tw": "Chinese, Traditional",
+    "en": "English",
+    "fr": "French",
+    "de": "German",
+    "he": "Hebrew",
+    "it": "Italian",
+    "ja": "Japanese",
+    "ko": "Korean",
+    "pt-br": "Portuguese, Brazilian",
+    "es": "Spanish"
+  },
+  "ratings": {
+    "Fascinating": 167,
+    "Courageous": 163,
+    "Beautiful": 284,
+    "Inspiring": 150,
+    "Ingenious": 35,
+    "OK": 52,
+    "Informative": 35,
+    "Unconvincing": 16,
+    "Longwinded": 17,
+    "Persuasive": 9,
+    "Jaw-dropping": 40,
+    "Funny": 9,
+    "Obnoxious": 7,
+    "Confusing": 7
+  },
+  "slug": "miru_kim_s_underground_art",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/74605_800x600.jpg?quality=89&w=600",
+  "title": "My underground art explorations",
+  "url": "https://www.ted.com/talks/miru_kim_s_underground_art",
+  "video": {
+    "low": "http://download.ted.com/talks/MiruKim_2008P-light.mp4",
+    "medium": "http://download.ted.com/talks/MiruKim_2008P.mp4",
+    "high": "http://download.ted.com/talks/MiruKim_2008P-480p.mp4"
+  },
+  "viewCount": 555905,
+  "year": "2008"
+}

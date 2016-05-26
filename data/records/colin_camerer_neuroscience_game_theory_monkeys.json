@@ -1,0 +1,49 @@
+{
+  "audio": "http://download.ted.com/talks/ColinCamerer_2013X.mp3",
+  "author": "Colin Camerer",
+  "dateFilmed": 1358467200,
+  "datePublished": 1364482993,
+  "description": "When two people are trying to make a deal -- whether they’re competing or cooperating -- what’s really going on inside their brains? Behavioral economist Colin Camerer shows research that reveals how badly we predict what others are thinking. Bonus: He presents an unexpected study that shows chimpanzees might just be better at it.",
+  "duration": 829,
+  "event": "TEDxCaltech",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e4ab255d8399a17e0dcf80aeee8718d7b76ac68e_1600x1200.jpg",
+  "keywords": [
+    "TEDx",
+    "behavioral economics",
+    "choice",
+    "economics",
+    "monkeys",
+    "neuroscience"
+  ],
+  "mainLanguage": null,
+  "objectID": 1701,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Confusing": 68,
+    "Fascinating": 175,
+    "Informative": 220,
+    "Ingenious": 32,
+    "Persuasive": 38,
+    "OK": 41,
+    "Longwinded": 7,
+    "Unconvincing": 22,
+    "Jaw-dropping": 14,
+    "Funny": 22,
+    "Inspiring": 15,
+    "Beautiful": 7,
+    "Courageous": 1,
+    "Obnoxious": 0
+  },
+  "slug": "colin_camerer_neuroscience_game_theory_monkeys",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e4ab255d8399a17e0dcf80aeee8718d7b76ac68e_1600x1200.jpg?quality=89&w=600",
+  "title": "When you're making a deal, what's going on in your brain?",
+  "url": "https://www.ted.com/talks/colin_camerer_neuroscience_game_theory_monkeys",
+  "video": {
+    "low": "http://download.ted.com/talks/ColinCamerer_2013X-light.mp4",
+    "medium": "http://download.ted.com/talks/ColinCamerer_2013X.mp4",
+    "high": "http://download.ted.com/talks/ColinCamerer_2013X-480p.mp4"
+  },
+  "viewCount": 1117545,
+  "year": "2013"
+}

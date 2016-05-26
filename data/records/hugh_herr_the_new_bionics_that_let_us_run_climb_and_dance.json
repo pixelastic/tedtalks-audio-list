@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/HughHerr_2014.mp3",
+  "author": "Hugh Herr",
+  "dateFilmed": 1394582400,
+  "datePublished": 1396008735,
+  "description": "Hugh Herr is building the next generation of bionic limbs, robotic prosthetics inspired by nature's own designs. Herr lost both legs in a climbing accident 30 years ago; now, as the head of the MIT Media Lab’s Biomechatronics group, he shows his incredible technology in a talk that's both technical and deeply personal — with the help of ballroom dancer Adrianne Haslet-Davis, who lost her left leg in the 2013 Boston Marathon bombing, and performs again for the first time on the TED stage.",
+  "duration": 1140,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ca0520623aeb359f6d5f371d516371fadcae2454_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "dance",
+    "exoskeleton",
+    "prosthetics",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 1959,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 1742,
+    "Inspiring": 2615,
+    "Ingenious": 1033,
+    "Informative": 708,
+    "Fascinating": 1482,
+    "Jaw-dropping": 722,
+    "Courageous": 650,
+    "Funny": 29,
+    "Persuasive": 110,
+    "Longwinded": 11,
+    "OK": 97,
+    "Confusing": 14,
+    "Obnoxious": 9,
+    "Unconvincing": 12
+  },
+  "slug": "hugh_herr_the_new_bionics_that_let_us_run_climb_and_dance",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ca0520623aeb359f6d5f371d516371fadcae2454_1600x1200.jpg?quality=89&w=600",
+  "title": "The new bionics that let us run, climb and dance",
+  "url": "https://www.ted.com/talks/hugh_herr_the_new_bionics_that_let_us_run_climb_and_dance",
+  "video": {
+    "low": "http://download.ted.com/talks/HughHerr_2014-light.mp4",
+    "medium": "http://download.ted.com/talks/HughHerr_2014.mp4",
+    "high": "http://download.ted.com/talks/HughHerr_2014-480p.mp4"
+  },
+  "viewCount": 5843105,
+  "year": "2014"
+}

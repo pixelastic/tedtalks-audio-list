@@ -1,0 +1,46 @@
+{
+  "audio": "http://download.ted.com/talks/ClintSmith_2014S.mp3",
+  "author": "Clint Smith",
+  "dateFilmed": 1404777600,
+  "datePublished": 1408117565,
+  "description": "\"We spend so much time listening to the things people are saying that we rarely pay attention to the things they don't,\" says poet and teacher Clint Smith. A short, powerful piece from the heart, about finding the courage to speak up against ignorance and injustice.",
+  "duration": 258,
+  "event": "TED@NYC",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2fffe2847c3828a2827be3fc0e9c9b593cb58989_2400x1800.jpg",
+  "keywords": [
+    "poetry",
+    "social change",
+    "spoken word"
+  ],
+  "mainLanguage": null,
+  "objectID": 2059,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 1300,
+    "Courageous": 1029,
+    "Inspiring": 2532,
+    "Fascinating": 261,
+    "Confusing": 41,
+    "Persuasive": 462,
+    "Informative": 183,
+    "Longwinded": 27,
+    "Ingenious": 105,
+    "Unconvincing": 53,
+    "Obnoxious": 45,
+    "Jaw-dropping": 108,
+    "OK": 179,
+    "Funny": 23
+  },
+  "slug": "clint_smith_the_danger_of_silence",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2fffe2847c3828a2827be3fc0e9c9b593cb58989_2400x1800.jpg?quality=89&w=600",
+  "title": "The danger of silence",
+  "url": "https://www.ted.com/talks/clint_smith_the_danger_of_silence",
+  "video": {
+    "low": "http://download.ted.com/talks/ClintSmith_2014S-light.mp4",
+    "medium": "http://download.ted.com/talks/ClintSmith_2014S.mp4",
+    "high": "http://download.ted.com/talks/ClintSmith_2014S-480p.mp4"
+  },
+  "viewCount": 3172294,
+  "year": "2014"
+}

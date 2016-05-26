@@ -1,0 +1,52 @@
+{
+  "audio": "http://download.ted.com/talks/SiddharthaMukherjee_2015.mp3",
+  "author": "Siddhartha Mukherjee",
+  "dateFilmed": 1426636800,
+  "datePublished": 1444146000,
+  "description": "Current medical treatment boils down to six words: Have disease, take pill, kill something. But physician Siddhartha Mukherjee points to a future of medicine that will transform the way we heal.",
+  "duration": 1055,
+  "event": "TED2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/41ac82f3910374b1dee363913218e5f632a22630_2880x1620.jpg",
+  "keywords": [
+    "disease",
+    "future",
+    "health",
+    "illness",
+    "innovation",
+    "medical research",
+    "medicine",
+    "science"
+  ],
+  "mainLanguage": null,
+  "objectID": 2343,
+  "otherLanguages": {
+    "pt-br": "Portuguese, Brazilian"
+  },
+  "ratings": {
+    "Informative": 275,
+    "Longwinded": 19,
+    "Unconvincing": 20,
+    "Ingenious": 62,
+    "Inspiring": 124,
+    "Fascinating": 150,
+    "Persuasive": 71,
+    "Obnoxious": 8,
+    "Jaw-dropping": 14,
+    "OK": 42,
+    "Courageous": 11,
+    "Beautiful": 11,
+    "Confusing": 10,
+    "Funny": 5
+  },
+  "slug": "siddhartha_mukherjee_soon_we_ll_cure_diseases_with_a_cell_not_a_pill",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/41ac82f3910374b1dee363913218e5f632a22630_2880x1620.jpg?quality=89&w=600",
+  "title": "Soon we'll cure diseases with a cell, not a pill",
+  "url": "https://www.ted.com/talks/siddhartha_mukherjee_soon_we_ll_cure_diseases_with_a_cell_not_a_pill",
+  "video": {
+    "low": "http://download.ted.com/talks/SiddharthaMukherjee_2015-light.mp4",
+    "medium": "http://download.ted.com/talks/SiddharthaMukherjee_2015.mp4",
+    "high": "http://download.ted.com/talks/SiddharthaMukherjee_2015-480p.mp4"
+  },
+  "viewCount": 1145714,
+  "year": "2015"
+}

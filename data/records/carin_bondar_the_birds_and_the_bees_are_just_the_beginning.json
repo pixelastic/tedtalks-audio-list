@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/CarinBondar_2013G.mp3",
+  "author": "Carin Bondar",
+  "dateFilmed": 1370995200,
+  "datePublished": 1394808532,
+  "description": "Think you know a thing or two about sex? Think again. In this fascinating talk, biologist Carin Bondar lays out the surprising science behind how animals get it on. (This talk describes explicit and aggressive sexual content.)",
+  "duration": 587,
+  "event": "TEDGlobal 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/47d3c54227564a747cd81ce6618c63b079a4958c_1600x1200.jpg",
+  "keywords": [
+    "animals",
+    "biology",
+    "sex"
+  ],
+  "mainLanguage": null,
+  "objectID": 1945,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified"
+  },
+  "ratings": {
+    "Funny": 581,
+    "Informative": 531,
+    "Fascinating": 373,
+    "Inspiring": 38,
+    "Longwinded": 23,
+    "OK": 130,
+    "Obnoxious": 30,
+    "Courageous": 33,
+    "Beautiful": 43,
+    "Jaw-dropping": 36,
+    "Ingenious": 43,
+    "Unconvincing": 24,
+    "Confusing": 11,
+    "Persuasive": 17
+  },
+  "slug": "carin_bondar_the_birds_and_the_bees_are_just_the_beginning",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/47d3c54227564a747cd81ce6618c63b079a4958c_1600x1200.jpg?quality=89&w=600",
+  "title": "The birds and the bees are just the beginning",
+  "url": "https://www.ted.com/talks/carin_bondar_the_birds_and_the_bees_are_just_the_beginning",
+  "video": {
+    "low": "http://download.ted.com/talks/CarinBondar_2013G-light.mp4",
+    "medium": "http://download.ted.com/talks/CarinBondar_2013G.mp4",
+    "high": "http://download.ted.com/talks/CarinBondar_2013G-480p.mp4"
+  },
+  "viewCount": 2189932,
+  "year": "2013"
+}

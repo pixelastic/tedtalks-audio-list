@@ -1,0 +1,50 @@
+{
+  "audio": null,
+  "author": "Siegfried Woldhek",
+  "dateFilmed": 1204243200,
+  "datePublished": 1207016040,
+  "description": "Mona Lisa is one of the best-known faces on the planet. But would you recognize an image of Leonardo da Vinci? Illustrator Siegfried Woldhek uses some thoughtful image-analysis techniques to find what he believes is the true face of Leonardo.",
+  "duration": 264,
+  "event": "TED2008",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/36652_480x360.jpg",
+  "keywords": [
+    "TED Conference",
+    "art",
+    "demo",
+    "design",
+    "entertainment",
+    "history",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 235,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Persuasive": 311,
+    "Fascinating": 503,
+    "Jaw-dropping": 195,
+    "Informative": 291,
+    "OK": 68,
+    "Ingenious": 274,
+    "Funny": 28,
+    "Inspiring": 79,
+    "Obnoxious": 7,
+    "Beautiful": 102,
+    "Courageous": 34,
+    "Unconvincing": 65,
+    "Confusing": 7,
+    "Longwinded": 1
+  },
+  "slug": "siegfried_woldhek_shows_how_he_found_the_true_face_of_leonardo",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/36652_480x360.jpg?quality=89&w=600",
+  "title": "The search for the true face of Leonardo",
+  "url": "https://www.ted.com/talks/siegfried_woldhek_shows_how_he_found_the_true_face_of_leonardo",
+  "video": {
+    "low": "http://download.ted.com/talks/SiegfriedWoldhek_2008-light.mp4",
+    "medium": "http://download.ted.com/talks/SiegfriedWoldhek_2008.mp4",
+    "high": "http://download.ted.com/talks/SiegfriedWoldhek_2008-480p.mp4"
+  },
+  "viewCount": 1147922,
+  "year": "2008"
+}

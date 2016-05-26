@@ -1,0 +1,49 @@
+{
+  "audio": "http://download.ted.com/talks/RickGuidotti_2011X.mp3",
+  "author": "Rick Guidotti",
+  "dateFilmed": 1320969600,
+  "datePublished": 1336318914,
+  "description": "Rick Guidotti is a fashion photographer with a passion project: finding and sharing the beauty of kids with albinism and other conditions that affect their physical appearance -- and the way society treats them. At TEDxPhoenix, he shares some of their stories and the empowering effects of a little glamour as he redefines their beauty in a flash.",
+  "duration": 1084,
+  "event": "TEDxPhoenix",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/1135285f5ee57dfaf7e38f496d4a5b3539c21227_800x600.jpg",
+  "keywords": [
+    "TEDx",
+    "beauty",
+    "fashion",
+    "global issues",
+    "photography",
+    "race"
+  ],
+  "mainLanguage": null,
+  "objectID": 1439,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 68,
+    "Beautiful": 217,
+    "Inspiring": 266,
+    "Courageous": 87,
+    "Funny": 15,
+    "Persuasive": 55,
+    "Ingenious": 21,
+    "Fascinating": 73,
+    "Jaw-dropping": 30,
+    "OK": 19,
+    "Unconvincing": 7,
+    "Longwinded": 14,
+    "Obnoxious": 2,
+    "Confusing": 9
+  },
+  "slug": "rick_guidotti_from_stigma_to_supermodel",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/1135285f5ee57dfaf7e38f496d4a5b3539c21227_800x600.jpg?quality=89&w=600",
+  "title": "From stigma to supermodel",
+  "url": "https://www.ted.com/talks/rick_guidotti_from_stigma_to_supermodel",
+  "video": {
+    "low": "http://download.ted.com/talks/RickGuidotti_2011X-light.mp4",
+    "medium": "http://download.ted.com/talks/RickGuidotti_2011X.mp4",
+    "high": "http://download.ted.com/talks/RickGuidotti_2011X-480p.mp4"
+  },
+  "viewCount": 150696,
+  "year": "2011"
+}

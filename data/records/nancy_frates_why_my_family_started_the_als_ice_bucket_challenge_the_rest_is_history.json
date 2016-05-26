@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/NancyFrates_2014X.mp3",
+  "author": "Nancy Frates",
+  "dateFilmed": 1412208000,
+  "datePublished": 1416412550,
+  "description": "Remember the Ice Bucket Challenge craze this summer? Meet the mom who started it all. When Nancy Frates's son Pete hurt his wrist in a baseball game, he got an unexpected diagnosis: it wasn’t a broken bone, it was ALS, and there is no cure. In this inspiring talk, Nancy tells the story of what happened next.",
+  "duration": 1133,
+  "event": "TEDxBoston",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8f9de54a582d0ea004a89fc7b637256ef360065f_2880x1620.jpg",
+  "keywords": [
+    "TEDx",
+    "disease",
+    "family",
+    "health",
+    "philanthropy"
+  ],
+  "mainLanguage": null,
+  "objectID": 2137,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 164,
+    "Informative": 85,
+    "Inspiring": 445,
+    "Fascinating": 68,
+    "Courageous": 170,
+    "Jaw-dropping": 46,
+    "Obnoxious": 11,
+    "Longwinded": 24,
+    "Persuasive": 22,
+    "OK": 31,
+    "Unconvincing": 9,
+    "Confusing": 7,
+    "Ingenious": 2,
+    "Funny": 2
+  },
+  "slug": "nancy_frates_why_my_family_started_the_als_ice_bucket_challenge_the_rest_is_history",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8f9de54a582d0ea004a89fc7b637256ef360065f_2880x1620.jpg?quality=89&w=600",
+  "title": "Meet the mom who started the Ice Bucket Challenge",
+  "url": "https://www.ted.com/talks/nancy_frates_why_my_family_started_the_als_ice_bucket_challenge_the_rest_is_history",
+  "video": {
+    "low": "http://download.ted.com/talks/NancyFrates_2014X-light.mp4",
+    "medium": "http://download.ted.com/talks/NancyFrates_2014X.mp4",
+    "high": "http://download.ted.com/talks/NancyFrates_2014X-480p.mp4"
+  },
+  "viewCount": 931323,
+  "year": "2014"
+}

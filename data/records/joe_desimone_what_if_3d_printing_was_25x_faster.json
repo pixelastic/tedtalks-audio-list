@@ -1,0 +1,46 @@
+{
+  "audio": "http://download.ted.com/talks/JosephDeSimone_2015.mp3",
+  "author": "Joseph DeSimone",
+  "dateFilmed": 1426464000,
+  "datePublished": 1426790254,
+  "description": "What we think of as 3D printing, says Joseph DeSimone, is really just 2D printing over and over ... slowly. Onstage at TED2015, he unveils a bold new technique -- inspired, yes, by Terminator 2 -- that's 25 to 100 times faster, and creates smooth, strong parts. Could it finally help to fulfill the tremendous promise of 3D printing?",
+  "duration": 645,
+  "event": "TED2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2ef806c0d21c3c82ad49f3735e599b8233f804d5_2880x1620.jpg",
+  "keywords": [
+    "demo",
+    "design",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 2216,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 553,
+    "Ingenious": 526,
+    "Jaw-dropping": 351,
+    "Fascinating": 436,
+    "Beautiful": 44,
+    "Courageous": 19,
+    "Inspiring": 257,
+    "Persuasive": 43,
+    "Funny": 14,
+    "OK": 43,
+    "Obnoxious": 4,
+    "Longwinded": 4,
+    "Confusing": 11,
+    "Unconvincing": 14
+  },
+  "slug": "joe_desimone_what_if_3d_printing_was_25x_faster",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2ef806c0d21c3c82ad49f3735e599b8233f804d5_2880x1620.jpg?quality=89&w=600",
+  "title": "What if 3D printing was 100x faster?",
+  "url": "https://www.ted.com/talks/joe_desimone_what_if_3d_printing_was_25x_faster",
+  "video": {
+    "low": "http://download.ted.com/talks/JosephDeSimone_2015-light.mp4",
+    "medium": "http://download.ted.com/talks/JosephDeSimone_2015.mp4",
+    "high": "http://download.ted.com/talks/JosephDeSimone_2015-480p.mp4"
+  },
+  "viewCount": 2175765,
+  "year": "2015"
+}

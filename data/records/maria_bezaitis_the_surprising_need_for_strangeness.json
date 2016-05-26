@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/MariaBezaitis_2013S.mp3",
+  "author": "Maria Bezaitis",
+  "dateFilmed": 1365292800,
+  "datePublished": 1368543603,
+  "description": "In our digital world, social relations have become mediated by data. Without even realizing it, we’re barricading ourselves against strangeness -- people and ideas that don't fit the patterns of who we already know, what we already like and where we’ve already been. A call for technology to deliver us to what and who we need, even if it’s unfamiliar. (Filmed at TED@Intel.)",
+  "duration": 480,
+  "event": "TED@Intel",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e6590fd9b49cdc7270dc0bc03593ee840f4a5585_1600x1200.jpg",
+  "keywords": [
+    "culture",
+    "data",
+    "sociology",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 1742,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Courageous": 27,
+    "Persuasive": 62,
+    "Jaw-dropping": 16,
+    "Unconvincing": 139,
+    "Longwinded": 54,
+    "Inspiring": 61,
+    "Fascinating": 38,
+    "Informative": 97,
+    "OK": 118,
+    "Confusing": 89,
+    "Ingenious": 36,
+    "Obnoxious": 35,
+    "Beautiful": 15,
+    "Funny": 5
+  },
+  "slug": "maria_bezaitis_the_surprising_need_for_strangeness",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e6590fd9b49cdc7270dc0bc03593ee840f4a5585_1600x1200.jpg?quality=89&w=600",
+  "title": "The surprising need for strangeness",
+  "url": "https://www.ted.com/talks/maria_bezaitis_the_surprising_need_for_strangeness",
+  "video": {
+    "low": "http://download.ted.com/talks/MariaBezaitis_2013S-light.mp4",
+    "medium": "http://download.ted.com/talks/MariaBezaitis_2013S.mp4",
+    "high": "http://download.ted.com/talks/MariaBezaitis_2013S-480p.mp4"
+  },
+  "viewCount": 1027602,
+  "year": "2013"
+}

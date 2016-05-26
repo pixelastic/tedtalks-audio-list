@@ -1,0 +1,58 @@
+{
+  "audio": "http://download.ted.com/talks/RobertGupta_2012P.mp3",
+  "author": "Robert Gupta",
+  "dateFilmed": 1334448000,
+  "datePublished": 1349190050,
+  "description": "When Robert Gupta was caught between a career as a doctor and as a violinist, he realized his place was in the middle, with a bow in his hand and a sense of social justice in his heart. He tells a moving story of society’s marginalized and the power of music therapy, which can succeed where conventional medicine fails.",
+  "duration": 987,
+  "event": "TEDMED 2012",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/1f82dd4305f7f4f0ef595d8ac201b367c490b6a5_1600x1200.jpg",
+  "keywords": [
+    "TED Fellows",
+    "activism",
+    "live music",
+    "medicine",
+    "music",
+    "performance",
+    "violin"
+  ],
+  "mainLanguage": null,
+  "objectID": 1577,
+  "otherLanguages": {
+    "zh-tw": "Chinese, Traditional",
+    "en": "English",
+    "it": "Italian",
+    "pt": "Portuguese",
+    "pt-br": "Portuguese, Brazilian",
+    "sk": "Slovak",
+    "tr": "Turkish",
+    "vi": "Vietnamese"
+  },
+  "ratings": {
+    "Persuasive": 57,
+    "Inspiring": 285,
+    "Beautiful": 228,
+    "Ingenious": 17,
+    "Fascinating": 121,
+    "Courageous": 31,
+    "Informative": 60,
+    "OK": 26,
+    "Obnoxious": 11,
+    "Longwinded": 12,
+    "Jaw-dropping": 26,
+    "Unconvincing": 11,
+    "Funny": 1,
+    "Confusing": 0
+  },
+  "slug": "robert_gupta_between_music_and_medicine",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/1f82dd4305f7f4f0ef595d8ac201b367c490b6a5_1600x1200.jpg?quality=89&w=600",
+  "title": "Between music and medicine",
+  "url": "https://www.ted.com/talks/robert_gupta_between_music_and_medicine",
+  "video": {
+    "low": "http://download.ted.com/talks/RobertGupta_2012P-light.mp4",
+    "medium": "http://download.ted.com/talks/RobertGupta_2012P.mp4",
+    "high": "http://download.ted.com/talks/RobertGupta_2012P-480p.mp4"
+  },
+  "viewCount": 904425,
+  "year": "2012"
+}

@@ -1,0 +1,50 @@
+{
+  "audio": "http://download.ted.com/talks/ChrisMilk_2015.mp3",
+  "author": "Chris Milk",
+  "dateFilmed": 1426636800,
+  "datePublished": 1429714783,
+  "description": "Chris Milk uses cutting edge technology to produce astonishing films that delight and enchant. But for Milk, the human story is the driving force behind everything he does. In this short, charming talk, he shows some of his collaborations with musicians including Kanye West and Arcade Fire, and describes his latest, mind-bending experiments with virtual reality. (This talk was part of a session at TED2015 guest-curated by Pop-Up Magazine: popupmagazine.com or @popupmag on Twitter.)",
+  "duration": 616,
+  "event": "TED2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ffcb1942eeea2e2abfe0c67ff3e96f07a6bd25d6_2880x1620.jpg",
+  "keywords": [
+    "entertainment",
+    "film",
+    "humanity",
+    "innovation",
+    "storytelling",
+    "technology",
+    "virtual reality"
+  ],
+  "mainLanguage": null,
+  "objectID": 2228,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "OK": 80,
+    "Inspiring": 365,
+    "Fascinating": 231,
+    "Beautiful": 154,
+    "Courageous": 42,
+    "Informative": 121,
+    "Persuasive": 54,
+    "Funny": 32,
+    "Ingenious": 90,
+    "Jaw-dropping": 23,
+    "Unconvincing": 23,
+    "Longwinded": 6,
+    "Obnoxious": 1,
+    "Confusing": 5
+  },
+  "slug": "chris_milk_how_virtual_reality_can_create_the_ultimate_empathy_machine",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ffcb1942eeea2e2abfe0c67ff3e96f07a6bd25d6_2880x1620.jpg?quality=89&w=600",
+  "title": "How virtual reality can create the ultimate empathy machine",
+  "url": "https://www.ted.com/talks/chris_milk_how_virtual_reality_can_create_the_ultimate_empathy_machine",
+  "video": {
+    "low": "http://download.ted.com/talks/ChrisMilk_2015-light.mp4",
+    "medium": "http://download.ted.com/talks/ChrisMilk_2015.mp4",
+    "high": "http://download.ted.com/talks/ChrisMilk_2015-480p.mp4"
+  },
+  "viewCount": 1343237,
+  "year": "2015"
+}

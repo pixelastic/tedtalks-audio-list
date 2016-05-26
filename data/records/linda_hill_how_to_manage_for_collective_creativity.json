@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/LindaHill_2014X.mp3",
+  "author": "Linda Hill",
+  "dateFilmed": 1410480000,
+  "datePublished": 1426258719,
+  "description": "What's the secret to unlocking the creativity hidden inside your daily work, and giving every great idea a chance? Harvard professor Linda Hill, co-author of \"Collective Genius,\" has studied some of the world's most creative companies to come up with a set of tools and tactics to keep great ideas flowing -- from everyone in the company, not just the designated \"creatives.\" ",
+  "duration": 1037,
+  "event": "TEDxCambridge",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/4c7f887bb77d695e37bd0b619601058918de7060_2880x1620.jpg",
+  "keywords": [
+    "business",
+    "collaboration",
+    "creativity",
+    "leadership"
+  ],
+  "mainLanguage": null,
+  "objectID": 2210,
+  "otherLanguages": {
+    "zh-tw": "Chinese, Traditional"
+  },
+  "ratings": {
+    "OK": 145,
+    "Informative": 436,
+    "Inspiring": 525,
+    "Fascinating": 166,
+    "Ingenious": 89,
+    "Persuasive": 169,
+    "Longwinded": 30,
+    "Courageous": 29,
+    "Confusing": 7,
+    "Obnoxious": 3,
+    "Unconvincing": 31,
+    "Funny": 9,
+    "Beautiful": 43,
+    "Jaw-dropping": 19
+  },
+  "slug": "linda_hill_how_to_manage_for_collective_creativity",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/4c7f887bb77d695e37bd0b619601058918de7060_2880x1620.jpg?quality=89&w=600",
+  "title": "How to manage for collective creativity",
+  "url": "https://www.ted.com/talks/linda_hill_how_to_manage_for_collective_creativity",
+  "video": {
+    "low": "http://download.ted.com/talks/LindaHill_2014X-light.mp4",
+    "medium": "http://download.ted.com/talks/LindaHill_2014X.mp4",
+    "high": "http://download.ted.com/talks/LindaHill_2014X-480p.mp4"
+  },
+  "viewCount": 1734295,
+  "year": "2014"
+}

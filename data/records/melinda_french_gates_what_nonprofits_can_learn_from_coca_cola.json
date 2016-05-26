@@ -1,0 +1,56 @@
+{
+  "audio": "http://download.ted.com/talks/MelindaGates_2010X.mp3",
+  "author": "Melinda Gates",
+  "dateFilmed": 1284940800,
+  "datePublished": 1286873040,
+  "description": "Melinda Gates makes a provocative case: What can nonprofits learn from mega-corporations like Coca-Cola, whose global network of marketers and distributors ensures that every remote village wants -- and can get -- an ice-cold Coke? Maybe this model could work for distributing health care, vaccinations, sanitation, even condoms ... ",
+  "duration": 988,
+  "event": "TEDxChange",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/206290_800x600.jpg",
+  "keywords": [
+    "TEDx",
+    "business",
+    "development",
+    "global issues",
+    "philanthropy",
+    "sanitation"
+  ],
+  "mainLanguage": null,
+  "objectID": 977,
+  "otherLanguages": {
+    "hr": "Croatian",
+    "cs": "Czech",
+    "fr": "French",
+    "hi": "Hindi",
+    "ro": "Romanian",
+    "sr": "Serbian",
+    "uk": "Ukrainian"
+  },
+  "ratings": {
+    "Inspiring": 487,
+    "Persuasive": 368,
+    "Fascinating": 164,
+    "Informative": 363,
+    "Courageous": 63,
+    "Longwinded": 45,
+    "Confusing": 20,
+    "Unconvincing": 59,
+    "Ingenious": 74,
+    "Jaw-dropping": 46,
+    "OK": 86,
+    "Obnoxious": 45,
+    "Beautiful": 49,
+    "Funny": 13
+  },
+  "slug": "melinda_french_gates_what_nonprofits_can_learn_from_coca_cola",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/206290_800x600.jpg?quality=89&w=600",
+  "title": "What nonprofits can learn from Coca-Cola",
+  "url": "https://www.ted.com/talks/melinda_french_gates_what_nonprofits_can_learn_from_coca_cola",
+  "video": {
+    "low": "http://download.ted.com/talks/MelindaGates_2010X-light.mp4",
+    "medium": "http://download.ted.com/talks/MelindaGates_2010X.mp4",
+    "high": "http://download.ted.com/talks/MelindaGates_2010X-480p.mp4"
+  },
+  "viewCount": 1093332,
+  "year": "2010"
+}

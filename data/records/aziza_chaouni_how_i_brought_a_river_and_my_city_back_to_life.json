@@ -1,0 +1,50 @@
+{
+  "audio": "http://download.ted.com/talks/AzizaChaouni_2014U.mp3",
+  "author": "Aziza Chaouni",
+  "dateFilmed": 1395014400,
+  "datePublished": 1408460208,
+  "description": "The Fez River winds through the medina of Fez, Morocco—a mazelike medieval city that's a World Heritage site. Once considered the \"soul\" of this celebrated city, the river succumbed to sewage and pollution, and in the 1950s was covered over bit by bit until nothing remained. TED Fellow Aziza Chaouni recounts her 20 year effort to restore this river to its former glory, and to transform her city in the process.",
+  "duration": 339,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/47aeb83c5e3a71f71f4df1cdb056052524cc0c3c_2400x1800.jpg",
+  "keywords": [
+    "TED Conference",
+    "TED Fellows",
+    "activism",
+    "architecture",
+    "cities",
+    "infrastructure",
+    "sustainability"
+  ],
+  "mainLanguage": null,
+  "objectID": 2064,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Courageous": 72,
+    "Informative": 86,
+    "Inspiring": 169,
+    "OK": 73,
+    "Funny": 19,
+    "Beautiful": 53,
+    "Ingenious": 56,
+    "Fascinating": 33,
+    "Persuasive": 21,
+    "Confusing": 2,
+    "Longwinded": 8,
+    "Jaw-dropping": 3,
+    "Unconvincing": 3,
+    "Obnoxious": 3
+  },
+  "slug": "aziza_chaouni_how_i_brought_a_river_and_my_city_back_to_life",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/47aeb83c5e3a71f71f4df1cdb056052524cc0c3c_2400x1800.jpg?quality=89&w=600",
+  "title": "How I brought a river, and my city, back to life",
+  "url": "https://www.ted.com/talks/aziza_chaouni_how_i_brought_a_river_and_my_city_back_to_life",
+  "video": {
+    "low": "http://download.ted.com/talks/AzizaChaouni_2014U-light.mp4",
+    "medium": "http://download.ted.com/talks/AzizaChaouni_2014U.mp4",
+    "high": "http://download.ted.com/talks/AzizaChaouni_2014U-480p.mp4"
+  },
+  "viewCount": 610247,
+  "year": "2014"
+}

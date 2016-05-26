@@ -1,0 +1,58 @@
+{
+  "audio": null,
+  "author": "Philip Rosedale",
+  "dateFilmed": 1210204800,
+  "datePublished": 1228266000,
+  "description": "Why build a virtual world? Philip Rosedale talks about the virtual society he founded, Second Life, and its underpinnings in human creativity. It's a place so different that anything could happen.",
+  "duration": 1711,
+  "event": "Serious Play 2008",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/61000_640x480.jpg",
+  "keywords": [
+    "cities",
+    "communication",
+    "community",
+    "computers",
+    "entertainment",
+    "entrepreneur",
+    "life",
+    "technology",
+    "virtual reality"
+  ],
+  "mainLanguage": null,
+  "objectID": 410,
+  "otherLanguages": {
+    "en": "English",
+    "it": "Italian",
+    "pt-br": "Portuguese, Brazilian",
+    "ro": "Romanian",
+    "ru": "Russian",
+    "tr": "Turkish"
+  },
+  "ratings": {
+    "OK": 110,
+    "Informative": 159,
+    "Obnoxious": 44,
+    "Inspiring": 71,
+    "Fascinating": 149,
+    "Longwinded": 116,
+    "Beautiful": 9,
+    "Ingenious": 53,
+    "Unconvincing": 95,
+    "Persuasive": 51,
+    "Confusing": 31,
+    "Funny": 9,
+    "Courageous": 15,
+    "Jaw-dropping": 22
+  },
+  "slug": "the_inspiration_of_second_life",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/61000_640x480.jpg?quality=89&w=600",
+  "title": "Life in Second Life",
+  "url": "https://www.ted.com/talks/the_inspiration_of_second_life",
+  "video": {
+    "low": "http://download.ted.com/talks/PhilipRosedale_2008P-light.mp4",
+    "medium": "http://download.ted.com/talks/PhilipRosedale_2008P.mp4",
+    "high": "http://download.ted.com/talks/PhilipRosedale_2008P-480p.mp4"
+  },
+  "viewCount": 520713,
+  "year": "2008"
+}

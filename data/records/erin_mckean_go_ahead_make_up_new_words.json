@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/ErinMcKean_2014Y.mp3",
+  "author": "Erin McKean",
+  "dateFilmed": 1416009600,
+  "datePublished": 1419270433,
+  "description": "In this fun, short talk from TEDYouth, lexicographer Erin McKean encourages — nay, cheerleads — her audience to create new words when the existing ones won’t quite do. She lists out 6 ways to make new words in English, from compounding to “verbing,” in order to make language better at expressing what we mean, and to create more ways for us to understand one another.",
+  "duration": 412,
+  "event": "TEDYouth 2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/42cb87244761c0e3654fcb695b3ea4bee52b18c4_2880x1620.jpg",
+  "keywords": [
+    "TEDYouth",
+    "communication",
+    "creativity",
+    "language"
+  ],
+  "mainLanguage": null,
+  "objectID": 2158,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Funny": 515,
+    "Ingenious": 92,
+    "Inspiring": 264,
+    "Informative": 192,
+    "Fascinating": 135,
+    "OK": 86,
+    "Longwinded": 9,
+    "Unconvincing": 18,
+    "Obnoxious": 10,
+    "Persuasive": 62,
+    "Beautiful": 65,
+    "Courageous": 15,
+    "Confusing": 9,
+    "Jaw-dropping": 11
+  },
+  "slug": "erin_mckean_go_ahead_make_up_new_words",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/42cb87244761c0e3654fcb695b3ea4bee52b18c4_2880x1620.jpg?quality=89&w=600",
+  "title": "Go ahead, make up new words!",
+  "url": "https://www.ted.com/talks/erin_mckean_go_ahead_make_up_new_words",
+  "video": {
+    "low": "http://download.ted.com/talks/ErinMcKean_2014Y-light.mp4",
+    "medium": "http://download.ted.com/talks/ErinMcKean_2014Y.mp4",
+    "high": "http://download.ted.com/talks/ErinMcKean_2014Y-480p.mp4"
+  },
+  "viewCount": 1371066,
+  "year": "2014"
+}

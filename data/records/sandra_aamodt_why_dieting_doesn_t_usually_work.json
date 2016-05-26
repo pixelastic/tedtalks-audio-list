@@ -1,0 +1,46 @@
+{
+  "audio": "http://download.ted.com/talks/SandraAamodt_2013G.mp3",
+  "author": "Sandra Aamodt",
+  "dateFilmed": 1370908800,
+  "datePublished": 1389196848,
+  "description": "In the US, 80% of girls have been on a diet by the time they're 10 years old. In this honest, raw talk, neuroscientist Sandra Aamodt uses her personal story to frame an important lesson about how our brains manage our bodies, as she explores the science behind why dieting not only doesn't work, but is likely to do more harm than good. She suggests ideas for how to live a less diet-obsessed life, intuitively.",
+  "duration": 762,
+  "event": "TEDGlobal 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/cb0ef0f047b0d95fa7308b32ef994c64da7103bb_1600x1200.jpg",
+  "keywords": [
+    "health",
+    "neuroscience",
+    "obesity"
+  ],
+  "mainLanguage": null,
+  "objectID": 1900,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 1681,
+    "Persuasive": 743,
+    "Inspiring": 909,
+    "Beautiful": 109,
+    "OK": 190,
+    "Unconvincing": 198,
+    "Confusing": 42,
+    "Longwinded": 44,
+    "Jaw-dropping": 44,
+    "Courageous": 149,
+    "Fascinating": 312,
+    "Funny": 56,
+    "Ingenious": 63,
+    "Obnoxious": 25
+  },
+  "slug": "sandra_aamodt_why_dieting_doesn_t_usually_work",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/cb0ef0f047b0d95fa7308b32ef994c64da7103bb_1600x1200.jpg?quality=89&w=600",
+  "title": "Why dieting doesn't usually work",
+  "url": "https://www.ted.com/talks/sandra_aamodt_why_dieting_doesn_t_usually_work",
+  "video": {
+    "low": "http://download.ted.com/talks/SandraAamodt_2013G-light.mp4",
+    "medium": "http://download.ted.com/talks/SandraAamodt_2013G.mp4",
+    "high": "http://download.ted.com/talks/SandraAamodt_2013G-480p.mp4"
+  },
+  "viewCount": 3583482,
+  "year": "2013"
+}

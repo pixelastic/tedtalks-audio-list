@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/ArthurBenjamin_2013G.mp3",
+  "author": "Arthur Benjamin",
+  "dateFilmed": 1370995200,
+  "datePublished": 1383926461,
+  "description": "Math is logical, functional and just ... awesome. Mathemagician Arthur Benjamin explores hidden properties of that weird and wonderful set of numbers, the Fibonacci series. (And reminds you that mathematics can be inspiring, too!)",
+  "duration": 384,
+  "event": "TEDGlobal 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/f7a1545bc99cab07fd7400e3fb96312702955d9b_1600x1200.jpg",
+  "keywords": [
+    "entertainment",
+    "magic",
+    "math"
+  ],
+  "mainLanguage": null,
+  "objectID": 1862,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified"
+  },
+  "ratings": {
+    "Informative": 768,
+    "Fascinating": 925,
+    "Obnoxious": 37,
+    "Inspiring": 725,
+    "Persuasive": 112,
+    "Funny": 197,
+    "OK": 183,
+    "Unconvincing": 34,
+    "Beautiful": 398,
+    "Ingenious": 199,
+    "Jaw-dropping": 89,
+    "Longwinded": 17,
+    "Courageous": 28,
+    "Confusing": 20
+  },
+  "slug": "arthur_benjamin_the_magic_of_fibonacci_numbers",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/f7a1545bc99cab07fd7400e3fb96312702955d9b_1600x1200.jpg?quality=89&w=600",
+  "title": "The magic of Fibonacci numbers",
+  "url": "https://www.ted.com/talks/arthur_benjamin_the_magic_of_fibonacci_numbers",
+  "video": {
+    "low": "http://download.ted.com/talks/ArthurBenjamin_2013G-light.mp4",
+    "medium": "http://download.ted.com/talks/ArthurBenjamin_2013G.mp4",
+    "high": "http://download.ted.com/talks/ArthurBenjamin_2013G-480p.mp4"
+  },
+  "viewCount": 3470258,
+  "year": "2013"
+}

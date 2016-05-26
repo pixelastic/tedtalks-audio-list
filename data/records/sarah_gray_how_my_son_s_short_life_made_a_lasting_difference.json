@@ -1,0 +1,63 @@
+{
+  "audio": "http://download.ted.com/talks/SarahGray_2015P.mp3",
+  "author": "Sarah Gray",
+  "dateFilmed": 1447804800,
+  "datePublished": 1462201088,
+  "description": "After Sarah Gray's unborn son Thomas was diagnosed with anencephaly, a terminal condition, she decided to turn her family's tragedy into an extraordinary gift and donate his organs to scientific research. In this tribute to life and discovery, she shares her journey to find meaning in loss and spreads a message of hope for other grieving families.",
+  "duration": 617,
+  "event": "TEDMED 2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a10f09df6fcd37ad053282cf30ae0c71f5175627_2880x1620.jpg",
+  "keywords": [
+    "TEDMED",
+    "children",
+    "choice",
+    "death",
+    "decision-making",
+    "family",
+    "life",
+    "medical research",
+    "medicine",
+    "parenting",
+    "science"
+  ],
+  "mainLanguage": null,
+  "objectID": 2492,
+  "otherLanguages": {
+    "bg": "Bulgarian",
+    "nl": "Dutch",
+    "en": "English",
+    "fr": "French",
+    "ko": "Korean",
+    "ne": "Nepali",
+    "fa": "Persian",
+    "ru": "Russian",
+    "tr": "Turkish"
+  },
+  "ratings": {
+    "Beautiful": 145,
+    "Informative": 66,
+    "Inspiring": 166,
+    "Courageous": 93,
+    "Jaw-dropping": 34,
+    "Ingenious": 10,
+    "Persuasive": 24,
+    "Longwinded": 6,
+    "Fascinating": 31,
+    "OK": 14,
+    "Funny": 2,
+    "Unconvincing": 4,
+    "Confusing": 0,
+    "Obnoxious": 0
+  },
+  "slug": "sarah_gray_how_my_son_s_short_life_made_a_lasting_difference",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a10f09df6fcd37ad053282cf30ae0c71f5175627_2880x1620.jpg?quality=89&w=600",
+  "title": "How my son's short life made a lasting difference",
+  "url": "https://www.ted.com/talks/sarah_gray_how_my_son_s_short_life_made_a_lasting_difference",
+  "video": {
+    "low": "http://download.ted.com/talks/SarahGray_2015P-light.mp4",
+    "medium": "http://download.ted.com/talks/SarahGray_2015P.mp4",
+    "high": "http://download.ted.com/talks/SarahGray_2015P-480p.mp4"
+  },
+  "viewCount": 910490,
+  "year": "2015"
+}

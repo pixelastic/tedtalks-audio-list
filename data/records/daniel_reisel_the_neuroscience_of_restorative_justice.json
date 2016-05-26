@@ -1,0 +1,49 @@
+{
+  "audio": "http://download.ted.com/talks/DanielReisel_2013.mp3",
+  "author": "Daniel Reisel",
+  "dateFilmed": 1361923200,
+  "datePublished": 1395155183,
+  "description": "Daniel Reisel studies the brains of criminal psychopaths (and mice). And he asks a big question: Instead of warehousing these criminals, shouldn’t we be using what we know about the brain to help them rehabilitate? Put another way: If the brain can grow new neural pathways after an injury … could we help the brain re-grow morality?",
+  "duration": 875,
+  "event": "TED2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/10d5f2b439c4ec1466230d1e2a938fa9998fecd2_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "brain",
+    "crime",
+    "culture",
+    "global issues",
+    "science"
+  ],
+  "mainLanguage": null,
+  "objectID": 1946,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "OK": 69,
+    "Informative": 294,
+    "Inspiring": 186,
+    "Persuasive": 161,
+    "Unconvincing": 24,
+    "Ingenious": 35,
+    "Fascinating": 210,
+    "Beautiful": 33,
+    "Courageous": 43,
+    "Funny": 16,
+    "Jaw-dropping": 18,
+    "Obnoxious": 3,
+    "Longwinded": 14,
+    "Confusing": 8
+  },
+  "slug": "daniel_reisel_the_neuroscience_of_restorative_justice",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/10d5f2b439c4ec1466230d1e2a938fa9998fecd2_1600x1200.jpg?quality=89&w=600",
+  "title": "The neuroscience of restorative justice",
+  "url": "https://www.ted.com/talks/daniel_reisel_the_neuroscience_of_restorative_justice",
+  "video": {
+    "low": "http://download.ted.com/talks/DanielReisel_2013-light.mp4",
+    "medium": "http://download.ted.com/talks/DanielReisel_2013.mp4",
+    "high": "http://download.ted.com/talks/DanielReisel_2013-480p.mp4"
+  },
+  "viewCount": 655223,
+  "year": "2013"
+}

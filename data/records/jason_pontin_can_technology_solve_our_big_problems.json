@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/JasonPontin_2013U.mp3",
+  "author": "Jason Pontin",
+  "dateFilmed": 1362009600,
+  "datePublished": 1380899085,
+  "description": "In 1969, Buzz Aldrin’s historical step onto the moon leapt mankind into an era of technological possibility. The awesome power of technology was to be used to solve all of our big problems. Fast forward to present day, and what's happened? Are mobile apps all we have to show for ourselves? Journalist Jason Pontin looks closely at the challenges we face to using technology effectively ... for problems that really matter.",
+  "duration": 603,
+  "event": "TED2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a34351ae27b55c9ab34ba1ac8b4973f1cd3eb4fa_1600x1200.jpg",
+  "keywords": [
+    "NASA",
+    "TED Conference",
+    "astronomy",
+    "space",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 1835,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Persuasive": 135,
+    "OK": 106,
+    "Inspiring": 156,
+    "Informative": 165,
+    "Fascinating": 48,
+    "Ingenious": 18,
+    "Unconvincing": 75,
+    "Jaw-dropping": 8,
+    "Courageous": 48,
+    "Confusing": 29,
+    "Obnoxious": 15,
+    "Longwinded": 26,
+    "Funny": 4,
+    "Beautiful": 27
+  },
+  "slug": "jason_pontin_can_technology_solve_our_big_problems",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a34351ae27b55c9ab34ba1ac8b4973f1cd3eb4fa_1600x1200.jpg?quality=89&w=600",
+  "title": "Can technology solve our big problems?",
+  "url": "https://www.ted.com/talks/jason_pontin_can_technology_solve_our_big_problems",
+  "video": {
+    "low": "http://download.ted.com/talks/JasonPontin_2013U-light.mp4",
+    "medium": "http://download.ted.com/talks/JasonPontin_2013U.mp4",
+    "high": "http://download.ted.com/talks/JasonPontin_2013U-480p.mp4"
+  },
+  "viewCount": 1469795,
+  "year": "2013"
+}

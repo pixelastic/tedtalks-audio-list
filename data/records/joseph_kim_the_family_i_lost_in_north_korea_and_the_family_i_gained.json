@@ -1,0 +1,46 @@
+{
+  "audio": "http://download.ted.com/talks/JosephKim_2013G.mp3",
+  "author": "Joseph Kim",
+  "dateFilmed": 1371081600,
+  "datePublished": 1371654578,
+  "description": "A refugee now living in the US, Joseph Kim tells the story of his life in North Korea during the famine years. He's begun to create a new life -- but he still searches for the family he lost.",
+  "duration": 1283,
+  "event": "TEDGlobal 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/c918de9ea99afe8a616056406355db7c1a084634_1600x1200.jpg",
+  "keywords": [
+    "family",
+    "global issues",
+    "politics"
+  ],
+  "mainLanguage": null,
+  "objectID": 1771,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Jaw-dropping": 126,
+    "Inspiring": 669,
+    "Courageous": 530,
+    "Beautiful": 324,
+    "Fascinating": 76,
+    "Informative": 35,
+    "Ingenious": 6,
+    "Persuasive": 32,
+    "Obnoxious": 3,
+    "Funny": 5,
+    "OK": 27,
+    "Confusing": 1,
+    "Longwinded": 0,
+    "Unconvincing": 0
+  },
+  "slug": "joseph_kim_the_family_i_lost_in_north_korea_and_the_family_i_gained",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/c918de9ea99afe8a616056406355db7c1a084634_1600x1200.jpg?quality=89&w=600",
+  "title": "The family I lost in North Korea. And the family I gained.",
+  "url": "https://www.ted.com/talks/joseph_kim_the_family_i_lost_in_north_korea_and_the_family_i_gained",
+  "video": {
+    "low": "http://download.ted.com/talks/JosephKim_2013G-light.mp4",
+    "medium": "http://download.ted.com/talks/JosephKim_2013G.mp4",
+    "high": "http://download.ted.com/talks/JosephKim_2013G-480p.mp4"
+  },
+  "viewCount": 1727012,
+  "year": "2013"
+}

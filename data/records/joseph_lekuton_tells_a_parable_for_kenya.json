@@ -1,0 +1,57 @@
+{
+  "audio": null,
+  "author": "Joseph Lekuton",
+  "dateFilmed": 1181088000,
+  "datePublished": 1203901200,
+  "description": "Joseph Lekuton, a member of parliament in Kenya, starts with the story of his remarkable education, then offers a parable of how Africa can grow. His message of hope has never been more relevant.",
+  "duration": 326,
+  "event": "TEDGlobal 2007",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/32129_480x360.jpg",
+  "keywords": [
+    "Africa",
+    "collaboration",
+    "culture",
+    "education",
+    "global issues",
+    "politics"
+  ],
+  "mainLanguage": null,
+  "objectID": 220,
+  "otherLanguages": {
+    "sq": "Albanian",
+    "bg": "Bulgarian",
+    "hr": "Croatian",
+    "el": "Greek",
+    "ko": "Korean",
+    "sk": "Slovak",
+    "es": "Spanish",
+    "tr": "Turkish"
+  },
+  "ratings": {
+    "Inspiring": 176,
+    "Courageous": 104,
+    "OK": 33,
+    "Informative": 36,
+    "Persuasive": 42,
+    "Fascinating": 34,
+    "Ingenious": 8,
+    "Jaw-dropping": 10,
+    "Beautiful": 42,
+    "Unconvincing": 12,
+    "Confusing": 1,
+    "Obnoxious": 4,
+    "Funny": 0,
+    "Longwinded": 0
+  },
+  "slug": "joseph_lekuton_tells_a_parable_for_kenya",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/32129_480x360.jpg?quality=89&w=600",
+  "title": "A parable for Kenya",
+  "url": "https://www.ted.com/talks/joseph_lekuton_tells_a_parable_for_kenya",
+  "video": {
+    "low": "http://download.ted.com/talks/JosephLekuton_2007G-light.mp4",
+    "medium": "http://download.ted.com/talks/JosephLekuton_2007G.mp4",
+    "high": "http://download.ted.com/talks/JosephLekuton_2007G-480p.mp4"
+  },
+  "viewCount": 182113,
+  "year": "2007"
+}

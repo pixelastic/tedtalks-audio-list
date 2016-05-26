@@ -1,0 +1,45 @@
+{
+  "audio": "http://download.ted.com/talks/EddyCartaya_2013Y.mp3",
+  "author": "Eddy Cartaya",
+  "dateFilmed": 1384560000,
+  "datePublished": 1386777481,
+  "description": "Snow Dragon. Pure Imagination. Frozen Minotaur. These are the names Eddy Cartaya and his climbing partner Brent McGregor gave three glacier caves that they were the first to explore. As the Sandy Glacier slowly slides down Mount Hood in Oregon, the caves and tunnels inside it morph annually thanks to warm water from above and warm air from below. At TEDYouth, Cartaya takes us inside these magical spaces where the ice glows in bright blues and greens, and where artifacts rain from the ceiling.",
+  "duration": 482,
+  "event": "TEDYouth 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/04121e1f2bce7f63597f27238ba13e1ac72fa146_1600x1200.jpg",
+  "keywords": [
+    "TEDYouth",
+    "exploration"
+  ],
+  "mainLanguage": null,
+  "objectID": 1889,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Courageous": 21,
+    "Fascinating": 139,
+    "Beautiful": 88,
+    "Jaw-dropping": 22,
+    "Informative": 80,
+    "OK": 28,
+    "Inspiring": 66,
+    "Longwinded": 4,
+    "Unconvincing": 6,
+    "Obnoxious": 7,
+    "Ingenious": 2,
+    "Persuasive": 9,
+    "Confusing": 1,
+    "Funny": 1
+  },
+  "slug": "eddy_cartaya_my_glacier_cave_discoveries",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/04121e1f2bce7f63597f27238ba13e1ac72fa146_1600x1200.jpg?quality=89&w=600",
+  "title": "My glacier cave discoveries",
+  "url": "https://www.ted.com/talks/eddy_cartaya_my_glacier_cave_discoveries",
+  "video": {
+    "low": "http://download.ted.com/talks/EddyCartaya_2013Y-light.mp4",
+    "medium": "http://download.ted.com/talks/EddyCartaya_2013Y.mp4",
+    "high": "http://download.ted.com/talks/EddyCartaya_2013Y-480p.mp4"
+  },
+  "viewCount": 629106,
+  "year": "2013"
+}

@@ -1,0 +1,52 @@
+{
+  "audio": "http://download.ted.com/talks/EricLewis_2009.mp3",
+  "author": "Eric Lewis",
+  "dateFilmed": 1233878400,
+  "datePublished": 1236301200,
+  "description": "Eric Lewis, an astonishingly talented crossover jazz pianist -- seen by many for the first time at TED2009 -- sets fire to the keys with his shattering rendition of Evanescence's chart-topper, \"Going Under.\"",
+  "duration": 636,
+  "event": "TED2009",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/75774_800x600.jpg",
+  "keywords": [
+    "TED Conference",
+    "arts",
+    "entertainment",
+    "innovation",
+    "invention",
+    "live music",
+    "music",
+    "performance",
+    "piano"
+  ],
+  "mainLanguage": null,
+  "objectID": 478,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Unconvincing": 89,
+    "Obnoxious": 119,
+    "Jaw-dropping": 250,
+    "Beautiful": 210,
+    "Courageous": 73,
+    "Inspiring": 127,
+    "Fascinating": 125,
+    "Ingenious": 86,
+    "Informative": 4,
+    "OK": 49,
+    "Confusing": 46,
+    "Longwinded": 42,
+    "Persuasive": 9,
+    "Funny": 3
+  },
+  "slug": "eric_lewis_strikes_chords_to_rock_the_jazz_world",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/75774_800x600.jpg?quality=89&w=600",
+  "title": "Piano jazz that rocks",
+  "url": "https://www.ted.com/talks/eric_lewis_strikes_chords_to_rock_the_jazz_world",
+  "video": {
+    "low": "http://download.ted.com/talks/EricLewis_2009-light.mp4",
+    "medium": "http://download.ted.com/talks/EricLewis_2009.mp4",
+    "high": "http://download.ted.com/talks/EricLewis_2009-480p.mp4"
+  },
+  "viewCount": 668243,
+  "year": "2009"
+}

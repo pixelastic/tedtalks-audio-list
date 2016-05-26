@@ -1,0 +1,51 @@
+{
+  "audio": "http://download.ted.com/talks/EmanMohammed_2014U.mp3",
+  "author": "Eman Mohammed",
+  "dateFilmed": 1394755200,
+  "datePublished": 1411571402,
+  "description": "Eman Mohammed is one of the few female photojournalists in the Gaza Strip. Though openly shunned by many of her male colleagues, she is given unprecedented access to areas denied to men. In this short, visual talk, the TED Fellow critiques gender norms in her community by bringing light to hidden stories.",
+  "duration": 252,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a59b586ee1b4549d70bbbf9f6c7b11bcd24e6619_2400x1800.jpg",
+  "keywords": [
+    "Middle East",
+    "TED Conference",
+    "TED Fellows",
+    "gender",
+    "global issues",
+    "journalism",
+    "photography",
+    "women"
+  ],
+  "mainLanguage": null,
+  "objectID": 2095,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Courageous": 710,
+    "OK": 99,
+    "Informative": 211,
+    "Inspiring": 436,
+    "Beautiful": 258,
+    "Longwinded": 7,
+    "Persuasive": 38,
+    "Fascinating": 63,
+    "Jaw-dropping": 24,
+    "Ingenious": 6,
+    "Unconvincing": 45,
+    "Funny": 9,
+    "Confusing": 27,
+    "Obnoxious": 11
+  },
+  "slug": "eman_mohammed_the_courage_to_tell_a_hidden_story",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a59b586ee1b4549d70bbbf9f6c7b11bcd24e6619_2400x1800.jpg?quality=89&w=600",
+  "title": "The courage to tell a hidden story",
+  "url": "https://www.ted.com/talks/eman_mohammed_the_courage_to_tell_a_hidden_story",
+  "video": {
+    "low": "http://download.ted.com/talks/EmanMohammed_2014U-light.mp4",
+    "medium": "http://download.ted.com/talks/EmanMohammed_2014U.mp4",
+    "high": "http://download.ted.com/talks/EmanMohammed_2014U-480p.mp4"
+  },
+  "viewCount": 1162391,
+  "year": "2014"
+}

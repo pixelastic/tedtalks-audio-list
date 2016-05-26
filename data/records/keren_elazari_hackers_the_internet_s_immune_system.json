@@ -1,0 +1,50 @@
+{
+  "audio": "http://download.ted.com/talks/KerenElazari_2014.mp3",
+  "author": "Keren Elazari",
+  "dateFilmed": 1395100800,
+  "datePublished": 1402412324,
+  "description": "The beauty of hackers, says cybersecurity expert Keren Elazari, is that they force us to evolve and improve. Yes, some hackers are bad guys, but many are working to fight government corruption and advocate for our rights. By exposing vulnerabilities, they push the Internet to become stronger and healthier, wielding their power to create a better world.",
+  "duration": 999,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/d7ffad9a704353886a479f2b9acadada4a48855c_2400x1800.jpg",
+  "keywords": [
+    "Internet",
+    "TED Conference",
+    "activism",
+    "crime",
+    "hack",
+    "terrorism"
+  ],
+  "mainLanguage": null,
+  "objectID": 2019,
+  "otherLanguages": {
+    "zh-tw": "Chinese, Traditional"
+  },
+  "ratings": {
+    "Confusing": 33,
+    "OK": 166,
+    "Informative": 748,
+    "Inspiring": 537,
+    "Persuasive": 378,
+    "Funny": 63,
+    "Fascinating": 389,
+    "Beautiful": 141,
+    "Jaw-dropping": 24,
+    "Courageous": 224,
+    "Ingenious": 101,
+    "Longwinded": 29,
+    "Obnoxious": 12,
+    "Unconvincing": 29
+  },
+  "slug": "keren_elazari_hackers_the_internet_s_immune_system",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/d7ffad9a704353886a479f2b9acadada4a48855c_2400x1800.jpg?quality=89&w=600",
+  "title": "Hackers: the Internet's immune system",
+  "url": "https://www.ted.com/talks/keren_elazari_hackers_the_internet_s_immune_system",
+  "video": {
+    "low": "http://download.ted.com/talks/KerenElazari_2014-light.mp4",
+    "medium": "http://download.ted.com/talks/KerenElazari_2014.mp4",
+    "high": "http://download.ted.com/talks/KerenElazari_2014-480p.mp4"
+  },
+  "viewCount": 1715225,
+  "year": "2014"
+}

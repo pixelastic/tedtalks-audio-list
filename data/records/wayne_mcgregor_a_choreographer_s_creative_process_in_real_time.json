@@ -1,0 +1,55 @@
+{
+  "audio": null,
+  "author": "Wayne McGregor",
+  "dateFilmed": 1340755200,
+  "datePublished": 1347634731,
+  "description": "We all use our body on a daily basis, and yet few of us think about our physicality the way Wayne McGregor does. He demonstrates how a choreographer communicates ideas to an audience, working with two dancers to build phrases of dance, live and unscripted, on the TEDGlobal stage.",
+  "duration": 918,
+  "event": "TEDGlobal 2012",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/09950f2b257d395c1a59fbbe1bde85a6c383b8d8_1600x1200.jpg",
+  "keywords": [
+    "art",
+    "dance"
+  ],
+  "mainLanguage": null,
+  "objectID": 1527,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified",
+    "nl": "Dutch",
+    "fr": "French",
+    "el": "Greek",
+    "fa": "Persian",
+    "pt-br": "Portuguese, Brazilian",
+    "sk": "Slovak",
+    "es": "Spanish",
+    "tr": "Turkish",
+    "vi": "Vietnamese"
+  },
+  "ratings": {
+    "Courageous": 24,
+    "OK": 25,
+    "Fascinating": 114,
+    "Jaw-dropping": 12,
+    "Inspiring": 114,
+    "Beautiful": 123,
+    "Confusing": 28,
+    "Informative": 24,
+    "Unconvincing": 52,
+    "Obnoxious": 20,
+    "Funny": 13,
+    "Ingenious": 36,
+    "Longwinded": 15,
+    "Persuasive": 10
+  },
+  "slug": "wayne_mcgregor_a_choreographer_s_creative_process_in_real_time",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/09950f2b257d395c1a59fbbe1bde85a6c383b8d8_1600x1200.jpg?quality=89&w=600",
+  "title": "A choreographer's creative process in real time",
+  "url": "https://www.ted.com/talks/wayne_mcgregor_a_choreographer_s_creative_process_in_real_time",
+  "video": {
+    "low": "http://download.ted.com/talks/WayneMcGregor_2012G-light.mp4",
+    "medium": "http://download.ted.com/talks/WayneMcGregor_2012G.mp4",
+    "high": "http://download.ted.com/talks/WayneMcGregor_2012G-480p.mp4"
+  },
+  "viewCount": 789398,
+  "year": "2012"
+}

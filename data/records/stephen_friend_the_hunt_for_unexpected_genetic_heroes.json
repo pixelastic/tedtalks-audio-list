@@ -1,0 +1,50 @@
+{
+  "audio": "http://download.ted.com/talks/StephenFriend_2014.mp3",
+  "author": "Stephen Friend",
+  "dateFilmed": 1395100800,
+  "datePublished": 1401376737,
+  "description": "What can we learn from people with the genetics to get sick — who don’t? With most inherited diseases, only some family members will develop the disease, while others who carry the same genetic risks dodge it. Stephen Friend suggests we start studying those family members who stay healthy. Hear about the Resilience Project, a massive effort to collect genetic materials that may help decode inherited disorders.",
+  "duration": 639,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/70ee482d06c15e4d3f7db396870384ab35294218_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "biology",
+    "data",
+    "disease",
+    "genetics",
+    "health",
+    "privacy"
+  ],
+  "mainLanguage": null,
+  "objectID": 2004,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 169,
+    "Ingenious": 64,
+    "Persuasive": 45,
+    "Inspiring": 90,
+    "Fascinating": 84,
+    "Courageous": 24,
+    "Beautiful": 12,
+    "Jaw-dropping": 7,
+    "Longwinded": 14,
+    "OK": 12,
+    "Confusing": 5,
+    "Unconvincing": 8,
+    "Obnoxious": 3,
+    "Funny": 6
+  },
+  "slug": "stephen_friend_the_hunt_for_unexpected_genetic_heroes",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/70ee482d06c15e4d3f7db396870384ab35294218_1600x1200.jpg?quality=89&w=600",
+  "title": "The hunt for \"unexpected genetic heroes\"",
+  "url": "https://www.ted.com/talks/stephen_friend_the_hunt_for_unexpected_genetic_heroes",
+  "video": {
+    "low": "http://download.ted.com/talks/StephenFriend_2014-light.mp4",
+    "medium": "http://download.ted.com/talks/StephenFriend_2014.mp4",
+    "high": "http://download.ted.com/talks/StephenFriend_2014-480p.mp4"
+  },
+  "viewCount": 912388,
+  "year": "2014"
+}

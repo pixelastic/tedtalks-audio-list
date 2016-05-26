@@ -1,0 +1,63 @@
+{
+  "audio": "http://download.ted.com/talks/DambisaMoyo_2013G.mp3",
+  "author": "Dambisa Moyo",
+  "dateFilmed": 1371081600,
+  "datePublished": 1384186168,
+  "description": "The developed world holds up the ideals of capitalism, democracy and political rights for all. Those in emerging markets often don't have that luxury. In this powerful talk, economist Dambisa Moyo makes the case that the west can't afford to rest on its laurels and imagine others will blindly follow. Instead, a different model, embodied by China, is increasingly appealing. A call for open-minded political and economic cooperation in the name of transforming the world.",
+  "duration": 983,
+  "event": "TEDGlobal 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e09bf64db72c4cfae9b6c5e99c78f0f5006651e2_1600x1200.jpg",
+  "keywords": [
+    "Africa",
+    "Asia",
+    "china",
+    "democracy",
+    "economics",
+    "global issues",
+    "infrastructure",
+    "politics"
+  ],
+  "mainLanguage": null,
+  "objectID": 1842,
+  "otherLanguages": {
+    "ar": "Arabic",
+    "zh-cn": "Chinese, Simplified",
+    "zh-tw": "Chinese, Traditional",
+    "cs": "Czech",
+    "nl": "Dutch",
+    "de": "German",
+    "el": "Greek",
+    "ja": "Japanese",
+    "pt-br": "Portuguese, Brazilian",
+    "ru": "Russian",
+    "tr": "Turkish",
+    "vi": "Vietnamese"
+  },
+  "ratings": {
+    "Unconvincing": 96,
+    "Confusing": 27,
+    "Obnoxious": 26,
+    "Informative": 395,
+    "Jaw-dropping": 44,
+    "Inspiring": 257,
+    "Fascinating": 151,
+    "Longwinded": 24,
+    "Courageous": 127,
+    "Beautiful": 50,
+    "Persuasive": 388,
+    "Ingenious": 43,
+    "OK": 59,
+    "Funny": 9
+  },
+  "slug": "dambisa_moyo_is_china_the_new_idol_for_emerging_economies",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e09bf64db72c4cfae9b6c5e99c78f0f5006651e2_1600x1200.jpg?quality=89&w=600",
+  "title": "Is China the new idol for emerging economies?",
+  "url": "https://www.ted.com/talks/dambisa_moyo_is_china_the_new_idol_for_emerging_economies",
+  "video": {
+    "low": "http://download.ted.com/talks/DambisaMoyo_2013G-light.mp4",
+    "medium": "http://download.ted.com/talks/DambisaMoyo_2013G.mp4",
+    "high": "http://download.ted.com/talks/DambisaMoyo_2013G-480p.mp4"
+  },
+  "viewCount": 1915247,
+  "year": "2013"
+}

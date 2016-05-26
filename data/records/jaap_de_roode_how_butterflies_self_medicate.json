@@ -1,0 +1,50 @@
+{
+  "audio": "http://download.ted.com/talks/JaapDeRoode_2014Y.mp3",
+  "author": "Jaap de Roode",
+  "dateFilmed": 1416009600,
+  "datePublished": 1423496693,
+  "description": "Just like us, the monarch butterfly sometimes gets sick thanks to a nasty parasite. But biologist Jaap de Roode noticed something interesting about the butterflies he was studying — infected female butterflies would choose to lay their eggs on a specific kind of plant that helped their offspring avoid getting sick. How do they know to choose this plant? Think of it as “the other butterfly effect” — which could teach us to find new medicines for the treatment of human disease.",
+  "duration": 375,
+  "event": "TEDYouth 2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/bfd9596723d0142dc573c04fd56c2ecbacd21b7f_2880x1620.jpg",
+  "keywords": [
+    "TEDYouth",
+    "biology",
+    "insects",
+    "science"
+  ],
+  "mainLanguage": null,
+  "objectID": 2181,
+  "otherLanguages": {
+    "zh-tw": "Chinese, Traditional",
+    "ko": "Korean",
+    "sv": "Swedish"
+  },
+  "ratings": {
+    "Unconvincing": 36,
+    "OK": 74,
+    "Ingenious": 41,
+    "Fascinating": 167,
+    "Jaw-dropping": 9,
+    "Beautiful": 49,
+    "Informative": 212,
+    "Funny": 7,
+    "Inspiring": 62,
+    "Obnoxious": 3,
+    "Persuasive": 33,
+    "Courageous": 7,
+    "Confusing": 10,
+    "Longwinded": 6
+  },
+  "slug": "jaap_de_roode_how_butterflies_self_medicate",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/bfd9596723d0142dc573c04fd56c2ecbacd21b7f_2880x1620.jpg?quality=89&w=600",
+  "title": "How butterflies self-medicate",
+  "url": "https://www.ted.com/talks/jaap_de_roode_how_butterflies_self_medicate",
+  "video": {
+    "low": "http://download.ted.com/talks/JaapDeRoode_2014Y-light.mp4",
+    "medium": "http://download.ted.com/talks/JaapDeRoode_2014Y.mp4",
+    "high": "http://download.ted.com/talks/JaapDeRoode_2014Y-480p.mp4"
+  },
+  "viewCount": 993718,
+  "year": "2014"
+}

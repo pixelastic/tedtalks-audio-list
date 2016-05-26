@@ -1,0 +1,51 @@
+{
+  "audio": "http://download.ted.com/talks/WillPotter_2014U.mp3",
+  "author": "Will Potter",
+  "dateFilmed": 1395014400,
+  "datePublished": 1402498628,
+  "description": "In 2002, investigative journalist and TED Fellow Will Potter took a break from his regular beat, writing about shootings and murders for the Chicago Tribune. He went to help a local group campaigning against animal testing: \"I thought it would be a safe way to do something positive,\" he says. Instead, he was arrested, and so began his ongoing journey into a world in which peaceful protest is branded as terrorism.",
+  "duration": 273,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/286ee0368609169150f0eeae977aa3845f1e963c_2400x1800.jpg",
+  "keywords": [
+    "TED Conference",
+    "TED Fellows",
+    "activism",
+    "animals",
+    "environment",
+    "journalism",
+    "politics",
+    "terrorism"
+  ],
+  "mainLanguage": null,
+  "objectID": 2018,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 437,
+    "Inspiring": 219,
+    "Persuasive": 200,
+    "Beautiful": 27,
+    "Fascinating": 53,
+    "Courageous": 343,
+    "Jaw-dropping": 98,
+    "OK": 28,
+    "Unconvincing": 21,
+    "Confusing": 2,
+    "Ingenious": 3,
+    "Obnoxious": 19,
+    "Funny": 9,
+    "Longwinded": 5
+  },
+  "slug": "will_potter_the_shocking_move_to_criminalize_non_violent_protest",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/286ee0368609169150f0eeae977aa3845f1e963c_2400x1800.jpg?quality=89&w=600",
+  "title": "The shocking move to criminalize nonviolent protest",
+  "url": "https://www.ted.com/talks/will_potter_the_shocking_move_to_criminalize_non_violent_protest",
+  "video": {
+    "low": "http://download.ted.com/talks/WillPotter_2014U-light.mp4",
+    "medium": "http://download.ted.com/talks/WillPotter_2014U.mp4",
+    "high": "http://download.ted.com/talks/WillPotter_2014U-480p.mp4"
+  },
+  "viewCount": 956878,
+  "year": "2014"
+}

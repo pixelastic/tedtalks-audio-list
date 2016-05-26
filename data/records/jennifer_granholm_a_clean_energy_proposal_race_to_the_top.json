@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/JenniferGranholm_2013.mp3",
+  "author": "Jennifer Granholm",
+  "dateFilmed": 1361836800,
+  "datePublished": 1362089201,
+  "description": "Kicking off the TED2013 conference, Jennifer Granholm asks a very American question with worldwide implications: How do we make more jobs? Her big idea: Invest in new alternative energy sources. And her big challenge: Can it be done with or without our broken Congress?",
+  "duration": 761,
+  "event": "TED2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/6b5276fabd62f23fbf0d6965b9da7ff825d60abb_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "energy",
+    "global issues",
+    "work"
+  ],
+  "mainLanguage": null,
+  "objectID": 1679,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Funny": 17,
+    "Ingenious": 58,
+    "Inspiring": 115,
+    "Persuasive": 142,
+    "Courageous": 49,
+    "Unconvincing": 84,
+    "Beautiful": 14,
+    "Fascinating": 17,
+    "Jaw-dropping": 10,
+    "Informative": 58,
+    "OK": 40,
+    "Longwinded": 20,
+    "Confusing": 8,
+    "Obnoxious": 26
+  },
+  "slug": "jennifer_granholm_a_clean_energy_proposal_race_to_the_top",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/6b5276fabd62f23fbf0d6965b9da7ff825d60abb_1600x1200.jpg?quality=89&w=600",
+  "title": "A clean energy proposal -- race to the top!",
+  "url": "https://www.ted.com/talks/jennifer_granholm_a_clean_energy_proposal_race_to_the_top",
+  "video": {
+    "low": "http://download.ted.com/talks/JenniferGranholm_2013-light.mp4",
+    "medium": "http://download.ted.com/talks/JenniferGranholm_2013.mp4",
+    "high": "http://download.ted.com/talks/JenniferGranholm_2013-480p.mp4"
+  },
+  "viewCount": 722952,
+  "year": "2013"
+}

@@ -1,0 +1,55 @@
+{
+  "audio": "http://download.ted.com/talks/LatifNasser_2015P.mp3",
+  "author": "Latif Nasser",
+  "dateFilmed": 1446681600,
+  "datePublished": 1458744973,
+  "description": "Camels are so well adapted to the desert that it's hard to imagine them living anywhere else. But what if we have them pegged all wrong? What if those big humps, feet and eyes were evolved for a different climate and a different time? In this talk, join Radiolab's Latif Nasser as he tells the surprising story of how a very tiny, very strange fossil upended the way he sees camels, and the world. This talk comes from the PBS special \"TED Talks: Science & Wonder.\"",
+  "duration": 747,
+  "event": "TED Talks Live",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/58b282ec6169d97b0ca1ea3520787bc16568f81a_2880x1620.jpg",
+  "keywords": [
+    "ancient world",
+    "animals",
+    "biology",
+    "biosphere",
+    "curiosity",
+    "environment",
+    "evolution",
+    "history",
+    "life",
+    "nature",
+    "paleontology",
+    "science"
+  ],
+  "mainLanguage": null,
+  "objectID": 2455,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Funny": 408,
+    "Informative": 356,
+    "Inspiring": 137,
+    "Fascinating": 348,
+    "Jaw-dropping": 78,
+    "Beautiful": 56,
+    "OK": 38,
+    "Ingenious": 55,
+    "Unconvincing": 20,
+    "Persuasive": 38,
+    "Courageous": 14,
+    "Obnoxious": 16,
+    "Confusing": 5,
+    "Longwinded": 25
+  },
+  "slug": "latif_nasser_you_have_no_idea_where_camels_really_come_from",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/58b282ec6169d97b0ca1ea3520787bc16568f81a_2880x1620.jpg?quality=89&w=600",
+  "title": "You have no idea where camels really come from",
+  "url": "https://www.ted.com/talks/latif_nasser_you_have_no_idea_where_camels_really_come_from",
+  "video": {
+    "low": "http://download.ted.com/talks/LatifNasser_2015P-light.mp4",
+    "medium": "http://download.ted.com/talks/LatifNasser_2015P.mp4",
+    "high": "http://download.ted.com/talks/LatifNasser_2015P-480p.mp4"
+  },
+  "viewCount": 1643640,
+  "year": "2015"
+}

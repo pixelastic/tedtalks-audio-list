@@ -1,0 +1,53 @@
+{
+  "audio": null,
+  "author": "Reed Kroloff",
+  "dateFilmed": 1044144000,
+  "datePublished": 1217226960,
+  "description": "Reed Kroloff gives us a new lens for judging new architecture: is it modern, or is it romantic? Look for glorious images from two leading practices -- and a blistering critique of the 9/11 planning process.",
+  "duration": 921,
+  "event": "TED2003",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/516_480x360.jpg",
+  "keywords": [
+    "TED Conference",
+    "architecture",
+    "art",
+    "business",
+    "design",
+    "humor"
+  ],
+  "mainLanguage": null,
+  "objectID": 318,
+  "otherLanguages": {
+    "de": "German",
+    "ko": "Korean",
+    "ru": "Russian",
+    "vi": "Vietnamese"
+  },
+  "ratings": {
+    "Beautiful": 48,
+    "Informative": 70,
+    "Ingenious": 18,
+    "Funny": 31,
+    "Confusing": 25,
+    "Longwinded": 22,
+    "Obnoxious": 33,
+    "Jaw-dropping": 13,
+    "Inspiring": 39,
+    "Unconvincing": 37,
+    "Fascinating": 36,
+    "OK": 46,
+    "Persuasive": 11,
+    "Courageous": 7
+  },
+  "slug": "reed_kroloff_on_modern_and_romantic_architecture",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/516_480x360.jpg?quality=89&w=600",
+  "title": "A tour of modern architecture",
+  "url": "https://www.ted.com/talks/reed_kroloff_on_modern_and_romantic_architecture",
+  "video": {
+    "low": "http://download.ted.com/talks/ReedKroloff_2003-light.mp4",
+    "medium": "http://download.ted.com/talks/ReedKroloff_2003.mp4",
+    "high": "http://download.ted.com/talks/ReedKroloff_2003-480p.mp4"
+  },
+  "viewCount": 264799,
+  "year": "2003"
+}

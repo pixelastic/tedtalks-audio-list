@@ -1,0 +1,61 @@
+{
+  "audio": "http://download.ted.com/talks/JoshPrager_2015A.mp3",
+  "author": "Joshua Prager",
+  "dateFilmed": 1426723200,
+  "datePublished": 1461071338,
+  "description": "As different as we humans are from one another, we all age along the same great sequence, and the shared patterns of our lives pass into the pages of the books we love. In this moving talk, journalist Joshua Prager explores the stages of life through quotations from Norman Mailer, Joyce Carol Oates, William Trevor and other great writers, set to visualizations by graphic designer Milton Glaser. \"Books tell us who we've been, who we are, who we will be, too,\" Prager says.",
+  "duration": 361,
+  "event": "TEDActive 2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/57e977ee55231074e78e4b4d0cb0d1812f86a8d9_2880x1620.jpg",
+  "keywords": [
+    "aging",
+    "books",
+    "humanity",
+    "identity",
+    "journalism",
+    "language",
+    "life",
+    "meditation",
+    "storytelling",
+    "writing"
+  ],
+  "mainLanguage": null,
+  "objectID": 2482,
+  "otherLanguages": {
+    "my": "Burmese",
+    "en": "English",
+    "el": "Greek",
+    "he": "Hebrew",
+    "ja": "Japanese",
+    "fa": "Persian",
+    "sr": "Serbian",
+    "es": "Spanish"
+  },
+  "ratings": {
+    "Courageous": 39,
+    "Beautiful": 83,
+    "Funny": 18,
+    "Inspiring": 109,
+    "Fascinating": 27,
+    "Longwinded": 7,
+    "Obnoxious": 10,
+    "Persuasive": 13,
+    "Informative": 18,
+    "OK": 58,
+    "Confusing": 5,
+    "Unconvincing": 4,
+    "Jaw-dropping": 7,
+    "Ingenious": 17
+  },
+  "slug": "joshua_prager_wisdom_from_great_writers_on_every_year_of_life",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/57e977ee55231074e78e4b4d0cb0d1812f86a8d9_2880x1620.jpg?quality=89&w=600",
+  "title": "Wisdom from great writers on every year of life",
+  "url": "https://www.ted.com/talks/joshua_prager_wisdom_from_great_writers_on_every_year_of_life",
+  "video": {
+    "low": "http://download.ted.com/talks/JoshPrager_2015A-light.mp4",
+    "medium": "http://download.ted.com/talks/JoshPrager_2015A.mp4",
+    "high": "http://download.ted.com/talks/JoshPrager_2015A-480p.mp4"
+  },
+  "viewCount": 839505,
+  "year": "2015"
+}

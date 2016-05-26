@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/GianGiudice_2013X.mp3",
+  "author": "Gian Giudice",
+  "dateFilmed": 1367539200,
+  "datePublished": 1382626930,
+  "description": "The biggest surprise of discovering the Higgs boson? That there were no surprises. Gian Giudice talks us through a problem in theoretical physics: what if the Higgs field exists in an ultra-dense state that could mean the collapse of all atomic matter? With wit and charm, Giudice outlines a grim fate -- and why we shouldn't start worrying just yet.",
+  "duration": 850,
+  "event": "TEDxCERN",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e2059cd7fbd3f541bc6c7abdb611425f036fcb97_1600x1200.jpg",
+  "keywords": [
+    "String theory",
+    "TEDx",
+    "physics",
+    "science",
+    "universe"
+  ],
+  "mainLanguage": null,
+  "objectID": 1853,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Jaw-dropping": 102,
+    "Fascinating": 424,
+    "Beautiful": 62,
+    "Ingenious": 56,
+    "Persuasive": 42,
+    "Informative": 305,
+    "Confusing": 29,
+    "OK": 51,
+    "Inspiring": 81,
+    "Courageous": 7,
+    "Longwinded": 17,
+    "Unconvincing": 12,
+    "Obnoxious": 3,
+    "Funny": 14
+  },
+  "slug": "gian_giudice_why_our_universe_might_exist_on_a_knife_edge",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e2059cd7fbd3f541bc6c7abdb611425f036fcb97_1600x1200.jpg?quality=89&w=600",
+  "title": "Why our universe might exist on a knife-edge",
+  "url": "https://www.ted.com/talks/gian_giudice_why_our_universe_might_exist_on_a_knife_edge",
+  "video": {
+    "low": "http://download.ted.com/talks/GianGiudice_2013X-light.mp4",
+    "medium": "http://download.ted.com/talks/GianGiudice_2013X.mp4",
+    "high": "http://download.ted.com/talks/GianGiudice_2013X-480p.mp4"
+  },
+  "viewCount": 1331899,
+  "year": "2013"
+}

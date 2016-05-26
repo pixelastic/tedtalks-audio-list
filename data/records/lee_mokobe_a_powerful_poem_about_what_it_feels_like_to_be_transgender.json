@@ -1,0 +1,49 @@
+{
+  "audio": "http://download.ted.com/talks/LeeMokobe_2015W.mp3",
+  "author": "Lee Mokobe",
+  "dateFilmed": 1432771200,
+  "datePublished": 1434122070,
+  "description": "\"I was the mystery of an anatomy, a question asked but not answered,\" says poet Lee Mokobe, a TED Fellow, in this gripping and poetic exploration of identity and transition. It's a thoughtful reflection on bodies, and the meanings poured into them.",
+  "duration": 261,
+  "event": "TEDWomen 2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/1033e67683314007beac63bdb775116301af6d34_2880x1620.jpg",
+  "keywords": [
+    "Gender spectrum",
+    "TED Fellows",
+    "Transgender",
+    "gender",
+    "poetry",
+    "spoken word"
+  ],
+  "mainLanguage": null,
+  "objectID": 2281,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Inspiring": 354,
+    "Courageous": 329,
+    "Fascinating": 62,
+    "Beautiful": 257,
+    "Ingenious": 15,
+    "Obnoxious": 19,
+    "Jaw-dropping": 29,
+    "Persuasive": 34,
+    "Informative": 37,
+    "Unconvincing": 7,
+    "OK": 21,
+    "Longwinded": 6,
+    "Confusing": 15,
+    "Funny": 7
+  },
+  "slug": "lee_mokobe_a_powerful_poem_about_what_it_feels_like_to_be_transgender",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/1033e67683314007beac63bdb775116301af6d34_2880x1620.jpg?quality=89&w=600",
+  "title": "A powerful poem about what it feels like to be transgender",
+  "url": "https://www.ted.com/talks/lee_mokobe_a_powerful_poem_about_what_it_feels_like_to_be_transgender",
+  "video": {
+    "low": "http://download.ted.com/talks/LeeMokobe_2015W-light.mp4",
+    "medium": "http://download.ted.com/talks/LeeMokobe_2015W.mp4",
+    "high": "http://download.ted.com/talks/LeeMokobe_2015W-480p.mp4"
+  },
+  "viewCount": 988723,
+  "year": "2015"
+}

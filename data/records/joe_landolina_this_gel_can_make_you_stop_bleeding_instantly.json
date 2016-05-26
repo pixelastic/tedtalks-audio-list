@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/JoeLandolina_2014U.mp3",
+  "author": "Joe Landolina",
+  "dateFilmed": 1413244800,
+  "datePublished": 1416500289,
+  "description": "Forget stitches -- there's a better way to close wounds. In this talk, TED Fellow Joe Landolina talks about his invention -- a medical gel that can instantly stop traumatic bleeding without the need to apply pressure. (Contains medical images.)",
+  "duration": 301,
+  "event": "TEDGlobal 2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/c99ee2b303754bda9fb96696a033a90b3f08cd28_2880x1620.jpg",
+  "keywords": [
+    "TED Fellows",
+    "invention",
+    "medicine",
+    "science",
+    "war"
+  ],
+  "mainLanguage": null,
+  "objectID": 2138,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Ingenious": 723,
+    "Fascinating": 531,
+    "Jaw-dropping": 369,
+    "Persuasive": 63,
+    "Informative": 363,
+    "Unconvincing": 34,
+    "Inspiring": 169,
+    "Courageous": 25,
+    "Beautiful": 27,
+    "OK": 48,
+    "Funny": 3,
+    "Longwinded": 3,
+    "Obnoxious": 2,
+    "Confusing": 2
+  },
+  "slug": "joe_landolina_this_gel_can_make_you_stop_bleeding_instantly",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/c99ee2b303754bda9fb96696a033a90b3f08cd28_2880x1620.jpg?quality=89&w=600",
+  "title": "This gel can make you stop bleeding instantly",
+  "url": "https://www.ted.com/talks/joe_landolina_this_gel_can_make_you_stop_bleeding_instantly",
+  "video": {
+    "low": "http://download.ted.com/talks/JoeLandolina_2014U-light.mp4",
+    "medium": "http://download.ted.com/talks/JoeLandolina_2014U.mp4",
+    "high": "http://download.ted.com/talks/JoeLandolina_2014U-480p.mp4"
+  },
+  "viewCount": 1513702,
+  "year": "2014"
+}

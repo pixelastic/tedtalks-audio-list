@@ -1,0 +1,51 @@
+{
+  "audio": "http://download.ted.com/talks/JessicaGreen_2013U.mp3",
+  "author": "Jessica Green",
+  "dateFilmed": 1361750400,
+  "datePublished": 1364225632,
+  "description": "Our bodies and homes are covered in microbes -- some good for us, some bad for us. As we learn more about the germs and microbes who share our living spaces, TED Fellow Jessica Green asks: Can we design buildings that encourage happy, healthy microbial environments?",
+  "duration": 523,
+  "event": "TED2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/6b6589338b03f27ab6c1ba727afa0d9d2393bba3_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "TED Fellows",
+    "architecture",
+    "biodiversity",
+    "biology",
+    "collaboration",
+    "design",
+    "science"
+  ],
+  "mainLanguage": null,
+  "objectID": 1698,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Fascinating": 202,
+    "Informative": 251,
+    "Ingenious": 87,
+    "Jaw-dropping": 19,
+    "Inspiring": 53,
+    "OK": 55,
+    "Unconvincing": 36,
+    "Longwinded": 16,
+    "Persuasive": 49,
+    "Courageous": 6,
+    "Confusing": 11,
+    "Funny": 7,
+    "Beautiful": 13,
+    "Obnoxious": 4
+  },
+  "slug": "jessica_green_good_germs_make_healthy_buildings",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/6b6589338b03f27ab6c1ba727afa0d9d2393bba3_1600x1200.jpg?quality=89&w=600",
+  "title": "We're covered in germs. Let's design for that.",
+  "url": "https://www.ted.com/talks/jessica_green_good_germs_make_healthy_buildings",
+  "video": {
+    "low": "http://download.ted.com/talks/JessicaGreen_2013U-light.mp4",
+    "medium": "http://download.ted.com/talks/JessicaGreen_2013U.mp4",
+    "high": "http://download.ted.com/talks/JessicaGreen_2013U-480p.mp4"
+  },
+  "viewCount": 900441,
+  "year": "2013"
+}

@@ -1,0 +1,49 @@
+{
+  "audio": "http://download.ted.com/talks/AlixGenerous_2015W.mp3",
+  "author": "Alix Generous",
+  "dateFilmed": 1434067200,
+  "datePublished": 1439824731,
+  "description": "Alix Generous is a young woman with a million and one ideas -- she's done award-winning science, helped develop new technology and tells a darn good joke (you'll see). She has Asperger's, a form of autistic spectrum disorder that can impair the basic social skills required for communication, and she's worked hard for years to learn how to share her thoughts with the world. In this funny, personal talk, she shares her story -- and her vision for tools to help more people communicate their big ideas.",
+  "duration": 626,
+  "event": "TEDWomen 2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/5ab70a8813bed2fe065ca7534513866145155873_2880x1620.jpg",
+  "keywords": [
+    "Autism spectrum disorder",
+    "communication",
+    "empathy",
+    "neuroscience",
+    "science"
+  ],
+  "mainLanguage": null,
+  "objectID": 2310,
+  "otherLanguages": {
+    "pt-br": "Portuguese, Brazilian"
+  },
+  "ratings": {
+    "Beautiful": 274,
+    "Courageous": 361,
+    "Inspiring": 515,
+    "Funny": 340,
+    "Fascinating": 116,
+    "Informative": 169,
+    "Ingenious": 19,
+    "OK": 19,
+    "Longwinded": 3,
+    "Persuasive": 17,
+    "Obnoxious": 6,
+    "Jaw-dropping": 8,
+    "Confusing": 5,
+    "Unconvincing": 1
+  },
+  "slug": "alix_generous_how_i_learned_to_communicate_my_inner_life_with_asperger_s",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/5ab70a8813bed2fe065ca7534513866145155873_2880x1620.jpg?quality=89&w=600",
+  "title": "How I learned to communicate my inner life with Asperger's",
+  "url": "https://www.ted.com/talks/alix_generous_how_i_learned_to_communicate_my_inner_life_with_asperger_s",
+  "video": {
+    "low": "http://download.ted.com/talks/AlixGenerous_2015W-light.mp4",
+    "medium": "http://download.ted.com/talks/AlixGenerous_2015W.mp4",
+    "high": "http://download.ted.com/talks/AlixGenerous_2015W-480p.mp4"
+  },
+  "viewCount": 1342720,
+  "year": "2015"
+}

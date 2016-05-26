@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/DongWooJang_2013.mp3",
+  "author": "Dong Woo Jang",
+  "dateFilmed": 1362009600,
+  "datePublished": 1383318064,
+  "description": "Dong Woo Jang has an unusual after school hobby. Jang, who was 15 when he gave the talk, tells the story of how living in the concrete jungle of Seoul inspired him to build the perfect bow. Watch him demo one of his beautiful hand-crafted archer's bows.",
+  "duration": 508,
+  "event": "TED2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7e34a9ccd1180aff93ab629e43df9812fa21719d_1600x1200.jpg",
+  "keywords": [
+    "Asia",
+    "TED Conference",
+    "culture",
+    "demo",
+    "invention"
+  ],
+  "mainLanguage": null,
+  "objectID": 1790,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Inspiring": 340,
+    "Fascinating": 155,
+    "Beautiful": 135,
+    "Persuasive": 38,
+    "Informative": 100,
+    "OK": 152,
+    "Confusing": 20,
+    "Longwinded": 36,
+    "Courageous": 88,
+    "Ingenious": 57,
+    "Unconvincing": 41,
+    "Jaw-dropping": 11,
+    "Funny": 32,
+    "Obnoxious": 17
+  },
+  "slug": "dong_woo_jang_the_art_of_bow_making",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7e34a9ccd1180aff93ab629e43df9812fa21719d_1600x1200.jpg?quality=89&w=600",
+  "title": "The art of bow-making",
+  "url": "https://www.ted.com/talks/dong_woo_jang_the_art_of_bow_making",
+  "video": {
+    "low": "http://download.ted.com/talks/DongWooJang_2013-light.mp4",
+    "medium": "http://download.ted.com/talks/DongWooJang_2013.mp4",
+    "high": "http://download.ted.com/talks/DongWooJang_2013-480p.mp4"
+  },
+  "viewCount": 2043292,
+  "year": "2013"
+}

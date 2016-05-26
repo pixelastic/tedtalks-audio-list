@@ -1,0 +1,49 @@
+{
+  "audio": null,
+  "author": "Aleph Molinari",
+  "dateFilmed": 1312588800,
+  "datePublished": 1328367698,
+  "description": "Five billion people can’t use the Internet. Aleph Molinari empowers digitally excluded people, by giving them access to computers and sharing the know-how to use them.",
+  "duration": 604,
+  "event": "TEDxSanMigueldeAllende",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a8bfa0dc1e9a4666f860e7cbe19867fe1de199d2_800x600.jpg",
+  "keywords": [
+    "TEDx",
+    "education",
+    "global issues",
+    "poverty",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 1348,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Obnoxious": 9,
+    "Inspiring": 132,
+    "Informative": 94,
+    "Persuasive": 68,
+    "Beautiful": 13,
+    "Courageous": 43,
+    "Ingenious": 35,
+    "OK": 41,
+    "Fascinating": 26,
+    "Confusing": 3,
+    "Longwinded": 11,
+    "Unconvincing": 29,
+    "Jaw-dropping": 20,
+    "Funny": 8
+  },
+  "slug": "aleph_molinari_let_s_bridge_the_digital_divide",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a8bfa0dc1e9a4666f860e7cbe19867fe1de199d2_800x600.jpg?quality=89&w=600",
+  "title": "Let's bridge the digital divide!",
+  "url": "https://www.ted.com/talks/aleph_molinari_let_s_bridge_the_digital_divide",
+  "video": {
+    "youtube": {
+      "id": "kaxCRnZ_CLg",
+      "url": "http://www.ted.com/tedx/events/3123"
+    }
+  },
+  "viewCount": 98503,
+  "year": "2011"
+}

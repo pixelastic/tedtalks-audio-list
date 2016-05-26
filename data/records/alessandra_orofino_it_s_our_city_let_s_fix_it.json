@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/AlessandraOrofino_2014G.mp3",
+  "author": "Alessandra Orofino",
+  "dateFilmed": 1412640000,
+  "datePublished": 1415031698,
+  "description": "Too often, people feel checked out of politics — even at the level of their own city. But urban activist Alessandra Orofino thinks that can change, using a mix of tech and old-fashioned human connection. Sharing examples from her hometown of Rio, she says: \"It is up to us to decide whether we want schools or parking lots, recycling projects or construction sites, cars or buses, loneliness or solidarity.\"",
+  "duration": 915,
+  "event": "TEDGlobal 2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/df96e78e8818868a05e0d27f97165121fb39a837_2880x1620.jpg",
+  "keywords": [
+    "cities",
+    "community",
+    "politics",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 2107,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 233,
+    "Inspiring": 301,
+    "Fascinating": 104,
+    "Beautiful": 65,
+    "Courageous": 75,
+    "Persuasive": 102,
+    "Unconvincing": 20,
+    "OK": 49,
+    "Obnoxious": 5,
+    "Ingenious": 14,
+    "Longwinded": 11,
+    "Confusing": 6,
+    "Jaw-dropping": 3,
+    "Funny": 11
+  },
+  "slug": "alessandra_orofino_it_s_our_city_let_s_fix_it",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/df96e78e8818868a05e0d27f97165121fb39a837_2880x1620.jpg?quality=89&w=600",
+  "title": "It’s our city. Let’s fix it",
+  "url": "https://www.ted.com/talks/alessandra_orofino_it_s_our_city_let_s_fix_it",
+  "video": {
+    "low": "http://download.ted.com/talks/AlessandraOrofino_2014G-light.mp4",
+    "medium": "http://download.ted.com/talks/AlessandraOrofino_2014G.mp4",
+    "high": "http://download.ted.com/talks/AlessandraOrofino_2014G-480p.mp4"
+  },
+  "viewCount": 664071,
+  "year": "2014"
+}

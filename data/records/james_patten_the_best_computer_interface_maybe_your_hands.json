@@ -1,0 +1,49 @@
+{
+  "audio": null,
+  "author": "James Patten",
+  "dateFilmed": 1376956800,
+  "datePublished": 1398352853,
+  "description": "\"The computer is an incredibly powerful means of creative expression,\" says designer and TED Fellow James Patten. But right now, we interact with computers, mainly, by typing and tapping. In this nifty talk and demo, Patten imagines a more visceral, physical way to bring your thoughts and ideas to life in the digital world, taking the computer interface off the screen and putting it into your hands.",
+  "duration": 372,
+  "event": "TED Fellows Retreat 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7050fccc4b9b3515903a1fe304017edf282fb5f7_1600x1200.jpg",
+  "keywords": [
+    "Senses",
+    "TED Fellows",
+    "arts",
+    "design",
+    "interface design"
+  ],
+  "mainLanguage": null,
+  "objectID": 1984,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified"
+  },
+  "ratings": {
+    "Ingenious": 369,
+    "Fascinating": 312,
+    "Jaw-dropping": 78,
+    "Funny": 29,
+    "Inspiring": 220,
+    "Informative": 124,
+    "Beautiful": 40,
+    "Unconvincing": 18,
+    "Persuasive": 22,
+    "Courageous": 15,
+    "Confusing": 19,
+    "OK": 59,
+    "Longwinded": 3,
+    "Obnoxious": 0
+  },
+  "slug": "james_patten_the_best_computer_interface_maybe_your_hands",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7050fccc4b9b3515903a1fe304017edf282fb5f7_1600x1200.jpg?quality=89&w=600",
+  "title": "The best computer interface? Maybe ... your hands",
+  "url": "https://www.ted.com/talks/james_patten_the_best_computer_interface_maybe_your_hands",
+  "video": {
+    "low": "http://download.ted.com/talks/JamesPatten_2013U-light.mp4",
+    "medium": "http://download.ted.com/talks/JamesPatten_2013U.mp4",
+    "high": "http://download.ted.com/talks/JamesPatten_2013U-480p.mp4"
+  },
+  "viewCount": 980827,
+  "year": "2013"
+}

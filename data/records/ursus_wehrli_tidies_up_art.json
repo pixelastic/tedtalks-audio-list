@@ -1,0 +1,62 @@
+{
+  "audio": null,
+  "author": "Ursus Wehrli",
+  "dateFilmed": 1138838400,
+  "datePublished": 1226538000,
+  "description": "Ursus Wehrli shares his vision for a cleaner, more organized, tidier form of art -- by deconstructing the paintings of modern masters into their component pieces, sorted by color and size.",
+  "duration": 957,
+  "event": "TED2006",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/58499_800x600.jpg",
+  "keywords": [
+    "TED Conference",
+    "art",
+    "arts",
+    "design",
+    "entertainment",
+    "humor",
+    "performance",
+    "simplicity"
+  ],
+  "mainLanguage": null,
+  "objectID": 400,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified",
+    "hr": "Croatian",
+    "fr": "French",
+    "hu": "Hungarian",
+    "ja": "Japanese",
+    "ko": "Korean",
+    "pl": "Polish",
+    "ro": "Romanian",
+    "ru": "Russian",
+    "es": "Spanish",
+    "tr": "Turkish"
+  },
+  "ratings": {
+    "Persuasive": 21,
+    "Jaw-dropping": 41,
+    "Beautiful": 74,
+    "Inspiring": 120,
+    "Funny": 1036,
+    "Longwinded": 93,
+    "Fascinating": 156,
+    "Ingenious": 312,
+    "OK": 124,
+    "Informative": 20,
+    "Unconvincing": 30,
+    "Courageous": 47,
+    "Obnoxious": 70,
+    "Confusing": 10
+  },
+  "slug": "ursus_wehrli_tidies_up_art",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/58499_800x600.jpg?quality=89&w=600",
+  "title": "Tidying up art",
+  "url": "https://www.ted.com/talks/ursus_wehrli_tidies_up_art",
+  "video": {
+    "low": "http://download.ted.com/talks/UrsusWehrli_2006-light.mp4",
+    "medium": "http://download.ted.com/talks/UrsusWehrli_2006.mp4",
+    "high": "http://download.ted.com/talks/UrsusWehrli_2006-480p.mp4"
+  },
+  "viewCount": 1215951,
+  "year": "2006"
+}

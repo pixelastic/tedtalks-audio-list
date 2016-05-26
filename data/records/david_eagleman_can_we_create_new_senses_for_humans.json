@@ -1,0 +1,47 @@
+{
+  "audio": null,
+  "author": "David Eagleman",
+  "dateFilmed": 1426550400,
+  "datePublished": 1426695045,
+  "description": "As humans, we can perceive less than a ten-trillionth of all light waves. “Our experience of reality,” says neuroscientist David Eagleman, “is constrained by our biology.” He wants to change that. His research into our brain processes has led him to create new interfaces -- such as a sensory vest -- to take in previously unseen information about the world around us. ",
+  "duration": 1234,
+  "event": "TED2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/1efebe64a094b2ee95cd62eec52ddf2238a92510_2880x1620.jpg",
+  "keywords": [
+    "Senses",
+    "brain",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 2215,
+  "otherLanguages": {
+    "pt-br": "Portuguese, Brazilian"
+  },
+  "ratings": {
+    "Ingenious": 876,
+    "Fascinating": 1104,
+    "Jaw-dropping": 628,
+    "Beautiful": 74,
+    "Informative": 428,
+    "Inspiring": 493,
+    "Unconvincing": 16,
+    "Obnoxious": 14,
+    "Courageous": 30,
+    "Persuasive": 53,
+    "Confusing": 14,
+    "Funny": 40,
+    "OK": 57,
+    "Longwinded": 6
+  },
+  "slug": "david_eagleman_can_we_create_new_senses_for_humans",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/1efebe64a094b2ee95cd62eec52ddf2238a92510_2880x1620.jpg?quality=89&w=600",
+  "title": "Can we create new senses for humans?",
+  "url": "https://www.ted.com/talks/david_eagleman_can_we_create_new_senses_for_humans",
+  "video": {
+    "low": "http://download.ted.com/talks/DavidEagleman_2015-light.mp4",
+    "medium": "http://download.ted.com/talks/DavidEagleman_2015.mp4",
+    "high": "http://download.ted.com/talks/DavidEagleman_2015-480p.mp4"
+  },
+  "viewCount": 1439842,
+  "year": "2015"
+}

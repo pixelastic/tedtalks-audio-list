@@ -1,0 +1,51 @@
+{
+  "audio": "http://download.ted.com/talks/ManuelLima_2015.mp3",
+  "author": "Manuel Lima",
+  "dateFilmed": 1426204800,
+  "datePublished": 1439912074,
+  "description": "How does knowledge grow? Sometimes it begins with one insight and grows into many branches; other times it grows as a complex and interconnected network. Infographics expert Manuel Lima explores the thousand-year history of mapping data -- from languages to dynasties -- using trees and networks of information. It's a fascinating history of visualizations, and a look into humanity's urge to map what we know.",
+  "duration": 769,
+  "event": "TED2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/9e003b0a822daba702608136e73f7be001b6b2f2_2880x1620.jpg",
+  "keywords": [
+    "art",
+    "data",
+    "design",
+    "visualizations"
+  ],
+  "mainLanguage": null,
+  "objectID": 2296,
+  "otherLanguages": {
+    "en": "English",
+    "fa": "Persian",
+    "pt-br": "Portuguese, Brazilian",
+    "th": "Thai"
+  },
+  "ratings": {
+    "OK": 164,
+    "Informative": 332,
+    "Longwinded": 60,
+    "Courageous": 4,
+    "Ingenious": 82,
+    "Fascinating": 248,
+    "Beautiful": 192,
+    "Funny": 17,
+    "Inspiring": 155,
+    "Persuasive": 40,
+    "Confusing": 22,
+    "Unconvincing": 50,
+    "Jaw-dropping": 14,
+    "Obnoxious": 8
+  },
+  "slug": "manuel_lima_a_visual_history_of_human_knowledge",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/9e003b0a822daba702608136e73f7be001b6b2f2_2880x1620.jpg?quality=89&w=600",
+  "title": "A visual history of human knowledge",
+  "url": "https://www.ted.com/talks/manuel_lima_a_visual_history_of_human_knowledge",
+  "video": {
+    "low": "http://download.ted.com/talks/ManuelLima_2015-light.mp4",
+    "medium": "http://download.ted.com/talks/ManuelLima_2015.mp4",
+    "high": "http://download.ted.com/talks/ManuelLima_2015-480p.mp4"
+  },
+  "viewCount": 1552040,
+  "year": "2015"
+}

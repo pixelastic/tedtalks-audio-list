@@ -1,0 +1,59 @@
+{
+  "audio": "http://download.ted.com/talks/JohnWilbanks_2012G.mp3",
+  "author": "John Wilbanks",
+  "dateFilmed": 1340928000,
+  "datePublished": 1350399604,
+  "description": "When you're getting medical treatment, or taking part in medical testing, privacy is important; strict laws limit what researchers can see and know about you. But what if your medical data could be used -- anonymously -- by anyone seeking to test a hypothesis? John Wilbanks wonders if the desire to protect our privacy is slowing research, and if opening up medical data could lead to a wave of health care innovation.",
+  "duration": 985,
+  "event": "TEDGlobal 2012",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ee7314164d2ba80271cd05a8ab1f5deeb29c7f90_1600x1200.jpg",
+  "keywords": [
+    "health",
+    "health care",
+    "medical research",
+    "open-source"
+  ],
+  "mainLanguage": null,
+  "objectID": 1585,
+  "otherLanguages": {
+    "ar": "Arabic",
+    "zh-cn": "Chinese, Simplified",
+    "nl": "Dutch",
+    "en": "English",
+    "fr": "French",
+    "el": "Greek",
+    "it": "Italian",
+    "ja": "Japanese",
+    "ko": "Korean",
+    "pl": "Polish",
+    "pt-br": "Portuguese, Brazilian",
+    "ru": "Russian"
+  },
+  "ratings": {
+    "Informative": 107,
+    "Fascinating": 36,
+    "Jaw-dropping": 16,
+    "Persuasive": 178,
+    "OK": 14,
+    "Ingenious": 52,
+    "Inspiring": 116,
+    "Courageous": 66,
+    "Longwinded": 7,
+    "Confusing": 1,
+    "Unconvincing": 8,
+    "Obnoxious": 2,
+    "Beautiful": 9,
+    "Funny": 0
+  },
+  "slug": "john_wilbanks_let_s_pool_our_medical_data",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ee7314164d2ba80271cd05a8ab1f5deeb29c7f90_1600x1200.jpg?quality=89&w=600",
+  "title": "Let's pool our medical data",
+  "url": "https://www.ted.com/talks/john_wilbanks_let_s_pool_our_medical_data",
+  "video": {
+    "low": "http://download.ted.com/talks/JohnWilbanks_2012G-light.mp4",
+    "medium": "http://download.ted.com/talks/JohnWilbanks_2012G.mp4",
+    "high": "http://download.ted.com/talks/JohnWilbanks_2012G-480p.mp4"
+  },
+  "viewCount": 506777,
+  "year": "2012"
+}

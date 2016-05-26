@@ -1,0 +1,47 @@
+{
+  "audio": null,
+  "author": "Steve Ramirez and Xu Liu",
+  "dateFilmed": 1372118400,
+  "datePublished": 1376578944,
+  "description": "Can we edit the content of our memories? It’s a sci-fi-tinged question that Steve Ramirez and Xu Liu are asking in their lab at MIT. Essentially, the pair shoot a laser beam into the brain of a living mouse to activate and manipulate its memory. In this unexpectedly amusing talk they share not only how, but -- more importantly -- why they do this. (Filmed at TEDxBoston.)",
+  "duration": 925,
+  "event": "TEDxBoston",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/da14c7bb22ea0bcc676687bd44f8fba69d8046c0_1600x1200.jpg",
+  "keywords": [
+    "TEDx",
+    "animals",
+    "memory",
+    "neuroscience"
+  ],
+  "mainLanguage": null,
+  "objectID": 1813,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Jaw-dropping": 180,
+    "Fascinating": 254,
+    "Longwinded": 6,
+    "Informative": 159,
+    "Ingenious": 152,
+    "Persuasive": 23,
+    "Inspiring": 66,
+    "Funny": 82,
+    "OK": 19,
+    "Confusing": 5,
+    "Unconvincing": 17,
+    "Courageous": 9,
+    "Obnoxious": 20,
+    "Beautiful": 11
+  },
+  "slug": "steve_ramirez_and_xu_liu_a_mouse_a_laser_beam_a_manipulated_memory",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/da14c7bb22ea0bcc676687bd44f8fba69d8046c0_1600x1200.jpg?quality=89&w=600",
+  "title": "A mouse. A laser beam. A manipulated memory.",
+  "url": "https://www.ted.com/talks/steve_ramirez_and_xu_liu_a_mouse_a_laser_beam_a_manipulated_memory",
+  "video": {
+    "low": "http://download.ted.com/talks/SteveRamirez_2013X-light.mp4",
+    "medium": "http://download.ted.com/talks/SteveRamirez_2013X.mp4",
+    "high": "http://download.ted.com/talks/SteveRamirez_2013X-480p.mp4"
+  },
+  "viewCount": 982690,
+  "year": "2013"
+}

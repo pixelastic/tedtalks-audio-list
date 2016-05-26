@@ -1,0 +1,53 @@
+{
+  "audio": "http://download.ted.com/talks/BenjaminZander_2008.mp3",
+  "author": "Benjamin Zander",
+  "dateFilmed": 1201910400,
+  "datePublished": 1214355600,
+  "description": "Benjamin Zander has two infectious passions: classical music, and helping us all realize our untapped love for it -- and by extension, our untapped love for all new possibilities, new experiences, new connections.",
+  "duration": 1243,
+  "event": "TED2008",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/db471b06b2f5f6ba97c7de8b232878ffe9718600_1600x1200.jpg",
+  "keywords": [
+    "Buddhism",
+    "TED Conference",
+    "arts",
+    "conducting",
+    "creativity",
+    "culture",
+    "entertainment",
+    "leadership",
+    "live music",
+    "music"
+  ],
+  "mainLanguage": null,
+  "objectID": 286,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 5561,
+    "Funny": 1830,
+    "Inspiring": 7643,
+    "Fascinating": 2542,
+    "Informative": 578,
+    "Jaw-dropping": 1260,
+    "Persuasive": 1214,
+    "Courageous": 379,
+    "Ingenious": 844,
+    "OK": 143,
+    "Longwinded": 47,
+    "Unconvincing": 36,
+    "Confusing": 37,
+    "Obnoxious": 28
+  },
+  "slug": "benjamin_zander_on_music_and_passion",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/db471b06b2f5f6ba97c7de8b232878ffe9718600_1600x1200.jpg?quality=89&w=600",
+  "title": "The transformative power of classical music",
+  "url": "https://www.ted.com/talks/benjamin_zander_on_music_and_passion",
+  "video": {
+    "low": "http://download.ted.com/talks/BenjaminZander_2008-light.mp4",
+    "medium": "http://download.ted.com/talks/BenjaminZander_2008.mp4",
+    "high": "http://download.ted.com/talks/BenjaminZander_2008-480p.mp4"
+  },
+  "viewCount": 7761921,
+  "year": "2008"
+}

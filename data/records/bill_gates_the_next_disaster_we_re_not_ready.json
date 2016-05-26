@@ -1,0 +1,50 @@
+{
+  "audio": "http://download.ted.com/talks/BillGates_2015.mp3",
+  "author": "Bill Gates",
+  "dateFilmed": 1426636800,
+  "datePublished": 1428073125,
+  "description": "In 2014, the world avoided a global outbreak of Ebola, thanks to thousands of selfless health workers -- plus, frankly, some very good luck. In hindsight, we know what we should have done better. So, now's the time, Bill Gates suggests, to put all our good ideas into practice, from scenario planning to vaccine research to health worker training. As he says, \"There's no need to panic ... but we need to get going.\"",
+  "duration": 512,
+  "event": "TED2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2c60223169fd66d3962f9f3c354081824d2914c5_2880x1620.jpg",
+  "keywords": [
+    "TED Brain Trust",
+    "disaster relief",
+    "disease",
+    "ebola",
+    "global issues",
+    "medicine",
+    "war"
+  ],
+  "mainLanguage": null,
+  "objectID": 2225,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 800,
+    "Persuasive": 346,
+    "Inspiring": 316,
+    "Beautiful": 59,
+    "Courageous": 78,
+    "Obnoxious": 11,
+    "Jaw-dropping": 40,
+    "Fascinating": 68,
+    "Longwinded": 17,
+    "OK": 126,
+    "Unconvincing": 32,
+    "Funny": 26,
+    "Ingenious": 31,
+    "Confusing": 2
+  },
+  "slug": "bill_gates_the_next_disaster_we_re_not_ready",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2c60223169fd66d3962f9f3c354081824d2914c5_2880x1620.jpg?quality=89&w=600",
+  "title": "The next outbreak? We’re not ready",
+  "url": "https://www.ted.com/talks/bill_gates_the_next_disaster_we_re_not_ready",
+  "video": {
+    "low": "http://download.ted.com/talks/BillGates_2015-light.mp4",
+    "medium": "http://download.ted.com/talks/BillGates_2015.mp4",
+    "high": "http://download.ted.com/talks/BillGates_2015-480p.mp4"
+  },
+  "viewCount": 2012476,
+  "year": "2015"
+}

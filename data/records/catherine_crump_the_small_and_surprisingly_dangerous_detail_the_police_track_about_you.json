@@ -1,0 +1,46 @@
+{
+  "audio": "http://download.ted.com/talks/CatherineCrump_2014G.mp3",
+  "author": "Catherine Crump",
+  "dateFilmed": 1413244800,
+  "datePublished": 1418313730,
+  "description": "A very unsexy-sounding piece of technology could mean that the police know where you go, with whom, and when: the automatic license plate reader. These cameras are innocuously placed all across small-town America to catch known criminals, but as lawyer and TED Fellow Catherine Crump shows, the data they collect in aggregate could have disastrous consequences for everyone the world over.",
+  "duration": 354,
+  "event": "TEDGlobal 2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/362eb0e4bebcaeaaa4c4f05da5a5154919471656_2880x1620.jpg",
+  "keywords": [
+    "TED Fellows",
+    "data",
+    "privacy"
+  ],
+  "mainLanguage": null,
+  "objectID": 2149,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 886,
+    "Fascinating": 139,
+    "Persuasive": 166,
+    "Courageous": 161,
+    "Ingenious": 31,
+    "Obnoxious": 51,
+    "Unconvincing": 167,
+    "Jaw-dropping": 126,
+    "OK": 112,
+    "Inspiring": 22,
+    "Confusing": 17,
+    "Longwinded": 15,
+    "Funny": 5,
+    "Beautiful": 8
+  },
+  "slug": "catherine_crump_the_small_and_surprisingly_dangerous_detail_the_police_track_about_you",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/362eb0e4bebcaeaaa4c4f05da5a5154919471656_2880x1620.jpg?quality=89&w=600",
+  "title": "The small and surprisingly dangerous detail the police track about you",
+  "url": "https://www.ted.com/talks/catherine_crump_the_small_and_surprisingly_dangerous_detail_the_police_track_about_you",
+  "video": {
+    "low": "http://download.ted.com/talks/CatherineCrump_2014G-light.mp4",
+    "medium": "http://download.ted.com/talks/CatherineCrump_2014G.mp4",
+    "high": "http://download.ted.com/talks/CatherineCrump_2014G-480p.mp4"
+  },
+  "viewCount": 1697489,
+  "year": "2014"
+}

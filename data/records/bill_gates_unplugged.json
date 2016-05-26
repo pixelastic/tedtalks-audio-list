@@ -1,0 +1,63 @@
+{
+  "audio": null,
+  "author": "Bill Gates",
+  "dateFilmed": 1233532800,
+  "datePublished": 1233800640,
+  "description": "Bill Gates hopes to solve some of the world's biggest problems using a new kind of philanthropy. In a passionate and, yes, funny 18 minutes, he asks us to consider two big questions and how we might answer them. (And see the Q&A on the TED Blog.)",
+  "duration": 1216,
+  "event": "TED2009",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/70061_800x600.jpg",
+  "keywords": [
+    "TED Brain Trust",
+    "TED Conference",
+    "business",
+    "education",
+    "health",
+    "illness",
+    "insects",
+    "philanthropy",
+    "science",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 451,
+  "otherLanguages": {
+    "sq": "Albanian",
+    "ar": "Arabic",
+    "hi": "Hindi",
+    "hu": "Hungarian",
+    "ms": "Malay",
+    "pt-br": "Portuguese, Brazilian",
+    "ro": "Romanian",
+    "sk": "Slovak",
+    "ta": "Tamil",
+    "vi": "Vietnamese"
+  },
+  "ratings": {
+    "Persuasive": 602,
+    "Inspiring": 857,
+    "Informative": 695,
+    "Longwinded": 69,
+    "OK": 199,
+    "Courageous": 177,
+    "Funny": 154,
+    "Fascinating": 235,
+    "Unconvincing": 90,
+    "Confusing": 31,
+    "Beautiful": 58,
+    "Jaw-dropping": 98,
+    "Obnoxious": 64,
+    "Ingenious": 86
+  },
+  "slug": "bill_gates_unplugged",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/70061_800x600.jpg?quality=89&w=600",
+  "title": "Mosquitos, malaria and education",
+  "url": "https://www.ted.com/talks/bill_gates_unplugged",
+  "video": {
+    "low": "http://download.ted.com/talks/BillGates_2009-light.mp4",
+    "medium": "http://download.ted.com/talks/BillGates_2009.mp4",
+    "high": "http://download.ted.com/talks/BillGates_2009-480p.mp4"
+  },
+  "viewCount": 2497503,
+  "year": "2009"
+}

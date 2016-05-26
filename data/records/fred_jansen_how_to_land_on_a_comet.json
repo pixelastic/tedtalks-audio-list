@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/FredJansen_2015.mp3",
+  "author": "Fred Jansen",
+  "dateFilmed": 1426550400,
+  "datePublished": 1428591810,
+  "description": "As manager of the Rosetta mission, Fred Jansen was responsible for the successful 2014 landing of a probe on the comet known as 67P/Churyumov-Gerasimenko. In this fascinating and funny talk, Jansen reveals some of the intricate calculations that went into landing the Philae probe on a comet 500 million kilometers from Earth -- and shares some incredible photographs taken along the way.",
+  "duration": 1067,
+  "event": "TED2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/67b74a45a7b1531aafc66f1f249f6533ae388e27_2880x1620.jpg",
+  "keywords": [
+    "rocket science",
+    "science",
+    "space",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 2230,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Courageous": 31,
+    "Beautiful": 73,
+    "Inspiring": 139,
+    "Fascinating": 238,
+    "Ingenious": 77,
+    "Informative": 129,
+    "Funny": 27,
+    "Jaw-dropping": 66,
+    "Confusing": 8,
+    "Longwinded": 2,
+    "OK": 20,
+    "Persuasive": 1,
+    "Unconvincing": 6,
+    "Obnoxious": 0
+  },
+  "slug": "fred_jansen_how_to_land_on_a_comet",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/67b74a45a7b1531aafc66f1f249f6533ae388e27_2880x1620.jpg?quality=89&w=600",
+  "title": "How to land on a comet",
+  "url": "https://www.ted.com/talks/fred_jansen_how_to_land_on_a_comet",
+  "video": {
+    "low": "http://download.ted.com/talks/FredJansen_2015-light.mp4",
+    "medium": "http://download.ted.com/talks/FredJansen_2015.mp4",
+    "high": "http://download.ted.com/talks/FredJansen_2015-480p.mp4"
+  },
+  "viewCount": 976006,
+  "year": "2015"
+}

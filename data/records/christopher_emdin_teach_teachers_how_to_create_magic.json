@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/ChrisEmdin_2013S.mp3",
+  "author": "Christopher Emdin",
+  "dateFilmed": 1381190400,
+  "datePublished": 1396970042,
+  "description": "What do rap shows, barbershop banter and Sunday services have in common? As Christopher Emdin says, they all hold the secret magic to enthrall and teach at the same time — and it's a skill we often don't teach to educators. A longtime teacher himself, now a science advocate and cofounder of Science Genius B.A.T.T.L.E.S. with the GZA of the Wu-Tang Clan, Emdin offers a vision to make the classroom come alive.",
+  "duration": 414,
+  "event": "TED@NYC",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/3c9bf3c932e33c18a07a2e33145b1d1b1e6f1b7f_1600x1200.jpg",
+  "keywords": [
+    "education",
+    "science",
+    "teaching"
+  ],
+  "mainLanguage": null,
+  "objectID": 1965,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified"
+  },
+  "ratings": {
+    "Informative": 323,
+    "OK": 187,
+    "Beautiful": 223,
+    "Inspiring": 872,
+    "Persuasive": 437,
+    "Fascinating": 188,
+    "Courageous": 93,
+    "Unconvincing": 107,
+    "Obnoxious": 32,
+    "Funny": 54,
+    "Confusing": 17,
+    "Ingenious": 89,
+    "Longwinded": 31,
+    "Jaw-dropping": 25
+  },
+  "slug": "christopher_emdin_teach_teachers_how_to_create_magic",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/3c9bf3c932e33c18a07a2e33145b1d1b1e6f1b7f_1600x1200.jpg?quality=89&w=600",
+  "title": "Teach teachers how to create magic",
+  "url": "https://www.ted.com/talks/christopher_emdin_teach_teachers_how_to_create_magic",
+  "video": {
+    "low": "http://download.ted.com/talks/ChrisEmdin_2013S-light.mp4",
+    "medium": "http://download.ted.com/talks/ChrisEmdin_2013S.mp4",
+    "high": "http://download.ted.com/talks/ChrisEmdin_2013S-480p.mp4"
+  },
+  "viewCount": 1689139,
+  "year": "2013"
+}

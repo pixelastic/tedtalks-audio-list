@@ -1,0 +1,60 @@
+{
+  "audio": "http://download.ted.com/talks/RobLegato_2012G.mp3",
+  "author": "Rob Legato",
+  "dateFilmed": 1340668800,
+  "datePublished": 1345215691,
+  "description": "Rob Legato creates movie effects so good they (sometimes) trump the real thing. In this warm and funny talk, he shares his vision for enhancing reality on-screen in movies like Apollo 13, Titanic and Hugo.",
+  "duration": 987,
+  "event": "TEDGlobal 2012",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/38cc7c1796085940748a1b7c69138d24b649a9b5_1600x1200.jpg",
+  "keywords": [
+    "arts",
+    "creativity",
+    "culture",
+    "entertainment",
+    "film",
+    "history"
+  ],
+  "mainLanguage": null,
+  "objectID": 1524,
+  "otherLanguages": {
+    "ar": "Arabic",
+    "zh-tw": "Chinese, Traditional",
+    "cs": "Czech",
+    "de": "German",
+    "ja": "Japanese",
+    "pl": "Polish",
+    "ro": "Romanian",
+    "es": "Spanish",
+    "th": "Thai",
+    "uk": "Ukrainian",
+    "vi": "Vietnamese"
+  },
+  "ratings": {
+    "Funny": 370,
+    "Fascinating": 426,
+    "Beautiful": 129,
+    "Jaw-dropping": 110,
+    "Ingenious": 248,
+    "Informative": 214,
+    "Confusing": 7,
+    "OK": 57,
+    "Longwinded": 11,
+    "Inspiring": 110,
+    "Obnoxious": 12,
+    "Persuasive": 19,
+    "Unconvincing": 12,
+    "Courageous": 12
+  },
+  "slug": "rob_legato_the_art_of_creating_awe",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/38cc7c1796085940748a1b7c69138d24b649a9b5_1600x1200.jpg?quality=89&w=600",
+  "title": "The art of creating awe",
+  "url": "https://www.ted.com/talks/rob_legato_the_art_of_creating_awe",
+  "video": {
+    "low": "http://download.ted.com/talks/RobLegato_2012G-light.mp4",
+    "medium": "http://download.ted.com/talks/RobLegato_2012G.mp4",
+    "high": "http://download.ted.com/talks/RobLegato_2012G-480p.mp4"
+  },
+  "viewCount": 1867523,
+  "year": "2012"
+}

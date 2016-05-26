@@ -1,0 +1,49 @@
+{
+  "audio": "http://download.ted.com/talks/JiHaePark_2013.mp3",
+  "author": "Ji-Hae Park",
+  "dateFilmed": 1361923200,
+  "datePublished": 1369407520,
+  "description": "In her quest to become a world-famous violinist, Ji-Hae Park fell into a severe depression. Only music was able to lift her out again -- showing her that her goal needn’t be to play lofty concert halls, but instead to bring the wonder of the instrument to as many people as possible.",
+  "duration": 761,
+  "event": "TED2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/253e38ce81edae2b10ea9a7fcb3796e8385e9008_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "creativity",
+    "entertainment",
+    "live music",
+    "music",
+    "performance"
+  ],
+  "mainLanguage": null,
+  "objectID": 1750,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Jaw-dropping": 245,
+    "Inspiring": 420,
+    "Beautiful": 686,
+    "Fascinating": 181,
+    "Ingenious": 25,
+    "Courageous": 132,
+    "Informative": 18,
+    "OK": 48,
+    "Obnoxious": 14,
+    "Persuasive": 21,
+    "Unconvincing": 15,
+    "Confusing": 3,
+    "Funny": 8,
+    "Longwinded": 1
+  },
+  "slug": "ji_hae_park_the_violin_and_my_dark_night_of_the_soul",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/253e38ce81edae2b10ea9a7fcb3796e8385e9008_1600x1200.jpg?quality=89&w=600",
+  "title": "The violin, and my dark night of the soul",
+  "url": "https://www.ted.com/talks/ji_hae_park_the_violin_and_my_dark_night_of_the_soul",
+  "video": {
+    "low": "http://download.ted.com/talks/JiHaePark_2013-light.mp4",
+    "medium": "http://download.ted.com/talks/JiHaePark_2013.mp4",
+    "high": "http://download.ted.com/talks/JiHaePark_2013-480p.mp4"
+  },
+  "viewCount": 2232390,
+  "year": "2013"
+}

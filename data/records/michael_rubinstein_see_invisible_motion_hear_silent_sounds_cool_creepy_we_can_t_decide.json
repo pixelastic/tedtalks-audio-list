@@ -1,0 +1,51 @@
+{
+  "audio": "http://download.ted.com/talks/MichaelRubinstein_2014X.mp3",
+  "author": "Michael Rubinstein",
+  "dateFilmed": 1415836800,
+  "datePublished": 1419352274,
+  "description": "Meet the “motion microscope,” a video-processing tool that plays up tiny changes in motion and color impossible to see with the naked eye. Video researcher Michael Rubinstein plays us clip after jaw-dropping clip showing how this tech can track an individual’s pulse and heartbeat simply from a piece of footage. Watch him re-create a conversation by amplifying the movements from sound waves bouncing off a bag of chips. The wow-inspiring and sinister applications of this tech you have to see to believe.",
+  "duration": 798,
+  "event": "TEDxBeaconStreet",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/74844ad902942f63d1ddb276aeb3d44c5bbcbd38_2880x1620.jpg",
+  "keywords": [
+    "TEDx",
+    "demo",
+    "film",
+    "online video",
+    "photography",
+    "sight",
+    "sound",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 2159,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Ingenious": 934,
+    "Informative": 345,
+    "Fascinating": 841,
+    "Jaw-dropping": 864,
+    "OK": 54,
+    "Inspiring": 574,
+    "Confusing": 8,
+    "Beautiful": 122,
+    "Courageous": 17,
+    "Longwinded": 12,
+    "Persuasive": 15,
+    "Funny": 192,
+    "Unconvincing": 3,
+    "Obnoxious": 4
+  },
+  "slug": "michael_rubinstein_see_invisible_motion_hear_silent_sounds_cool_creepy_we_can_t_decide",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/74844ad902942f63d1ddb276aeb3d44c5bbcbd38_2880x1620.jpg?quality=89&w=600",
+  "title": "See invisible motion, hear silent sounds",
+  "url": "https://www.ted.com/talks/michael_rubinstein_see_invisible_motion_hear_silent_sounds_cool_creepy_we_can_t_decide",
+  "video": {
+    "low": "http://download.ted.com/talks/MichaelRubinstein_2014X-light.mp4",
+    "medium": "http://download.ted.com/talks/MichaelRubinstein_2014X.mp4",
+    "high": "http://download.ted.com/talks/MichaelRubinstein_2014X-480p.mp4"
+  },
+  "viewCount": 1830783,
+  "year": "2014"
+}

@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/MargaretStewart_2014.mp3",
+  "author": "Margaret Gould Stewart",
+  "dateFilmed": 1395187200,
+  "datePublished": 1407251944,
+  "description": "Facebook’s “like” and “share” buttons are seen 22 billion times a day, making them some of the most-viewed design elements ever created. Margaret Gould Stewart, Facebook’s director of product design, outlines three rules for design at such a massive scale—one so big that the tiniest of tweaks can cause global outrage, but also so large that the subtlest of improvements can positively impact the lives of many.",
+  "duration": 776,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/dad8156a2735b62bea89c854051e080a8a24c463_2400x1800.jpg",
+  "keywords": [
+    "TED Conference",
+    "business",
+    "culture",
+    "design",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 2039,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 893,
+    "Persuasive": 150,
+    "Inspiring": 422,
+    "Fascinating": 248,
+    "Longwinded": 86,
+    "Unconvincing": 137,
+    "OK": 199,
+    "Confusing": 12,
+    "Beautiful": 89,
+    "Courageous": 18,
+    "Ingenious": 45,
+    "Obnoxious": 59,
+    "Funny": 36,
+    "Jaw-dropping": 5
+  },
+  "slug": "margaret_gould_stewart_how_giant_websites_design_for_you_and_a_billion_others_too",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/dad8156a2735b62bea89c854051e080a8a24c463_2400x1800.jpg?quality=89&w=600",
+  "title": "How giant websites design for you (and a billion others, too)",
+  "url": "https://www.ted.com/talks/margaret_gould_stewart_how_giant_websites_design_for_you_and_a_billion_others_too",
+  "video": {
+    "low": "http://download.ted.com/talks/MargaretStewart_2014-light.mp4",
+    "medium": "http://download.ted.com/talks/MargaretStewart_2014.mp4",
+    "high": "http://download.ted.com/talks/MargaretStewart_2014-480p.mp4"
+  },
+  "viewCount": 1484715,
+  "year": "2014"
+}

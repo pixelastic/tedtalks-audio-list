@@ -1,0 +1,50 @@
+{
+  "audio": "http://download.ted.com/talks/AmyWebb_2013S.mp3",
+  "author": "Amy Webb",
+  "dateFilmed": 1365638400,
+  "datePublished": 1380727278,
+  "description": "Amy Webb was having no luck with online dating. The dates she liked didn't write her back, and her own profile attracted crickets (and worse). So, as any fan of data would do: she started making a spreadsheet. Hear the story of how she went on to hack her online dating life -- with frustrating, funny and life-changing results.",
+  "duration": 1047,
+  "event": "TEDSalon NY2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/337743d27766638ba412c813c76cf8259556e1a5_1600x1200.jpg",
+  "keywords": [
+    "algorithm",
+    "culture",
+    "data",
+    "love",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 1833,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified",
+    "pl": "Polish"
+  },
+  "ratings": {
+    "Persuasive": 226,
+    "Courageous": 185,
+    "Inspiring": 675,
+    "Funny": 1512,
+    "Ingenious": 722,
+    "Fascinating": 524,
+    "OK": 97,
+    "Informative": 471,
+    "Beautiful": 132,
+    "Confusing": 14,
+    "Obnoxious": 90,
+    "Unconvincing": 76,
+    "Longwinded": 41,
+    "Jaw-dropping": 69
+  },
+  "slug": "amy_webb_how_i_hacked_online_dating",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/337743d27766638ba412c813c76cf8259556e1a5_1600x1200.jpg?quality=89&w=600",
+  "title": "How I hacked online dating",
+  "url": "https://www.ted.com/talks/amy_webb_how_i_hacked_online_dating",
+  "video": {
+    "low": "http://download.ted.com/talks/AmyWebb_2013S-light.mp4",
+    "medium": "http://download.ted.com/talks/AmyWebb_2013S.mp4",
+    "high": "http://download.ted.com/talks/AmyWebb_2013S-480p.mp4"
+  },
+  "viewCount": 4778977,
+  "year": "2013"
+}

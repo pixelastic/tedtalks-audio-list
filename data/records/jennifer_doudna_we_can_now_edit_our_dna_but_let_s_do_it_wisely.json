@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/JenniferDoudna_2015G.mp3",
+  "author": "Jennifer Doudna",
+  "dateFilmed": 1443484800,
+  "datePublished": 1445353411,
+  "description": "Geneticist Jennifer Doudna co-invented a groundbreaking new technology for editing genes, called CRISPR-Cas9. The tool allows scientists to make precise edits to DNA strands, which could lead to treatments for genetic diseases ... but could also be used to create so-called \"designer babies.\" Doudna reviews how CRISPR-Cas9 works -- and asks the scientific community to pause and discuss the ethics of this new tool.",
+  "duration": 953,
+  "event": "TEDGlobal>London",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/aa33beda36e8737f3ec0029a9df20dc8448f164d_2880x1620.jpg",
+  "keywords": [
+    "genetics",
+    "medical research",
+    "medicine",
+    "philosophy",
+    "science"
+  ],
+  "mainLanguage": null,
+  "objectID": 2354,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Persuasive": 112,
+    "Beautiful": 68,
+    "Courageous": 64,
+    "Informative": 394,
+    "Jaw-dropping": 132,
+    "Longwinded": 15,
+    "OK": 45,
+    "Inspiring": 115,
+    "Fascinating": 317,
+    "Ingenious": 101,
+    "Funny": 1,
+    "Confusing": 14,
+    "Unconvincing": 11,
+    "Obnoxious": 8
+  },
+  "slug": "jennifer_doudna_we_can_now_edit_our_dna_but_let_s_do_it_wisely",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/aa33beda36e8737f3ec0029a9df20dc8448f164d_2880x1620.jpg?quality=89&w=600",
+  "title": " How CRISPR lets us edit our DNA",
+  "url": "https://www.ted.com/talks/jennifer_doudna_we_can_now_edit_our_dna_but_let_s_do_it_wisely",
+  "video": {
+    "low": "http://download.ted.com/talks/JenniferDoudna_2015G-light.mp4",
+    "medium": "http://download.ted.com/talks/JenniferDoudna_2015G.mp4",
+    "high": "http://download.ted.com/talks/JenniferDoudna_2015G-480p.mp4"
+  },
+  "viewCount": 1324409,
+  "year": "2015"
+}

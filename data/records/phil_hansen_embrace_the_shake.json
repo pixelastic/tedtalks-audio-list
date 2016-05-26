@@ -1,0 +1,46 @@
+{
+  "audio": "http://download.ted.com/talks/PhilHansen_2013.mp3",
+  "author": "Phil Hansen",
+  "dateFilmed": 1361836800,
+  "datePublished": 1369148412,
+  "description": "In art school, Phil Hansen developed an unruly tremor in his hand that kept him from creating the pointillist drawings he loved. Hansen was devastated, floating without a sense of purpose. Until a neurologist made a simple suggestion: embrace this limitation ... and transcend it.",
+  "duration": 601,
+  "event": "TED2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/910102e6486442bc30fbc5952c254a9f9882942f_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "arts",
+    "disability"
+  ],
+  "mainLanguage": null,
+  "objectID": 1747,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Inspiring": 1168,
+    "Persuasive": 97,
+    "Courageous": 248,
+    "Ingenious": 254,
+    "Fascinating": 361,
+    "Beautiful": 292,
+    "Jaw-dropping": 176,
+    "Funny": 45,
+    "OK": 29,
+    "Informative": 40,
+    "Longwinded": 3,
+    "Unconvincing": 4,
+    "Obnoxious": 1,
+    "Confusing": 0
+  },
+  "slug": "phil_hansen_embrace_the_shake",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/910102e6486442bc30fbc5952c254a9f9882942f_1600x1200.jpg?quality=89&w=600",
+  "title": "Embrace the shake",
+  "url": "https://www.ted.com/talks/phil_hansen_embrace_the_shake",
+  "video": {
+    "low": "http://download.ted.com/talks/PhilHansen_2013-light.mp4",
+    "medium": "http://download.ted.com/talks/PhilHansen_2013.mp4",
+    "high": "http://download.ted.com/talks/PhilHansen_2013-480p.mp4"
+  },
+  "viewCount": 1964859,
+  "year": "2013"
+}

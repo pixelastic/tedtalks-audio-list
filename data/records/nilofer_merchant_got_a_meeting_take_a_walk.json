@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/NiloferMerchant_2013.mp3",
+  "author": "Nilofer Merchant",
+  "dateFilmed": 1361836800,
+  "datePublished": 1367247649,
+  "description": "Nilofer Merchant suggests a small idea that just might have a big impact on your life and health: Next time you have a one-on-one meeting, make it into a \"walking meeting\" -- and let ideas flow while you walk and talk.",
+  "duration": 208,
+  "event": "TED2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/79568797ad0adcdfad9b9954374c5d0fd2078db0_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "business",
+    "communication",
+    "health"
+  ],
+  "mainLanguage": null,
+  "objectID": 1726,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 286,
+    "Inspiring": 415,
+    "Ingenious": 130,
+    "Persuasive": 249,
+    "Unconvincing": 43,
+    "OK": 170,
+    "Beautiful": 43,
+    "Funny": 56,
+    "Fascinating": 62,
+    "Confusing": 7,
+    "Longwinded": 10,
+    "Courageous": 18,
+    "Obnoxious": 15,
+    "Jaw-dropping": 17
+  },
+  "slug": "nilofer_merchant_got_a_meeting_take_a_walk",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/79568797ad0adcdfad9b9954374c5d0fd2078db0_1600x1200.jpg?quality=89&w=600",
+  "title": "Got a meeting? Take a walk",
+  "url": "https://www.ted.com/talks/nilofer_merchant_got_a_meeting_take_a_walk",
+  "video": {
+    "low": "http://download.ted.com/talks/NiloferMerchant_2013-light.mp4",
+    "medium": "http://download.ted.com/talks/NiloferMerchant_2013.mp4",
+    "high": "http://download.ted.com/talks/NiloferMerchant_2013-480p.mp4"
+  },
+  "viewCount": 2262121,
+  "year": "2013"
+}

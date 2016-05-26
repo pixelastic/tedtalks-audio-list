@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/ElizabethGilbert_2014.mp3",
+  "author": "Elizabeth Gilbert",
+  "dateFilmed": 1395187200,
+  "datePublished": 1398437571,
+  "description": "Elizabeth Gilbert was once an \"unpublished diner waitress,\" devastated by rejection letters. And yet, in the wake of the success of 'Eat, Pray, Love,' she found herself identifying strongly with her former self. With beautiful insight, Gilbert reflects on why success can be as disorienting as failure and offers a simple -- though hard -- way to carry on, regardless of outcomes.",
+  "duration": 438,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/aa39c73bae9d19372ed2059e7c8b0b7eb9099865_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "creativity",
+    "failure",
+    "success",
+    "writing"
+  ],
+  "mainLanguage": null,
+  "objectID": 1983,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Inspiring": 2452,
+    "Beautiful": 719,
+    "Courageous": 484,
+    "Fascinating": 250,
+    "Funny": 136,
+    "Informative": 209,
+    "Persuasive": 321,
+    "Ingenious": 47,
+    "OK": 181,
+    "Unconvincing": 56,
+    "Longwinded": 40,
+    "Confusing": 7,
+    "Jaw-dropping": 22,
+    "Obnoxious": 17
+  },
+  "slug": "elizabeth_gilbert_success_failure_and_the_drive_to_keep_creating",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/aa39c73bae9d19372ed2059e7c8b0b7eb9099865_1600x1200.jpg?quality=89&w=600",
+  "title": "Success, failure and the drive to keep creating",
+  "url": "https://www.ted.com/talks/elizabeth_gilbert_success_failure_and_the_drive_to_keep_creating",
+  "video": {
+    "low": "http://download.ted.com/talks/ElizabethGilbert_2014-light.mp4",
+    "medium": "http://download.ted.com/talks/ElizabethGilbert_2014.mp4",
+    "high": "http://download.ted.com/talks/ElizabethGilbert_2014-480p.mp4"
+  },
+  "viewCount": 2834541,
+  "year": "2014"
+}

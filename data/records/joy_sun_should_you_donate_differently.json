@@ -1,0 +1,46 @@
+{
+  "audio": "http://download.ted.com/talks/JoySun_2014S.mp3",
+  "author": "Joy Sun",
+  "dateFilmed": 1404777600,
+  "datePublished": 1413991481,
+  "description": "Technology allows us to give cash directly to the poorest people on the planet. Should we do it? In this thought-provoking talk, veteran aid worker Joy Sun explores two ways to help the poor.",
+  "duration": 455,
+  "event": "TED@NYC",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ce2d442216b0cd4d8eb2794f3620624316232c42_2880x1620.jpg",
+  "keywords": [
+    "TED Fellows",
+    "global issues",
+    "money"
+  ],
+  "mainLanguage": null,
+  "objectID": 2114,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 283,
+    "Inspiring": 228,
+    "Persuasive": 163,
+    "Fascinating": 72,
+    "Unconvincing": 35,
+    "OK": 79,
+    "Beautiful": 42,
+    "Ingenious": 65,
+    "Courageous": 33,
+    "Jaw-dropping": 4,
+    "Funny": 16,
+    "Confusing": 5,
+    "Obnoxious": 7,
+    "Longwinded": 7
+  },
+  "slug": "joy_sun_should_you_donate_differently",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ce2d442216b0cd4d8eb2794f3620624316232c42_2880x1620.jpg?quality=89&w=600",
+  "title": "Should you donate differently?",
+  "url": "https://www.ted.com/talks/joy_sun_should_you_donate_differently",
+  "video": {
+    "low": "http://download.ted.com/talks/JoySun_2014S-light.mp4",
+    "medium": "http://download.ted.com/talks/JoySun_2014S.mp4",
+    "high": "http://download.ted.com/talks/JoySun_2014S-480p.mp4"
+  },
+  "viewCount": 1147806,
+  "year": "2014"
+}

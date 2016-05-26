@@ -1,0 +1,46 @@
+{
+  "audio": "http://download.ted.com/talks/NaomiOreskes_2014S.mp3",
+  "author": "Naomi Oreskes",
+  "dateFilmed": 1400716800,
+  "datePublished": 1403709973,
+  "description": "Many of the world's biggest problems require asking questions of scientists -- but why should we believe what they say? Historian of science Naomi Oreskes thinks deeply about our relationship to belief and draws out three problems with common attitudes toward scientific inquiry -- and gives her own reasoning for why we ought to trust science.",
+  "duration": 1154,
+  "event": "TEDSalon NY2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a03b16b44edd4c66025791eccad2319363bf1860_2400x1800.jpg",
+  "keywords": [
+    "climate change",
+    "history",
+    "science"
+  ],
+  "mainLanguage": null,
+  "objectID": 2032,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Courageous": 36,
+    "Informative": 323,
+    "OK": 89,
+    "Persuasive": 203,
+    "Beautiful": 30,
+    "Inspiring": 91,
+    "Longwinded": 31,
+    "Unconvincing": 56,
+    "Obnoxious": 17,
+    "Fascinating": 76,
+    "Ingenious": 33,
+    "Confusing": 9,
+    "Funny": 39,
+    "Jaw-dropping": 1
+  },
+  "slug": "naomi_oreskes_why_we_should_believe_in_science",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a03b16b44edd4c66025791eccad2319363bf1860_2400x1800.jpg?quality=89&w=600",
+  "title": "Why we should trust scientists",
+  "url": "https://www.ted.com/talks/naomi_oreskes_why_we_should_believe_in_science",
+  "video": {
+    "low": "http://download.ted.com/talks/NaomiOreskes_2014S-light.mp4",
+    "medium": "http://download.ted.com/talks/NaomiOreskes_2014S.mp4",
+    "high": "http://download.ted.com/talks/NaomiOreskes_2014S-480p.mp4"
+  },
+  "viewCount": 939801,
+  "year": "2014"
+}

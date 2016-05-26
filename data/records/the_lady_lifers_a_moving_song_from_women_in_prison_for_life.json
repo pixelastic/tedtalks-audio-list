@@ -1,0 +1,45 @@
+{
+  "audio": "http://download.ted.com/talks/TheLadyLifers_2014X.mp3",
+  "author": "The Lady Lifers",
+  "dateFilmed": 1416528000,
+  "datePublished": 1431702699,
+  "description": "The ten women in this chorus have all been sentenced to life in prison. They share a moving song about their experiences — one that reveals their hopes, regrets and fears. \"I'm not an angel,\" sings one, \"but I'm not the devil.\" Filmed at an independent TEDx event inside Muncy State Prison, it's a rare and poignant look inside the world of people imprisoned with no hope of parole. (Note: The prison's Office of Victim Advocacy has ensured that victims were treated fairly and respectfully around this TEDx event.)",
+  "duration": 576,
+  "event": "TEDxMuncyStatePrison",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/be6d999cb9498032213a31672dc1aef785b99ed0_2880x1620.jpg",
+  "keywords": [
+    "music",
+    "prison"
+  ],
+  "mainLanguage": null,
+  "objectID": 2250,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 353,
+    "Courageous": 273,
+    "Unconvincing": 34,
+    "Fascinating": 58,
+    "Inspiring": 211,
+    "Persuasive": 45,
+    "Jaw-dropping": 55,
+    "Informative": 78,
+    "Ingenious": 9,
+    "Confusing": 13,
+    "Obnoxious": 13,
+    "Longwinded": 9,
+    "OK": 41,
+    "Funny": 1
+  },
+  "slug": "the_lady_lifers_a_moving_song_from_women_in_prison_for_life",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/be6d999cb9498032213a31672dc1aef785b99ed0_2880x1620.jpg?quality=89&w=600",
+  "title": "A moving song from women in prison for life",
+  "url": "https://www.ted.com/talks/the_lady_lifers_a_moving_song_from_women_in_prison_for_life",
+  "video": {
+    "low": "http://download.ted.com/talks/TheLadyLifers_2014X-light.mp4",
+    "medium": "http://download.ted.com/talks/TheLadyLifers_2014X.mp4",
+    "high": "http://download.ted.com/talks/TheLadyLifers_2014X-480p.mp4"
+  },
+  "viewCount": 1229627,
+  "year": "2014"
+}

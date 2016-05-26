@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/TaniaLuna_2012S.mp3",
+  "author": "Tania Luna",
+  "dateFilmed": 1342051200,
+  "datePublished": 1374850840,
+  "description": "As a young child, Tania Luna left her home in post-Chernobyl Ukraine to take asylum in the US. And one day, on the floor of the New York homeless shelter where she and her family lived, she found a penny. She has never again felt so rich. A meditation on the bittersweet joys of childhood -- and how to hold them in mind.",
+  "duration": 331,
+  "event": "TED@New York",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/bab243f57151c42cc4225b10b49e22a3d933ed63_1600x1200.jpg",
+  "keywords": [
+    "culture",
+    "money"
+  ],
+  "mainLanguage": null,
+  "objectID": 1797,
+  "otherLanguages": {
+    "my": "Burmese",
+    "kk": "Kazakh",
+    "ro": "Romanian"
+  },
+  "ratings": {
+    "Unconvincing": 29,
+    "Beautiful": 502,
+    "Inspiring": 535,
+    "Courageous": 213,
+    "Obnoxious": 12,
+    "Confusing": 8,
+    "Longwinded": 7,
+    "OK": 61,
+    "Jaw-dropping": 25,
+    "Ingenious": 7,
+    "Fascinating": 89,
+    "Funny": 31,
+    "Informative": 13,
+    "Persuasive": 26
+  },
+  "slug": "tania_luna_how_a_penny_made_me_feel_like_a_millionaire",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/bab243f57151c42cc4225b10b49e22a3d933ed63_1600x1200.jpg?quality=89&w=600",
+  "title": "How a penny made me feel like a millionaire",
+  "url": "https://www.ted.com/talks/tania_luna_how_a_penny_made_me_feel_like_a_millionaire",
+  "video": {
+    "low": "http://download.ted.com/talks/TaniaLuna_2012S-light.mp4",
+    "medium": "http://download.ted.com/talks/TaniaLuna_2012S.mp4",
+    "high": "http://download.ted.com/talks/TaniaLuna_2012S-480p.mp4"
+  },
+  "viewCount": 1572816,
+  "year": "2012"
+}

@@ -1,0 +1,45 @@
+{
+  "audio": "http://download.ted.com/talks/DonaldHoffman_2015.mp3",
+  "author": "Donald Hoffman",
+  "dateFilmed": 1426636800,
+  "datePublished": 1434037065,
+  "description": "Cognitive scientist Donald Hoffman is trying to answer a big question: Do we experience the world as it really is ... or as we need it to be? In this ever so slightly mind-blowing talk, he ponders how our minds construct reality for us.",
+  "duration": 1310,
+  "event": "TED2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/56d231a9d4237915c1f0bdcf7874ff7a535e86a6_2880x1620.jpg",
+  "keywords": [
+    "cognitive science",
+    "science"
+  ],
+  "mainLanguage": null,
+  "objectID": 2277,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Funny": 83,
+    "Inspiring": 250,
+    "Fascinating": 779,
+    "Informative": 402,
+    "Persuasive": 152,
+    "OK": 66,
+    "Beautiful": 61,
+    "Unconvincing": 77,
+    "Confusing": 92,
+    "Courageous": 43,
+    "Longwinded": 60,
+    "Ingenious": 126,
+    "Jaw-dropping": 145,
+    "Obnoxious": 16
+  },
+  "slug": "donald_hoffman_do_we_see_reality_as_it_is",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/56d231a9d4237915c1f0bdcf7874ff7a535e86a6_2880x1620.jpg?quality=89&w=600",
+  "title": "Do we see reality as it is? ",
+  "url": "https://www.ted.com/talks/donald_hoffman_do_we_see_reality_as_it_is",
+  "video": {
+    "low": "http://download.ted.com/talks/DonaldHoffman_2015-light.mp4",
+    "medium": "http://download.ted.com/talks/DonaldHoffman_2015.mp4",
+    "high": "http://download.ted.com/talks/DonaldHoffman_2015-480p.mp4"
+  },
+  "viewCount": 1951391,
+  "year": "2015"
+}

@@ -1,0 +1,46 @@
+{
+  "audio": "http://download.ted.com/talks/ThomasPiketty_2014S.mp3",
+  "author": "Thomas Piketty",
+  "dateFilmed": 1403481600,
+  "datePublished": 1412605599,
+  "description": "French economist Thomas Piketty caused a sensation in early 2014 with his book on a simple, brutal formula explaining economic inequality: r > g (meaning that return on capital is generally higher than economic growth). Here, he talks through the massive data set that led him to conclude: Economic inequality is not new, but it is getting worse, with radical possible impacts.",
+  "duration": 1260,
+  "event": "TEDSalon Berlin 2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/74081a227343162987b7a5c2abe97194387dd0f0_2880x1620.jpg",
+  "keywords": [
+    "economics",
+    "global issues",
+    "inequality"
+  ],
+  "mainLanguage": null,
+  "objectID": 2101,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 325,
+    "Fascinating": 156,
+    "Persuasive": 97,
+    "OK": 53,
+    "Obnoxious": 20,
+    "Confusing": 60,
+    "Courageous": 19,
+    "Jaw-dropping": 16,
+    "Longwinded": 34,
+    "Ingenious": 21,
+    "Inspiring": 52,
+    "Beautiful": 13,
+    "Unconvincing": 21,
+    "Funny": 7
+  },
+  "slug": "thomas_piketty_new_thoughts_on_capital_in_the_twenty_first_century",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/74081a227343162987b7a5c2abe97194387dd0f0_2880x1620.jpg?quality=89&w=600",
+  "title": "New thoughts on capital in the twenty-first century",
+  "url": "https://www.ted.com/talks/thomas_piketty_new_thoughts_on_capital_in_the_twenty_first_century",
+  "video": {
+    "low": "http://download.ted.com/talks/ThomasPiketty_2014S-light.mp4",
+    "medium": "http://download.ted.com/talks/ThomasPiketty_2014S.mp4",
+    "high": "http://download.ted.com/talks/ThomasPiketty_2014S-480p.mp4"
+  },
+  "viewCount": 1198305,
+  "year": "2014"
+}

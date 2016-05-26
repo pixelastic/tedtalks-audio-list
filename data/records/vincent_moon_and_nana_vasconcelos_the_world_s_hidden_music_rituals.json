@@ -1,0 +1,49 @@
+{
+  "audio": "http://download.ted.com/talks/VincentMoon_2014G.mp3",
+  "author": "Vincent Moon and Naná Vasconcelos",
+  "dateFilmed": 1412812800,
+  "datePublished": 1415981736,
+  "description": "Vincent Moon travels the world with a backpack and a camera, filming astonishing music and ritual the world rarely sees -- from a powerful Sufi ritual in Chechnya to an ayahuasca journey in Peru. He hopes his films can help people see their own cultures in a new way, to make young people say: \"Whoa, my grandfather is as cool as Beyoncé.\" Followed by a mesmerizing performance by jazz icon Naná Vasconcelos.",
+  "duration": 1453,
+  "event": "TEDGlobal 2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/1f568b65930cf85e07e14e731fb305f954651edc_2880x1620.jpg",
+  "keywords": [
+    "creativity",
+    "film",
+    "jazz",
+    "live music",
+    "music",
+    "travel"
+  ],
+  "mainLanguage": null,
+  "objectID": 2131,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Funny": 14,
+    "Beautiful": 100,
+    "Inspiring": 103,
+    "Jaw-dropping": 20,
+    "Longwinded": 23,
+    "OK": 41,
+    "Obnoxious": 15,
+    "Courageous": 17,
+    "Ingenious": 17,
+    "Confusing": 18,
+    "Informative": 35,
+    "Fascinating": 71,
+    "Unconvincing": 23,
+    "Persuasive": 6
+  },
+  "slug": "vincent_moon_and_nana_vasconcelos_the_world_s_hidden_music_rituals",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/1f568b65930cf85e07e14e731fb305f954651edc_2880x1620.jpg?quality=89&w=600",
+  "title": "Hidden music rituals around the world",
+  "url": "https://www.ted.com/talks/vincent_moon_and_nana_vasconcelos_the_world_s_hidden_music_rituals",
+  "video": {
+    "low": "http://download.ted.com/talks/VincentMoon_2014G-light.mp4",
+    "medium": "http://download.ted.com/talks/VincentMoon_2014G.mp4",
+    "high": "http://download.ted.com/talks/VincentMoon_2014G-480p.mp4"
+  },
+  "viewCount": 903119,
+  "year": "2014"
+}

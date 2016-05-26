@@ -1,0 +1,52 @@
+{
+  "audio": "http://download.ted.com/talks/JohnHardy_2010G.mp3",
+  "author": "John Hardy",
+  "dateFilmed": 1279152000,
+  "datePublished": 1290092040,
+  "description": "Join John Hardy on a tour of the Green School, his off-the-grid school in Bali that teaches kids how to build, garden, create (and get into college). The centerpiece of campus is the spiraling Heart of School, perhaps the world's largest freestanding bamboo building.",
+  "duration": 815,
+  "event": "TEDGlobal 2010",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/f920f84ddf26b82f7a4376b047109288fd26e4f8_800x600.jpg",
+  "keywords": [
+    "culture",
+    "design",
+    "education",
+    "green"
+  ],
+  "mainLanguage": null,
+  "objectID": 1010,
+  "otherLanguages": {
+    "ar": "Arabic",
+    "de": "German",
+    "ja": "Japanese",
+    "lt": "Lithuanian",
+    "sk": "Slovak"
+  },
+  "ratings": {
+    "Inspiring": 682,
+    "Beautiful": 377,
+    "Fascinating": 243,
+    "Jaw-dropping": 95,
+    "Ingenious": 205,
+    "OK": 44,
+    "Unconvincing": 48,
+    "Courageous": 150,
+    "Persuasive": 89,
+    "Obnoxious": 26,
+    "Informative": 99,
+    "Longwinded": 10,
+    "Funny": 8,
+    "Confusing": 7
+  },
+  "slug": "john_hardy_my_green_school_dream",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/f920f84ddf26b82f7a4376b047109288fd26e4f8_800x600.jpg?quality=89&w=600",
+  "title": "My green school dream",
+  "url": "https://www.ted.com/talks/john_hardy_my_green_school_dream",
+  "video": {
+    "low": "http://download.ted.com/talks/JohnHardy_2010G-light.mp4",
+    "medium": "http://download.ted.com/talks/JohnHardy_2010G.mp4",
+    "high": "http://download.ted.com/talks/JohnHardy_2010G-480p.mp4"
+  },
+  "viewCount": 839106,
+  "year": "2010"
+}

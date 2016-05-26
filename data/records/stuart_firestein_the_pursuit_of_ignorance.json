@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/StuartFirestein_2013.mp3",
+  "author": "Stuart Firestein",
+  "dateFilmed": 1362009600,
+  "datePublished": 1380035036,
+  "description": "What does real scientific work look like? As neuroscientist Stuart Firestein jokes: It looks a lot less like the scientific method and a lot more like \"farting around … in the dark.\" In this witty talk, Firestein gets to the heart of science as it is really practiced and suggests that we should value what we don’t know -- or “high-quality ignorance” -- just as much as what we know. ",
+  "duration": 1113,
+  "event": "TED2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e3756431a9232f598715372bb9cdd63fcb008ecb_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "education",
+    "humor",
+    "neuroscience",
+    "science"
+  ],
+  "mainLanguage": null,
+  "objectID": 1827,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Persuasive": 319,
+    "Informative": 275,
+    "Funny": 158,
+    "Ingenious": 138,
+    "Inspiring": 454,
+    "Courageous": 46,
+    "Jaw-dropping": 18,
+    "Fascinating": 237,
+    "Longwinded": 23,
+    "Confusing": 11,
+    "Beautiful": 42,
+    "OK": 43,
+    "Unconvincing": 10,
+    "Obnoxious": 6
+  },
+  "slug": "stuart_firestein_the_pursuit_of_ignorance",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e3756431a9232f598715372bb9cdd63fcb008ecb_1600x1200.jpg?quality=89&w=600",
+  "title": "The pursuit of ignorance",
+  "url": "https://www.ted.com/talks/stuart_firestein_the_pursuit_of_ignorance",
+  "video": {
+    "low": "http://download.ted.com/talks/StuartFirestein_2013-light.mp4",
+    "medium": "http://download.ted.com/talks/StuartFirestein_2013.mp4",
+    "high": "http://download.ted.com/talks/StuartFirestein_2013-480p.mp4"
+  },
+  "viewCount": 1676734,
+  "year": "2013"
+}

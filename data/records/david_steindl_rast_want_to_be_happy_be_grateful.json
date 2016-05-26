@@ -1,0 +1,46 @@
+{
+  "audio": "http://download.ted.com/talks/DavidSteindlRast_2013G.mp3",
+  "author": "David Steindl-Rast",
+  "dateFilmed": 1372118400,
+  "datePublished": 1385567944,
+  "description": "The one thing all humans have in common is that each of us wants to be happy, says Brother David Steindl-Rast, a monk and interfaith scholar. And happiness, he suggests, is born from gratitude. An inspiring lesson in slowing down, looking where you’re going, and above all, being grateful.",
+  "duration": 870,
+  "event": "TEDGlobal 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/02722e8404d9e8dd2ec003b249db0ce3d05bda19_1600x1200.jpg",
+  "keywords": [
+    "culture",
+    "faith",
+    "happiness"
+  ],
+  "mainLanguage": null,
+  "objectID": 1880,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 1497,
+    "Inspiring": 2650,
+    "Persuasive": 581,
+    "Fascinating": 347,
+    "OK": 144,
+    "Longwinded": 106,
+    "Courageous": 186,
+    "Informative": 172,
+    "Ingenious": 87,
+    "Unconvincing": 61,
+    "Obnoxious": 21,
+    "Jaw-dropping": 53,
+    "Confusing": 16,
+    "Funny": 18
+  },
+  "slug": "david_steindl_rast_want_to_be_happy_be_grateful",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/02722e8404d9e8dd2ec003b249db0ce3d05bda19_1600x1200.jpg?quality=89&w=600",
+  "title": "Want to be happy? Be grateful",
+  "url": "https://www.ted.com/talks/david_steindl_rast_want_to_be_happy_be_grateful",
+  "video": {
+    "low": "http://download.ted.com/talks/DavidSteindlRast_2013G-light.mp4",
+    "medium": "http://download.ted.com/talks/DavidSteindlRast_2013G.mp4",
+    "high": "http://download.ted.com/talks/DavidSteindlRast_2013G-480p.mp4"
+  },
+  "viewCount": 5206146,
+  "year": "2013"
+}

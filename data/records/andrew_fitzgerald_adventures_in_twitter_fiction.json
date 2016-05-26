@@ -1,0 +1,49 @@
+{
+  "audio": "http://download.ted.com/talks/AndrewFitzgerald_2013S.mp3",
+  "author": "Andrew Fitzgerald",
+  "dateFilmed": 1373846400,
+  "datePublished": 1381503543,
+  "description": "In the 1930s, broadcast radio introduced an entirely new form of storytelling; today, micro-blogging platforms like Twitter are changing the scene again. Andrew Fitzgerald takes a look at the (aptly) short but fascinating history of new forms of creative experimentation in fiction and storytelling.",
+  "duration": 715,
+  "event": "TEDSalon NY2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/4c381516b075b83691b595f5ad7510e3deb9f319_1600x1200.jpg",
+  "keywords": [
+    "culture",
+    "literature",
+    "social media",
+    "storytelling",
+    "technology",
+    "writing"
+  ],
+  "mainLanguage": null,
+  "objectID": 1841,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 100,
+    "Fascinating": 72,
+    "Inspiring": 52,
+    "Persuasive": 21,
+    "OK": 51,
+    "Unconvincing": 37,
+    "Ingenious": 47,
+    "Longwinded": 19,
+    "Confusing": 6,
+    "Funny": 16,
+    "Beautiful": 7,
+    "Obnoxious": 12,
+    "Jaw-dropping": 7,
+    "Courageous": 4
+  },
+  "slug": "andrew_fitzgerald_adventures_in_twitter_fiction",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/4c381516b075b83691b595f5ad7510e3deb9f319_1600x1200.jpg?quality=89&w=600",
+  "title": "Adventures in Twitter fiction",
+  "url": "https://www.ted.com/talks/andrew_fitzgerald_adventures_in_twitter_fiction",
+  "video": {
+    "low": "http://download.ted.com/talks/AndrewFitzgerald_2013S-light.mp4",
+    "medium": "http://download.ted.com/talks/AndrewFitzgerald_2013S.mp4",
+    "high": "http://download.ted.com/talks/AndrewFitzgerald_2013S-480p.mp4"
+  },
+  "viewCount": 965983,
+  "year": "2013"
+}

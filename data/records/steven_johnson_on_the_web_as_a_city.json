@@ -1,0 +1,56 @@
+{
+  "audio": null,
+  "author": "Steven Johnson",
+  "dateFilmed": 1044144000,
+  "datePublished": 1223427600,
+  "description": "Outside.in's Steven Johnson says the Web is like a city: built by many people, completely controlled by no one, intricately interconnected and yet functioning as many independent parts. While disaster strikes in one place, elsewhere, life goes on. ",
+  "duration": 990,
+  "event": "TED2003",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/371_480x360.jpg",
+  "keywords": [
+    "TED Conference",
+    "cities",
+    "communication",
+    "community",
+    "design",
+    "global issues",
+    "politics",
+    "web"
+  ],
+  "mainLanguage": null,
+  "objectID": 362,
+  "otherLanguages": {
+    "bg": "Bulgarian",
+    "de": "German",
+    "it": "Italian",
+    "es": "Spanish",
+    "uk": "Ukrainian"
+  },
+  "ratings": {
+    "Longwinded": 40,
+    "Informative": 107,
+    "Fascinating": 46,
+    "Funny": 37,
+    "Inspiring": 24,
+    "OK": 49,
+    "Confusing": 12,
+    "Unconvincing": 31,
+    "Ingenious": 21,
+    "Obnoxious": 8,
+    "Persuasive": 20,
+    "Jaw-dropping": 4,
+    "Courageous": 1,
+    "Beautiful": 0
+  },
+  "slug": "steven_johnson_on_the_web_as_a_city",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/371_480x360.jpg?quality=89&w=600",
+  "title": "The Web as a city",
+  "url": "https://www.ted.com/talks/steven_johnson_on_the_web_as_a_city",
+  "video": {
+    "low": "http://download.ted.com/talks/StevenJohnson_2003-light.mp4",
+    "medium": "http://download.ted.com/talks/StevenJohnson_2003.mp4",
+    "high": "http://download.ted.com/talks/StevenJohnson_2003-480p.mp4"
+  },
+  "viewCount": 277106,
+  "year": "2003"
+}

@@ -1,0 +1,51 @@
+{
+  "audio": "http://download.ted.com/talks/JoiIto_2014.mp3",
+  "author": "Joi Ito",
+  "dateFilmed": 1394755200,
+  "datePublished": 1404746845,
+  "description": "“Remember before the internet?” asks Joi Ito. “Remember when people used to try to predict the future?” In this engaging talk, the head of the MIT Media Lab skips the future predictions and instead shares a new approach to creating in the moment: building quickly and improving constantly, without waiting for permission or for proof that you have the right idea. This kind of bottom-up innovation is seen in the most fascinating, futuristic projects emerging today, and it starts, he says, with being open and alert to what’s going on around you right now. Don’t be a futurist, he suggests: be a now-ist. ",
+  "duration": 751,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/cca9263cb9a8855bc662b4ffd463fd89e3a9e081_2400x1800.jpg",
+  "keywords": [
+    "TED Conference",
+    "creativity",
+    "innovation",
+    "investment",
+    "science",
+    "technology",
+    "telecom"
+  ],
+  "mainLanguage": null,
+  "objectID": 2041,
+  "otherLanguages": {
+    "zh-tw": "Chinese, Traditional"
+  },
+  "ratings": {
+    "Inspiring": 1158,
+    "Informative": 509,
+    "Longwinded": 21,
+    "Fascinating": 334,
+    "Persuasive": 263,
+    "Ingenious": 178,
+    "Beautiful": 72,
+    "Jaw-dropping": 13,
+    "OK": 121,
+    "Confusing": 26,
+    "Unconvincing": 21,
+    "Courageous": 69,
+    "Funny": 22,
+    "Obnoxious": 10
+  },
+  "slug": "joi_ito_want_to_innovate_become_a_now_ist",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/cca9263cb9a8855bc662b4ffd463fd89e3a9e081_2400x1800.jpg?quality=89&w=600",
+  "title": "Want to innovate? Become a \"now-ist\"",
+  "url": "https://www.ted.com/talks/joi_ito_want_to_innovate_become_a_now_ist",
+  "video": {
+    "low": "http://download.ted.com/talks/JoiIto_2014-light.mp4",
+    "medium": "http://download.ted.com/talks/JoiIto_2014.mp4",
+    "high": "http://download.ted.com/talks/JoiIto_2014-480p.mp4"
+  },
+  "viewCount": 1853234,
+  "year": "2014"
+}

@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/EdithWidder_2013.mp3",
+  "author": "Edith Widder",
+  "dateFilmed": 1361836800,
+  "datePublished": 1362499002,
+  "description": "Humankind has been looking for the giant squid (Architeuthis) since we first started taking pictures underwater. But the elusive deep-sea predator could never be caught on film. Oceanographer and inventor Edith Widder shares the key insight -- and the teamwork -- that helped to capture the squid on film for the first time.",
+  "duration": 518,
+  "event": "TED2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2d4398c107f807b406d168c13d607a07492662cd_2880x1620.jpg",
+  "keywords": [
+    "TED Conference",
+    "oceans",
+    "submarine",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 1684,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Ingenious": 177,
+    "Fascinating": 766,
+    "Jaw-dropping": 507,
+    "Beautiful": 222,
+    "Informative": 313,
+    "Funny": 34,
+    "Inspiring": 213,
+    "OK": 62,
+    "Persuasive": 55,
+    "Courageous": 35,
+    "Obnoxious": 23,
+    "Unconvincing": 15,
+    "Longwinded": 10,
+    "Confusing": 5
+  },
+  "slug": "edith_widder_how_we_found_the_giant_squid",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2d4398c107f807b406d168c13d607a07492662cd_2880x1620.jpg?quality=89&w=600",
+  "title": "How we found the giant squid",
+  "url": "https://www.ted.com/talks/edith_widder_how_we_found_the_giant_squid",
+  "video": {
+    "low": "http://download.ted.com/talks/EdithWidder_2013-light.mp4",
+    "medium": "http://download.ted.com/talks/EdithWidder_2013.mp4",
+    "high": "http://download.ted.com/talks/EdithWidder_2013-480p.mp4"
+  },
+  "viewCount": 3337096,
+  "year": "2013"
+}

@@ -1,0 +1,46 @@
+{
+  "audio": "http://download.ted.com/talks/JaneMcGonigal_2013G.mp3",
+  "author": "Jane McGonigal",
+  "dateFilmed": 1370908800,
+  "datePublished": 1384531417,
+  "description": "What happens when you get an entire audience to stand up and connect with one another? Chaos, that's what. At least, that's what happened when Jane McGonigal tried to teach TED to play her favorite game. Then again, when the game is \"massively multiplayer thumb-wrestling,\" what else would you expect?",
+  "duration": 438,
+  "event": "TEDGlobal 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/40481f04a70c005dee5931ee8cd19fe88a7ceb61_1600x1200.jpg",
+  "keywords": [
+    "entertainment",
+    "gaming",
+    "performance"
+  ],
+  "mainLanguage": null,
+  "objectID": 1866,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Funny": 362,
+    "Inspiring": 86,
+    "Unconvincing": 22,
+    "Longwinded": 6,
+    "Obnoxious": 21,
+    "Jaw-dropping": 5,
+    "Courageous": 16,
+    "Beautiful": 38,
+    "Ingenious": 68,
+    "Fascinating": 69,
+    "OK": 65,
+    "Persuasive": 19,
+    "Informative": 21,
+    "Confusing": 6
+  },
+  "slug": "jane_mcgonigal_massively_multi_player_thumb_wrestling",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/40481f04a70c005dee5931ee8cd19fe88a7ceb61_1600x1200.jpg?quality=89&w=600",
+  "title": "Massively multi-player… thumb-wrestling?",
+  "url": "https://www.ted.com/talks/jane_mcgonigal_massively_multi_player_thumb_wrestling",
+  "video": {
+    "low": "http://download.ted.com/talks/JaneMcGonigal_2013G-light.mp4",
+    "medium": "http://download.ted.com/talks/JaneMcGonigal_2013G.mp4",
+    "high": "http://download.ted.com/talks/JaneMcGonigal_2013G-480p.mp4"
+  },
+  "viewCount": 1107527,
+  "year": "2013"
+}

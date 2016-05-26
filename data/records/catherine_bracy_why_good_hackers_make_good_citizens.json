@@ -1,0 +1,46 @@
+{
+  "audio": "http://download.ted.com/talks/CatherineBracy_2013Z.mp3",
+  "author": "Catherine Bracy",
+  "dateFilmed": 1379635200,
+  "datePublished": 1393344420,
+  "description": "Hacking is about more than mischief-making or political subversion. As Catherine Bracy describes in this spirited talk, it can be just as much a force for good as it is for evil. She spins through some inspiring civically-minded projects in Honolulu, Oakland and Mexico City — and makes a compelling case that we all have what it takes to get involved.",
+  "duration": 590,
+  "event": "TEDCity2.0",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2f4141eee69cd374f05e8b955cce8219b678b1bb_1600x1200.jpg",
+  "keywords": [
+    "cities",
+    "software",
+    "urban planning"
+  ],
+  "mainLanguage": null,
+  "objectID": 1933,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 168,
+    "Inspiring": 192,
+    "Ingenious": 73,
+    "Fascinating": 55,
+    "Obnoxious": 22,
+    "Persuasive": 85,
+    "Unconvincing": 41,
+    "Confusing": 14,
+    "Longwinded": 13,
+    "OK": 61,
+    "Beautiful": 10,
+    "Courageous": 17,
+    "Funny": 20,
+    "Jaw-dropping": 4
+  },
+  "slug": "catherine_bracy_why_good_hackers_make_good_citizens",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2f4141eee69cd374f05e8b955cce8219b678b1bb_1600x1200.jpg?quality=89&w=600",
+  "title": "Why good hackers make good citizens",
+  "url": "https://www.ted.com/talks/catherine_bracy_why_good_hackers_make_good_citizens",
+  "video": {
+    "low": "http://download.ted.com/talks/CatherineBracy_2013Z-light.mp4",
+    "medium": "http://download.ted.com/talks/CatherineBracy_2013Z.mp4",
+    "high": "http://download.ted.com/talks/CatherineBracy_2013Z-480p.mp4"
+  },
+  "viewCount": 806340,
+  "year": "2013"
+}

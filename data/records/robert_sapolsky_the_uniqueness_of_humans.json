@@ -1,0 +1,51 @@
+{
+  "audio": null,
+  "author": "Robert Sapolsky",
+  "dateFilmed": 1252424400,
+  "datePublished": 1262961540,
+  "description": "At Stanford University, primatologist Robert Sapolsky offers a fascinating and funny look at human behaviors which the rest of the animal kingdom would consider bizarre.",
+  "duration": 2246,
+  "event": "Stanford University",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/140395_800x600.jpg",
+  "keywords": [
+    "biology",
+    "brain",
+    "humanity",
+    "life",
+    "mind",
+    "primates",
+    "psychology"
+  ],
+  "mainLanguage": null,
+  "objectID": 732,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "OK": 40,
+    "Fascinating": 540,
+    "Funny": 332,
+    "Persuasive": 159,
+    "Inspiring": 433,
+    "Informative": 513,
+    "Beautiful": 86,
+    "Jaw-dropping": 134,
+    "Ingenious": 133,
+    "Unconvincing": 8,
+    "Obnoxious": 9,
+    "Longwinded": 14,
+    "Confusing": 7,
+    "Courageous": 37
+  },
+  "slug": "robert_sapolsky_the_uniqueness_of_humans",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/140395_800x600.jpg?quality=89&w=600",
+  "title": "The uniqueness of humans",
+  "url": "https://www.ted.com/talks/robert_sapolsky_the_uniqueness_of_humans",
+  "video": {
+    "youtube": {
+      "id": "hrCVu25wQ5s",
+      "url": "http://www.youtube.com/watch?v=hrCVu25wQ5s"
+    }
+  },
+  "viewCount": 539541,
+  "year": "2009"
+}

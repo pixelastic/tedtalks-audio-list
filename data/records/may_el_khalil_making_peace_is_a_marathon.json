@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/MayElKhalil_2013G.mp3",
+  "author": "May El-Khalil",
+  "dateFilmed": 1371859200,
+  "datePublished": 1376665207,
+  "description": "In Lebanon there is one gunshot a year that isn’t part of a scene of routine violence: The opening sound of the Beirut International Marathon. In a moving talk, marathon founder May El-Khalil explains why she believed a 26.2-mile running event could bring together a country divided for decades by politics and religion, even if for one day a year.",
+  "duration": 616,
+  "event": "TEDGlobal 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/01fa1005062b164ab6a33e3ec6ffa6aeaff24ec5_1600x1200.jpg",
+  "keywords": [
+    "culture",
+    "global issues",
+    "sports",
+    "violence",
+    "war"
+  ],
+  "mainLanguage": null,
+  "objectID": 1812,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Inspiring": 319,
+    "Ingenious": 21,
+    "Beautiful": 100,
+    "Courageous": 176,
+    "Persuasive": 44,
+    "Fascinating": 38,
+    "Informative": 33,
+    "Longwinded": 5,
+    "OK": 22,
+    "Unconvincing": 16,
+    "Jaw-dropping": 18,
+    "Obnoxious": 2,
+    "Funny": 1,
+    "Confusing": 0
+  },
+  "slug": "may_el_khalil_making_peace_is_a_marathon",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/01fa1005062b164ab6a33e3ec6ffa6aeaff24ec5_1600x1200.jpg?quality=89&w=600",
+  "title": "Making peace is a marathon",
+  "url": "https://www.ted.com/talks/may_el_khalil_making_peace_is_a_marathon",
+  "video": {
+    "low": "http://download.ted.com/talks/MayElKhalil_2013G-light.mp4",
+    "medium": "http://download.ted.com/talks/MayElKhalil_2013G.mp4",
+    "high": "http://download.ted.com/talks/MayElKhalil_2013G-480p.mp4"
+  },
+  "viewCount": 5122490,
+  "year": "2013"
+}

@@ -1,0 +1,46 @@
+{
+  "audio": "http://download.ted.com/talks/HelderGuimaraes_2014.mp3",
+  "author": "Helder Guimarães",
+  "dateFilmed": 1395273600,
+  "datePublished": 1425052047,
+  "description": "Small coincidences. They happen all the time and yet, they pass us by because we are not looking for them. In a delightfully subtle trick, magician Helder Guimarães demonstrates with a deck of cards, a dollar bill and a stuffed giraffe. ",
+  "duration": 791,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/5baf6b19c99af03fc0c22e24297d2c256bd15b33_2880x1620.jpg",
+  "keywords": [
+    "entertainment",
+    "illusion",
+    "magic"
+  ],
+  "mainLanguage": null,
+  "objectID": 2206,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Longwinded": 39,
+    "Unconvincing": 35,
+    "Obnoxious": 15,
+    "Beautiful": 95,
+    "Funny": 295,
+    "Inspiring": 83,
+    "OK": 97,
+    "Confusing": 25,
+    "Ingenious": 174,
+    "Fascinating": 322,
+    "Jaw-dropping": 259,
+    "Persuasive": 19,
+    "Courageous": 18,
+    "Informative": 20
+  },
+  "slug": "helder_guimaraes_a_magical_search_for_a_coincidence",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/5baf6b19c99af03fc0c22e24297d2c256bd15b33_2880x1620.jpg?quality=89&w=600",
+  "title": "A magical search for a coincidence",
+  "url": "https://www.ted.com/talks/helder_guimaraes_a_magical_search_for_a_coincidence",
+  "video": {
+    "low": "http://download.ted.com/talks/HelderGuimaraes_2014-light.mp4",
+    "medium": "http://download.ted.com/talks/HelderGuimaraes_2014.mp4",
+    "high": "http://download.ted.com/talks/HelderGuimaraes_2014-480p.mp4"
+  },
+  "viewCount": 1626449,
+  "year": "2014"
+}

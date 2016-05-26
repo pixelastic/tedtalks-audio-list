@@ -1,0 +1,46 @@
+{
+  "audio": "http://download.ted.com/talks/RichBenjamin_2015W.mp3",
+  "author": "Rich Benjamin",
+  "dateFilmed": 1432771200,
+  "datePublished": 1439305198,
+  "description": "As America becomes more and more multicultural, Rich Benjamin noticed a phenomenon: Some communities were actually getting less diverse. So he got out a map, found the whitest towns in the USA -- and moved in. In this funny, honest, human talk, he shares what he learned as a black man in Whitopia.",
+  "duration": 781,
+  "event": "TEDWomen 2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7802bbe8ff8b26ff056292208bb50dadaa8e002e_2880x1620.jpg",
+  "keywords": [
+    "United States",
+    "culture",
+    "race"
+  ],
+  "mainLanguage": null,
+  "objectID": 2308,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Funny": 402,
+    "Informative": 312,
+    "Inspiring": 217,
+    "Fascinating": 189,
+    "Courageous": 295,
+    "Persuasive": 84,
+    "Confusing": 20,
+    "Unconvincing": 72,
+    "Obnoxious": 46,
+    "Ingenious": 37,
+    "Jaw-dropping": 9,
+    "OK": 78,
+    "Beautiful": 27,
+    "Longwinded": 27
+  },
+  "slug": "rich_benjamin_my_road_trip_through_the_whitest_towns_in_america",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7802bbe8ff8b26ff056292208bb50dadaa8e002e_2880x1620.jpg?quality=89&w=600",
+  "title": "My road trip through the whitest towns in America",
+  "url": "https://www.ted.com/talks/rich_benjamin_my_road_trip_through_the_whitest_towns_in_america",
+  "video": {
+    "low": "http://download.ted.com/talks/RichBenjamin_2015W-light.mp4",
+    "medium": "http://download.ted.com/talks/RichBenjamin_2015W.mp4",
+    "high": "http://download.ted.com/talks/RichBenjamin_2015W-480p.mp4"
+  },
+  "viewCount": 1656733,
+  "year": "2015"
+}

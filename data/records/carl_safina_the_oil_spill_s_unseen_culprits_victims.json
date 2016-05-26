@@ -1,0 +1,50 @@
+{
+  "audio": "http://download.ted.com/talks/CarlSafina_2010X.mp3",
+  "author": "Carl Safina",
+  "dateFilmed": 1277683200,
+  "datePublished": 1278926880,
+  "description": "Even as the Deepwater Horizon tragedy unfolded, Carl Safina took the stage at TEDxOilSpill to share what the facts were known at the time. In a blood-boiling cross-examination, he suggests that the consequences will stretch far beyond the Gulf -- and many so-called solutions are making the situation worse.",
+  "duration": 1195,
+  "event": "TEDxOilSpill",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/183128_800x600.jpg",
+  "keywords": [
+    "TEDx",
+    "disaster relief",
+    "energy",
+    "environment",
+    "oceans",
+    "oil",
+    "pollution"
+  ],
+  "mainLanguage": null,
+  "objectID": 914,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Persuasive": 382,
+    "Courageous": 330,
+    "Inspiring": 242,
+    "Jaw-dropping": 169,
+    "Fascinating": 74,
+    "Informative": 318,
+    "OK": 66,
+    "Obnoxious": 34,
+    "Longwinded": 57,
+    "Ingenious": 11,
+    "Unconvincing": 66,
+    "Beautiful": 41,
+    "Funny": 3,
+    "Confusing": 6
+  },
+  "slug": "carl_safina_the_oil_spill_s_unseen_culprits_victims",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/183128_800x600.jpg?quality=89&w=600",
+  "title": "The oil spill's unseen villains -- and victims",
+  "url": "https://www.ted.com/talks/carl_safina_the_oil_spill_s_unseen_culprits_victims",
+  "video": {
+    "low": "http://download.ted.com/talks/CarlSafina_2010X-light.mp4",
+    "medium": "http://download.ted.com/talks/CarlSafina_2010X.mp4",
+    "high": "http://download.ted.com/talks/CarlSafina_2010X-480p.mp4"
+  },
+  "viewCount": 529544,
+  "year": "2010"
+}

@@ -1,0 +1,61 @@
+{
+  "audio": "http://download.ted.com/talks/GeWang_2014X.mp3",
+  "author": "Ge Wang",
+  "dateFilmed": 1399680000,
+  "datePublished": 1403794042,
+  "description": "Ge Wang makes computer music, but it isn’t all about coded bleeps and blips. With the Stanford Laptop Orchestra, he creates new instruments out of unexpected materials—like an Ikea bowl—that allow musicians to play music that’s both beautiful and expressive. \r\n",
+  "duration": 1056,
+  "event": "TEDxStanford",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/37ac0f78df7d634eddc9d6d845a3b84f4441852f_2400x1800.jpg",
+  "keywords": [
+    "TEDx",
+    "music",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 2033,
+  "otherLanguages": {
+    "ar": "Arabic",
+    "bg": "Bulgarian",
+    "zh-tw": "Chinese, Traditional",
+    "en": "English",
+    "fr": "French",
+    "el": "Greek",
+    "it": "Italian",
+    "ja": "Japanese",
+    "ko": "Korean",
+    "pl": "Polish",
+    "pt-br": "Portuguese, Brazilian",
+    "ro": "Romanian",
+    "ru": "Russian",
+    "es": "Spanish",
+    "vi": "Vietnamese"
+  },
+  "ratings": {
+    "Beautiful": 206,
+    "Ingenious": 152,
+    "Inspiring": 248,
+    "Fascinating": 207,
+    "OK": 41,
+    "Informative": 88,
+    "Longwinded": 8,
+    "Jaw-dropping": 19,
+    "Funny": 37,
+    "Confusing": 8,
+    "Unconvincing": 7,
+    "Courageous": 5,
+    "Persuasive": 7,
+    "Obnoxious": 5
+  },
+  "slug": "ge_wang_the_diy_orchestra_of_the_future",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/37ac0f78df7d634eddc9d6d845a3b84f4441852f_2400x1800.jpg?quality=89&w=600",
+  "title": "The DIY orchestra of the future",
+  "url": "https://www.ted.com/talks/ge_wang_the_diy_orchestra_of_the_future",
+  "video": {
+    "low": "http://download.ted.com/talks/GeWang_2014X-light.mp4",
+    "medium": "http://download.ted.com/talks/GeWang_2014X.mp4",
+    "high": "http://download.ted.com/talks/GeWang_2014X-480p.mp4"
+  },
+  "viewCount": 1119764,
+  "year": "2014"
+}

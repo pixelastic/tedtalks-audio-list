@@ -1,0 +1,46 @@
+{
+  "audio": "http://download.ted.com/talks/RoxaneGay_2015W.mp3",
+  "author": "Roxane Gay",
+  "dateFilmed": 1432771200,
+  "datePublished": 1434986568,
+  "description": "When writer Roxane Gay dubbed herself a \"bad feminist,\" she was making a joke, acknowledging that she couldn't possibly live up to the demands for perfection of the feminist movement. But she's realized that the joke rang hollow. In a thoughtful and provocative talk, she asks us to embrace all flavors of feminism -- and make the small choices that, en masse, might lead to actual change.",
+  "duration": 688,
+  "event": "TEDWomen 2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/65b1ae4b5c831758b5ed12a91a5220325d616cf1_2880x1620.jpg",
+  "keywords": [
+    "feminism",
+    "identity",
+    "women"
+  ],
+  "mainLanguage": null,
+  "objectID": 2284,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 82,
+    "Inspiring": 481,
+    "Fascinating": 101,
+    "Beautiful": 172,
+    "Courageous": 297,
+    "Unconvincing": 35,
+    "Persuasive": 80,
+    "Funny": 134,
+    "Ingenious": 22,
+    "OK": 28,
+    "Longwinded": 10,
+    "Obnoxious": 30,
+    "Confusing": 18,
+    "Jaw-dropping": 2
+  },
+  "slug": "roxane_gay_confessions_of_a_bad_feminist",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/65b1ae4b5c831758b5ed12a91a5220325d616cf1_2880x1620.jpg?quality=89&w=600",
+  "title": "Confessions of a bad feminist",
+  "url": "https://www.ted.com/talks/roxane_gay_confessions_of_a_bad_feminist",
+  "video": {
+    "low": "http://download.ted.com/talks/RoxaneGay_2015W-light.mp4",
+    "medium": "http://download.ted.com/talks/RoxaneGay_2015W.mp4",
+    "high": "http://download.ted.com/talks/RoxaneGay_2015W-480p.mp4"
+  },
+  "viewCount": 1224310,
+  "year": "2015"
+}

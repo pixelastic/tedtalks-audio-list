@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/DanGilbert_2014U.mp3",
+  "author": "Dan Gilbert",
+  "dateFilmed": 1395100800,
+  "datePublished": 1401807363,
+  "description": "\"Human beings are works in progress that mistakenly think they're finished.\" Dan Gilbert shares recent research on a phenomenon he calls the \"end of history illusion,\" where we somehow imagine that the person we are right now is the person we'll be for the rest of time. Hint: that's not the case.",
+  "duration": 409,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/d7c5293df469e90b62ed7bfced793ed7f2bad6c2_1600x1200.jpg",
+  "keywords": [
+    "TED Brain Trust",
+    "TED Conference",
+    "culture",
+    "humanity",
+    "psychology"
+  ],
+  "mainLanguage": null,
+  "objectID": 2012,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Funny": 230,
+    "Informative": 1238,
+    "Fascinating": 900,
+    "Inspiring": 721,
+    "OK": 300,
+    "Persuasive": 485,
+    "Ingenious": 166,
+    "Jaw-dropping": 26,
+    "Beautiful": 124,
+    "Courageous": 41,
+    "Unconvincing": 43,
+    "Obnoxious": 16,
+    "Confusing": 47,
+    "Longwinded": 24
+  },
+  "slug": "dan_gilbert_you_are_always_changing",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/d7c5293df469e90b62ed7bfced793ed7f2bad6c2_1600x1200.jpg?quality=89&w=600",
+  "title": "The psychology of your future self",
+  "url": "https://www.ted.com/talks/dan_gilbert_you_are_always_changing",
+  "video": {
+    "low": "http://download.ted.com/talks/DanGilbert_2014U-light.mp4",
+    "medium": "http://download.ted.com/talks/DanGilbert_2014U.mp4",
+    "high": "http://download.ted.com/talks/DanGilbert_2014U-480p.mp4"
+  },
+  "viewCount": 2798705,
+  "year": "2014"
+}

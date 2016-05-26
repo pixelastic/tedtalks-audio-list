@@ -1,0 +1,51 @@
+{
+  "audio": "http://download.ted.com/talks/PeterVanManen_2013X.mp3",
+  "author": "Peter van Manen",
+  "dateFilmed": 1366243200,
+  "datePublished": 1375369665,
+  "description": "During a Formula 1 race, a car sends hundreds of millions of data points to its garage for real-time analysis and feedback. So why not use this detailed and rigorous data system elsewhere, like ... at children’s hospitals? Peter van Manen tells us more. (Filmed at TEDxNijmegen.)",
+  "duration": 476,
+  "event": "TEDxNijmegen",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/02f48c708b9fd49b9b05320ecfec5dd260b0c7a7_1600x1200.jpg",
+  "keywords": [
+    "TEDx",
+    "cars",
+    "children",
+    "data",
+    "health",
+    "medicine",
+    "sports",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 1802,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Courageous": 27,
+    "Inspiring": 123,
+    "Ingenious": 116,
+    "Persuasive": 37,
+    "Informative": 119,
+    "Jaw-dropping": 13,
+    "Fascinating": 91,
+    "OK": 47,
+    "Longwinded": 7,
+    "Beautiful": 22,
+    "Unconvincing": 8,
+    "Confusing": 4,
+    "Funny": 1,
+    "Obnoxious": 4
+  },
+  "slug": "peter_van_manen_how_can_formula_1_racing_help_babies",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/02f48c708b9fd49b9b05320ecfec5dd260b0c7a7_1600x1200.jpg?quality=89&w=600",
+  "title": "How can Formula 1 racing help ... babies?",
+  "url": "https://www.ted.com/talks/peter_van_manen_how_can_formula_1_racing_help_babies",
+  "video": {
+    "low": "http://download.ted.com/talks/PeterVanManen_2013X-light.mp4",
+    "medium": "http://download.ted.com/talks/PeterVanManen_2013X.mp4",
+    "high": "http://download.ted.com/talks/PeterVanManen_2013X-480p.mp4"
+  },
+  "viewCount": 749804,
+  "year": "2013"
+}

@@ -1,0 +1,50 @@
+{
+  "audio": "http://download.ted.com/talks/FransLanting_2014.mp3",
+  "author": "Frans Lanting",
+  "dateFilmed": 1394496000,
+  "datePublished": 1414595300,
+  "description": "Nature photographer Frans Lanting uses vibrant images to take us deep into the animal world. In this short, visual talk he calls for us to reconnect with other earthly creatures, and to shed the metaphorical skins that separate us from each other.",
+  "duration": 210,
+  "event": "TED2014",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/c64f378fc45c625e6da3c5a858216b23d5c431be_1920x1080.jpg",
+  "keywords": [
+    "animals",
+    "nature",
+    "photography"
+  ],
+  "mainLanguage": null,
+  "objectID": 2117,
+  "otherLanguages": {
+    "zh-tw": "Chinese, Traditional",
+    "es": "Spanish",
+    "sv": "Swedish",
+    "vi": "Vietnamese"
+  },
+  "ratings": {
+    "Beautiful": 519,
+    "Inspiring": 276,
+    "Fascinating": 164,
+    "Persuasive": 43,
+    "Informative": 49,
+    "Confusing": 6,
+    "Unconvincing": 27,
+    "OK": 46,
+    "Courageous": 11,
+    "Ingenious": 10,
+    "Jaw-dropping": 16,
+    "Obnoxious": 8,
+    "Longwinded": 5,
+    "Funny": 13
+  },
+  "slug": "frans_lanting_photos_that_give_voice_to_the_animal_kingdom",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/c64f378fc45c625e6da3c5a858216b23d5c431be_1920x1080.jpg?quality=89&w=600",
+  "title": "Photos that give voice to the animal kingdom",
+  "url": "https://www.ted.com/talks/frans_lanting_photos_that_give_voice_to_the_animal_kingdom",
+  "video": {
+    "low": "http://download.ted.com/talks/FransLanting_2014-light.mp4",
+    "medium": "http://download.ted.com/talks/FransLanting_2014.mp4",
+    "high": "http://download.ted.com/talks/FransLanting_2014-480p.mp4"
+  },
+  "viewCount": 1325372,
+  "year": "2014"
+}

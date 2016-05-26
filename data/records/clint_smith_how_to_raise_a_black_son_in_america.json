@@ -1,0 +1,49 @@
+{
+  "audio": "http://download.ted.com/talks/ClintSmith_2015.mp3",
+  "author": "Clint Smith",
+  "dateFilmed": 1425945600,
+  "datePublished": 1429801255,
+  "description": "As kids, we all get advice from parents and teachers that seems strange, even confusing. This was crystallized one night for a young Clint Smith, who was playing with water guns in a dark parking lot with his white friends. In a heartfelt piece, the poet paints the scene of his father's furious and fearful response.",
+  "duration": 312,
+  "event": "TED2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/6567a38b7f7f98a3ae10835b64ea06324f31a9e8_2880x1620.jpg",
+  "keywords": [
+    "education",
+    "inequality",
+    "poetry",
+    "race",
+    "social change",
+    "spoken word"
+  ],
+  "mainLanguage": null,
+  "objectID": 2240,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Fascinating": 301,
+    "Beautiful": 590,
+    "Courageous": 647,
+    "Inspiring": 775,
+    "Informative": 265,
+    "Persuasive": 184,
+    "Jaw-dropping": 109,
+    "Longwinded": 13,
+    "Unconvincing": 28,
+    "Obnoxious": 22,
+    "Ingenious": 36,
+    "OK": 57,
+    "Confusing": 10,
+    "Funny": 9
+  },
+  "slug": "clint_smith_how_to_raise_a_black_son_in_america",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/6567a38b7f7f98a3ae10835b64ea06324f31a9e8_2880x1620.jpg?quality=89&w=600",
+  "title": "How to raise a black son in America",
+  "url": "https://www.ted.com/talks/clint_smith_how_to_raise_a_black_son_in_america",
+  "video": {
+    "low": "http://download.ted.com/talks/ClintSmith_2015-light.mp4",
+    "medium": "http://download.ted.com/talks/ClintSmith_2015.mp4",
+    "high": "http://download.ted.com/talks/ClintSmith_2015-480p.mp4"
+  },
+  "viewCount": 1640859,
+  "year": "2015"
+}

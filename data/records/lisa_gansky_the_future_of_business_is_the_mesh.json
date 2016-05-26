@@ -1,0 +1,52 @@
+{
+  "audio": "http://download.ted.com/talks/LisaGansky_2011S.mp3",
+  "author": "Lisa Gansky",
+  "dateFilmed": 1294444800,
+  "datePublished": 1297958160,
+  "description": "Lisa Gansky, author of \"The Mesh,\" talks about a future of business that's about sharing all kinds of stuff, either via smart and tech-enabled rental or, more boldly, peer-to-peer. Examples across industries -- from music to cars -- show how close we are to this meshy future.",
+  "duration": 887,
+  "event": "TED@MotorCity",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/238f71d5fa06084dcafa573a891af68d4e5ce088_800x600.jpg",
+  "keywords": [
+    "business",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 1077,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified",
+    "fr": "French",
+    "de": "German",
+    "ko": "Korean",
+    "es": "Spanish",
+    "th": "Thai",
+    "vi": "Vietnamese"
+  },
+  "ratings": {
+    "Jaw-dropping": 7,
+    "Inspiring": 136,
+    "Informative": 192,
+    "OK": 61,
+    "Unconvincing": 37,
+    "Confusing": 18,
+    "Longwinded": 37,
+    "Persuasive": 65,
+    "Fascinating": 49,
+    "Ingenious": 42,
+    "Beautiful": 7,
+    "Obnoxious": 7,
+    "Courageous": 13,
+    "Funny": 8
+  },
+  "slug": "lisa_gansky_the_future_of_business_is_the_mesh",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/238f71d5fa06084dcafa573a891af68d4e5ce088_800x600.jpg?quality=89&w=600",
+  "title": "The future of business is the \"mesh\"",
+  "url": "https://www.ted.com/talks/lisa_gansky_the_future_of_business_is_the_mesh",
+  "video": {
+    "low": "http://download.ted.com/talks/LisaGansky_2011S-light.mp4",
+    "medium": "http://download.ted.com/talks/LisaGansky_2011S.mp4",
+    "high": "http://download.ted.com/talks/LisaGansky_2011S-480p.mp4"
+  },
+  "viewCount": 669099,
+  "year": "2011"
+}

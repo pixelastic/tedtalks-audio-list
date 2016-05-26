@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/CharlesRobertson_2013G.mp3",
+  "author": "Charles Robertson",
+  "dateFilmed": 1371081600,
+  "datePublished": 1382454693,
+  "description": "The past decade has seen slow and steady economic growth across the continent of Africa. But economist Charles Robertson has a bold thesis: Africa's about to boom. He talks through a few of the indicators -- from rising education levels to expanded global investment (and not just from China) -- that lead him to predict rapid growth for a billion people, sooner than you may think.",
+  "duration": 693,
+  "event": "TEDGlobal 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8296cc7fc34989e7d5f7f86e7ba5dac8dc819d92_1600x1200.jpg",
+  "keywords": [
+    "Africa",
+    "business",
+    "economics",
+    "global issues"
+  ],
+  "mainLanguage": null,
+  "objectID": 1851,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Persuasive": 92,
+    "Informative": 175,
+    "Fascinating": 59,
+    "Unconvincing": 56,
+    "OK": 58,
+    "Inspiring": 93,
+    "Ingenious": 12,
+    "Courageous": 13,
+    "Jaw-dropping": 11,
+    "Confusing": 7,
+    "Obnoxious": 12,
+    "Beautiful": 11,
+    "Longwinded": 9,
+    "Funny": 3
+  },
+  "slug": "charles_robertson_africa_s_next_boom",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8296cc7fc34989e7d5f7f86e7ba5dac8dc819d92_1600x1200.jpg?quality=89&w=600",
+  "title": "Africa's next boom",
+  "url": "https://www.ted.com/talks/charles_robertson_africa_s_next_boom",
+  "video": {
+    "low": "http://download.ted.com/talks/CharlesRobertson_2013G-light.mp4",
+    "medium": "http://download.ted.com/talks/CharlesRobertson_2013G.mp4",
+    "high": "http://download.ted.com/talks/CharlesRobertson_2013G-480p.mp4"
+  },
+  "viewCount": 1140662,
+  "year": "2013"
+}

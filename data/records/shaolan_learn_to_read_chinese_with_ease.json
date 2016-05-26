@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/ShaoLanHsueh_2013.mp3",
+  "author": "ShaoLan",
+  "dateFilmed": 1361836800,
+  "datePublished": 1367939611,
+  "description": "For foreigners, learning to speak Chinese is a hard task. But learning to read the beautiful, often complex characters of the Chinese written language may be less difficult. ShaoLan walks through a simple lesson in recognizing the ideas behind the characters and their meaning -- building from a few simple forms to more complex concepts. Call it Chineasy.",
+  "duration": 370,
+  "event": "TED2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/91b42e8a74f59f75954b01a84b7c2c64799cf71e_1600x1200.jpg",
+  "keywords": [
+    "TED Conference",
+    "china",
+    "education",
+    "language"
+  ],
+  "mainLanguage": null,
+  "objectID": 1736,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Ingenious": 539,
+    "Funny": 389,
+    "Informative": 777,
+    "Fascinating": 470,
+    "Inspiring": 330,
+    "Beautiful": 150,
+    "Jaw-dropping": 92,
+    "Persuasive": 94,
+    "Courageous": 25,
+    "Unconvincing": 39,
+    "Obnoxious": 26,
+    "OK": 78,
+    "Confusing": 12,
+    "Longwinded": 6
+  },
+  "slug": "shaolan_learn_to_read_chinese_with_ease",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/91b42e8a74f59f75954b01a84b7c2c64799cf71e_1600x1200.jpg?quality=89&w=600",
+  "title": "Learn to read Chinese ... with ease!",
+  "url": "https://www.ted.com/talks/shaolan_learn_to_read_chinese_with_ease",
+  "video": {
+    "low": "http://download.ted.com/talks/ShaoLanHsueh_2013-light.mp4",
+    "medium": "http://download.ted.com/talks/ShaoLanHsueh_2013.mp4",
+    "high": "http://download.ted.com/talks/ShaoLanHsueh_2013-480p.mp4"
+  },
+  "viewCount": 2688119,
+  "year": "2013"
+}

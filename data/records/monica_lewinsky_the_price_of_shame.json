@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/MonicaLewinsky_2015.mp3",
+  "author": "Monica Lewinsky",
+  "dateFilmed": 1426723200,
+  "datePublished": 1426894031,
+  "description": "\"Public shaming as a blood sport has to stop,\" says Monica Lewinsky. In 1998, she says, “I was Patient Zero of losing a personal reputation on a global scale almost instantaneously.” Today, the kind of online public shaming she went through has become constant -- and can turn deadly. In a brave talk, she takes a hard look at our online culture of humiliation, and asks for a different way.",
+  "duration": 1346,
+  "event": "TED2015",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7adb146402a457282081af7f165e3912e6bab151_2880x1620.jpg",
+  "keywords": [
+    "communication",
+    "media",
+    "social media",
+    "suicide",
+    "technology"
+  ],
+  "mainLanguage": null,
+  "objectID": 2217,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Courageous": 7579,
+    "Informative": 2046,
+    "Ingenious": 175,
+    "Jaw-dropping": 264,
+    "Unconvincing": 158,
+    "Inspiring": 4424,
+    "Persuasive": 1662,
+    "Beautiful": 1369,
+    "Funny": 124,
+    "Longwinded": 137,
+    "OK": 276,
+    "Fascinating": 492,
+    "Obnoxious": 171,
+    "Confusing": 53
+  },
+  "slug": "monica_lewinsky_the_price_of_shame",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7adb146402a457282081af7f165e3912e6bab151_2880x1620.jpg?quality=89&w=600",
+  "title": "The price of shame",
+  "url": "https://www.ted.com/talks/monica_lewinsky_the_price_of_shame",
+  "video": {
+    "low": "http://download.ted.com/talks/MonicaLewinsky_2015-light.mp4",
+    "medium": "http://download.ted.com/talks/MonicaLewinsky_2015.mp4",
+    "high": "http://download.ted.com/talks/MonicaLewinsky_2015-480p.mp4"
+  },
+  "viewCount": 8197090,
+  "year": "2015"
+}

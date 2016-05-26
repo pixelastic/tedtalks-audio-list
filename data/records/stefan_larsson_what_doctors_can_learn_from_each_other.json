@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/StefanLarsson_2013S.mp3",
+  "author": "Stefan Larsson",
+  "dateFilmed": 1381363200,
+  "datePublished": 1384444805,
+  "description": "Different hospitals produce different results on different procedures. Only, patients don’t know that data, making choosing a surgeon a high-stakes guessing game. Stefan Larsson looks at what happens when doctors measure and share their outcomes on hip replacement surgery, for example, to see which techniques are proving the most effective. Could health care get better -- and cheaper -- if doctors learn from each other in a continuous feedback loop?",
+  "duration": 776,
+  "event": "TED@BCG Singapore",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/1a0462e7dfad0c4e30f5e2c74dfb31673e376b80_1600x1200.jpg",
+  "keywords": [
+    "health",
+    "health care",
+    "medical research",
+    "public health"
+  ],
+  "mainLanguage": null,
+  "objectID": 1873,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Jaw-dropping": 12,
+    "Persuasive": 143,
+    "Inspiring": 130,
+    "Informative": 113,
+    "Fascinating": 53,
+    "Ingenious": 27,
+    "Courageous": 30,
+    "Unconvincing": 2,
+    "OK": 24,
+    "Longwinded": 6,
+    "Funny": 1,
+    "Beautiful": 4,
+    "Obnoxious": 4,
+    "Confusing": 4
+  },
+  "slug": "stefan_larsson_what_doctors_can_learn_from_each_other",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/1a0462e7dfad0c4e30f5e2c74dfb31673e376b80_1600x1200.jpg?quality=89&w=600",
+  "title": "What doctors can learn from each other",
+  "url": "https://www.ted.com/talks/stefan_larsson_what_doctors_can_learn_from_each_other",
+  "video": {
+    "low": "http://download.ted.com/talks/StefanLarsson_2013S-light.mp4",
+    "medium": "http://download.ted.com/talks/StefanLarsson_2013S.mp4",
+    "high": "http://download.ted.com/talks/StefanLarsson_2013S-480p.mp4"
+  },
+  "viewCount": 823546,
+  "year": "2013"
+}

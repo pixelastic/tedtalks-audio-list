@@ -1,0 +1,47 @@
+{
+  "audio": "http://download.ted.com/talks/PeterDoolittle_2013G.mp3",
+  "author": "Peter Doolittle",
+  "dateFilmed": 1370822400,
+  "datePublished": 1385136008,
+  "description": "\"Life comes at us very quickly, and what we need to do is take that amorphous flow of experience and somehow extract meaning from it.\" In this funny, enlightening talk, educational psychologist Peter Doolittle details the importance -- and limitations -- of your \"working memory,\" that part of the brain that allows us to make sense of what's happening right now.",
+  "duration": 569,
+  "event": "TEDGlobal 2013",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7692ecf91a7087707fff42960dded4b419864826_1600x1200.jpg",
+  "keywords": [
+    "brain",
+    "education",
+    "memory",
+    "science"
+  ],
+  "mainLanguage": null,
+  "objectID": 1878,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Persuasive": 139,
+    "Fascinating": 205,
+    "Funny": 204,
+    "Informative": 509,
+    "Ingenious": 55,
+    "Unconvincing": 35,
+    "Confusing": 12,
+    "Longwinded": 20,
+    "Jaw-dropping": 8,
+    "Inspiring": 183,
+    "OK": 125,
+    "Courageous": 8,
+    "Beautiful": 41,
+    "Obnoxious": 1
+  },
+  "slug": "peter_doolittle_how_your_working_memory_makes_sense_of_the_world",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7692ecf91a7087707fff42960dded4b419864826_1600x1200.jpg?quality=89&w=600",
+  "title": "How your \"working memory\" makes sense of the world",
+  "url": "https://www.ted.com/talks/peter_doolittle_how_your_working_memory_makes_sense_of_the_world",
+  "video": {
+    "low": "http://download.ted.com/talks/PeterDoolittle_2013G-light.mp4",
+    "medium": "http://download.ted.com/talks/PeterDoolittle_2013G.mp4",
+    "high": "http://download.ted.com/talks/PeterDoolittle_2013G-480p.mp4"
+  },
+  "viewCount": 1842723,
+  "year": "2013"
+}

@@ -1,0 +1,47 @@
+{
+  "audio": null,
+  "author": "David Anderson",
+  "dateFilmed": 1358467200,
+  "datePublished": 1363100515,
+  "description": "Modern psychiatric drugs treat the chemistry of the whole brain, but neurobiologist David Anderson believes in a more nuanced view of how the brain functions. He illuminates new research that could lead to targeted psychiatric medications -- that work better and avoid side effects. How's he doing it? For a start, by making a bunch of fruit flies angry. (Filmed at TEDxCaltech.)",
+  "duration": 925,
+  "event": "TEDxCaltech",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/fa49d98edc6c1a1a5732ba2aeaac2e1f15ac3ac2_1600x1200.jpg",
+  "keywords": [
+    "TEDx",
+    "brain",
+    "insects",
+    "neuroscience"
+  ],
+  "mainLanguage": null,
+  "objectID": 1689,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "OK": 35,
+    "Informative": 444,
+    "Ingenious": 203,
+    "Fascinating": 305,
+    "Courageous": 22,
+    "Inspiring": 120,
+    "Jaw-dropping": 73,
+    "Funny": 21,
+    "Persuasive": 152,
+    "Obnoxious": 3,
+    "Confusing": 6,
+    "Beautiful": 7,
+    "Unconvincing": 16,
+    "Longwinded": 8
+  },
+  "slug": "david_anderson_your_brain_is_more_than_a_bag_of_chemicals",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/fa49d98edc6c1a1a5732ba2aeaac2e1f15ac3ac2_1600x1200.jpg?quality=89&w=600",
+  "title": "Your brain is more than a bag of chemicals",
+  "url": "https://www.ted.com/talks/david_anderson_your_brain_is_more_than_a_bag_of_chemicals",
+  "video": {
+    "low": "http://download.ted.com/talks/DavidAnderson_2013X-light.mp4",
+    "medium": "http://download.ted.com/talks/DavidAnderson_2013X.mp4",
+    "high": "http://download.ted.com/talks/DavidAnderson_2013X-480p.mp4"
+  },
+  "viewCount": 1229048,
+  "year": "2013"
+}

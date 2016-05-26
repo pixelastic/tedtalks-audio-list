@@ -1,0 +1,50 @@
+{
+  "audio": null,
+  "author": "Pilobolus",
+  "dateFilmed": 1109289600,
+  "datePublished": 1170979860,
+  "description": "Two Pilobolus dancers perform \"Symbiosis.\" Does it trace the birth of a relationship? Or the co-evolution of symbiotic species? Music: \"God Music,\" George Crumb; \"Fratres,\" Arvo Part; \"Morango…Almost a Tango,\" Thomas Oboe Lee.",
+  "duration": 825,
+  "event": "TED2005",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/22_480x360.jpg",
+  "keywords": [
+    "TED Conference",
+    "arts",
+    "dance",
+    "entertainment",
+    "nature",
+    "performance",
+    "science"
+  ],
+  "mainLanguage": null,
+  "objectID": 24,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 1780,
+    "Courageous": 140,
+    "Ingenious": 416,
+    "Informative": 15,
+    "Confusing": 48,
+    "Unconvincing": 21,
+    "Longwinded": 58,
+    "Inspiring": 521,
+    "Fascinating": 828,
+    "Funny": 21,
+    "Jaw-dropping": 2000,
+    "Persuasive": 25,
+    "OK": 80,
+    "Obnoxious": 22
+  },
+  "slug": "pilobolus_perform_symbiosis",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/22_480x360.jpg?quality=89&w=600",
+  "title": "A dance of \"Symbiosis\"",
+  "url": "https://www.ted.com/talks/pilobolus_perform_symbiosis",
+  "video": {
+    "low": "http://download.ted.com/talks/Pilobulos_Symbiosis_2005-light.mp4",
+    "medium": "http://download.ted.com/talks/Pilobulos_Symbiosis_2005.mp4",
+    "high": "http://download.ted.com/talks/Pilobulos_Symbiosis_2005-480p.mp4"
+  },
+  "viewCount": 2813943,
+  "year": "2005"
+}

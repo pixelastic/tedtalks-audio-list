@@ -1,0 +1,51 @@
+{
+  "audio": "http://download.ted.com/talks/NoraYork_WhatIWant_2006S.mp3",
+  "author": "Nora York",
+  "dateFilmed": 1166054400,
+  "datePublished": 1175731860,
+  "description": "Nora York gives a stunning performance of her song \"What I Want,\" with Jamie Lawrence (keyboards), Steve Tarshis (guitar) and Arthur Kell (bass). ",
+  "duration": 276,
+  "event": "TEDSalon 2006",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/452_800x600.jpg",
+  "keywords": [
+    "arts",
+    "entertainment",
+    "live music",
+    "music",
+    "poetry",
+    "singer"
+  ],
+  "mainLanguage": null,
+  "objectID": 81,
+  "otherLanguages": {
+    "my": "Burmese",
+    "tr": "Turkish"
+  },
+  "ratings": {
+    "Beautiful": 105,
+    "Courageous": 20,
+    "Unconvincing": 20,
+    "Ingenious": 14,
+    "Inspiring": 68,
+    "Informative": 2,
+    "Jaw-dropping": 15,
+    "Fascinating": 34,
+    "Persuasive": 4,
+    "OK": 29,
+    "Funny": 9,
+    "Confusing": 6,
+    "Obnoxious": 9,
+    "Longwinded": 3
+  },
+  "slug": "nora_york_sings_what_i_want",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/452_800x600.jpg?quality=89&w=600",
+  "title": "Singing \"What I Want\"",
+  "url": "https://www.ted.com/talks/nora_york_sings_what_i_want",
+  "video": {
+    "low": "http://download.ted.com/talks/NoraYork_WhatIWant_2006S-light.mp4",
+    "medium": "http://download.ted.com/talks/NoraYork_WhatIWant_2006S.mp4",
+    "high": "http://download.ted.com/talks/NoraYork_WhatIWant_2006S-480p.mp4"
+  },
+  "viewCount": 356143,
+  "year": "2006"
+}

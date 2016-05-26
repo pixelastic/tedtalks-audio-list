@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/SallyKohn_2013S.mp3",
+  "author": "Sally Kohn",
+  "dateFilmed": 1381708800,
+  "datePublished": 1386173154,
+  "description": "It's time for liberals and conservatives to transcend their political differences and really listen to each other, says political pundit Sally Kohn. In this optimistic talk, Kohn shares what she learned as a progressive lesbian talking head on Fox News. It’s not about political correctness, she says, but rather, emotional correctness. (Contains profanity.)",
+  "duration": 359,
+  "event": "TED@NYC",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/3fa1ecfb3e36fe94a599229a97c832abae4634ca_1600x1200.jpg",
+  "keywords": [
+    "entertainment",
+    "journalism",
+    "media",
+    "news",
+    "politics"
+  ],
+  "mainLanguage": null,
+  "objectID": 1883,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Beautiful": 205,
+    "Courageous": 286,
+    "Inspiring": 655,
+    "Persuasive": 383,
+    "OK": 108,
+    "Fascinating": 63,
+    "Informative": 125,
+    "Funny": 144,
+    "Ingenious": 48,
+    "Unconvincing": 58,
+    "Obnoxious": 22,
+    "Longwinded": 5,
+    "Confusing": 16,
+    "Jaw-dropping": 11
+  },
+  "slug": "sally_kohn_let_s_try_emotional_correctness",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/3fa1ecfb3e36fe94a599229a97c832abae4634ca_1600x1200.jpg?quality=89&w=600",
+  "title": "Let’s try emotional correctness",
+  "url": "https://www.ted.com/talks/sally_kohn_let_s_try_emotional_correctness",
+  "video": {
+    "low": "http://download.ted.com/talks/SallyKohn_2013S-light.mp4",
+    "medium": "http://download.ted.com/talks/SallyKohn_2013S.mp4",
+    "high": "http://download.ted.com/talks/SallyKohn_2013S-480p.mp4"
+  },
+  "viewCount": 1598527,
+  "year": "2013"
+}

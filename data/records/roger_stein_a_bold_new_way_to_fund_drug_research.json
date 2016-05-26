@@ -1,0 +1,49 @@
+{
+  "audio": "http://download.ted.com/talks/RogerStein_2013S.mp3",
+  "author": "Roger Stein",
+  "dateFilmed": 1383696000,
+  "datePublished": 1389110427,
+  "description": "Believe it or not, about 20 years' worth of potentially life-saving drugs are sitting in labs right now, untested. Why? Because they can't get the funding to go to trials; the financial risk is too high. Roger Stein is a finance guy, and he thinks deeply about mitigating risk. He and some colleagues at MIT came up with a promising new financial model that could move hundreds of drugs into the testing pipeline. (Filmed at TED@StateStreet.)",
+  "duration": 669,
+  "event": "TED@State Street Boston",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/568bf460212248807e5acde5f149bd29c1307c2a_1600x1200.jpg",
+  "keywords": [
+    "business",
+    "cancer",
+    "finance",
+    "medical research",
+    "medicine"
+  ],
+  "mainLanguage": null,
+  "objectID": 1901,
+  "otherLanguages": {
+    "zh-cn": "Chinese, Simplified"
+  },
+  "ratings": {
+    "Informative": 183,
+    "Courageous": 40,
+    "Inspiring": 103,
+    "Persuasive": 230,
+    "Ingenious": 555,
+    "Fascinating": 78,
+    "OK": 20,
+    "Unconvincing": 10,
+    "Funny": 13,
+    "Jaw-dropping": 43,
+    "Longwinded": 2,
+    "Beautiful": 9,
+    "Confusing": 4,
+    "Obnoxious": 2
+  },
+  "slug": "roger_stein_a_bold_new_way_to_fund_drug_research",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/568bf460212248807e5acde5f149bd29c1307c2a_1600x1200.jpg?quality=89&w=600",
+  "title": "A bold new way to fund drug research",
+  "url": "https://www.ted.com/talks/roger_stein_a_bold_new_way_to_fund_drug_research",
+  "video": {
+    "low": "http://download.ted.com/talks/RogerStein_2013S-light.mp4",
+    "medium": "http://download.ted.com/talks/RogerStein_2013S.mp4",
+    "high": "http://download.ted.com/talks/RogerStein_2013S-480p.mp4"
+  },
+  "viewCount": 870215,
+  "year": "2013"
+}

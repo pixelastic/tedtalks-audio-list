@@ -1,0 +1,47 @@
+{
+  "audio": null,
+  "author": "Mohamed Hijri",
+  "dateFilmed": 1380758400,
+  "datePublished": 1383058948,
+  "description": "Biologist Mohamed Hijri brings to light a farming crisis no one is talking about: We are running out of phosphorus, an essential element that's a key component of DNA and the basis of cellular communication. All roads of this crisis lead back to how we farm -- with chemical fertilizers chock-full of the element, which plants are not efficient at absorbing. One solution? Perhaps … a microscopic mushroom.  (Filmed at TEDxUdeM.)",
+  "duration": 821,
+  "event": "TEDxUdeM",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/744576a78f9205a018c41fc80d90bce312a09987_1600x1200.jpg",
+  "keywords": [
+    "TEDx",
+    "agriculture",
+    "biology",
+    "food"
+  ],
+  "mainLanguage": null,
+  "objectID": 1783,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 174,
+    "Persuasive": 82,
+    "Ingenious": 54,
+    "OK": 23,
+    "Fascinating": 73,
+    "Inspiring": 28,
+    "Confusing": 5,
+    "Jaw-dropping": 22,
+    "Courageous": 2,
+    "Longwinded": 12,
+    "Unconvincing": 5,
+    "Obnoxious": 2,
+    "Beautiful": 1,
+    "Funny": 0
+  },
+  "slug": "mohamed_hijri_a_simple_solution_to_the_coming_phosphorus_crisis",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/744576a78f9205a018c41fc80d90bce312a09987_1600x1200.jpg?quality=89&w=600",
+  "title": "A simple solution to the coming phosphorus crisis",
+  "url": "https://www.ted.com/talks/mohamed_hijri_a_simple_solution_to_the_coming_phosphorus_crisis",
+  "video": {
+    "low": "http://download.ted.com/talks/MohamedHijiri_2013X-light.mp4",
+    "medium": "http://download.ted.com/talks/MohamedHijiri_2013X.mp4",
+    "high": "http://download.ted.com/talks/MohamedHijiri_2013X-480p.mp4"
+  },
+  "viewCount": 586816,
+  "year": "2013"
+}

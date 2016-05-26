@@ -1,0 +1,48 @@
+{
+  "audio": "http://download.ted.com/talks/SamuelCohen_2015S.mp3",
+  "author": "Samuel Cohen",
+  "dateFilmed": 1435622400,
+  "datePublished": 1443459039,
+  "description": "More than 40 million people worldwide suffer from Alzheimer's disease, and that number is expected to increase drastically in the coming years. But no real progress has been made in the fight against the disease since its classification more than 100 years ago. Scientist Samuel Cohen shares a new breakthrough in Alzheimer's research from his lab as well as a message of hope. \"Alzheimer's is a disease,\" Cohen says, \"and we can cure it.\"",
+  "duration": 473,
+  "event": "TED@BCG London",
+  "image": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/621f9027fc1cc0c16483d6cb752bc2d9ed9b81a3_2880x1620.jpg",
+  "keywords": [
+    "aging",
+    "health",
+    "medical research",
+    "medicine",
+    "neuroscience"
+  ],
+  "mainLanguage": null,
+  "objectID": 2340,
+  "otherLanguages": {
+  },
+  "ratings": {
+    "Informative": 500,
+    "Inspiring": 275,
+    "Persuasive": 224,
+    "Courageous": 52,
+    "Beautiful": 18,
+    "Fascinating": 94,
+    "Ingenious": 22,
+    "Unconvincing": 16,
+    "OK": 57,
+    "Jaw-dropping": 19,
+    "Confusing": 4,
+    "Longwinded": 3,
+    "Obnoxious": 1,
+    "Funny": 3
+  },
+  "slug": "samuel_cohen_alzheimer_s_is_not_normal_aging_and_we_can_cure_it",
+  "thumbnail": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/621f9027fc1cc0c16483d6cb752bc2d9ed9b81a3_2880x1620.jpg?quality=89&w=600",
+  "title": "Alzheimer's is not normal aging — and we can cure it",
+  "url": "https://www.ted.com/talks/samuel_cohen_alzheimer_s_is_not_normal_aging_and_we_can_cure_it",
+  "video": {
+    "low": "http://download.ted.com/talks/SamuelCohen_2015S-light.mp4",
+    "medium": "http://download.ted.com/talks/SamuelCohen_2015S.mp4",
+    "high": "http://download.ted.com/talks/SamuelCohen_2015S-480p.mp4"
+  },
+  "viewCount": 1204190,
+  "year": "2015"
+}
